@@ -134,10 +134,49 @@ for meta_p in sorted(T2.glob("title-*/*.metadata.json")):
         "retrieved_at": meta["retrieved_at"], "sha256": meta["integrity_sha256"],
         "source_file_path": str(xml_p.relative_to(ROOT)), "last_verified_at": meta["retrieved_at"], "is_current": True})
 
+# ---------- Tier 3: Missouri RSMo via Legal Data Hunter (second-hand copy of revisor.mo.gov) ----------
+for mo_dir in sorted(ROOT.glob("02_raw/mo-rsmo-*")):
+    edition = "LDH US/MO-Legislation " + mo_dir.name.split("-")[-3] + "-" + mo_dir.name.split("-")[-2] + "-" + mo_dir.name.split("-")[-1]
+    for meta_p in sorted(mo_dir.glob("MO-RSMO-*.metadata.json")):
+        meta = json.loads(meta_p.read_text()); key = meta_p.name.replace(".metadata.json", "")
+        raw_p, txt_p = meta_p.with_name(f"{key}.json"), meta_p.with_name(f"{key}.txt")
+        c = {"tier": 3, "source_file_exists": raw_p.exists(), "text_exists": txt_p.exists(), "metadata_exists": True}
+        if not (raw_p.exists() and txt_p.exists()):
+            review.append({"section": key, "reason": "missing artifacts"}); report.append({"section": key, "status": "FAIL", **c}); continue
+        c["sha256_matches_metadata"] = hashlib.sha256(raw_p.read_bytes()).hexdigest() == meta["integrity_sha256"]
+        c["has_official_url"] = bool(meta.get("official_url")); c["has_retrieved_at"] = bool(meta.get("retrieved_at"))
+        text = txt_p.read_text()
+        lines = text.split("\n")
+        hist_i = next((i for i, l in enumerate(lines) if re.match(r"^\((?:L\.|RSMo)", l)), None)
+        body = "\n".join(lines[:hist_i] if hist_i is not None else lines).strip()
+        credit = lines[hist_i].strip() if hist_i is not None else ""
+        notes = "\n".join(lines[hist_i + 1:]).strip() if hist_i is not None else ""
+        c["heading_identified"] = body.startswith(meta["section_number"])
+        c["body_nonempty"] = len(body) > 50; c["source_credit_identified"] = bool(credit)
+        subs = re.findall(r"^\s*(\d{1,2})\.\s", body, re.M)
+        c["subsection_order_preserved"] = [int(s) for s in subs] == sorted(int(s) for s in subs)
+        c["chapter_grouping_present"] = bool(meta.get("chapter_number"))
+        c["version_flag_recorded"] = True
+        failed = [k for k, v in c.items() if v is False]
+        report.append({"section": key, "status": "PASS" if not failed else "FAIL", **c})
+        if failed: review.append({"section": key, "reason": "failed: " + ", ".join(failed)})
+        for flag in meta.get("flags", []):
+            review.append({"section": key, "reason": f"version: {flag}; history {meta.get('history_text')}; {meta.get('effective_date_note') or ''}. "
+                                                    "Second-hand capture; confirm the version in force on the relevant date at the official URL."})
+        eff = meta.get("effective_date_note") or ""
+        rows.append({"section_id": key, "jurisdiction": "missouri", "title_number": meta["chapter_number"],
+            "title_name": "", "chapter_number": meta["chapter_number"], "chapter_name": "",
+            "section_number": meta["section_number"], "catchline": meta["catchline"], "verbatim_text": body,
+            "source_credit": credit, "notes_text": notes, "effective_date_note": eff, "status": meta["status"],
+            "positive_law_title": "", "official_url": meta["official_url"], "bulk_source_url": "",
+            "source_edition": edition, "retrieved_at": meta["retrieved_at"], "sha256": meta["integrity_sha256"],
+            "source_file_path": str(raw_p.relative_to(ROOT)), "last_verified_at": meta["retrieved_at"],
+            "is_current": not any("FUTURE" in f for f in meta.get("flags", []))})
+
 # ---------- Cross-check: two official sources must agree on the cited sections ----------
 strip_labels = lambda s: re.sub(r"\(\w{1,4}\)\s*", "", s)
 strip_footnotes = lambda s: re.sub(r"\s*So in original\.(\s*(?:Probably|The|Comma|Section|Words?)[^.]*\.)?\s*", " ", s)
-t1 = {r["section_id"]: r for r in rows if not r["is_current"]}
+t1 = {r["section_id"]: r for r in rows if not r["is_current"] and r["jurisdiction"] == "federal"}
 t2 = {r["section_id"]: r for r in rows if r["is_current"]}
 xcheck = []
 for k, a_row in t1.items():
@@ -150,6 +189,12 @@ for k, a_row in t1.items():
 write(OUT / "03_usc_sections.csv", rows, FIELDS)
 write(OUT / "03_validation_report.csv", report)
 write(OUT / "03_tier1_vs_tier2_crosscheck.csv", xcheck)
+mo_map = ROOT / "01_source_map" / "01_mo_rsmo_source_map.csv"
+if mo_map.exists():
+    captured = {r["section_number"] for r in rows if r["jurisdiction"] == "missouri"}
+    for r in csv.DictReader(open(mo_map)):
+        if r["section_number"] not in captured:
+            review.append({"section": f"MO-RSMO-{r['section_number']}", "reason": "in Missouri source map but not captured (connector quota or fetch failure); re-run scripts/mo_from_ldh.py after re-fetch"})
 write(OUT / "needs_review.csv", review)
 fails = [r for r in report if r["status"] == "FAIL"]
 print(f"{len(rows)} rows ({len(t2)} current OLRC + {len(t1)} govinfo audit copies); {len(fails)} FAIL; {len(review)} need review")

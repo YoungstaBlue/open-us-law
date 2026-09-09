@@ -1,0 +1,21 @@
+{
+ "section_id": "MO-RSMO-516.140",
+ "jurisdiction": "missouri",
+ "section": "RSMo § 516.140",
+ "chapter_number": "516",
+ "section_number": "516.140",
+ "catchline": "What actions within two years",
+ "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.140",
+ "history_text": "(RSMo 1939 § 1016, A.L. 1945 p. 644, A.L. 1976 S.B. 470, A.L. 1985 H.B. 225, A.L. 2014 H.B. 1231)",
+ "effective_date_note": null,
+ "source_type": "Legal Data Hunter MCP, source US/MO-Legislation (\"Missouri Revised Statutes\", tier 1, 29,622 documents, document date field 2025-01-01; section texts carry 2025 and 2026 session-law history, so the underlying capture is later than the date field). Retrieved via get_document(include_full_text=true). Second-hand copy of revisor.mo.gov; not a direct fetch of the official site.",
+ "source_record_date": "2025-01-01",
+ "retrieved_at": "2026-09-09T07:50:00+00:00",
+ "source_file": "MO-RSMO-516.140.json",
+ "text_file": "MO-RSMO-516.140.txt",
+ "integrity_sha256": "89329bd5ed5f39f458b0b5a0253e8deaa3c310845864b232bd81880f720f5fdb",
+ "positive_law_title": null,
+ "status": "operative",
+ "citation_log_id": "C-052",
+ "flags": []
+}

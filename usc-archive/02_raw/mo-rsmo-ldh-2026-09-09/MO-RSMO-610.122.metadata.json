@@ -1,0 +1,21 @@
+{
+ "section_id": "MO-RSMO-610.122",
+ "jurisdiction": "missouri",
+ "section": "RSMo § 610.122",
+ "chapter_number": "610",
+ "section_number": "610.122",
+ "catchline": "Arrest record expunged, requirements",
+ "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=610.122",
+ "history_text": "(L. 1993 H.B. 170 § 1 merged with H.B. 562 § 11, A.L. 1995 H.B. 135, A.L. 2014 H.B. 1665 & 1335, A.L. 2021 S.B. 53 & 60)",
+ "effective_date_note": null,
+ "source_type": "Legal Data Hunter MCP, source US/MO-Legislation (\"Missouri Revised Statutes\", tier 1, 29,622 documents, document date field 2025-01-01; section texts carry 2025 and 2026 session-law history, so the underlying capture is later than the date field). Retrieved via get_document(include_full_text=true). Second-hand copy of revisor.mo.gov; not a direct fetch of the official site.",
+ "source_record_date": "2025-01-01",
+ "retrieved_at": "2026-09-09T07:50:00+00:00",
+ "source_file": "MO-RSMO-610.122.json",
+ "text_file": "MO-RSMO-610.122.txt",
+ "integrity_sha256": "7169101febe89e7b4c90189502ab8f5c61299c286f28400fa00edee137a41b1b",
+ "positive_law_title": null,
+ "status": "operative",
+ "citation_log_id": "C-026",
+ "flags": []
+}

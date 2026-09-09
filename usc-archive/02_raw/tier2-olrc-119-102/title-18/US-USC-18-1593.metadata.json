@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1593",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "77",
+  "chapter_name": "PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS",
+  "section_number": "1593",
+  "catchline": "Mandatory restitution",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1593",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1593&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1488; amended Pub. L. 110–457, title II, § 221(1), Dec. 23, 2008, 122 Stat. 5067; Pub. L. 115–299, § 3(c), Dec. 7, 2018, 132 Stat. 4385.)",
+  "integrity_sha256": "8b87a5547d487925d7f907531b04a4d1e5cfcef748f33bc0a58e2f24ba1bef53",
+  "raw_bytes": 5650,
+  "source_file": "18.1593.xml",
+  "text_file": "18.1593.txt"
+}

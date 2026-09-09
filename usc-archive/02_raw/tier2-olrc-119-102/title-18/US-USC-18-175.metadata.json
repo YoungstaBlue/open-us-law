@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 175",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "10",
+  "chapter_name": "BIOLOGICAL WEAPONS",
+  "section_number": "175",
+  "catchline": "Prohibitions with respect to biological weapons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s175",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section175&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 101–298, § 3(a), May 22, 1990, 104 Stat. 201; amended Pub. L. 104–132, title V, § 511(b)(1), Apr. 24, 1996, 110 Stat. 1284; Pub. L. 107–56, title VIII, § 817(1), Oct. 26, 2001, 115 Stat. 385; Pub. L. 107–188, title II, § 231(c)(1), June 12, 2002, 116 Stat. 661.)",
+  "integrity_sha256": "b87614c0adc889e72fdd1d1be56bda4bd3fc2123db33d4d0831264ac2e529d48",
+  "raw_bytes": 7635,
+  "source_file": "18.175.xml",
+  "text_file": "18.175.txt"
+}

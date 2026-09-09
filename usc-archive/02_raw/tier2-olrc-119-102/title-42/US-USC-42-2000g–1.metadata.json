@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000g–1",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000g–1",
+  "catchline": "Functions of Service",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000g–1",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000g–1&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title X, § 1002, July 2, 1964, 78 Stat. 267.)",
+  "integrity_sha256": "b620aca792ffbe617a1a6ef53ab1f96c2c48ec5af1f823fb7c5a966ead41b53c",
+  "raw_bytes": 1380,
+  "source_file": "42.2000g–1.xml",
+  "text_file": "42.2000g–1.txt"
+}

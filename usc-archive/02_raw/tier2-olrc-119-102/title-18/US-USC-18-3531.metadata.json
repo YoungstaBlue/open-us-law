@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3531",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "225",
+  "chapter_name": "VERDICT",
+  "section_number": "3531",
+  "catchline": "Return; several defendants; conviction of less offense; poll of jury—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3531",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3531&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 837.)",
+  "integrity_sha256": "13fb6860453e4c1d266ee884bee84e3727df273231043d46813bfb213bc1f7f7",
+  "raw_bytes": 931,
+  "source_file": "18.3531.xml",
+  "text_file": "18.3531.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 544",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "27",
+  "chapter_name": "CUSTOMS",
+  "section_number": "544",
+  "catchline": "Relanding of goods",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s544",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section544&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 716; June 30, 1955, ch. 258, § 2(c), 69 Stat. 242; Pub. L. 103–322, title XXXIII, §§ 330004(18), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147; Pub. L. 104–294, title VI, § 604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)",
+  "integrity_sha256": "d3f7674d5de69b6a1ccbf98bd612fb3bfec62146da3fb1e3c888e1c98559ddec",
+  "raw_bytes": 5554,
+  "source_file": "18.544.xml",
+  "text_file": "18.544.txt"
+}

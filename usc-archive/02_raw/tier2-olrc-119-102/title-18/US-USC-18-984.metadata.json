@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 984",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "46",
+  "chapter_name": "FORFEITURE",
+  "section_number": "984",
+  "catchline": "Civil forfeiture of fungible property",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s984",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section984&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 102–550, title XV, § 1522(a), Oct. 28, 1992, 106 Stat. 4063; amended Pub. L. 103–325, title IV, § 411(c)(2)(E), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 106–185, § 13(a), Apr. 25, 2000, 114 Stat. 218.)",
+  "integrity_sha256": "162b1e8e3659da646d1938a16667145e911e04f4ed99d1378021b315d0ae5b2e",
+  "raw_bytes": 9683,
+  "source_file": "18.984.xml",
+  "text_file": "18.984.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3401",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "219",
+  "chapter_name": "TRIAL BY UNITED STATES MAGISTRATE JUDGES",
+  "section_number": "3401",
+  "catchline": "Misdemeanors; application of probation laws",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3401",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3401&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 830; Pub. L. 85–508, § 12(j), July 7, 1958, 72 Stat. 348; Pub. L. 90–578, title III, § 302(a), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 96–82, § 7(a), (b), Oct. 10, 1979, 93 Stat. 645, 646; Pub. L. 98–473, title II, § 223(j), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–690, title VII, § 7072(a), Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title I, § 103, Oct. 29, 1992, 106 Stat. 4507; Pub. L. 104–317, title II, § 202(a), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 106–518, title II, § 203(a), Nov. 13, 2000, 114 Stat. 2414.)",
+  "integrity_sha256": "6ae547d6a7cdfe2a067b8b9d3be4532a099d751caf8147b931ddb475d1e7b61e",
+  "raw_bytes": 25220,
+  "source_file": "18.3401.xml",
+  "text_file": "18.3401.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12351",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12351",
+  "catchline": "Transitional housing assistance grants for victims of domestic violence, dating violence, sexual assault, or stalking",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12351",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12351&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IV, § 40299, as added Pub. L. 108–21, title VI, § 611, Apr. 30, 2003, 117 Stat. 693; amended Pub. L. 109–162, § 3(b)(4), title VI, § 602(a), title IX, § 906(e), formerly § 906(f), title XI, § 1135(e), Jan. 5, 2006, 119 Stat. 2971, 3038, 3081, 3109, renumbered § 906(e), Pub. L. 109–271, § 7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §§ 2(d), 7(c)(1), 8(b), Aug. 12, 2006, 120 Stat. 752, 764–766; Pub. L. 113–4, title VI, § 602(2), Mar. 7, 2013, 127 Stat. 109; Pub. L. 117–103, div. W, title VI, § 604, Mar. 15, 2022, 136 Stat. 886.)",
+  "integrity_sha256": "1079c1d650b973f7d9ed8f761c6fb8ff0de83997047a875a2d893da87439f0d2",
+  "raw_bytes": 38389,
+  "source_file": "34.12351.xml",
+  "text_file": "34.12351.txt"
+}

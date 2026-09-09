@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1361",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "65",
+  "chapter_name": "MALICIOUS MISCHIEF",
+  "section_number": "1361",
+  "catchline": "Government property or contracts",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1361",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1361&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXII, § 320903(d)(1), title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 104–294, title VI, §§ 601(a)(3), 605(e), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3510, 3511.)",
+  "integrity_sha256": "b9cbe9d5267e3d0c5ba823bc800d13218d6bd8f66794ab493b628bfe483e9fb5",
+  "raw_bytes": 6213,
+  "source_file": "18.1361.xml",
+  "text_file": "18.1361.txt"
+}

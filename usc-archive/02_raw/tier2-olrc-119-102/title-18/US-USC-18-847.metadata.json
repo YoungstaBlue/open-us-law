@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 847",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "40",
+  "chapter_name": "IMPORTATION, MANUFACTURE, DISTRIBUTION AND STORAGE OF EXPLOSIVE MATERIALS",
+  "section_number": "847",
+  "catchline": "Rules and regulations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s847",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section847&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 959; amended Pub. L. 107–296, title XI, § 1112(e)(3), Nov. 25, 2002, 116 Stat. 2276.)",
+  "integrity_sha256": "8327d5a97a6cc3dfc1fff453eea50092909f92b693393d73d13a0b0d80001203",
+  "raw_bytes": 2732,
+  "source_file": "18.847.xml",
+  "text_file": "18.847.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 666",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "31",
+  "chapter_name": "EMBEZZLEMENT AND THEFT",
+  "section_number": "666",
+  "catchline": "Theft or bribery concerning programs receiving Federal funds",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s666",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section666&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1104(a), Oct. 12, 1984, 98 Stat. 2143; amended Pub. L. 99–646, § 59(a), Nov. 10, 1986, 100 Stat. 3612; Pub. L. 101–647, title XII, §§ 1205(d), 1209, Nov. 29, 1990, 104 Stat. 4831, 4832; Pub. L. 103–322, title XXXIII, § 330003(c), Sept. 13, 1994, 108 Stat. 2140.)",
+  "integrity_sha256": "a38d4ee19bb93977d52df9a710add9564f3a976ffb5dc43140a6a936758ffcde",
+  "raw_bytes": 9108,
+  "source_file": "18.666.xml",
+  "text_file": "18.666.txt"
+}

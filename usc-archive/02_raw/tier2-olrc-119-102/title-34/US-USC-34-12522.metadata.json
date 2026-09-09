@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12522",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12522",
+  "catchline": "Enhanced penalties for illegal drug use in Federal prisons and for smuggling drugs into Federal prisons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12522",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12522&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IX, § 90103, Sept. 13, 1994, 108 Stat. 1987.)",
+  "integrity_sha256": "432b28a1257ed5203bb2c2418f4f2a70ec27be6e9fd18e2db03a64196a13ebc6",
+  "raw_bytes": 4358,
+  "source_file": "34.12522.xml",
+  "text_file": "34.12522.txt"
+}

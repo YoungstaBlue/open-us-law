@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12633",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12633",
+  "catchline": "Flexibility in making of appropriations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12633",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12633&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title XXXI, § 310004, Sept. 13, 1994, 108 Stat. 2106; Pub. L. 111–320, title II, § 202(e), Dec. 20, 2010, 124 Stat. 3509.)",
+  "integrity_sha256": "194deb53d60bca8f7c179b23f9b8a676d7b4382f71e50ef5aeafbeb7c24b8729",
+  "raw_bytes": 41533,
+  "source_file": "34.12633.xml",
+  "text_file": "34.12633.txt"
+}

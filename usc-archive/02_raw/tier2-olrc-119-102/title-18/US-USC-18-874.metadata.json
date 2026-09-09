@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 874",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "41",
+  "chapter_name": "EXTORTION AND THREATS",
+  "section_number": "874",
+  "catchline": "Kickbacks from public works employees",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s874",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section874&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 740; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "fa3f65a2ba1915e544d65d872b05dc468668d5d45efcb2a08923fc95d949b6eb",
+  "raw_bytes": 2587,
+  "source_file": "18.874.xml",
+  "text_file": "18.874.txt"
+}

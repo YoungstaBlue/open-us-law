@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3600",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "228A",
+  "chapter_name": "POST-CONVICTION DNA TESTING",
+  "section_number": "3600",
+  "catchline": "DNA testing",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3600",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3600&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–405, title IV, § 411(a)(1), Oct. 30, 2004, 118 Stat. 2279; amended Pub. L. 114–324, § 11(a), Dec. 16, 2016, 130 Stat. 1956.)",
+  "integrity_sha256": "bbf21c67c52497aed1d5e391ae2008b4abe99a06102d8e0acdf8ce9b54e3c9be",
+  "raw_bytes": 40806,
+  "source_file": "18.3600.xml",
+  "text_file": "18.3600.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1301",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "61",
+  "chapter_name": "LOTTERIES",
+  "section_number": "1301",
+  "catchline": "Importing or transporting lottery tickets",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1301",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1301&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 762; Pub. L. 103–322, title XXXII, § 320905, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2126, 2147.)",
+  "integrity_sha256": "70c1fc822a83d34952a8f9479c2fd25bfe7298eec595e5853010da56d0e57fb7",
+  "raw_bytes": 5972,
+  "source_file": "18.1301.xml",
+  "text_file": "18.1301.txt"
+}

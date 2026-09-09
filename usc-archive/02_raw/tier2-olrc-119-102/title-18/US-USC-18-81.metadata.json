@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 81",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "5",
+  "chapter_name": "ARSON",
+  "section_number": "81",
+  "catchline": "Arson within special maritime and territorial jurisdiction",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s81",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section81&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, § 708(b), Apr. 24, 1996, 110 Stat. 1296; Pub. L. 107–56, title VIII, §§ 810(a), 811(a), Oct. 26, 2001, 115 Stat. 380, 381.)",
+  "integrity_sha256": "a5e6e771724ca786d3300db34f55e55b1ea1f7565c4dbe07e9b1a2e66d37484b",
+  "raw_bytes": 6236,
+  "source_file": "18.81.xml",
+  "text_file": "18.81.txt"
+}

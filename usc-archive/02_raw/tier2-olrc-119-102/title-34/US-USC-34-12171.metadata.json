@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12171",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12171",
+  "catchline": "Grant authority",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12171",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12171&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title III, § 30801, Sept. 13, 1994, 108 Stat. 1857.)",
+  "integrity_sha256": "841eddbb2326cf8bca7cbf702ecdb3856a47916f80a8e20579c9759c22d8a3e2",
+  "raw_bytes": 15664,
+  "source_file": "34.12171.xml",
+  "text_file": "34.12171.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1997i",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1997i",
+  "catchline": "Disclaimer respecting standards of care",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1997i",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1997i&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 96–247, § 11, May 23, 1980, 94 Stat. 354.)",
+  "integrity_sha256": "a5a7d0ec6fadf6282cc139fef933debafe1c4f9cb8708a0c34f32e268468a8e9",
+  "raw_bytes": 735,
+  "source_file": "42.1997i.xml",
+  "text_file": "42.1997i.txt"
+}

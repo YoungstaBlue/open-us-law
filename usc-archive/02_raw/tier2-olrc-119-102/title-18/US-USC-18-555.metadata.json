@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 555",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "27",
+  "chapter_name": "CUSTOMS",
+  "section_number": "555",
+  "catchline": "Border tunnels and passages",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s555",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section555&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–295, title V, § 551(a), Oct. 4, 2006, 120 Stat. 1389, § 554; renumbered § 555, Pub. L. 110–161, div. E, title V, § 553(a)(1), Dec. 26, 2007, 121 Stat. 2082; amended Pub. L. 112–127, § 3, June 5, 2012, 126 Stat. 371.)",
+  "integrity_sha256": "772f1b6e6d05c328ab26c3c4da8cd55aa3659c30e15c6dfafd916437e0f19c40",
+  "raw_bytes": 7355,
+  "source_file": "18.555.xml",
+  "text_file": "18.555.txt"
+}

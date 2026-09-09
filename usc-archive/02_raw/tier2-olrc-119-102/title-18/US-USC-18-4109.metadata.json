@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4109",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "306",
+  "chapter_name": "TRANSFER TO OR FROM FOREIGN COUNTRIES",
+  "section_number": "4109",
+  "catchline": "Right to counsel, appointment of counsel",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4109",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4109&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218; amended Pub. L. 97–258, § 3(e)(2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 100–690, title VII, § 7101(d), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, § 3598, Nov. 29, 1990, 104 Stat. 4931.)",
+  "integrity_sha256": "e7f73a8161003fd62ef510e95e71ad894da3b8c1f934b420f31af27a261a2279",
+  "raw_bytes": 6436,
+  "source_file": "18.4109.xml",
+  "text_file": "18.4109.txt"
+}

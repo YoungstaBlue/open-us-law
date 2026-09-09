@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2706",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "121",
+  "chapter_name": "STORED WIRE AND ELECTRONIC COMMUNICATIONS AND TRANSACTIONAL RECORDS ACCESS",
+  "section_number": "2706",
+  "catchline": "Cost reimbursement",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2706",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2706&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 100–690, title VII, § 7061, Nov. 18, 1988, 102 Stat. 4404.)",
+  "integrity_sha256": "18442ecb5cf0c147aec489fdcbaeff016b55a81a5e61ffa3200ef38404d6afd4",
+  "raw_bytes": 4747,
+  "source_file": "18.2706.xml",
+  "text_file": "18.2706.txt"
+}

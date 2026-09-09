@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1752",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "84",
+  "chapter_name": "PRESIDENTIAL AND PRESIDENTIAL STAFF ASSASSINATION, KIDNAPPING, AND ASSAULT",
+  "section_number": "1752",
+  "catchline": "Restricted building or grounds",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1752",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1752&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–644, title V, § 18, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–308, § 1, Oct. 14, 1982, 96 Stat. 1451; Pub. L. 98–587, § 3(b), Oct. 30, 1984, 98 Stat. 3112; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title VI, § 602(a), (b)(1), Mar. 9, 2006, 120 Stat. 252; Pub. L. 112–98, § 2, Mar. 8, 2012, 126 Stat. 263; Pub. L. 115–254, div. B, title III, § 381, Oct. 5, 2018, 132 Stat. 3320.)",
+  "integrity_sha256": "0e9a08e021cc3b31e0e21b5f70203f7d40b80a309edb2566de6f1889b510e88f",
+  "raw_bytes": 16359,
+  "source_file": "18.1752.xml",
+  "text_file": "18.1752.txt"
+}

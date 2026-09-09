@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1716E",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "83",
+  "chapter_name": "POSTAL SERVICE",
+  "section_number": "1716E",
+  "catchline": "Tobacco products as nonmailable",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1716E",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1716E&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 111–154, § 3(a), Mar. 31, 2010, 124 Stat. 1103.)",
+  "integrity_sha256": "98c2c146f368b39e37620ad3ec13f989bf8f727a8384b58c40f94a65c1b05793",
+  "raw_bytes": 41060,
+  "source_file": "18.1716E.xml",
+  "text_file": "18.1716E.txt"
+}

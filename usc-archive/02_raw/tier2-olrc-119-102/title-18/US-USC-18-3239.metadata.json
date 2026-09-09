@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3239",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "211",
+  "chapter_name": "JURISDICTION AND VENUE",
+  "section_number": "3239",
+  "catchline": "Optional venue for espionage and related offenses",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3239",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3239&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title XXXII, § 320909(a), Sept. 13, 1994, 108 Stat. 2127.)",
+  "integrity_sha256": "aa2436260306565b06d15a06023b3fcd05ca628c42fb14089317ea42383b3838",
+  "raw_bytes": 3903,
+  "source_file": "18.3239.xml",
+  "text_file": "18.3239.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1028A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1028A",
+  "catchline": "Aggravated identity theft",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1028A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1028A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–275, § 2(a), July 15, 2004, 118 Stat. 831.)",
+  "integrity_sha256": "37212e563b9a9dd1930cb75b21bfcffc011326efb440f88f78eac3b3ffc356e1",
+  "raw_bytes": 10686,
+  "source_file": "18.1028A.xml",
+  "text_file": "18.1028A.txt"
+}

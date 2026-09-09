@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1984",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1984",
+  "catchline": "Omitted",
+  "status": "omitted",
+  "uslm_identifier": "/us/usc/t42/s1984",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1984&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "",
+  "integrity_sha256": "af089887bddcefd7abe46780ddaf29d45d7d89efc376a9f0c6f19224480b84b1",
+  "raw_bytes": 1524,
+  "source_file": "42.1984.xml",
+  "text_file": "42.1984.txt"
+}

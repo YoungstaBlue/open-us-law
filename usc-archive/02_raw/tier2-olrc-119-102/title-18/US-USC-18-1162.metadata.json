@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1162",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "53",
+  "chapter_name": "INDIANS",
+  "section_number": "1162",
+  "catchline": "State jurisdiction over offenses committed by or against Indians in the Indian country",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1162",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Aug. 15, 1953, ch. 505, § 2, 67 Stat. 588; amended Aug. 24, 1954, ch. 910, § 1, 68 Stat. 795; Pub. L. 85–615, § 1, Aug. 8, 1958, 72 Stat. 545; Pub. L. 91–523, §§ 1, 2, Nov. 25, 1970, 84 Stat. 1358; Pub. L. 111–211, title II, § 221(b), July 29, 2010, 124 Stat. 2272.)",
+  "integrity_sha256": "c253be21b01ab8bcaab531e6c6aca6452a4d440b1e6f2a6c05018539718747c2",
+  "raw_bytes": 11085,
+  "source_file": "18.1162.xml",
+  "text_file": "18.1162.txt"
+}

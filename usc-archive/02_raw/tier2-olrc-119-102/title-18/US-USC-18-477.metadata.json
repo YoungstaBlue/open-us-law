@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 477",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "477",
+  "catchline": "Possessing or selling impressions of tools used for obligations or securities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s477",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section477&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(g), Oct. 26, 2001, 115 Stat. 341.)",
+  "integrity_sha256": "5bb5b7dba8a821c16190cbd7fb540e6e9a83afabb45147e416d731622b8f5633",
+  "raw_bytes": 3304,
+  "source_file": "18.477.xml",
+  "text_file": "18.477.txt"
+}

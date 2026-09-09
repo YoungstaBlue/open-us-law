@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1531",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "74",
+  "chapter_name": "PARTIAL-BIRTH ABORTIONS",
+  "section_number": "1531",
+  "catchline": "Partial-birth abortions prohibited",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1531",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1531&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–105, § 3(a), Nov. 5, 2003, 117 Stat. 1206.)",
+  "integrity_sha256": "affd3d64537fdaf3976013bfb6b47b354c82f69a3c8b51d2e3b63291d9c15e19",
+  "raw_bytes": 29733,
+  "source_file": "18.1531.xml",
+  "text_file": "18.1531.txt"
+}

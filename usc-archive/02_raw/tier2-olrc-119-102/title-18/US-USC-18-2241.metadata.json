@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2241",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "109A",
+  "chapter_name": "SEXUAL ABUSE",
+  "section_number": "2241",
+  "catchline": "Aggravated sexual abuse",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2241",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2241&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3660; amended Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[7(b)]], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, § 301(a), Oct. 30, 1998, 112 Stat. 2978; Pub. L. 109–162, title XI, § 1177(a)(1), (2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§ 206(a)(1), 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, § 554, Dec. 26, 2007, 121 Stat. 2082; Pub. L. 118–159, div. A, title V, § 569(1), Dec. 23, 2024, 138 Stat. 1906.)",
+  "integrity_sha256": "d98384afba51fb59554a7864d1ede36d0cd74adfd4c0931c50741c4493ee5bad",
+  "raw_bytes": 14944,
+  "source_file": "18.2241.xml",
+  "text_file": "18.2241.txt"
+}

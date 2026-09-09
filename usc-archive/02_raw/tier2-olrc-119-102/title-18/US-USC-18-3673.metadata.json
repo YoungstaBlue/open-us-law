@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3673",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "232",
+  "chapter_name": "MISCELLANEOUS SENTENCING PROVISIONS",
+  "section_number": "3673",
+  "catchline": "Definitions for sentencing provisions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3673",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3673&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 212(a)(4), Oct. 12, 1984, 98 Stat. 2010; amended Pub. L. 99–646, § 2(a), Nov. 10, 1986, 100 Stat. 3592.)",
+  "integrity_sha256": "089c0290778c83301fed8327bb0d7ad743a7aef24dace23a81ef6777537401c7",
+  "raw_bytes": 4241,
+  "source_file": "18.3673.xml",
+  "text_file": "18.3673.txt"
+}

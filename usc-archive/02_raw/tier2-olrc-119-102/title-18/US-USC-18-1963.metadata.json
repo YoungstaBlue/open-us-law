@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1963",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "96",
+  "chapter_name": "RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS",
+  "section_number": "1963",
+  "catchline": "Criminal penalties",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1963",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1963&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–473, title II, §§ 302, 2301(a)–(c), Oct. 12, 1984, 98 Stat. 2040, 2192; Pub. L. 99–570, title I, § 1153(a), Oct. 27, 1986, 100 Stat. 3207–13; Pub. L. 99–646, § 23, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–690, title VII, §§ 7034, 7058(d), Nov. 18, 1988, 102 Stat. 4398, 4403; Pub. L. 101–647, title XXXV, § 3561, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 111–16, § 3(4), May 7, 2009, 123 Stat. 1607.)",
+  "integrity_sha256": "f5c1b789aa6ca39750c102ec7de6e56cae98aedbd513876908773b49e619542d",
+  "raw_bytes": 36329,
+  "source_file": "18.1963.xml",
+  "text_file": "18.1963.txt"
+}

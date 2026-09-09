@@ -1,0 +1,14 @@
+{
+  "archive": "US-USC",
+  "rows_loaded": 1641,
+  "current_rows": 1634,
+  "audit_rows": 7,
+  "by_title": {
+    "18": 1392,
+    "34": 148,
+    "42": 94
+  },
+  "csv_sha256": "504ad93e7a0df4caaf9150412684642d464cf1ae85bcaff4d5ed352a98e1213f",
+  "supabase_project": "bayizqcstqdacbonudey",
+  "loaded_at": "2026-09-08T16:13:42+0000"
+}

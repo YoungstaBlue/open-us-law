@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3504",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "223",
+  "chapter_name": "WITNESSES AND EVIDENCE",
+  "section_number": "3504",
+  "catchline": "Litigation concerning sources of evidence",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3504",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3504&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title VII, § 702(a), Oct. 15, 1970, 84 Stat. 935.)",
+  "integrity_sha256": "af0468537c879248630a275d50c44b1ea39c43c4c6b8b60124095aa7fbfb32ce",
+  "raw_bytes": 5552,
+  "source_file": "18.3504.xml",
+  "text_file": "18.3504.txt"
+}

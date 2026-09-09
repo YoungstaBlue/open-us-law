@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 233",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "12",
+  "chapter_name": "CIVIL DISORDERS",
+  "section_number": "233",
+  "catchline": "Preemption",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s233",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section233&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–284, title X, § 1002(a), Apr. 11, 1968, 82 Stat. 91.)",
+  "integrity_sha256": "70cb17c903b91722219d72a2ec17134be6256d4e218a5b122c71123a850186a4",
+  "raw_bytes": 1055,
+  "source_file": "18.233.xml",
+  "text_file": "18.233.txt"
+}

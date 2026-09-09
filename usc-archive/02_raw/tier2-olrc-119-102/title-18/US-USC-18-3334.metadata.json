@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3334",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "216",
+  "chapter_name": "SPECIAL GRAND JURY",
+  "section_number": "3334",
+  "catchline": "General provisions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3334",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3334&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 926.)",
+  "integrity_sha256": "74e680d3161a1fc96a8350e9874916b9de1342fafb2086f7f15eb2fa184897ae",
+  "raw_bytes": 889,
+  "source_file": "18.3334.xml",
+  "text_file": "18.3334.txt"
+}

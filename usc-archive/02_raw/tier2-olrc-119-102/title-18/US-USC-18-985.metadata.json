@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 985",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "46",
+  "chapter_name": "FORFEITURE",
+  "section_number": "985",
+  "catchline": "Civil forfeiture of real property",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s985",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section985&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 106–185, § 7(a), Apr. 25, 2000, 114 Stat. 214.)",
+  "integrity_sha256": "ee0075d23a8bb912f28325f498ba94d74cf5ebe738cca21ce739c667656dbd73",
+  "raw_bytes": 11106,
+  "source_file": "18.985.xml",
+  "text_file": "18.985.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1389",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "67",
+  "chapter_name": "MILITARY AND NAVY",
+  "section_number": "1389",
+  "catchline": "Prohibition on attacks on United States servicemen on account of service",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1389",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1389&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 111–84, div. E, § 4712(a), Oct. 28, 2009, 123 Stat. 2842.)",
+  "integrity_sha256": "ca0215d233a6e4f259ee4f0c17ad40406b95331bc9b43d620f36814b4eee59cd",
+  "raw_bytes": 5477,
+  "source_file": "18.1389.xml",
+  "text_file": "18.1389.txt"
+}

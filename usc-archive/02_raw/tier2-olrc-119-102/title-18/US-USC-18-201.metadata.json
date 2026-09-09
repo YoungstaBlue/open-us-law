@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 201",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "201",
+  "catchline": "Bribery of public officials and witnesses",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s201",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section201&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1119; amended Pub. L. 91–405, title II, § 204(d)(1), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, § 46(a)–(l), Nov. 10, 1986, 100 Stat. 3601–3604; Pub. L. 103–322, title XXXIII, §§ 330011(b), 330016(2)(D), Sept. 13, 1994, 108 Stat. 2144, 2148; Pub. L. 118–31, div. E, title LI, § 5101, Dec. 22, 2023, 137 Stat. 931; Pub. L. 118–78, § 2(a), July 30, 2024, 138 Stat. 1512.)",
+  "integrity_sha256": "5afb039963a2ca93d3af5057fd06a726971080ee8224975ba33cead1647c73f3",
+  "raw_bytes": 75351,
+  "source_file": "18.201.xml",
+  "text_file": "18.201.txt"
+}

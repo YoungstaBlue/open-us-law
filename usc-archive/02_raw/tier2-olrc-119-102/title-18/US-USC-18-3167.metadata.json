@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3167",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "208",
+  "chapter_name": "SPEEDY TRIAL",
+  "section_number": "3167",
+  "catchline": "Reports to Congress",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3167",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3167&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2083; amended Pub. L. 96–43, § 9(e), Aug. 2, 1979, 93 Stat. 330.)",
+  "integrity_sha256": "ad87f694b3b94b7cb85fe01a8ea21dcd20042b3ca0a2a3612876cf8ff84590e9",
+  "raw_bytes": 8365,
+  "source_file": "18.3167.xml",
+  "text_file": "18.3167.txt"
+}

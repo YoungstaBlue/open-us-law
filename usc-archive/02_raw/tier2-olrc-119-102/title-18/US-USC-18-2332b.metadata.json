@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2332b",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113B",
+  "chapter_name": "TERRORISM",
+  "section_number": "2332b",
+  "catchline": "Acts of terrorism transcending national boundaries",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2332b",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332b&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–132, title VII, § 702(a), Apr. 24, 1996, 110 Stat. 1291; amended Pub. L. 104–294, title VI, § 601(s)(1), (3), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 107–56, title VIII, § 808, Oct. 26, 2001, 115 Stat. 378; Pub. L. 107–197, title III, § 301(b), June 25, 2002, 116 Stat. 728; Pub. L. 108–458, title VI, §§ 6603(a)(1), 6803(c)(3), 6908, Dec. 17, 2004, 118 Stat. 3762, 3769, 3774; Pub. L. 109–177, title I, §§ 110(b)(3)(A), 112, Mar. 9, 2006, 120 Stat. 208, 209; Pub. L. 110–326, title II, § 204(b), Sept. 26, 2008, 122 Stat. 3562; Pub. L. 114–23, title VIII, §§ 805, 811(d), June 2, 2015, 129 Stat. 309, 311.)",
+  "integrity_sha256": "de62c81397e9ebf512631dd1cd59a932c4b5cdba3f87dba78c589a8e8cbb6ddf",
+  "raw_bytes": 32109,
+  "source_file": "18.2332b.xml",
+  "text_file": "18.2332b.txt"
+}

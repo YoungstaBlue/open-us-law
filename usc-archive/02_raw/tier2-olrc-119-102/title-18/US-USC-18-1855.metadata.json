@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1855",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "91",
+  "chapter_name": "PUBLIC LANDS",
+  "section_number": "1855",
+  "catchline": "Timber set afire",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1855",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1855&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 788; Pub. L. 100–690, title VI, § 6254(j), Nov. 18, 1988, 102 Stat. 4368.)",
+  "integrity_sha256": "d7aa6ea9608d0abe7048a89a7c4af67bb36353a29cce638a5804e5143ba1e1ae",
+  "raw_bytes": 3597,
+  "source_file": "18.1855.xml",
+  "text_file": "18.1855.txt"
+}

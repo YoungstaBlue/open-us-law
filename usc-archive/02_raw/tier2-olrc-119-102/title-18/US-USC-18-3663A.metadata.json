@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3663A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "232",
+  "chapter_name": "MISCELLANEOUS SENTENCING PROVISIONS",
+  "section_number": "3663A",
+  "catchline": "Mandatory restitution to victims of certain crimes",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3663A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3663A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–132, title II, § 204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, § 3613(d), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 112–186, § 6, Oct. 5, 2012, 126 Stat. 1430; Pub. L. 116–206, § 5, Dec. 4, 2020, 134 Stat. 1000; Pub. L. 118–77, § 2, July 30, 2024, 138 Stat. 1510.)",
+  "integrity_sha256": "2db4c09547a0e58b7974dbe05a5c009858ef2f5e50bc2b6cc29fb779134bcf8e",
+  "raw_bytes": 17438,
+  "source_file": "18.3663A.xml",
+  "text_file": "18.3663A.txt"
+}

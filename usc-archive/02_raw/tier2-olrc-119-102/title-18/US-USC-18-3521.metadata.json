@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3521",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "224",
+  "chapter_name": "PROTECTION OF WITNESSES",
+  "section_number": "3521",
+  "catchline": "Witness relocation and protection",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3521",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3521&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2153; amended Pub. L. 101–647, title XXXV, § 3582, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 105–119, title I, § 115(a)(9), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 109–177, title V, § 506(a)(7), Mar. 9, 2006, 120 Stat. 248.)",
+  "integrity_sha256": "8748967194d4e96bf344cc5a5473e0b6d903ad9abfb07082ff9f838fbedea53c",
+  "raw_bytes": 24814,
+  "source_file": "18.3521.xml",
+  "text_file": "18.3521.txt"
+}

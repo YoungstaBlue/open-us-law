@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3523",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "224",
+  "chapter_name": "PROTECTION OF WITNESSES",
+  "section_number": "3523",
+  "catchline": "Civil judgments",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3523",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3523&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2157.)",
+  "integrity_sha256": "6a7badcc10576343cee04bd1af86aef2c76e1bdc8587ebd4e78364571e72555f",
+  "raw_bytes": 10398,
+  "source_file": "18.3523.xml",
+  "text_file": "18.3523.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1034",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1034",
+  "catchline": "Civil penalties and injunctions for violations of section 1033",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1034",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1034&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title XXXII, § 320603(a), Sept. 13, 1994, 108 Stat. 2118.)",
+  "integrity_sha256": "aaf7d8b217b2e402f71b2cdbe4c93c9f1ff6175413876c7b6b96709cb578a64c",
+  "raw_bytes": 2609,
+  "source_file": "18.1034.xml",
+  "text_file": "18.1034.txt"
+}

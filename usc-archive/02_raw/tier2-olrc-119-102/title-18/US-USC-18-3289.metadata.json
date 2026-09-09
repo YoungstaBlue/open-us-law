@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3289",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "213",
+  "chapter_name": "LIMITATIONS",
+  "section_number": "3289",
+  "catchline": "Indictments and information dismissed before period of limitations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3289",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3289&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 829; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 88–520, § 2, Aug. 30, 1964, 78 Stat. 699; Pub. L. 100–690, title VII, § 7081(b), Nov. 18, 1988, 102 Stat. 4407; Pub. L. 101–647, title XII, § 1213, title XXV, § 2595(b), title XXXV, § 3580, Nov. 29, 1990, 104 Stat. 4833, 4907, 4929; Pub. L. 103–322, title XXXIII, § 330011(q)(2), Sept. 13, 1994, 108 Stat. 2145.)",
+  "integrity_sha256": "426c7c7a330f134ca53a6549a88e219ed8aacb31903af9f53df06a21336f8fe7",
+  "raw_bytes": 9457,
+  "source_file": "18.3289.xml",
+  "text_file": "18.3289.txt"
+}

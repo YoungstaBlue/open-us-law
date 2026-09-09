@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1922",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "93",
+  "chapter_name": "PUBLIC OFFICERS AND EMPLOYEES",
+  "section_number": "1922",
+  "catchline": "False or withheld report concerning Federal employees’ compensation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1922",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1922&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "14c6c33cc1a2d71540842a1d9f7bf29deac45afeec206cb2ab71b09759c394bf",
+  "raw_bytes": 6257,
+  "source_file": "18.1922.xml",
+  "text_file": "18.1922.txt"
+}

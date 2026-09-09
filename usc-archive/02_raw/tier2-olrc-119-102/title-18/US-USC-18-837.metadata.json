@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 837",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "39",
+  "chapter_name": "EXPLOSIVES AND OTHER DANGEROUS ARTICLES",
+  "section_number": "837",
+  "catchline": "Repealed. Pub. L. 91–452, title XI, § 1106(b)(1), Oct. 15, 1970, 84 Stat. 960]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s837",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section837&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "fe96519e132aca12d7278b1b66d9e54184fd9d9797f538b264ec99f892eb6163",
+  "raw_bytes": 1158,
+  "source_file": "18.837.xml",
+  "text_file": "18.837.txt"
+}

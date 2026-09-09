@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2510",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "119",
+  "chapter_name": "WIRE AND ELECTRONIC COMMUNICATIONS INTERCEPTION AND INTERCEPTION OF ORAL COMMUNICATIONS",
+  "section_number": "2510",
+  "catchline": "Definitions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2510",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, § 101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§ 202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, § 731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§ 203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, § 314(b), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 107–273, div. B, title IV, § 4002(e)(10), Nov. 2, 2002, 116 Stat. 1810.)",
+  "integrity_sha256": "d4398cc82a2df464510e5c140e7d7e9cc181176d6765120403dc2b6e9a377c72",
+  "raw_bytes": 39406,
+  "source_file": "18.2510.xml",
+  "text_file": "18.2510.txt"
+}

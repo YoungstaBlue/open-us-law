@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 241",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "13",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "241",
+  "catchline": "Conspiracy against rights",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s241",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section241&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 696; Pub. L. 90–284, title I, § 103(a), Apr. 11, 1968, 82 Stat. 75; Pub. L. 100–690, title VII, § 7018(a), (b)(1), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title VI, § 60006(a), title XXXII, §§ 320103(a), 320201(a), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 1970, 2109, 2113, 2147; Pub. L. 104–294, title VI, §§ 604(b)(14)(A), 607(a), Oct. 11, 1996, 110 Stat. 3507, 3511.)",
+  "integrity_sha256": "6c36fd86a3b5cf5afbcca4dd290970af94ff2b0014ed584312834857281fbc79",
+  "raw_bytes": 8914,
+  "source_file": "18.241.xml",
+  "text_file": "18.241.txt"
+}

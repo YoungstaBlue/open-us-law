@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3635",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "229",
+  "chapter_name": "POSTSENTENCE ADMINISTRATION",
+  "section_number": "3635",
+  "catchline": "Definitions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3635",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3635&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5207.)",
+  "integrity_sha256": "2c380ec926e57163753b9f4a62a0e41c3be02891c7f4396c334c14f1a2304feb",
+  "raw_bytes": 10137,
+  "source_file": "18.3635.xml",
+  "text_file": "18.3635.txt"
+}

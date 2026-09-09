@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 205",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "205",
+  "catchline": "Activities of officers and employees in claims against and other matters affecting the Government",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s205",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section205&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 101–194, title IV, § 404, Nov. 30, 1989, 103 Stat. 1750; Pub. L. 101–280, § 5(c), May 4, 1990, 104 Stat. 159; Pub. L. 104–177, § 2, Aug. 6, 1996, 110 Stat. 1563; Pub. L. 107–273, div. B, title IV, § 4002(a)(9), Nov. 2, 2002, 116 Stat. 1807.)",
+  "integrity_sha256": "6c7e8890b79adf465dec8cfcf7663694f3ef337ef4414f6e725e46df36bbc054",
+  "raw_bytes": 20013,
+  "source_file": "18.205.xml",
+  "text_file": "18.205.txt"
+}

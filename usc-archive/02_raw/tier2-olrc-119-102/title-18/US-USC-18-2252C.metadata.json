@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2252C",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110",
+  "chapter_name": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+  "section_number": "2252C",
+  "catchline": "Misleading words or digital images on the Internet",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2252C",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2252C&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–248, title VII, § 703(a), July 27, 2006, 120 Stat. 648.)",
+  "integrity_sha256": "caafd61b7d12689299970e946ebfa66f862ef25407931347719831501f6300d7",
+  "raw_bytes": 3281,
+  "source_file": "18.2252C.xml",
+  "text_file": "18.2252C.txt"
+}

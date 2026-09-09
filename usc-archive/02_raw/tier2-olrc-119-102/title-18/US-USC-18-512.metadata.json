@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 512",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "512",
+  "catchline": "Forfeiture of certain motor vehicles and motor vehicle parts",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s512",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section512&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–547, title II, § 201(a), Oct. 25, 1984, 98 Stat. 2769; amended Pub. L. 103–272, § 5(e)(4), July 5, 1994, 108 Stat. 1373.)",
+  "integrity_sha256": "46ab66a933974069583278ef69b1967342b443efef002c52279f8fc88b724b17",
+  "raw_bytes": 6524,
+  "source_file": "18.512.xml",
+  "text_file": "18.512.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 203",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "203",
+  "catchline": "Compensation to Members of Congress, officers, and others in matters affecting the Government",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s203",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section203&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 91–405, title II, § 204(d)(2), (3), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, § 47(a), Nov. 10, 1986, 100 Stat. 3604; Pub. L. 101–194, title IV, § 402, Nov. 30, 1989, 103 Stat. 1748; Pub. L. 101–280, § 5(b), May 4, 1990, 104 Stat. 159.)",
+  "integrity_sha256": "50e33d72afd305f415b56d44e0d40d1c3babb99935c546a5f216b168b5b0aaf6",
+  "raw_bytes": 23691,
+  "source_file": "18.203.xml",
+  "text_file": "18.203.txt"
+}

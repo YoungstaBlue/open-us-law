@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 35",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "2",
+  "chapter_name": "AIRCRAFT AND MOTOR VEHICLES",
+  "section_number": "35",
+  "catchline": "Imparting or conveying false information",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s35",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section35&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added July 14, 1956, ch. 595, § 1, 70 Stat. 540; amended Pub. L. 87–338, Oct. 3, 1961, 75 Stat. 751; Pub. L. 89–64, July 7, 1965, 79 Stat. 210; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "d65b31c5c5c4620e40403bca69139ab10bbc1bebfc113750a5341ccdf137cab9",
+  "raw_bytes": 3673,
+  "source_file": "18.35.xml",
+  "text_file": "18.35.txt"
+}

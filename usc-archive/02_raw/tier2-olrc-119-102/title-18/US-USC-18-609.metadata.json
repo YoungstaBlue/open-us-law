@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 609",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "29",
+  "chapter_name": "ELECTIONS AND POLITICAL ACTIVITIES",
+  "section_number": "609",
+  "catchline": "Use of military authority to influence vote of member of Armed Forces",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s609",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section609&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 99–410, title II, § 202(a), Aug. 28, 1986, 100 Stat. 929.)",
+  "integrity_sha256": "d73acc4c39190c38bc3224fdb303281f70b35797a95e127d83f7231ef49020a3",
+  "raw_bytes": 2994,
+  "source_file": "18.609.xml",
+  "text_file": "18.609.txt"
+}

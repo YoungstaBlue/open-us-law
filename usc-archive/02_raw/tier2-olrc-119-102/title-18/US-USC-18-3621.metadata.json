@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3621",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "229",
+  "chapter_name": "POSTSENTENCE ADMINISTRATION",
+  "section_number": "3621",
+  "catchline": "Imprisonment of a convicted person",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3621",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3621&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, § 2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, § 20401, title III, § 32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, § 1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, § 622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§ 231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693; Pub. L. 115–391, title I, § 102(a), title V, § 504(f)(1), title VI, § 601, Dec. 21, 2018, 132 Stat. 5208, 5234, 5237; Pub. L. 117–103, div. W, title X, § 1001(c), Mar. 15, 2022, 136 Stat. 914.)",
+  "integrity_sha256": "6fd1987ed023888e4915e2706710be43894684ccde5c72db65e2ecb56abc089d",
+  "raw_bytes": 66072,
+  "source_file": "18.3621.xml",
+  "text_file": "18.3621.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3485",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "223",
+  "chapter_name": "WITNESSES AND EVIDENCE",
+  "section_number": "3485",
+  "catchline": "Expert witnesses—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3485",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3485&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 833.)",
+  "integrity_sha256": "6f19fd00839046a6e8a6529643b7f971a0a0f9dd757367ae2f2551bf1a611ef4",
+  "raw_bytes": 1619,
+  "source_file": "18.3485.xml",
+  "text_file": "18.3485.txt"
+}

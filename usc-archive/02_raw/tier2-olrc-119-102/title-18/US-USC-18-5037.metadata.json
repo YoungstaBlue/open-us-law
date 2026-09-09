@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 5037",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "403",
+  "chapter_name": "JUVENILE DELINQUENCY",
+  "section_number": "5037",
+  "catchline": "Dispositional hearing",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s5037",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5037&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, § 507, Sept. 7, 1974, 88 Stat. 1136; Pub. L. 98–473, title II, § 214(a), Oct. 12, 1984, 98 Stat. 2013; Pub. L. 99–646, § 21(a), Nov. 10, 1986, 100 Stat. 3596; Pub. L. 104–294, title VI, § 604(b)(40), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–273, div. C, title II, § 12301, Nov. 2, 2002, 116 Stat. 1896.)",
+  "integrity_sha256": "688cd49dda1dad9f0d2d8428c292dc76c75b397969a6b61aefe8ac137acb3f45",
+  "raw_bytes": 26556,
+  "source_file": "18.5037.xml",
+  "text_file": "18.5037.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 798B",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "37",
+  "chapter_name": "ESPIONAGE AND CENSORSHIP",
+  "section_number": "798B",
+  "catchline": "Unauthorized access to intelligence community property",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s798B",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section798B&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 119–60, div. F, title LXIII, § 6304, Dec. 18, 2025, 139 Stat. 1611.)",
+  "integrity_sha256": "b1f69ecc334216fabea04827dfcd0fc8364067b0cfa8f3aaaf09fda46790aebe",
+  "raw_bytes": 3716,
+  "source_file": "18.798B.xml",
+  "text_file": "18.798B.txt"
+}

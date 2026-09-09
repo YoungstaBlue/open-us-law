@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1153",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "53",
+  "chapter_name": "INDIANS",
+  "section_number": "1153",
+  "catchline": "Offenses committed within Indian country",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1153",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1153&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, § 26, 63 Stat. 94; Pub. L. 89–707, § 1, Nov. 2, 1966, 80 Stat. 1100; Pub. L. 90–284, title V, § 501, Apr. 11, 1968, 82 Stat. 80; Pub. L. 94–297, § 2, May 29, 1976, 90 Stat. 585; Pub. L. 98–473, title II, § 1009, Oct. 12, 1984, 98 Stat. 2141; Pub. L. 99–303, May 15, 1986, 100 Stat. 438; Pub. L. 99–646, § 87(c)(5), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(5), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, § 7027, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title XVII, § 170201(e), title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2043, 2150; Pub. L. 109–248, title II, § 215, July 27, 2006, 120 Stat. 617; Pub. L. 113–4, title IX, § 906(b), Mar. 7, 2013, 127 Stat. 125.)",
+  "integrity_sha256": "98fec269ad363ffa3d1635c86644e1a65e7f0154e9d9d9ed9acab6c42baa9cb3",
+  "raw_bytes": 16528,
+  "source_file": "18.1153.xml",
+  "text_file": "18.1153.txt"
+}

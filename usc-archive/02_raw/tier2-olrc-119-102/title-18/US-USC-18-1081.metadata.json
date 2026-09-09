@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1081",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "50",
+  "chapter_name": "GAMBLING",
+  "section_number": "1081",
+  "catchline": "Definitions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1081",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1081&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added May 24, 1949, ch. 139, § 23, 63 Stat. 92; amended Pub. L. 87–216, § 1, Sept. 13, 1961, 75 Stat. 491; Pub. L. 103–322, title XXXII, § 320501, Sept. 13, 1994, 108 Stat. 2114.)",
+  "integrity_sha256": "65aaff431700cb97a53d6aa540e96f40c96749ad7b9343ff6ed705b3333481c0",
+  "raw_bytes": 4632,
+  "source_file": "18.1081.xml",
+  "text_file": "18.1081.txt"
+}

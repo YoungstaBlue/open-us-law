@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1020",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1020",
+  "catchline": "Highway projects",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1020",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1020&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 753; Oct. 31, 1951, ch. 655, § 27, 65 Stat. 721; May 6, 1954, ch. 181, § 18, 68 Stat. 76; Pub. L. 89–670, § 10(f), Oct. 15, 1966, 80 Stat. 948; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "a37cd68f82666b1636762452d7afd06a954fca23f2b37865c36f09d3783b3a93",
+  "raw_bytes": 10901,
+  "source_file": "18.1020.xml",
+  "text_file": "18.1020.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3742",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "235",
+  "chapter_name": "APPEAL",
+  "section_number": "3742",
+  "catchline": "Review of a sentence",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3742",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3742&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, § 73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§ 4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, § 7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§ 3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, § 330002(k), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 108–21, title IV, § 401(d)–(f), Apr. 30, 2003, 117 Stat. 670, 671.)",
+  "integrity_sha256": "5616e830dc37a23039a12144f3fbd04f733aafcb9fddedce20b2e38a5cd1e6e0",
+  "raw_bytes": 38457,
+  "source_file": "18.3742.xml",
+  "text_file": "18.3742.txt"
+}

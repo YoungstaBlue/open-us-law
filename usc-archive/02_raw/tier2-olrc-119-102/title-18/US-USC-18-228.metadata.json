@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 228",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11A",
+  "chapter_name": "CHILD SUPPORT",
+  "section_number": "228",
+  "catchline": "Failure to pay legal child support obligations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s228",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section228&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 102–521, § 2(a), Oct. 25, 1992, 106 Stat. 3403; amended Pub. L. 104–294, title VI, § 607(l), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 105–187, § 2, June 24, 1998, 112 Stat. 618.)",
+  "integrity_sha256": "57acdee706c195413762223fd29ab4976da093da3496696ddf18cf7d04edce36",
+  "raw_bytes": 11389,
+  "source_file": "18.228.xml",
+  "text_file": "18.228.txt"
+}

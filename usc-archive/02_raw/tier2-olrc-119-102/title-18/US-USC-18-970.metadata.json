@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 970",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "45",
+  "chapter_name": "FOREIGN RELATIONS",
+  "section_number": "970",
+  "catchline": "Protection of property occupied by foreign governments",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s970",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section970&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 92–539, title IV, § 401, Oct. 24, 1972, 86 Stat. 1073; amended Pub. L. 94–467, § 7, Oct. 8, 1976, 90 Stat. 2000; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(a)(2), Oct. 11, 1996, 110 Stat. 3498.)",
+  "integrity_sha256": "0f80b493c9581ba4703b84c8953eb1ccb6cef86aac5412a7ac05bb60c2a1c32c",
+  "raw_bytes": 7136,
+  "source_file": "18.970.xml",
+  "text_file": "18.970.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 879",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "41",
+  "chapter_name": "EXTORTION AND THREATS",
+  "section_number": "879",
+  "catchline": "Threats against former Presidents and certain other persons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s879",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section879&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 97–297, § 1(a), Oct. 12, 1982, 96 Stat. 1317; amended Pub. L. 98–587, § 3(a), Oct. 30, 1984, 98 Stat. 3111; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 106–544, § 2(a), (b)(1), Dec. 19, 2000, 114 Stat. 2715; Pub. L. 117–272, § 2, Dec. 27, 2022, 136 Stat. 4181.)",
+  "integrity_sha256": "edc97bab3bd2027ab6bc7ea81a452db62d63df9ebf4f77a96e4510ab77874d31",
+  "raw_bytes": 9575,
+  "source_file": "18.879.xml",
+  "text_file": "18.879.txt"
+}

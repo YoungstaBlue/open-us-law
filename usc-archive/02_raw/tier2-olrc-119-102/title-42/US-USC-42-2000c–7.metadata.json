@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000c–7",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000c–7",
+  "catchline": "Liability of United States for costs",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000c–7",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000c–7&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title IV, § 408, July 2, 1964, 78 Stat. 249.)",
+  "integrity_sha256": "b0c01c0884da61261dcb451106f2e38c482937cd3d958a8b01522d6a0130f4f5",
+  "raw_bytes": 778,
+  "source_file": "42.2000c–7.xml",
+  "text_file": "42.2000c–7.txt"
+}

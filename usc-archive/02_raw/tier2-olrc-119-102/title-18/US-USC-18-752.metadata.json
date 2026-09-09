@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 752",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "35",
+  "chapter_name": "ESCAPE AND RESCUE",
+  "section_number": "752",
+  "catchline": "Instigating or assisting escape",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s752",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section752&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 735; May 28, 1956, ch. 331, 70 Stat. 216; Pub. L. 88–251, § 2, Dec. 30, 1963, 77 Stat. 834; Pub. L. 89–176, § 3, Sept. 10, 1965, 79 Stat. 675; Pub. L. 100–690, title VII, § 7055, Nov. 18, 1988, 102 Stat. 4402; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(D), Nov. 2, 2002, 116 Stat. 1809.)",
+  "integrity_sha256": "58aaa06529bbcb05e4a1c83ccd513012169f8349771f4664d9ed254e9e731f4f",
+  "raw_bytes": 8266,
+  "source_file": "18.752.xml",
+  "text_file": "18.752.txt"
+}

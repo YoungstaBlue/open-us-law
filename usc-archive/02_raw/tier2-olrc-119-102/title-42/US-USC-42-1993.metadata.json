@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1993",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1993",
+  "catchline": "Repealed. Pub. L. 85–315, pt. III, § 122, Sept. 9, 1957, 71 Stat. 637",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t42/s1993",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1993&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "",
+  "integrity_sha256": "39c19fe0acff9bd8b2a38f161c4ccbdcc855415ce863c4c0dec21329ca47ea14",
+  "raw_bytes": 1063,
+  "source_file": "42.1993.xml",
+  "text_file": "42.1993.txt"
+}

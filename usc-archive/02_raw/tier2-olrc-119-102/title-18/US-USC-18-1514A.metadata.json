@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1514A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "73",
+  "chapter_name": "OBSTRUCTION OF JUSTICE",
+  "section_number": "1514A",
+  "catchline": "Civil action to protect against retaliation in fraud cases",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1514A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1514A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 107–204, title VIII, § 806(a), July 30, 2002, 116 Stat. 802; amended Pub. L. 111–203, title IX, §§ 922(b), (c), 929A, July 21, 2010, 124 Stat. 1848, 1852.)",
+  "integrity_sha256": "fd671c66cf9d634b0c583e619a5236e86eafb277651ea741eefbab54c65b2da5",
+  "raw_bytes": 15551,
+  "source_file": "18.1514A.xml",
+  "text_file": "18.1514A.txt"
+}

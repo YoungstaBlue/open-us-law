@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2721",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "123",
+  "chapter_name": "PROHIBITION ON RELEASE AND USE OF CERTAIN PERSONAL INFORMATION FROM STATE MOTOR VEHICLE RECORDS",
+  "section_number": "2721",
+  "catchline": "Prohibition on release and use of certain personal information from State motor vehicle records",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2721",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2721&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, § 1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, § 604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, § 350(c), (d), Oct. 9, 1999, 113 Stat. 1025; Pub. L. 106–346, § 101(a) [title III, § 309(c)–(e)], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)",
+  "integrity_sha256": "efab83da228bd95649d59bba04d91e5e54f3bfc7c6598474cba9d0a6840fd5b2",
+  "raw_bytes": 24354,
+  "source_file": "18.2721.xml",
+  "text_file": "18.2721.txt"
+}

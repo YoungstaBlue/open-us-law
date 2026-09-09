@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2101",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "102",
+  "chapter_name": "RIOTS",
+  "section_number": "2101",
+  "catchline": "Riots",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2101",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2101&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–284, title I, § 104(a), Apr. 11, 1968, 82 Stat. 75; amended Pub. L. 99–386, title I, § 106, Aug. 22, 1986, 100 Stat. 822; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(f)(15), Oct. 11, 1996, 110 Stat. 3500.)",
+  "integrity_sha256": "cd0f0bb13077e611c25f27f90392c0941bb9e609210279e80efeeabf2f4f8019",
+  "raw_bytes": 7959,
+  "source_file": "18.2101.xml",
+  "text_file": "18.2101.txt"
+}

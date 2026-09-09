@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 931",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "44",
+  "chapter_name": "FIREARMS",
+  "section_number": "931",
+  "catchline": "Prohibition on purchase, ownership, or possession of body armor by violent felons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s931",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section931&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 107–273, div. C, title I, § 11009(e)(2)(A), Nov. 2, 2002, 116 Stat. 1821.)",
+  "integrity_sha256": "ea3ad39ebd453708b3e50ac6a1de7f69cc663189df6c48da1d0a33e3383fe25b",
+  "raw_bytes": 3669,
+  "source_file": "18.931.xml",
+  "text_file": "18.931.txt"
+}

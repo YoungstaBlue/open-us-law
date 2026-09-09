@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 7",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "7",
+  "catchline": "Special maritime and territorial jurisdiction of the United States defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s7",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section7&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 685; July 12, 1952, ch. 695, 66 Stat. 589; Pub. L. 97–96, § 6, Dec. 21, 1981, 95 Stat. 1210; Pub. L. 98–473, title II, § 1210, Oct. 12, 1984, 98 Stat. 2164; Pub. L. 103–322, title XII, § 120002, Sept. 13, 1994, 108 Stat. 2021; Pub. L. 107–56, title VIII, § 804, Oct. 26, 2001, 115 Stat. 377.)",
+  "integrity_sha256": "bc22f3aaf96bac4f903dfa7b888783a070c75741f373330245ae982a72f153ae",
+  "raw_bytes": 12860,
+  "source_file": "18.7.xml",
+  "text_file": "18.7.txt"
+}

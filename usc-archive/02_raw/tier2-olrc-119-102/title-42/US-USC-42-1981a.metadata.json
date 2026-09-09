@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1981a",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1981a",
+  "catchline": "Damages in cases of intentional discrimination in employment",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1981a",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1981a&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(R.S. § 1977A, as added Pub. L. 102–166, title I, § 102, Nov. 21, 1991, 105 Stat. 1072.)",
+  "integrity_sha256": "cd86cb6bafe0e2352132c67e8d62b02ae4689caf4d47956867c12ca52b483d65",
+  "raw_bytes": 15149,
+  "source_file": "42.1981a.xml",
+  "text_file": "42.1981a.txt"
+}

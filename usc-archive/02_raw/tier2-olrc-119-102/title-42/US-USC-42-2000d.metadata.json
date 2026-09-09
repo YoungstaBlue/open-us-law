@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000d",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000d",
+  "catchline": "Prohibition against exclusion from participation in, denial of benefits of, and discrimination under federally assisted programs on ground of race, color, or national origin",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000d",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title VI, § 601, July 2, 1964, 78 Stat. 252.)",
+  "integrity_sha256": "1ef04ade3c5e0a1861d491e8b659c77ca3ea8dd2a176a7e509c7b4d774885b43",
+  "raw_bytes": 30789,
+  "source_file": "42.2000d.xml",
+  "text_file": "42.2000d.txt"
+}

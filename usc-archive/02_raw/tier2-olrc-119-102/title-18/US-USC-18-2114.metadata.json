@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2114",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "103",
+  "chapter_name": "ROBBERY AND BURGLARY",
+  "section_number": "2114",
+  "catchline": "Mail, money, or other property of United States",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2114",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2114&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 797; Pub. L. 98–473, title II, § 223(d), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 101–647, title XXXV, § 3562, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title XXXII, §§ 320602, 320903(a)(3), Sept. 13, 1994, 108 Stat. 2115, 2124; Pub. L. 104–294, title VI, § 604(b)(17), Oct. 11, 1996, 110 Stat. 3507.)",
+  "integrity_sha256": "41ff64c1992de28f986d7c94b8627f77b3cea1c105833ea8f8eb0573ddcce038",
+  "raw_bytes": 7367,
+  "source_file": "18.2114.xml",
+  "text_file": "18.2114.txt"
+}

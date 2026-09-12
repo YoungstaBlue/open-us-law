@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3118",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "205",
+  "chapter_name": "SEARCHES AND SEIZURES",
+  "section_number": "3118",
+  "catchline": "Implied consent for certain tests",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3118",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3118&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–690, title VI, § 6477(b)(1), Nov. 18, 1988, 102 Stat. 4381, § 3117; renumbered § 3118, Pub. L. 101–647, title XXXV, § 3574, Nov. 29, 1990, 104 Stat. 4929.)",
+  "integrity_sha256": "957b12746f9b1e695efb7d77b25f1889151c674b611383dd6dc56b1fcb37b995",
+  "raw_bytes": 3714,
+  "source_file": "18.3118.xml",
+  "text_file": "18.3118.txt"
+}

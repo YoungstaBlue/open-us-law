@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1966",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "96",
+  "chapter_name": "RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS",
+  "section_number": "1966",
+  "catchline": "Expedition of actions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1966",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1966&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944; amended Pub. L. 98–620, title IV, § 402(24)(B), Nov. 8, 1984, 98 Stat. 3359.)",
+  "integrity_sha256": "f82ea9b52ae9a97f04e69661c14aae5c39dcc28bdcaa33695645cbad63ee4188",
+  "raw_bytes": 3087,
+  "source_file": "18.1966.xml",
+  "text_file": "18.1966.txt"
+}

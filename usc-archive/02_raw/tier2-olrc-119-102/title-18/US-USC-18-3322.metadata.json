@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3322",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "215",
+  "chapter_name": "GRAND JURY",
+  "section_number": "3322",
+  "catchline": "Disclosure of certain matters occurring before grand jury",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3322",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3322&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 101–73, title IX, § 964(a), Aug. 9, 1989, 103 Stat. 505; amended Pub. L. 106–102, title VII, § 740, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 106–185, § 10, Apr. 25, 2000, 114 Stat. 217; Pub. L. 107–273, div. C, title I, § 11002, Nov. 2, 2002, 116 Stat. 1816.)",
+  "integrity_sha256": "37c8467b5a95e517b4cdcb81d8572a3ab32d0884d1028fd50ca119869fae36d4",
+  "raw_bytes": 10543,
+  "source_file": "18.3322.xml",
+  "text_file": "18.3322.txt"
+}

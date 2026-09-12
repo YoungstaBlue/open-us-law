@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 798",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "37",
+  "chapter_name": "ESPIONAGE AND CENSORSHIP",
+  "section_number": "798",
+  "catchline": "Disclosure of classified information",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s798",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section798&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Oct. 31, 1951, ch. 655, § 24(a), 65 Stat. 719; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–359, title VIII, § 804(a), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, § 602(c), Oct. 11, 1996, 110 Stat. 3503.)",
+  "integrity_sha256": "84d1ded9e65f03f9a02d98db499d0af1145683f036c2ea64be8636bb794ca74b",
+  "raw_bytes": 12299,
+  "source_file": "18.798.xml",
+  "text_file": "18.798.txt"
+}

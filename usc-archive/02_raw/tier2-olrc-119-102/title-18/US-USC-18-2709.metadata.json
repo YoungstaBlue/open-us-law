@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2709",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "121",
+  "chapter_name": "STORED WIRE AND ELECTRONIC COMMUNICATIONS AND TRANSACTIONAL RECORDS ACCESS",
+  "section_number": "2709",
+  "catchline": "Counterintelligence access to telephone toll and transactional records",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2709",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2709&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, § 601(a), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title V, § 505(a), Oct. 26, 2001, 115 Stat. 365; Pub. L. 109–177, title I, § 116(a), Mar. 9, 2006, 120 Stat. 213; Pub. L. 109–178, §§ 4(b), 5, Mar. 9, 2006, 120 Stat. 280, 281; Pub. L. 114–23, title V, §§ 501(a), 502(a), 503(a), June 2, 2015, 129 Stat. 282, 283, 289.)",
+  "integrity_sha256": "3dacb55a18418e3ab99482e586a4a895c338f8a86188476bbfcd4ac4f90bb3d3",
+  "raw_bytes": 23430,
+  "source_file": "18.2709.xml",
+  "text_file": "18.2709.txt"
+}

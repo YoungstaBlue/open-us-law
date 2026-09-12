@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1027",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1027",
+  "catchline": "False statements and concealment of facts in relation to documents required by the Employee Retirement Income Security Act of 1974",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1027",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1027&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 87–420, § 17(c), Mar. 20, 1962, 76 Stat. 42; amended Pub. L. 93–406, title I, § 112(a)(2)(B)(i), (ii), formerly § 111(a)(2)(B)(i), (ii), Sept. 2, 1974, 88 Stat. 851, renumbered § 112(a)(2)(B)(i), (ii), Pub. L. 117–328, div. T, title III, § 320(a)(1), Dec. 29, 2022, 136 Stat. 5354; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "8180082bd4e4de6cfab19a0f51ea270367c8424be4dbfcc0aeb919e0ae9d5176",
+  "raw_bytes": 6241,
+  "source_file": "18.1027.xml",
+  "text_file": "18.1027.txt"
+}

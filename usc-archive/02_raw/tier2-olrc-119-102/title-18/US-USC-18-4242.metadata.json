@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4242",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "313",
+  "chapter_name": "OFFENDERS WITH MENTAL DISEASE OR DEFECT",
+  "section_number": "4242",
+  "catchline": "Determination of the existence of insanity at the time of the offense",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4242",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4242&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2059.)",
+  "integrity_sha256": "ca169cea6f7f742ac185ad875f847c98a29d95120b20de170e63dc2cb43e1f7d",
+  "raw_bytes": 4381,
+  "source_file": "18.4242.xml",
+  "text_file": "18.4242.txt"
+}

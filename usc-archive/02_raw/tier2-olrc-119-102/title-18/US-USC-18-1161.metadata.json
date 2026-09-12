@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1161",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "53",
+  "chapter_name": "INDIANS",
+  "section_number": "1161",
+  "catchline": "Application of Indian liquor laws",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1161",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1161&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Aug. 15, 1953, ch. 502, § 2, 67 Stat. 586; amended Pub. L. 98–473, title II, § 223(b), Oct. 12, 1984, 98 Stat. 2028.)",
+  "integrity_sha256": "7427cf9fd7b102a71a4ff7353b90cc2c69fa9e8e285d440e790d28d43663c6fe",
+  "raw_bytes": 2829,
+  "source_file": "18.1161.xml",
+  "text_file": "18.1161.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 706a",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "33",
+  "chapter_name": "EMBLEMS, INSIGNIA, AND NAMES",
+  "section_number": "706a",
+  "catchline": "Geneva distinctive emblems",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s706a",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section706a&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–481, § 2(a), Jan. 12, 2007, 120 Stat. 3673.)",
+  "integrity_sha256": "96a03d501fd773e1ddb9eb01930c453d113782f9bc45929f5ff9b41c1de09f18",
+  "raw_bytes": 4737,
+  "source_file": "18.706a.xml",
+  "text_file": "18.706a.txt"
+}

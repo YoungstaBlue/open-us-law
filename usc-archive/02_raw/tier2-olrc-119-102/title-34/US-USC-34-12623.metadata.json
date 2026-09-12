@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12623",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12623",
+  "catchline": "Standards and best practices for use of non-invasive and non-permanent tracking devices",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12623",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12623&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 115–141, div. Q, title III, § 302, Mar. 23, 2018, 132 Stat. 1121.)",
+  "integrity_sha256": "76ab1c440e3b17fec00a82998568016334759a88062d7d4bf27a0cb798954bf2",
+  "raw_bytes": 17197,
+  "source_file": "34.12623.xml",
+  "text_file": "34.12623.txt"
+}

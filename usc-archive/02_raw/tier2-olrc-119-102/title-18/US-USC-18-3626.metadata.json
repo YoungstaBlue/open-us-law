@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3626",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "229",
+  "chapter_name": "POSTSENTENCE ADMINISTRATION",
+  "section_number": "3626",
+  "catchline": "Appropriate remedies with respect to prison conditions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3626",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3626&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title II, § 20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 802(a)], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, § 123(a), Nov. 26, 1997, 111 Stat. 2470.)",
+  "integrity_sha256": "a517e52d9e272771f55f43798435927a3649c0205786ddf86308758119d36d10",
+  "raw_bytes": 42060,
+  "source_file": "18.3626.xml",
+  "text_file": "18.3626.txt"
+}

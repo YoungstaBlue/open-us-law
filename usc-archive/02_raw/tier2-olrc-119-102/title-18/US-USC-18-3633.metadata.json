@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3633",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "229",
+  "chapter_name": "POSTSENTENCE ADMINISTRATION",
+  "section_number": "3633",
+  "catchline": "Evidence-based recidivism reduction program and recommendations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3633",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3633&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5204.)",
+  "integrity_sha256": "28fd4d8babd31edf3b0c17bcab2a05062b1d7f0f7318029ffc096c139faf6668",
+  "raw_bytes": 6237,
+  "source_file": "18.3633.xml",
+  "text_file": "18.3633.txt"
+}

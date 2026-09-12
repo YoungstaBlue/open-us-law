@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3595",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "228",
+  "chapter_name": "DEATH SENTENCE",
+  "section_number": "3595",
+  "catchline": "Review of a sentence of death",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3595",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3595&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1967.)",
+  "integrity_sha256": "65c5cccb4f1e9ee3bf671ae78aef9b1eb7e423c2397e14573e1fc92b651da6f8",
+  "raw_bytes": 5653,
+  "source_file": "18.3595.xml",
+  "text_file": "18.3595.txt"
+}

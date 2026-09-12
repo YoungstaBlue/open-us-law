@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000h–6",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000h–6",
+  "catchline": "Separability",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000h–6",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000h–6&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title XI, § 1106, July 2, 1964, 78 Stat. 268.)",
+  "integrity_sha256": "037a7a199894ad9501e68ece6df602ac41576d9e200fca5b8a7008c93d650c12",
+  "raw_bytes": 1939,
+  "source_file": "42.2000h–6.xml",
+  "text_file": "42.2000h–6.txt"
+}

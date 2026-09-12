@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3739",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "235",
+  "chapter_name": "APPEAL",
+  "section_number": "3739",
+  "catchline": "Supervision—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3739",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3739&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 846.)",
+  "integrity_sha256": "740fa117a5664fec94f72959ea0e0a398d9d5f45d9b5e5eefb227599fd3685bc",
+  "raw_bytes": 1649,
+  "source_file": "18.3739.xml",
+  "text_file": "18.3739.txt"
+}

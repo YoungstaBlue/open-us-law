@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 111",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "7",
+  "chapter_name": "ASSAULT",
+  "section_number": "111",
+  "catchline": "Assaulting, resisting, or impeding certain officers or employees",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s111",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section111&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, § 6487(a), Nov. 18, 1988, 102 Stat. 4386; Pub. L. 103–322, title XXXII, § 320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, § 727(c), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 107–273, div. C, title I, § 11008(b), Nov. 2, 2002, 116 Stat. 1818; Pub. L. 110–177, title II, § 208(b), Jan. 7, 2008, 121 Stat. 2538; Pub. L. 117–59, § 3(1), Nov. 18, 2021, 135 Stat. 1469.)",
+  "integrity_sha256": "7578d9b7040d5f3e50f9bd11da7bd3d5a66fc9a6bc734620bca1e1c0c16ad7eb",
+  "raw_bytes": 10541,
+  "source_file": "18.111.xml",
+  "text_file": "18.111.txt"
+}

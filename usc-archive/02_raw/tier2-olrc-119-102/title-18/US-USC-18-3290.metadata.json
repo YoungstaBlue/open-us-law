@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3290",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "213",
+  "chapter_name": "LIMITATIONS",
+  "section_number": "3290",
+  "catchline": "Fugitives from justice",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3290",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3290&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 829.)",
+  "integrity_sha256": "762fc898f1698db0d0e27df542e7b3636356f24b65b289b6304c901afc1586b6",
+  "raw_bytes": 1233,
+  "source_file": "18.3290.xml",
+  "text_file": "18.3290.txt"
+}

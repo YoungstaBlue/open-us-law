@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 33",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "2",
+  "chapter_name": "AIRCRAFT AND MOTOR VEHICLES",
+  "section_number": "33",
+  "catchline": "Destruction of motor vehicles or motor vehicle facilities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s33",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section33&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added July 14, 1956, ch. 595, § 1, 70 Stat. 540; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–88, title IV, § 402(a), Dec. 29, 1995, 109 Stat. 955; Pub. L. 109–177, title IV, § 406(c)(1), Mar. 9, 2006, 120 Stat. 245.)",
+  "integrity_sha256": "c34356883f5fea5b81f035a494500022f2b4d32ceede4831b256e5ccedc39842",
+  "raw_bytes": 5679,
+  "source_file": "18.33.xml",
+  "text_file": "18.33.txt"
+}

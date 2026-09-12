@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3439",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "221",
+  "chapter_name": "ARRAIGNMENT, PLEAS AND TRIAL",
+  "section_number": "3439",
+  "catchline": "Demurrers and special pleas in bar or abatement abolished; relief on motion—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3439",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3439&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 832.)",
+  "integrity_sha256": "0e68f2715904d576bd68a07b2f71e993c868ca14b41e84475e6b29026cc5c40e",
+  "raw_bytes": 935,
+  "source_file": "18.3439.xml",
+  "text_file": "18.3439.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 798A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "37",
+  "chapter_name": "ESPIONAGE AND CENSORSHIP",
+  "section_number": "798A",
+  "catchline": "Temporary extension of section 794",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s798A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section798A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added June 30, 1953, ch. 175, § 4, 67 Stat. 133, § 798; renumbered § 798A, Pub. L. 101–647, title XXXV, § 3519(a), Nov. 29, 1990, 104 Stat. 4923.)",
+  "integrity_sha256": "92296641d8d537e396f1876fbc2b2bd53198ed20a394f963d29acdab297a7344",
+  "raw_bytes": 4063,
+  "source_file": "18.798A.xml",
+  "text_file": "18.798A.txt"
+}

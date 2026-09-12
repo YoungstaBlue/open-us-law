@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3146",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "207",
+  "chapter_name": "RELEASE AND DETENTION PENDING JUDICIAL PROCEEDINGS",
+  "section_number": "3146",
+  "catchline": "Penalty for failure to appear",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3146",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3146&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 99–646, § 55(f), Nov. 10, 1986, 100 Stat. 3609; Pub. L. 103–322, title XXXIII, § 330016(2)(K), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–294, title VI, § 601(a)(4), Oct. 11, 1996, 110 Stat. 3498.)",
+  "integrity_sha256": "d7fd84738281770038be4ac4294d36f4fb9130c99d2c83b1dd3ecc5d6fea0c0c",
+  "raw_bytes": 12846,
+  "source_file": "18.3146.xml",
+  "text_file": "18.3146.txt"
+}

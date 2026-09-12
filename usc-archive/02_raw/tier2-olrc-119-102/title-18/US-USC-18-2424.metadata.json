@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2424",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "117",
+  "chapter_name": "TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES",
+  "section_number": "2424",
+  "catchline": "Filing factual statement about alien individual",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2424",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2424&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 813; Pub. L. 91–452, title II, § 226, Oct. 15, 1970, 84 Stat. 930; Pub. L. 99–628, § 5(c), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title III, § 325, Sept. 30, 1996, 110 Stat. 3009–629.)",
+  "integrity_sha256": "c0e84d87b2653ec256ca42bf587220cf7f52c1c967eee8fe190987a8f93b0579",
+  "raw_bytes": 10266,
+  "source_file": "18.2424.xml",
+  "text_file": "18.2424.txt"
+}

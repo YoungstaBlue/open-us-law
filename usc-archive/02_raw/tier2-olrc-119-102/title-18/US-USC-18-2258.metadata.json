@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2258",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110",
+  "chapter_name": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+  "section_number": "2258",
+  "catchline": "Failure to report child abuse",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2258",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2258&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 101–647, title II, § 226(g)(1), Nov. 29, 1990, 104 Stat. 4808; amended Pub. L. 109–248, title II, § 209, July 27, 2006, 120 Stat. 615; Pub. L. 115–126, title I, § 101(b), Feb. 14, 2018, 132 Stat. 319.)",
+  "integrity_sha256": "193289491f8dd8deb7061864148dd1179dcd44407e56cec1cc6bee67add555aa",
+  "raw_bytes": 3387,
+  "source_file": "18.2258.xml",
+  "text_file": "18.2258.txt"
+}

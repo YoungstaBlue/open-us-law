@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 19",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "19",
+  "catchline": "Petty offense defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s19",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section19&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–185, § 4(a), Dec. 11, 1987, 101 Stat. 1279; amended Pub. L. 100–690, title VII, § 7089(a), Nov. 18, 1988, 102 Stat. 4409.)",
+  "integrity_sha256": "b45330324aa2a77ab279130525d0c296ce7a255d7e9adedf6a4bfc58a8f6463b",
+  "raw_bytes": 1990,
+  "source_file": "18.19.xml",
+  "text_file": "18.19.txt"
+}

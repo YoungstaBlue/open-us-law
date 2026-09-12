@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3153",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "207",
+  "chapter_name": "RELEASE AND DETENTION PENDING JUDICIAL PROCEEDINGS",
+  "section_number": "3153",
+  "catchline": "Organization and administration of pretrial services",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3153",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3153&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2086; amended Pub. L. 97–287, § 3, Sept. 27, 1982, 96 Stat. 1136.)",
+  "integrity_sha256": "f03ba459d7b3110a9058a36773e33c9e82caa048705beebd304597f23859536f",
+  "raw_bytes": 8933,
+  "source_file": "18.3153.xml",
+  "text_file": "18.3153.txt"
+}

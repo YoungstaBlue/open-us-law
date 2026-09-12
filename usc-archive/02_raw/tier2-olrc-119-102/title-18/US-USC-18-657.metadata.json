@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 657",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "31",
+  "chapter_name": "EMBEZZLEMENT AND THEFT",
+  "section_number": "657",
+  "catchline": "Lending, credit and insurance institutions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s657",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section657&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, § 11, 63 Stat. 90; July 28, 1956, ch. 773, § 1, 70 Stat. 714; Pub. L. 85–699, title VII, § 703, Aug. 21, 1958, 72 Stat. 698; Pub. L. 87–353, § 3(q), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, § 24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, § 4, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 101–73, title IX, §§ 961(c), 962(a)(7), (8)(A), Aug. 9, 1989, 103 Stat. 499, 502; Pub. L. 101–624, title XXIII, § 2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XVI, § 1603, title XXV, §§ 2504(c), 2595(a)(2), Nov. 29, 1990, 104 Stat. 4843, 4861, 4907; Pub. L. 103–322, title XXXIII, §§ 330004(6), 330016(1)(H), Sept. 13, 1994, 108 Stat. 2141, 2147; Pub. L. 103–325, title I, § 119(c), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 106–78, title VII, § 767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 110–289, div. A, title II, § 1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, § 377(2), July 21, 2010, 124 Stat. 1569.)",
+  "integrity_sha256": "0c76344a7c5b4a2f2ba1f86508d9dca1fd70d2c7d3adb52c0ab88e5dadc6bf01",
+  "raw_bytes": 22541,
+  "source_file": "18.657.xml",
+  "text_file": "18.657.txt"
+}

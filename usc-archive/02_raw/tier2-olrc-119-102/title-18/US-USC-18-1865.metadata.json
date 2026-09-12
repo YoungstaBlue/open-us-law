@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1865",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "91",
+  "chapter_name": "PUBLIC LANDS",
+  "section_number": "1865",
+  "catchline": "National Park Service",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1865",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 113–287, § 4(a)(1), Dec. 19, 2014, 128 Stat. 3260.)",
+  "integrity_sha256": "e24a6f8fd219fa896acd1b449a59351c74ab05a31231733a3d61545377de65b9",
+  "raw_bytes": 10040,
+  "source_file": "18.1865.xml",
+  "text_file": "18.1865.txt"
+}

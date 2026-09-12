@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 493",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "493",
+  "catchline": "Bonds and obligations of certain lending agencies",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s493",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section493&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 87–353, § 3(p), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, § 24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, § 3, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(i), Oct. 26, 2001, 115 Stat. 341.)",
+  "integrity_sha256": "784cf865d19b98c678e337b446d169bfcecd5abb876f17282db1e59f3e015a78",
+  "raw_bytes": 15352,
+  "source_file": "18.493.xml",
+  "text_file": "18.493.txt"
+}

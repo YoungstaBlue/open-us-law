@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4013",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "301",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "4013",
+  "catchline": "Support of United States prisoners in non-Federal institutions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4013",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4013&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–690, title VII, § 7608(d)(1), Nov. 18, 1988, 102 Stat. 4516; amended Pub. L. 101–647, title XVII, § 1701, title XXXV, § 3599, Nov. 29, 1990, 104 Stat. 4843, 4931; Pub. L. 103–322, title XXXIII, § 330011(o), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 106–294, § 3, Oct. 12, 2000, 114 Stat. 1040; Pub. L. 107–273, div. A, title III, § 302(2), Nov. 2, 2002, 116 Stat. 1781.)",
+  "integrity_sha256": "a8100089d09f04d1133ae6dc6fb5a1654a78e047a37da04a07048d6e3e24d462",
+  "raw_bytes": 25370,
+  "source_file": "18.4013.xml",
+  "text_file": "18.4013.txt"
+}

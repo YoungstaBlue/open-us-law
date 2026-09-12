@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 44",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "3",
+  "chapter_name": "ANIMALS, BIRDS, FISH, AND PLANTS",
+  "section_number": "44",
+  "catchline": "Repealed. Pub. L. 97–79, § 9(b)(2), Nov. 16, 1981, 95 Stat. 1079]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s44",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section44&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "2285ae76a409c6bab5656becb8b0e4b4c96b352e6fad34bab59a0500af5bc3c3",
+  "raw_bytes": 1189,
+  "source_file": "18.44.xml",
+  "text_file": "18.44.txt"
+}

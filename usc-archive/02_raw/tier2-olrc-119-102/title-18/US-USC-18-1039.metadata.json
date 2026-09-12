@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1039",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1039",
+  "catchline": "Fraud and related activity in connection with obtaining confidential phone records information of a covered entity",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1039",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1039&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–476, § 3(a), Jan. 12, 2007, 120 Stat. 3569.)",
+  "integrity_sha256": "f94d6f052357e9d9e43616c203e19e21693be85e3a00a34073f13413c2885032",
+  "raw_bytes": 17359,
+  "source_file": "18.1039.xml",
+  "text_file": "18.1039.txt"
+}

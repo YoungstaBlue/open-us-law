@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1997c",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1997c",
+  "catchline": "Intervention in actions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1997c",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1997c&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 96–247, § 5, May 23, 1980, 94 Stat. 351; Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 803(c)], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)",
+  "integrity_sha256": "b7146698726d8c2453d9ddeab9714dd2cb8fb4c670944a17dff571b77d07e130",
+  "raw_bytes": 8750,
+  "source_file": "42.1997c.xml",
+  "text_file": "42.1997c.txt"
+}

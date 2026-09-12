@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 249",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "13",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "249",
+  "catchline": "Hate crime acts",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s249",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section249&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added and amended Pub. L. 111–84, div. E, §§ 4707(a), 4711, Oct. 28, 2009, 123 Stat. 2838, 2842; Pub. L. 117–13, § 5(h), May 20, 2021, 135 Stat. 272; Pub. L. 117–107, § 2, Mar. 29, 2022, 136 Stat. 1125.)",
+  "integrity_sha256": "86703ab4521122c0096a371ccdd758c9a232b8afb89bd6629f8873cd9259a8e1",
+  "raw_bytes": 20803,
+  "source_file": "18.249.xml",
+  "text_file": "18.249.txt"
+}

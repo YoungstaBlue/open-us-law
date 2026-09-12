@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 831",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "39",
+  "chapter_name": "EXPLOSIVES AND OTHER DANGEROUS ARTICLES",
+  "section_number": "831",
+  "catchline": "Prohibited transactions involving nuclear materials",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s831",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 97–351, § 2(a), Oct. 18, 1982, 96 Stat. 1663; amended Pub. L. 100–690, title VII, § 7022, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–272, § 5(e)(6), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, § 330016(2)(C), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title V, § 502, Apr. 24, 1996, 110 Stat. 1282; Pub. L. 114–23, title VIII, § 812, June 2, 2015, 129 Stat. 311.)",
+  "integrity_sha256": "44a97b87fdf955c70202cd8c44a67a7950ecf5a8ab519566656a9b9cd4a65c3d",
+  "raw_bytes": 45452,
+  "source_file": "18.831.xml",
+  "text_file": "18.831.txt"
+}

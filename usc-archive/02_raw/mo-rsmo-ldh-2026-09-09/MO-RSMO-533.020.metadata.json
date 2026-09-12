@@ -1,0 +1,21 @@
+{
+ "section_id": "MO-RSMO-533.020",
+ "jurisdiction": "missouri",
+ "section": "RSMo § 533.020",
+ "chapter_number": "533",
+ "section_number": "533.020",
+ "catchline": "Order of delivery",
+ "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=533.020",
+ "history_text": "(RSMo 1939 § 1789)",
+ "effective_date_note": null,
+ "source_type": "Legal Data Hunter MCP, source US/MO-Legislation (\"Missouri Revised Statutes\", tier 1, 29,622 documents, document date field 2025-01-01; section texts carry 2025 and 2026 session-law history, so the underlying capture is later than the date field). Retrieved via get_document(include_full_text=true). Second-hand copy of revisor.mo.gov; not a direct fetch of the official site.",
+ "source_record_date": "2025-01-01",
+ "retrieved_at": "2026-09-09T07:50:00+00:00",
+ "source_file": "MO-RSMO-533.020.json",
+ "text_file": "MO-RSMO-533.020.txt",
+ "integrity_sha256": "07c09f53065f3eba284de68e6d0ebbd655359edf1ceca64390383bf88516ede9",
+ "positive_law_title": null,
+ "status": "operative",
+ "citation_log_id": "C-055",
+ "flags": []
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 506",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "506",
+  "catchline": "Seals of departments or agencies",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s506",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section506&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title V, § 561, Sept. 30, 1996, 110 Stat. 3009–681; Pub. L. 110–234, title IV, § 4002(b)(1)(E), (2)(M), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(E), (2)(M), June 18, 2008, 122 Stat. 1664, 1857, 1858.)",
+  "integrity_sha256": "cdf5fb1f492f4f1198878dd9fe1b3383a9ea0c61a4f0ea35863f89263f800330",
+  "raw_bytes": 12537,
+  "source_file": "18.506.xml",
+  "text_file": "18.506.txt"
+}

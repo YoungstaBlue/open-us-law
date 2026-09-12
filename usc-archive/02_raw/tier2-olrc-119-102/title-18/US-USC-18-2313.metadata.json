@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2313",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113",
+  "chapter_name": "STOLEN PROPERTY",
+  "section_number": "2313",
+  "catchline": "Sale or receipt of stolen vehicles",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2313",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2313&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 98–547, title II, § 203, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 101–647, title XII, § 1205(l), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 102–519, title I, § 103, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 109–177, title III, § 307(b)(2)(B), Mar. 9, 2006, 120 Stat. 240.)",
+  "integrity_sha256": "3c39b26440a2f3c68418659f015564e6eac87d44a80116aa4cc939f722feca09",
+  "raw_bytes": 5401,
+  "source_file": "18.2313.xml",
+  "text_file": "18.2313.txt"
+}

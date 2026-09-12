@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4124",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "307",
+  "chapter_name": "EMPLOYMENT",
+  "section_number": "4124",
+  "catchline": "Purchase of prison-made products by Federal departments",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4124",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4124&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 851; Oct. 31, 1951, ch. 655, § 32, 65 Stat. 723; Pub. L. 98–216, § 3(b)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 101–647, title XXIX, § 2901, Nov. 29, 1990, 104 Stat. 4912; Pub. L. 102–564, title III, § 303(b), Oct. 28, 1992, 106 Stat. 4262; Pub. L. 104–316, title I, § 109(b), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 111–350, § 5(d)(2), Jan. 4, 2011, 124 Stat. 3847.)",
+  "integrity_sha256": "d2da90286ce3a875f839864756f6bea54a0e4f49712cdf15965cb603ca6d760c",
+  "raw_bytes": 12176,
+  "source_file": "18.4124.xml",
+  "text_file": "18.4124.txt"
+}

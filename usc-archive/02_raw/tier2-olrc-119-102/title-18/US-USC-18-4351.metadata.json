@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4351",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "319",
+  "chapter_name": "NATIONAL INSTITUTE OF CORRECTIONS",
+  "section_number": "4351",
+  "catchline": "Establishment; Advisory Board; appointment of members; compensation; officers; committees; delegation of powers; Director, appointment and powers 11 Section catchline editorially supplied.",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4351",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4351&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 93–415, title V, § 521, Sept. 7, 1974, 88 Stat. 1139; amended Pub. L. 95–115, § 8(a), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, § 223(o), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 103–322, title XXXIII, § 330001(i), Sept. 13, 1994, 108 Stat. 2140.)",
+  "integrity_sha256": "32e36fc88876ffc44884e635e622bef440a79a60049fe1356504781c387d2afa",
+  "raw_bytes": 16623,
+  "source_file": "18.4351.xml",
+  "text_file": "18.4351.txt"
+}

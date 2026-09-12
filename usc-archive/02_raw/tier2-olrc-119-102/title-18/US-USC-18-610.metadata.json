@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 610",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "29",
+  "chapter_name": "ELECTIONS AND POLITICAL ACTIVITIES",
+  "section_number": "610",
+  "catchline": "Coercion of political activity",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s610",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section610&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–94, § 4(c)(1), Oct. 6, 1993, 107 Stat. 1005; amended Pub. L. 104–294, title VI, § 601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)",
+  "integrity_sha256": "bf89dc6e0bf190fbdddd5b080cf81f00df26bbf4d764b54ebfdfd6539ff6ade1",
+  "raw_bytes": 4851,
+  "source_file": "18.610.xml",
+  "text_file": "18.610.txt"
+}

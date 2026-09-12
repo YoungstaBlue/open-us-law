@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1660",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "81",
+  "chapter_name": "PIRACY AND PRIVATEERING",
+  "section_number": "1660",
+  "catchline": "Receipt of pirate property",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1660",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1660&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 775.)",
+  "integrity_sha256": "6b2555171a31a1312a2daec045dd9551c0b346d80c05f06cfe207cafe5397492",
+  "raw_bytes": 1644,
+  "source_file": "18.1660.xml",
+  "text_file": "18.1660.txt"
+}

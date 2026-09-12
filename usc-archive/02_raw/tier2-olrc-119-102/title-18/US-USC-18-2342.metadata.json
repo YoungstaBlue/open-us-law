@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2342",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "114",
+  "chapter_name": "TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO",
+  "section_number": "2342",
+  "catchline": "Unlawful acts",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2342",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2342&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 109–177, title I, § 121(a)(2), (b)(2), Mar. 9, 2006, 120 Stat. 221, 222.)",
+  "integrity_sha256": "3be59de6e6f977ba9897f56fef67c4827dd91dc11a45fdd5646c3228b15b7504",
+  "raw_bytes": 3405,
+  "source_file": "18.2342.xml",
+  "text_file": "18.2342.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 470",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "470",
+  "catchline": "Counterfeit acts committed outside the United States",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s470",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section470&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title XII, § 120003(a), Sept. 13, 1994, 108 Stat. 2021; amended Pub. L. 107–56, title III, § 374(a), Oct. 26, 2001, 115 Stat. 340.)",
+  "integrity_sha256": "c1b273e1f3c6fc263b73f21ac72e441bdededcbb5debe7451da1b7d426096600",
+  "raw_bytes": 4829,
+  "source_file": "18.470.xml",
+  "text_file": "18.470.txt"
+}

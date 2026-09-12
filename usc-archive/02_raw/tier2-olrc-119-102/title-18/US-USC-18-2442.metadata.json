@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2442",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "118",
+  "chapter_name": "WAR CRIMES",
+  "section_number": "2442",
+  "catchline": "Recruitment or use of child soldiers",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2442",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2442&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 110–340, § 2(a)(1), Oct. 3, 2008, 122 Stat. 3735.)",
+  "integrity_sha256": "951725d00cb92d243b00d0bfc713b580843c3ac5d471923951198fbeff432448",
+  "raw_bytes": 6254,
+  "source_file": "18.2442.xml",
+  "text_file": "18.2442.txt"
+}

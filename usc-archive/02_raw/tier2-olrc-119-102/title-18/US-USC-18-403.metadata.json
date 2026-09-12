@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 403",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "21",
+  "chapter_name": "CONTEMPTS",
+  "section_number": "403",
+  "catchline": "Protection of the privacy of child victims and child witnesses",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s403",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section403&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 101–647, title II, § 225(b)(1), Nov. 29, 1990, 104 Stat. 4805.)",
+  "integrity_sha256": "287ee64736722ae7b34c7345fb7b9714cbc42404dcc4f46498335ab37be2a870",
+  "raw_bytes": 944,
+  "source_file": "18.403.xml",
+  "text_file": "18.403.txt"
+}

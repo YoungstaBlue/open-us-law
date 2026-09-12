@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 753",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "35",
+  "chapter_name": "ESCAPE AND RESCUE",
+  "section_number": "753",
+  "catchline": "Rescue to prevent execution",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s753",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section753&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 735; Pub. L. 103–322, title XXXIII, § 330016(1)(O), Sept. 13, 1994, 108 Stat. 2148.)",
+  "integrity_sha256": "8905a57b50f715263cd9fa1c2e11711ebd5cf99310f417fc986cf5ff136e34cb",
+  "raw_bytes": 2362,
+  "source_file": "18.753.xml",
+  "text_file": "18.753.txt"
+}

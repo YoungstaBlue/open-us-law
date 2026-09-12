@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2314",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113",
+  "chapter_name": "STOLEN PROPERTY",
+  "section_number": "2314",
+  "catchline": "Transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2314",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2314&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, § 45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Pub. L. 87–371, § 2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885; Pub. L. 100–690, title VII, §§ 7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, § 1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 112–186, § 4(d)(1), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 112–239, div. A, title X, § 1084(a), Jan. 2, 2013, 126 Stat. 1963.)",
+  "integrity_sha256": "b1832ff146d4305ed15ec0cbb52716c939080a72a90d70b70fff2ea67acb67ca",
+  "raw_bytes": 14870,
+  "source_file": "18.2314.xml",
+  "text_file": "18.2314.txt"
+}

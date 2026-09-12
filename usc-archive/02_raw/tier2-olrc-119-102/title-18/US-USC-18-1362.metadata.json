@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1362",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "65",
+  "chapter_name": "MALICIOUS MISCHIEF",
+  "section_number": "1362",
+  "catchline": "Communication lines, stations or systems",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1362",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1362&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 87–306, Sept. 26, 1961, 75 Stat. 669; Pub. L. 103–322, title XXXII, § 320903(d)(2), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 107–56, title VIII, § 811(c), Oct. 26, 2001, 115 Stat. 381.)",
+  "integrity_sha256": "b87583ca2b3a47cc396924b0d7121dcc34569286b499b229bf69c120a9086f46",
+  "raw_bytes": 4695,
+  "source_file": "18.1362.xml",
+  "text_file": "18.1362.txt"
+}

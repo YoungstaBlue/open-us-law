@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4042",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "303",
+  "chapter_name": "BUREAU OF PRISONS",
+  "section_number": "4042",
+  "catchline": "Duties of Bureau of Prisons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4042",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4042&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, § 20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, § 115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, § 141(f)–(h), July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, § 231(d)(1), Apr. 9, 2008, 122 Stat. 685; Pub. L. 111–211, title II, § 261(a), July 29, 2010, 124 Stat. 2299; Pub. L. 115–391, title VI, § 604(b), Dec. 21, 2018, 132 Stat. 5241.)",
+  "integrity_sha256": "7e6b100aff04f21b55089404a992031e38be5de2e14047f71a1ff97ed3ac72a3",
+  "raw_bytes": 77750,
+  "source_file": "18.4042.xml",
+  "text_file": "18.4042.txt"
+}

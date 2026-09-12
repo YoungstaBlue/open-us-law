@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1074",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "49",
+  "chapter_name": "FUGITIVES FROM JUSTICE",
+  "section_number": "1074",
+  "catchline": "Flight to avoid prosecution for damaging or destroying any building or other real or personal property",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1074",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1074&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 86–449, title II, § 201, May 6, 1960, 74 Stat. 86; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "28d1df4a5178ded9c8cb5af9e8fd5689b4fbbcc8a517a07d567e720f25753f66",
+  "raw_bytes": 3048,
+  "source_file": "18.1074.xml",
+  "text_file": "18.1074.txt"
+}

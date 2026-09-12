@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1517",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "73",
+  "chapter_name": "OBSTRUCTION OF JUSTICE",
+  "section_number": "1517",
+  "catchline": "Obstructing examination of financial institution",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1517",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1517&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 101–647, title XXV, § 2503(a), Nov. 29, 1990, 104 Stat. 4861.)",
+  "integrity_sha256": "0aebc5f5dbf16a7965ada7120c519d3930f887268407b4a6e9a3ec3267c610c6",
+  "raw_bytes": 952,
+  "source_file": "18.1517.xml",
+  "text_file": "18.1517.txt"
+}

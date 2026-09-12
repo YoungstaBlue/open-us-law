@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 229A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11B",
+  "chapter_name": "CHEMICAL WEAPONS",
+  "section_number": "229A",
+  "catchline": "Penalties",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s229A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section229A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–867.)",
+  "integrity_sha256": "f1c255c7e3e4e17df97f2e406ed7fc54e9d06a4efd4a2b169d07035b2d0511b4",
+  "raw_bytes": 4222,
+  "source_file": "18.229A.xml",
+  "text_file": "18.229A.txt"
+}

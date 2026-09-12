@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 716",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "33",
+  "chapter_name": "EMBLEMS, INSIGNIA, AND NAMES",
+  "section_number": "716",
+  "catchline": "Public employee insignia and uniform",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s716",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section716&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 106–547, § 3(a), Dec. 19, 2000, 114 Stat. 2739; amended Pub. L. 109–162, title XI, § 1191(a), Jan. 5, 2006, 119 Stat. 3128.)",
+  "integrity_sha256": "8b92fc05445828c36fa4aae650ad60a68000e7f23b94df065090d5063d412b2e",
+  "raw_bytes": 10832,
+  "source_file": "18.716.xml",
+  "text_file": "18.716.txt"
+}

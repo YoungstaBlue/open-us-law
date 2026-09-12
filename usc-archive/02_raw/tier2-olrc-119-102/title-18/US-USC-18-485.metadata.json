@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 485",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "485",
+  "catchline": "Coins or bars",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s485",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section485&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 89–81, title II, § 211(a), July 23, 1965, 79 Stat. 257; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "8bf8242308a9e0b0897e47fd256f08cb49ab441a9e72b518724bf4f95cbea558",
+  "raw_bytes": 4010,
+  "source_file": "18.485.xml",
+  "text_file": "18.485.txt"
+}

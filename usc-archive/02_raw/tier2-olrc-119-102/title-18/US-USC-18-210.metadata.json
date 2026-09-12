@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 210",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "210",
+  "catchline": "Offer to procure appointive public office",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s210",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section210&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 694, § 210, formerly § 214; renumbered § 210, Pub. L. 87–849, § 1(b), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "373d532a5b53382c85e361feb158464d064cc92d4f73062674a480fcdb5fc2b6",
+  "raw_bytes": 3999,
+  "source_file": "18.210.xml",
+  "text_file": "18.210.txt"
+}

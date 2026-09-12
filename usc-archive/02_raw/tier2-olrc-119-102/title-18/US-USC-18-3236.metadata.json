@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3236",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "211",
+  "chapter_name": "JURISDICTION AND VENUE",
+  "section_number": "3236",
+  "catchline": "Murder or manslaughter",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3236",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3236&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 826.)",
+  "integrity_sha256": "342efbbd99c879aedb61c6aedd4b9f0e16c4b37ca76061f00648541798d0c2ab",
+  "raw_bytes": 1354,
+  "source_file": "18.3236.xml",
+  "text_file": "18.3236.txt"
+}

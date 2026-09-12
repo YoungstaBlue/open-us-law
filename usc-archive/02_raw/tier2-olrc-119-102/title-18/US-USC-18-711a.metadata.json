@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 711a",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "33",
+  "chapter_name": "EMBLEMS, INSIGNIA, AND NAMES",
+  "section_number": "711a",
+  "catchline": "Repealed. Pub. L. 116–260, div. O, title X, § 1002(6), Dec. 27, 2020, 134 Stat. 2155]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s711a",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section711a&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "a189e47bb91c2313ff2dce2448ec0293854f653339770694878c14e8164bc02c",
+  "raw_bytes": 1230,
+  "source_file": "18.711a.xml",
+  "text_file": "18.711a.txt"
+}

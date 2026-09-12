@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1996a",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1996a",
+  "catchline": "Traditional Indian religious use of peyote",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1996a",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996a&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 95–341, § 3, as added Pub. L. 103–344, § 2, Oct. 6, 1994, 108 Stat. 3125.)",
+  "integrity_sha256": "98c2074912827b4e1a91482608ad84aa31bc2b171ca2ba93904adb8e0a944947",
+  "raw_bytes": 14148,
+  "source_file": "42.1996a.xml",
+  "text_file": "42.1996a.txt"
+}

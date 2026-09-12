@@ -1,0 +1,23 @@
+{
+ "section_id": "MO-RSMO-575.150",
+ "jurisdiction": "missouri",
+ "section": "RSMo § 575.150",
+ "chapter_number": "575",
+ "section_number": "575.150",
+ "catchline": "Resisting or interfering with arrest — penalties",
+ "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=575.150",
+ "history_text": "(L. 1977 S.B. 60, A.L. 1996 H.B. 1047, A.L. 2002 H.B. 1270 and H.B. 2032, A.L. 2005 H.B. 353, A.L. 2009 H.B. 62, A.L. 2014 S.B. 491, A.L. 2025 H.B. 495)",
+ "effective_date_note": null,
+ "source_type": "Legal Data Hunter MCP, source US/MO-Legislation (\"Missouri Revised Statutes\", tier 1, 29,622 documents, document date field 2025-01-01; section texts carry 2025 and 2026 session-law history, so the underlying capture is later than the date field). Retrieved via get_document(include_full_text=true). Second-hand copy of revisor.mo.gov; not a direct fetch of the official site.",
+ "source_record_date": "2025-01-01",
+ "retrieved_at": "2026-09-09T07:50:00+00:00",
+ "source_file": "MO-RSMO-575.150.json",
+ "text_file": "MO-RSMO-575.150.txt",
+ "integrity_sha256": "7c802c8d2f67ea37b4c05b561b634ac62e410b32d80f62041fda67a5f8db5cca",
+ "positive_law_title": null,
+ "status": "operative",
+ "citation_log_id": "C-006",
+ "flags": [
+  "amended by 2025/2026 session law; confirm which version governs the offense/order date"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2245",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "109A",
+  "chapter_name": "SEXUAL ABUSE",
+  "section_number": "2245",
+  "catchline": "Offenses resulting in death",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2245",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2245&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title VI, § 60010(a)(2), Sept. 13, 1994, 108 Stat. 1972; amended Pub. L. 109–248, title II, § 206(a)(3), July 27, 2006, 120 Stat. 613.)",
+  "integrity_sha256": "6166c99d44e21fd14a8b1f83d6e81eab345fbe064d6d509abb1d9593f1f329a6",
+  "raw_bytes": 2703,
+  "source_file": "18.2245.xml",
+  "text_file": "18.2245.txt"
+}

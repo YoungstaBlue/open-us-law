@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 6005",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "601",
+  "chapter_name": "IMMUNITY OF WITNESSES",
+  "section_number": "6005",
+  "catchline": "Congressional proceedings",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s6005",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section6005&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 928; amended Pub. L. 103–322, title XXXIII, § 330013(4), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–292, § 5, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, § 605(o), Oct. 11, 1996, 110 Stat. 3510.)",
+  "integrity_sha256": "d98066673eb52c712d528fd3a74277f9ee87a78c4939c0620b4cc1f6583ae63b",
+  "raw_bytes": 5580,
+  "source_file": "18.6005.xml",
+  "text_file": "18.6005.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 713",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "33",
+  "chapter_name": "EMBLEMS, INSIGNIA, AND NAMES",
+  "section_number": "713",
+  "catchline": "Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s713",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section713&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 89–807, § 1(a), Nov. 11, 1966, 80 Stat. 1525; amended Pub. L. 91–651, § 1, Jan. 5, 1971, 84 Stat. 1940; Pub. L. 102–229, title II, § 210(a)–(d), Dec. 12, 1991, 105 Stat. 1717; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 105–55, title III, § 308(a)–(d), Oct. 7, 1997, 111 Stat. 1198.)",
+  "integrity_sha256": "ef4163c916eff515a395fe50f268ed4531c75ce8193fd0fef1acbacd3574846e",
+  "raw_bytes": 15753,
+  "source_file": "18.713.xml",
+  "text_file": "18.713.txt"
+}

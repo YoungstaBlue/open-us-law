@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 928",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "44",
+  "chapter_name": "FIREARMS",
+  "section_number": "928",
+  "catchline": "Separability",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s928",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section928&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226.)",
+  "integrity_sha256": "e6efbd43ae17c0031126c43ccccd573556e6db0c6d931eb4ffcf7d7a4c97f22f",
+  "raw_bytes": 2992,
+  "source_file": "18.928.xml",
+  "text_file": "18.928.txt"
+}

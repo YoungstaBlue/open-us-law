@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12121",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12121",
+  "catchline": "Task force on prison construction standardization and techniques",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12121",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12121&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title II, § 20406, Sept. 13, 1994, 108 Stat. 1826.)",
+  "integrity_sha256": "8025a5e3d66863ec87ddf87c148e4f821cb53fe303e2f48c691c8e9d5d7931c4",
+  "raw_bytes": 5679,
+  "source_file": "34.12121.xml",
+  "text_file": "34.12121.txt"
+}

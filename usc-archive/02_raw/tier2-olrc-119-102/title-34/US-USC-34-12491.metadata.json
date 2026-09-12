@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12491",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12491",
+  "catchline": "Housing protections for victims of domestic violence, dating violence, sexual assault, and stalking",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12491",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IV, § 41411, as added Pub. L. 113–4, title VI, § 601(a)(4), Mar. 7, 2013, 127 Stat. 102; amended Pub. L. 114–324, § 6, Dec. 16, 2016, 130 Stat. 1951; Pub. L. 117–103, div. W, title VI, § 601, Mar. 15, 2022, 136 Stat. 881.)",
+  "integrity_sha256": "459b71335f9ae3b08e292eb6b73a47400027f6d756555b3d24fa91c576c491d5",
+  "raw_bytes": 42980,
+  "source_file": "34.12491.xml",
+  "text_file": "34.12491.txt"
+}

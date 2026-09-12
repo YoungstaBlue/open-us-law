@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 20",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "20",
+  "catchline": "Financial institution defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s20",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section20&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1107(a), Oct. 12, 1984, 98 Stat. 2145, § 215(b); amended Pub. L. 99–370, § 2, Aug. 4, 1986, 100 Stat. 779; renumbered § 20 and amended Pub. L. 101–73, title IX, § 962(e)(1), (2), Aug. 9, 1989, 103 Stat. 503; Pub. L. 101–647, title XXV, § 2597(a), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 111–21, § 2(a), May 20, 2009, 123 Stat. 1617.)",
+  "integrity_sha256": "1576447111ea592cdef858fa060f28697d294d65438c9671221a85af65772f27",
+  "raw_bytes": 10976,
+  "source_file": "18.20.xml",
+  "text_file": "18.20.txt"
+}

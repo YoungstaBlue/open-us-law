@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3183",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "209",
+  "chapter_name": "EXTRADITION",
+  "section_number": "3183",
+  "catchline": "Fugitives from State, Territory, or Possession into extraterritorial jurisdiction of United States",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3183",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3183&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 107–273, div. B, title IV, § 4004(d), Nov. 2, 2002, 116 Stat. 1812.)",
+  "integrity_sha256": "dd6a5ec05427abef0d1db689a3d4ed4a9398fed7498ada3e6d65f7efccb66a63",
+  "raw_bytes": 4190,
+  "source_file": "18.3183.xml",
+  "text_file": "18.3183.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3512",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "223",
+  "chapter_name": "WITNESSES AND EVIDENCE",
+  "section_number": "3512",
+  "catchline": "Foreign requests for assistance in criminal investigations and prosecutions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3512",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3512&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 111–79, § 2(4), Oct. 19, 2009, 123 Stat. 2087.)",
+  "integrity_sha256": "023b0a41e599ba99f8cdcb8229fd677c8223fcfd6dbd37c8bddc6d1a05424826",
+  "raw_bytes": 11701,
+  "source_file": "18.3512.xml",
+  "text_file": "18.3512.txt"
+}

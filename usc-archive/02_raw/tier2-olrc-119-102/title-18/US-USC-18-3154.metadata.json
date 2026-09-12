@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3154",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "207",
+  "chapter_name": "RELEASE AND DETENTION PENDING JUDICIAL PROCEEDINGS",
+  "section_number": "3154",
+  "catchline": "Functions and powers relating to pretrial services",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3154",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3154&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2087; amended Pub. L. 97–267, § 4, Sept. 27, 1982, 96 Stat. 1137; Pub. L. 98–473, title II, § 203(b), Oct. 12, 1984, 98 Stat. 1984; Pub. L. 101–647, title XXXV, § 3576, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 102–572, title VII, § 701(b), title X, § 1002, Oct. 29, 1992, 106 Stat. 4515, 4521; Pub. L. 104–317, title I, § 101(b), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 110–406, § 15(a), Oct. 13, 2008, 122 Stat. 4294; Pub. L. 111–174, § 5, May 27, 2010, 124 Stat. 1216; Pub. L. 115–391, title VI, § 609(b), Dec. 21, 2018, 132 Stat. 5245.)",
+  "integrity_sha256": "1711c59469ca12ae08eac27f8f541043cf222b213ff6117a7e41d1aef5fe46ab",
+  "raw_bytes": 20990,
+  "source_file": "18.3154.xml",
+  "text_file": "18.3154.txt"
+}

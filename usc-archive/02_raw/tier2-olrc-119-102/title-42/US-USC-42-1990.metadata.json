@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1990",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1990",
+  "catchline": "Marshal to obey precepts; refusing to receive or execute process",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1990",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1990&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(R.S. §§ 1985, 5517.)",
+  "integrity_sha256": "3ae5c1efd2c4e9b22da0cad5b1a34116e0d63dfdbeb4a4bb323801c58a59e295",
+  "raw_bytes": 2274,
+  "source_file": "42.1990.xml",
+  "text_file": "42.1990.txt"
+}

@@ -3,6 +3,7 @@ requests>=2.31
 beautifulsoup4>=4.12
 lxml>=5.0
 httpx>=0.27
+duckdb>=0.10          # local query layer for scripts/local_kb/
 curl_cffi>=0.7          # anti-bot fetch for some state portals
 pymupdf>=1.24           # PDF parsing (fitz)
 pdfplumber>=0.11        # PDF parsing (some regulation portals)

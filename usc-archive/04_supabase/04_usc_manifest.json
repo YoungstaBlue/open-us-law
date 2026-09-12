@@ -1,7 +1,7 @@
 {
   "archive": "US-USC",
-  "rows_loaded": 1655,
-  "current_rows": 1647,
+  "rows_loaded": 1656,
+  "current_rows": 1648,
   "audit_rows": 8,
   "by_title": {
     "18": 1392,
@@ -15,10 +15,10 @@
     "565": 0,
     "569": 1,
     "575": 1,
-    "589": 1,
+    "589": 2,
     "610": 2
   },
-  "csv_sha256": "64a29d85b6f5b27fcaf2bb80fefeaf0566634b19ef80bb4c276470b17b076e53",
+  "csv_sha256": "43ccc0fc777a4a679ed91d2ac0dca748addeea51a7f81d4a3af3621b1396cf63",
   "supabase_project": "bayizqcstqdacbonudey",
-  "loaded_at": "2026-09-09T12:17:54+0000"
+  "loaded_at": "2026-09-12T02:14:15+0000"
 }

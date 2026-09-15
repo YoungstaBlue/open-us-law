@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 927",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "44",
+  "chapter_name": "FIREARMS",
+  "section_number": "927",
+  "catchline": "Effect on State law",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s927",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section927&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226.)",
+  "integrity_sha256": "c4763a7717c0861caf7ed0b6ff57b056a7a0b148d45389c6306c25fd7319aa2b",
+  "raw_bytes": 3149,
+  "source_file": "18.927.xml",
+  "text_file": "18.927.txt"
+}

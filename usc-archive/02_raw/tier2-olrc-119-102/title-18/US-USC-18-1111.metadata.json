@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1111",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "51",
+  "chapter_name": "HOMICIDE",
+  "section_number": "1111",
+  "catchline": "Murder",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1111",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1111&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 98–473, title II, § 1004, Oct. 12, 1984, 98 Stat. 2138; Pub. L. 99–646, § 87(c)(4), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(4), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, § 7025, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, § 60003(a)(4), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 108–21, title I, § 102, Apr. 30, 2003, 117 Stat. 652.)",
+  "integrity_sha256": "acc89fea50c8564189129ddbb76bbcd001e97edea637ae1cf0d8910734233c5a",
+  "raw_bytes": 10931,
+  "source_file": "18.1111.xml",
+  "text_file": "18.1111.txt"
+}

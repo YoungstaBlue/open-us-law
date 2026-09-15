@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1997d",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1997d",
+  "catchline": "Prohibition of retaliation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1997d",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1997d&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 96–247, § 6, May 23, 1980, 94 Stat. 352.)",
+  "integrity_sha256": "38448176cd7c901944328db6ae6d756741a666ce7093c8460b3cf25df753a89d",
+  "raw_bytes": 766,
+  "source_file": "42.1997d.xml",
+  "text_file": "42.1997d.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1083",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "50",
+  "chapter_name": "GAMBLING",
+  "section_number": "1083",
+  "catchline": "Transportation between shore and ship; penalties",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1083",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1083&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added May 24, 1949, ch. 139, § 23, 63 Stat. 92.)",
+  "integrity_sha256": "33de24319eaa77aa2c9352fc4ec370b51079b4f7696148e5d70aa6d9df48ac2b",
+  "raw_bytes": 2378,
+  "source_file": "18.1083.xml",
+  "text_file": "18.1083.txt"
+}

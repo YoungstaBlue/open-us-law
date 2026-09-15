@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2335",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113B",
+  "chapter_name": "TERRORISM",
+  "section_number": "2335",
+  "catchline": "Limitation of actions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2335",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2335&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4523; amended Pub. L. 112–239, div. A, title XII, § 1251(a), Jan. 2, 2013, 126 Stat. 2017.)",
+  "integrity_sha256": "30327290a304fc8ca3c1b2da57e9905c38e800970dd1474f9e57408af4ef193b",
+  "raw_bytes": 4498,
+  "source_file": "18.2335.xml",
+  "text_file": "18.2335.txt"
+}

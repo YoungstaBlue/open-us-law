@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3271",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "212A",
+  "chapter_name": "EXTRATERRITORIAL JURISDICTION OVER CERTAIN OFFENSES",
+  "section_number": "3271",
+  "catchline": "Trafficking in persons offenses committed by persons employed by or accompanying the Federal Government outside the United States",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3271",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3271&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–164, title I, § 103(a)(1), Jan. 10, 2006, 119 Stat. 3562.)",
+  "integrity_sha256": "bd5ff9aef35086b717e18d5f7190759012244546ba8b9d1c7f0d4e6cc741ea32",
+  "raw_bytes": 1908,
+  "source_file": "18.3271.xml",
+  "text_file": "18.3271.txt"
+}

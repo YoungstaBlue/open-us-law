@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12281",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12281",
+  "catchline": "Gang Resistance Education and Training projects",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12281",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12281&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title III, § 32401, Sept. 13, 1994, 108 Stat. 1902; Pub. L. 107–296, title XI, § 1112(p), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 109–162, title XI, § 1188, Jan. 5, 2006, 119 Stat. 3128.)",
+  "integrity_sha256": "dd1a99275c91fd31a1b0395f73bc5b8952e13deb84080df9b1d0a13d23f0f638",
+  "raw_bytes": 8095,
+  "source_file": "34.12281.xml",
+  "text_file": "34.12281.txt"
+}

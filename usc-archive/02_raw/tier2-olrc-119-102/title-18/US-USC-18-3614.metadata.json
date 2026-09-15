@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3614",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "229",
+  "chapter_name": "POSTSENTENCE ADMINISTRATION",
+  "section_number": "3614",
+  "catchline": "Resentencing upon failure to pay a fine or restitution",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3614",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3614&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2006; amended Pub. L. 104–132, title II, § 207(c)(5), Apr. 24, 1996, 110 Stat. 1240.)",
+  "integrity_sha256": "35065b66abc962bb58a223bfdec8e95e8b147d6445c8d326227ee695c22a7717",
+  "raw_bytes": 5914,
+  "source_file": "18.3614.xml",
+  "text_file": "18.3614.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 112",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "7",
+  "chapter_name": "ASSAULT",
+  "section_number": "112",
+  "catchline": "Protection of foreign officials, official guests, and internationally protected persons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s112",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section112&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 88–493, § 1, Aug. 27, 1964, 78 Stat. 610; Pub. L. 92–539, title III, § 301, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, § 5, Oct. 8, 1976, 90 Stat. 1999; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 100–690, title VI, § 6478, Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–272, § 5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXXII, § 320101(b), title XXXIII, § 330016(1)(G), (K), Sept. 13, 1994, 108 Stat. 2108, 2147; Pub. L. 104–132, title VII, § 721(d), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, § 604(b)(12)(A), Oct. 11, 1996, 110 Stat. 3507.)",
+  "integrity_sha256": "b022e1621b2278ed3e3638c2bec670719b24cb30a9f61b8c9a3a92d98294aa39",
+  "raw_bytes": 22855,
+  "source_file": "18.112.xml",
+  "text_file": "18.112.txt"
+}

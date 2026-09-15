@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3612",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "229",
+  "chapter_name": "POSTSENTENCE ADMINISTRATION",
+  "section_number": "3612",
+  "catchline": "Collection of unpaid fine or restitution",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3612",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3612&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, § 11, Dec. 11, 1987, 101 Stat. 1283; Pub. L. 100–690, title VII, § 7082(c), (d), Nov. 18, 1988, 102 Stat. 4408; Pub. L. 101–647, title XXXV, § 3592, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 207(c)(2), Apr. 24, 1996, 110 Stat. 1237; Pub. L. 106–554, § 1(a)(7) [title III, § 307(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–635; Pub. L. 107–273, div. B, title IV, § 4002(b)(15), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–324, § 18, Dec. 16, 2016, 130 Stat. 1962.)",
+  "integrity_sha256": "ab274bebbfc01238bc00440e9c033d169f5242e43fe63e11d21e001816f0cf46",
+  "raw_bytes": 39238,
+  "source_file": "18.3612.xml",
+  "text_file": "18.3612.txt"
+}

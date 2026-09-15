@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 217",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "217",
+  "catchline": "Acceptance of consideration for adjustment of farm indebtedness",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s217",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section217&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 696, § 217, formerly § 222; renumbered § 217, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "bead41717a425060cbdd35f0ff9d61a3890d28bd9e940ade5e2cf19c3c2faa27",
+  "raw_bytes": 3288,
+  "source_file": "18.217.xml",
+  "text_file": "18.217.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1467",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "71",
+  "chapter_name": "OBSCENITY",
+  "section_number": "1467",
+  "catchline": "Criminal forfeiture",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1467",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1467&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–690, title VII, § 7522(a), Nov. 18, 1988, 102 Stat. 4490; amended Pub. L. 101–647, title XXXV, § 3549, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 109–248, title V, § 505(a), July 27, 2006, 120 Stat. 629.)",
+  "integrity_sha256": "9bd2e23caebe1cb6f18a0d32205bd14957e9c504158b3030443e5756f2d2a96e",
+  "raw_bytes": 4932,
+  "source_file": "18.1467.xml",
+  "text_file": "18.1467.txt"
+}

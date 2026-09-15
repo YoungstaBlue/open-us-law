@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3562",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "227",
+  "chapter_name": "SENTENCES",
+  "section_number": "3562",
+  "catchline": "Imposition of a sentence of probation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3562",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3562&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1992; amended Pub. L. 101–647, title XXXV, § 3583, Nov. 29, 1990, 104 Stat. 4930.)",
+  "integrity_sha256": "2b8da8d9d20455f59d9152c59bbe2f0f2674b96cf36a67c683b83826efaf0ccc",
+  "raw_bytes": 5181,
+  "source_file": "18.3562.xml",
+  "text_file": "18.3562.txt"
+}

@@ -1,0 +1,21 @@
+{
+ "section_id": "MO-RSMO-516.120",
+ "jurisdiction": "missouri",
+ "section": "RSMo § 516.120",
+ "chapter_number": "516",
+ "section_number": "516.120",
+ "catchline": "What actions within five years",
+ "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.120",
+ "history_text": "(RSMo 1939 § 1014)",
+ "effective_date_note": null,
+ "source_type": "Legal Data Hunter MCP, source US/MO-Legislation (\"Missouri Revised Statutes\", tier 1, 29,622 documents, document date field 2025-01-01; section texts carry 2025 and 2026 session-law history, so the underlying capture is later than the date field). Retrieved via get_document(include_full_text=true). Second-hand copy of revisor.mo.gov; not a direct fetch of the official site.",
+ "source_record_date": "2025-01-01",
+ "retrieved_at": "2026-09-09T07:50:00+00:00",
+ "source_file": "MO-RSMO-516.120.json",
+ "text_file": "MO-RSMO-516.120.txt",
+ "integrity_sha256": "f234bc0651fe4af7d43bba098b38a3f4e39f2d27f39b3af54b99269da3442178",
+ "positive_law_title": null,
+ "status": "operative",
+ "citation_log_id": "C-052",
+ "flags": []
+}

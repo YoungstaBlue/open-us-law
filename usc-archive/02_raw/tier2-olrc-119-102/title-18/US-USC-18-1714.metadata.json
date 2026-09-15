@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1714",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "83",
+  "chapter_name": "POSTAL SERVICE",
+  "section_number": "1714",
+  "catchline": "Repealed. Pub. L. 101–647, title XII, § 1210(b), Nov. 29, 1990, 104 Stat. 4832]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s1714",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1714&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "fc2ead5b9c295bae5e3f893f1005088360239a96dead7c5917409bd06227d574",
+  "raw_bytes": 925,
+  "source_file": "18.1714.xml",
+  "text_file": "18.1714.txt"
+}

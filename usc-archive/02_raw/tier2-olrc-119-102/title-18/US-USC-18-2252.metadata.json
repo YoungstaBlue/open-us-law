@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2252",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110",
+  "chapter_name": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+  "section_number": "2252",
+  "catchline": "Certain activities relating to material involving the sexual exploitation of minors",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2252",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2252&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 95–225, § 2(a), Feb. 6, 1978, 92 Stat. 7; amended Pub. L. 98–292, § 4, May 21, 1984, 98 Stat. 204; Pub. L. 99–500, § 101(b) [title VII, § 704(b)], Oct. 18, 1986, 100 Stat. 1783–39, 1783–75, and Pub. L. 99–591, § 101(b) [title VII, § 704(b)], Oct. 30, 1986, 100 Stat. 3341–39, 3341–75; Pub. L. 100–690, title VII, § 7511(b), Nov. 18, 1988, 102 Stat. 4485; Pub. L. 101–647, title III, § 323(a), (b), Nov. 29, 1990, 104 Stat. 4818, 4819; Pub. L. 103–322, title XVI, § 160001(d), (e), title XXXIII, § 330010(8), Sept. 13, 1994, 108 Stat. 2037, 2143; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[5]], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–30; Pub. L. 105–314, title II, §§ 202(a), 203(a), Oct. 30, 1998, 112 Stat. 2977, 2978; Pub. L. 108–21, title I, § 103(a)(1)(B), (C), (b)(1)(C), (D), title V, § 507, Apr. 30, 2003, 117 Stat. 652, 653, 683; Pub. L. 109–248, title II, § 206(b)(2), July 27, 2006, 120 Stat. 614; Pub. L. 110–358, title I, § 103(a)(3), (b), (c), title II, § 203(a), Oct. 8, 2008, 122 Stat. 4002, 4003; Pub. L. 112–206, § 2(a), Dec. 7, 2012, 126 Stat. 1490; Pub. L. 118–159, div. A, title V, § 569(3), Dec. 23, 2024, 138 Stat. 1906.)",
+  "integrity_sha256": "a9de80e6665315197055f171bda0d5623db860fe6aa8c8597d1826cc795d20ff",
+  "raw_bytes": 28431,
+  "source_file": "18.2252.xml",
+  "text_file": "18.2252.txt"
+}

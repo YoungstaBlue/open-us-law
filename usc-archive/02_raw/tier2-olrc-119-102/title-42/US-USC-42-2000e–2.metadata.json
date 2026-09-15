@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000e–2",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000e–2",
+  "catchline": "Unlawful employment practices",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000e–2",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–2&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title VII, § 703, July 2, 1964, 78 Stat. 255; Pub. L. 92–261, § 8(a), (b), Mar. 24, 1972, 86 Stat. 109; Pub. L. 102–166, title I, §§ 105(a), 106, 107(a), 108, Nov. 21, 1991, 105 Stat. 1074–1076.)",
+  "integrity_sha256": "95a73ce6907faf5cbff895c4271a023f695f764e7523fded0abd977de94ba095",
+  "raw_bytes": 30622,
+  "source_file": "42.2000e–2.xml",
+  "text_file": "42.2000e–2.txt"
+}

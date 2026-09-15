@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 932",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "44",
+  "chapter_name": "FIREARMS",
+  "section_number": "932",
+  "catchline": "Straw purchasing of firearms",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s932",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section932&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 117–159, div. A, title II, § 12004(a)(1), June 25, 2022, 136 Stat. 1326.)",
+  "integrity_sha256": "4fde634a2515e61021436a1e03124f7345b5b098927a00f822e82b75f4c0b5c4",
+  "raw_bytes": 8134,
+  "source_file": "18.932.xml",
+  "text_file": "18.932.txt"
+}

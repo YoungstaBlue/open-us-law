@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 513",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "513",
+  "catchline": "Securities of the States and private entities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s513",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section513&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1105(a), Oct. 12, 1984, 98 Stat. 2144, § 511; renumbered § 513, Pub. L. 99–646, § 31(a), Nov. 10, 1986, 100 Stat. 3598; amended Pub. L. 101–647, title XXXV, § 3515, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, §§ 330008(1), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2142, 2148.)",
+  "integrity_sha256": "4f1170afbbbbd0b0a55e422e7d4332bbad182ed978a139155bef58fb0a12170f",
+  "raw_bytes": 9367,
+  "source_file": "18.513.xml",
+  "text_file": "18.513.txt"
+}

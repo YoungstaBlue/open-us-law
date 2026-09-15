@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12552",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12552",
+  "catchline": "Definitions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12552",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12552&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title XX, § 200103, Sept. 13, 1994, 108 Stat. 2049; Pub. L. 104–134, title I, § 101[(a)] [title I, § 121], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title I, § 102(a)(13)(O), Oct. 7, 1998, 112 Stat. 1621.)",
+  "integrity_sha256": "2e347f86db228e49cb797c796e034b42b4a6a3a60f6fa984f73298c0dbc59ef6",
+  "raw_bytes": 7037,
+  "source_file": "34.12552.xml",
+  "text_file": "34.12552.txt"
+}

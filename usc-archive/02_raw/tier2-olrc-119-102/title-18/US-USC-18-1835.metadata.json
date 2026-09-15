@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1835",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "90",
+  "chapter_name": "PROTECTION OF TRADE SECRETS",
+  "section_number": "1835",
+  "catchline": "Orders to preserve confidentiality",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1835",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1835&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 114–153, § 3(a)(2), May 11, 2016, 130 Stat. 382.)",
+  "integrity_sha256": "1fdb0085e24bc6e7ea2c91be371f74b12103990de95ae73750199d50d4445b2d",
+  "raw_bytes": 4152,
+  "source_file": "18.1835.xml",
+  "text_file": "18.1835.txt"
+}

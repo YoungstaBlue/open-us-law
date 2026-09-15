@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4243",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "313",
+  "chapter_name": "OFFENDERS WITH MENTAL DISEASE OR DEFECT",
+  "section_number": "4243",
+  "catchline": "Hospitalization of a person found not guilty only by reason of insanity",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4243",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4243&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2059; Pub. L. 100–690, title VII, § 7043, Nov. 18, 1988, 102 Stat. 4400; Pub. L. 104–294, title III, § 301(a), Oct. 11, 1996, 110 Stat. 3494.)",
+  "integrity_sha256": "4bd8a94a2108a5b71e99d8fa19e549d72a25a551eeb3632b0aa27f846a3f5480",
+  "raw_bytes": 24349,
+  "source_file": "18.4243.xml",
+  "text_file": "18.4243.txt"
+}

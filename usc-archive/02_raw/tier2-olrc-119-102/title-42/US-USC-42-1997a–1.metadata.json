@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1997a–1",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1997a–1",
+  "catchline": "Subpoena authority",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1997a–1",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1997a–1&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 96–247, § 3A, as added Pub. L. 111–148, title X, § 10606(d)(2), Mar. 23, 2010, 124 Stat. 1008.)",
+  "integrity_sha256": "0f58d348a76909ac72a502832122dbac04608220a5321580e1d54b2782ded29e",
+  "raw_bytes": 5831,
+  "source_file": "42.1997a–1.xml",
+  "text_file": "42.1997a–1.txt"
+}

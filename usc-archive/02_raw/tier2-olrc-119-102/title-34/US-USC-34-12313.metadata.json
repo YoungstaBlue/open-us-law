@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12313",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12313",
+  "catchline": "Information programs",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12313",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12313&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IV, § 40154, Sept. 13, 1994, 108 Stat. 1922.)",
+  "integrity_sha256": "e92fdf878b6ffccb6050d052ccd7e7cc8bf45d5d66f8007fcc8da96f26a1c80f",
+  "raw_bytes": 1857,
+  "source_file": "34.12313.xml",
+  "text_file": "34.12313.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1833",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "90",
+  "chapter_name": "PROTECTION OF TRADE SECRETS",
+  "section_number": "1833",
+  "catchline": "Exceptions to prohibitions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1833",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1833&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 114–153, §§ 2(c), 7(a), May 11, 2016, 130 Stat. 381, 384.)",
+  "integrity_sha256": "420c4ab6750ceb9df430fc1e6a321ebffac264acb92e9a14414f98879c39b70f",
+  "raw_bytes": 12890,
+  "source_file": "18.1833.xml",
+  "text_file": "18.1833.txt"
+}

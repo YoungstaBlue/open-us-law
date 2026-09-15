@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4115",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "306",
+  "chapter_name": "TRANSFER TO OR FROM FOREIGN COUNTRIES",
+  "section_number": "4115",
+  "catchline": "Execution of sentences imposing an obligation to make restitution or reparations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4115",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4115&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1220.)",
+  "integrity_sha256": "89e895c15f61ea3fa701726878b77c01ab42eadb3d7b8a66f9629c7bbe2ab593",
+  "raw_bytes": 1332,
+  "source_file": "18.4115.xml",
+  "text_file": "18.4115.txt"
+}

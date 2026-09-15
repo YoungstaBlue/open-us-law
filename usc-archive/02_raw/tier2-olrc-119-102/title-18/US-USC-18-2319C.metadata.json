@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2319C",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113",
+  "chapter_name": "STOLEN PROPERTY",
+  "section_number": "2319C",
+  "catchline": "Illicit digital transmission services",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2319C",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2319C&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 116–260, div. Q, title II, § 211(a), Dec. 27, 2020, 134 Stat. 2175.)",
+  "integrity_sha256": "03c9bfff7a2c497c38ee52502bed83269a64db1675580f4684fc4b2ab48e69c2",
+  "raw_bytes": 10285,
+  "source_file": "18.2319C.xml",
+  "text_file": "18.2319C.txt"
+}

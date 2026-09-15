@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2283",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "111",
+  "chapter_name": "SHIPPING",
+  "section_number": "2283",
+  "catchline": "Transportation of explosive, biological, chemical, or radioactive or nuclear materials",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2283",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2283&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–177, title III, § 305(a), Mar. 9, 2006, 120 Stat. 236.)",
+  "integrity_sha256": "61ff63d1f911911b50926dee6bb82583c0972206d83131df00e7329b6315c815",
+  "raw_bytes": 7956,
+  "source_file": "18.2283.xml",
+  "text_file": "18.2283.txt"
+}

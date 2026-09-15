@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4002",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "301",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "4002",
+  "catchline": "Federal prisoners in State institutions; employment",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4002",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4002&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 847; Pub. L. 95–624, § 8, Nov. 9, 1978, 92 Stat. 3463.)",
+  "integrity_sha256": "cfe135f22978497737e1233adbe9c7a24776c10cb1a718f61684d2ff97cf2072",
+  "raw_bytes": 3181,
+  "source_file": "18.4002.xml",
+  "text_file": "18.4002.txt"
+}

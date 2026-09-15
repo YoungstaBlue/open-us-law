@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 876",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "41",
+  "chapter_name": "EXTORTION AND THREATS",
+  "section_number": "876",
+  "catchline": "Mailing threatening communications",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s876",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section876&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 741; Pub. L. 91–375, § 6(j)(7), Aug. 12, 1970, 84 Stat. 777; Pub. L. 103–322, title XXXIII, §§ 330016(1)(G), (H), (K), 330021(2), Sept. 13, 1994, 108 Stat. 2147, 2150; Pub. L. 107–273, div. C, title I, § 11008(d), Nov. 2, 2002, 116 Stat. 1818.)",
+  "integrity_sha256": "0a64e9f09f098b7c90882676d4d873b4d64c3fc9387d642e8f29ad380d554cba",
+  "raw_bytes": 8478,
+  "source_file": "18.876.xml",
+  "text_file": "18.876.txt"
+}

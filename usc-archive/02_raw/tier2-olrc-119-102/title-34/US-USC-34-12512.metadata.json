@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12512",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12512",
+  "catchline": "Working Group",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12512",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12512&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 114–236, § 4, Oct. 7, 2016, 130 Stat. 968.)",
+  "integrity_sha256": "9653b137e3bbcb6eb151e2a99b59b3c7b8877acd53e07f2d162c32297899148d",
+  "raw_bytes": 8097,
+  "source_file": "34.12512.xml",
+  "text_file": "34.12512.txt"
+}

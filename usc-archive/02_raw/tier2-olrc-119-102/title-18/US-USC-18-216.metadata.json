@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 216",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "216",
+  "catchline": "Penalties and injunctions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s216",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section216&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 101–194, title IV, § 407(a), Nov. 30, 1989, 103 Stat. 1753; amended Pub. L. 101–280, § 5(f), May 4, 1990, 104 Stat. 159.)",
+  "integrity_sha256": "cbda403e3458361de4eb757e5beffbbe5d3a34c19845fedb62f5ee478cae567e",
+  "raw_bytes": 6305,
+  "source_file": "18.216.xml",
+  "text_file": "18.216.txt"
+}

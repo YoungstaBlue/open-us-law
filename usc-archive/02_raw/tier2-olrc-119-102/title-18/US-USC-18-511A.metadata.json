@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 511A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "511A",
+  "catchline": "Repealed. Pub. L. 116–260, div. O, title X, § 1002(2), Dec. 27, 2020, 134 Stat. 2155]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s511A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section511A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "5e8e4e644dbd461fe09616690271d991f1f46d8d5d547c2aa7d08c5e2dea35e2",
+  "raw_bytes": 1033,
+  "source_file": "18.511A.xml",
+  "text_file": "18.511A.txt"
+}

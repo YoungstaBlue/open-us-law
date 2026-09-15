@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1369",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "65",
+  "chapter_name": "MALICIOUS MISCHIEF",
+  "section_number": "1369",
+  "catchline": "Destruction of veterans’ memorials",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1369",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1369&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–29, § 2(a), May 29, 2003, 117 Stat. 772.)",
+  "integrity_sha256": "300de4b585079b2884f6440addff3b081d18707e9d3a7d4868f0070c1a1a14df",
+  "raw_bytes": 3212,
+  "source_file": "18.1369.xml",
+  "text_file": "18.1369.txt"
+}

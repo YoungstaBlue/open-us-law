@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 705",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "33",
+  "chapter_name": "EMBLEMS, INSIGNIA, AND NAMES",
+  "section_number": "705",
+  "catchline": "Badge or medal of veterans’ organizations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s705",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section705&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 732; Aug. 4, 1950, ch. 578, 64 Stat. 413; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)",
+  "integrity_sha256": "a55fd9e6b400aa5def3ca1c4cd676cebe0d46c7270799b1a576d63d6f8655a6e",
+  "raw_bytes": 3488,
+  "source_file": "18.705.xml",
+  "text_file": "18.705.txt"
+}

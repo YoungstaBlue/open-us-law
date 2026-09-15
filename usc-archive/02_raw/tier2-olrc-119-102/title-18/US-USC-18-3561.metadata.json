@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3561",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "227",
+  "chapter_name": "SENTENCES",
+  "section_number": "3561",
+  "catchline": "Sentence of probation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3561",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3561&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1992; amended Pub. L. 99–646, § 10(a), Nov. 10, 1986, 100 Stat. 3593; Pub. L. 100–182, § 7, Dec. 7, 1987, 101 Stat. 1267; Pub. L. 103–322, title XXVIII, § 280004, title XXXII, § 320921(a), Sept. 13, 1994, 108 Stat. 2096, 2130; Pub. L. 104–294, title VI, § 604(c)(1), Oct. 11, 1996, 110 Stat. 3509.)",
+  "integrity_sha256": "149704f6b647dfee924e8ed251844ab5fce8c0aa7c0ea8afe5c40b70134fc6ca",
+  "raw_bytes": 9513,
+  "source_file": "18.3561.xml",
+  "text_file": "18.3561.txt"
+}

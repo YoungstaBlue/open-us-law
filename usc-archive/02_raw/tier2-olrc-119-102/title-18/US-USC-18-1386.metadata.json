@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1386",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "67",
+  "chapter_name": "MILITARY AND NAVY",
+  "section_number": "1386",
+  "catchline": "Keys and keyways used in security applications by the Department of Defense",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1386",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1386&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 102–190, div. A, title X, § 1090(a), Dec. 5, 1991, 105 Stat. 1485.)",
+  "integrity_sha256": "13267a771b2aa6f1ad29cf23b36ae92182436e1d9a863176815861d1d5ff0267",
+  "raw_bytes": 5088,
+  "source_file": "18.1386.xml",
+  "text_file": "18.1386.txt"
+}

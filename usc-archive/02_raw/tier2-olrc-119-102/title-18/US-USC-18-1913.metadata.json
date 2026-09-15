@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1913",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "93",
+  "chapter_name": "PUBLIC OFFICERS AND EMPLOYEES",
+  "section_number": "1913",
+  "catchline": "Lobbying with appropriated moneys",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1913",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1913&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. A, title II, § 205(b), Nov. 2, 2002, 116 Stat. 1778.)",
+  "integrity_sha256": "3a65e1eaa5a2e4bf4ddd80587e8853f4d15e08ac34704db410588d988294b4cf",
+  "raw_bytes": 5923,
+  "source_file": "18.1913.xml",
+  "text_file": "18.1913.txt"
+}

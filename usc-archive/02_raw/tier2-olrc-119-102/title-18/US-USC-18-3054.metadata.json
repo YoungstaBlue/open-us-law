@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3054",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "203",
+  "chapter_name": "ARREST AND COMMITMENT",
+  "section_number": "3054",
+  "catchline": "Repealed. Pub. L. 97–79, § 9(b)(3), Nov. 16, 1981, 95 Stat. 1079]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s3054",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3054&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "f04403af109b5b76820ebe08ee93e1626392655d1c13ef883cef4074a79c6a42",
+  "raw_bytes": 1230,
+  "source_file": "18.3054.xml",
+  "text_file": "18.3054.txt"
+}

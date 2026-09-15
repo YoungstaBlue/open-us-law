@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 16",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "16",
+  "catchline": "Crime of violence defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s16",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section16&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1001(a), Oct. 12, 1984, 98 Stat. 2136.)",
+  "integrity_sha256": "f71da202189f134e2d8a0de8d8c6cf3dd8a9200b7cd80a14e1521c2c99f8966b",
+  "raw_bytes": 2258,
+  "source_file": "18.16.xml",
+  "text_file": "18.16.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1421",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "69",
+  "chapter_name": "NATIONALITY AND CITIZENSHIP",
+  "section_number": "1421",
+  "catchline": "Accounts of court officers",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1421",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1421&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 766; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "52e3f424e44e577d9f06f4d9c71149ecce7f44d3bf0478ed29c93b6ec6c33968",
+  "raw_bytes": 2648,
+  "source_file": "18.1421.xml",
+  "text_file": "18.1421.txt"
+}

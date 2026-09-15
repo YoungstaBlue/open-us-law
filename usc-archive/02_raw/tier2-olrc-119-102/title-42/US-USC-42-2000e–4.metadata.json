@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000e–4",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000e–4",
+  "catchline": "Equal Employment Opportunity Commission",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000e–4",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–4&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title VII, § 705, July 2, 1964, 78 Stat. 258; Pub. L. 92–261, § 8(d)–(f), Mar. 24, 1972, 86 Stat. 109, 110; Pub. L. 93–608, § 3(1), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, § 2(a)(11), Mar. 27, 1978, 92 Stat. 183; Pub. L. 102–166, title I, §§ 110(a), 111, Nov. 21, 1991, 105 Stat. 1078; Pub. L. 102–411, § 2, Oct. 14, 1992, 106 Stat. 2102; Pub. L. 104–66, title II, § 2031, Dec. 21, 1995, 109 Stat. 728.)",
+  "integrity_sha256": "f73a03a8405d0980c2221dffabafddb3f787c5450f93791c7196f4c3ab1f2cbb",
+  "raw_bytes": 69022,
+  "source_file": "42.2000e–4.xml",
+  "text_file": "42.2000e–4.txt"
+}

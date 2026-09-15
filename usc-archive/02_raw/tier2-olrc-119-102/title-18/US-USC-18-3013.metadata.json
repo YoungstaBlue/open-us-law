@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3013",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "201",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "3013",
+  "catchline": "Special assessment on convicted persons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3013",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3013&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1405(a), Oct. 12, 1984, 98 Stat. 2174; amended Pub. L. 100–185, § 3, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §§ 7082(b), 7085, Nov. 18, 1988, 102 Stat. 4407, 4408; Pub. L. 101–647, title XXXV, § 3569, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 104–132, title II, § 210, Apr. 24, 1996, 110 Stat. 1240; Pub. L. 104–294, title VI, § 601(r)(4), Oct. 11, 1996, 110 Stat. 3502.)",
+  "integrity_sha256": "bf61147394882f1acafd141f981b6ae9e267fe736fcce03ef55c1de6628c1882",
+  "raw_bytes": 9764,
+  "source_file": "18.3013.xml",
+  "text_file": "18.3013.txt"
+}

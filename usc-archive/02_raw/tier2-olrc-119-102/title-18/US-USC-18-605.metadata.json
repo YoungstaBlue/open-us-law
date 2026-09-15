@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 605",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "29",
+  "chapter_name": "ELECTIONS AND POLITICAL ACTIVITIES",
+  "section_number": "605",
+  "catchline": "Disclosure of names of persons on relief",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s605",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section605&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 722; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "1586cf27779d51baf66db7a533b487e7af9190e3d93d3281da0418e5205f7de6",
+  "raw_bytes": 3106,
+  "source_file": "18.605.xml",
+  "text_file": "18.605.txt"
+}

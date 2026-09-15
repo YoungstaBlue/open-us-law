@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3062",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "203",
+  "chapter_name": "ARREST AND COMMITMENT",
+  "section_number": "3062",
+  "catchline": "General arrest authority for violation of release conditions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3062",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3062&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 204(d), Oct. 12, 1984, 98 Stat. 1986; amended Pub. L. 100–690, title VII, § 7052, Nov. 18, 1988, 102 Stat. 4401.)",
+  "integrity_sha256": "e60d49a3443c8a9e32482d988138fcd90debe7d0e7d9f6ec2b5315462bd1e860",
+  "raw_bytes": 2193,
+  "source_file": "18.3062.xml",
+  "text_file": "18.3062.txt"
+}

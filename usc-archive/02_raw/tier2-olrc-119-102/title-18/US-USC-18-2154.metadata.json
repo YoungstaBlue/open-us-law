@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2154",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "105",
+  "chapter_name": "SABOTAGE",
+  "section_number": "2154",
+  "catchline": "Production of defective war material, war premises, or war utilities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2154",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2154&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 799; June 30, 1953, ch. 175, § 2, 67 Stat. 133; Sept. 3, 1954, ch. 1261, title I, § 103, 68 Stat. 1218; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "a698d2659b167bde0282d01b89dc9b24e1dfd556d52d623ede29d63ca671f3e3",
+  "raw_bytes": 6049,
+  "source_file": "18.2154.xml",
+  "text_file": "18.2154.txt"
+}

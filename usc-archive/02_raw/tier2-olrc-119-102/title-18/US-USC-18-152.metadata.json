@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 152",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "9",
+  "chapter_name": "BANKRUPTCY",
+  "section_number": "152",
+  "catchline": "Concealment of assets; false oaths and claims; bribery",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s152",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section152&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 86–519, § 2, June 12, 1960, 74 Stat. 217; Pub. L. 86–701, Sept. 2, 1960, 74 Stat. 753; Pub. L. 94–550, § 4, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 95–598, title III, § 314(a), (c), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 100–690, title VII, § 7017, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, § 312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4138; Pub. L. 104–294, title VI, § 601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)",
+  "integrity_sha256": "056feff325880f7137a6eee28152b71b882e9651bb7fcd9f1362056169c51eb0",
+  "raw_bytes": 12722,
+  "source_file": "18.152.xml",
+  "text_file": "18.152.txt"
+}

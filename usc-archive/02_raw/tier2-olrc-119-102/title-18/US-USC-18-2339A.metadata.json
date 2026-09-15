@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2339A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113B",
+  "chapter_name": "TERRORISM",
+  "section_number": "2339A",
+  "catchline": "Providing material support to terrorists",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2339A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2339A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title XII, § 120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, § 323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§ 601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§ 805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, § 301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, § 4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811; Pub. L. 108–458, title VI, § 6603(a)(2), (b), Dec. 17, 2004, 118 Stat. 3762; Pub. L. 109–177, title I, § 110(b)(3)(B), Mar. 9, 2006, 120 Stat. 208; Pub. L. 111–122, § 3(d), Dec. 22, 2009, 123 Stat. 3481.)",
+  "integrity_sha256": "efb912c4be8272e2c159adce225672d0e4ea85c165dbf2231f3ecf7032f579ee",
+  "raw_bytes": 14239,
+  "source_file": "18.2339A.xml",
+  "text_file": "18.2339A.txt"
+}

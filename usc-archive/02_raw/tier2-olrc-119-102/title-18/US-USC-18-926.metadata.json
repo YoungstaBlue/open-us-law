@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 926",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "44",
+  "chapter_name": "FIREARMS",
+  "section_number": "926",
+  "catchline": "Rules and regulations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s926",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section926&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226; Pub. L. 99–308, § 106, May 19, 1986, 100 Stat. 459; Pub. L. 103–322, title XI, § 110401(d), Sept. 13, 1994, 108 Stat. 2015; Pub. L. 107–296, title XI, § 1112(f)(6), Nov. 25, 2002, 116 Stat. 2276.)",
+  "integrity_sha256": "2bf181753ad4ad23b7b9a0d0445e12ce9cedf8a3a8ad5b66c849c59b041081f4",
+  "raw_bytes": 10264,
+  "source_file": "18.926.xml",
+  "text_file": "18.926.txt"
+}

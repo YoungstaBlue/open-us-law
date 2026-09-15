@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 115",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "7",
+  "chapter_name": "ASSAULT",
+  "section_number": "115",
+  "catchline": "Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s115",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section115&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1008(a), Oct. 12, 1984, 98 Stat. 2140; amended Pub. L. 99–646, §§ 37(a), 60, Nov. 10, 1986, 100 Stat. 3599, 3613; Pub. L. 100–690, title VI, § 6487(f)[b], Nov. 18, 1988, 102 Stat. 4386; Pub. L. 101–647, title XXXV, § 3508, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §§ 330016(2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 2148, 2150; Pub. L. 104–132, title VII, §§ 723(a), 727(b), Apr. 24, 1996, 110 Stat. 1300, 1302; Pub. L. 107–273, div. B, title IV, § 4002(b)(9), div. C, title I, § 11008(c), Nov. 2, 2002, 116 Stat. 1808, 1818; Pub. L. 110–177, title II, § 208(a), Jan. 7, 2008, 121 Stat. 2538; Pub. L. 117–59, § 3(2), Nov. 18, 2021, 135 Stat. 1469.)",
+  "integrity_sha256": "a388903a51fb5e08d7e134e7ab75b04ed26fb79cb02469c4f27d702797c3e36b",
+  "raw_bytes": 20385,
+  "source_file": "18.115.xml",
+  "text_file": "18.115.txt"
+}

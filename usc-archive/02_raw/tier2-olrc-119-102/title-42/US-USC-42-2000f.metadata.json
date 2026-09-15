@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000f",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000f",
+  "catchline": "Survey for compilation of registration and voting statistics; geographical areas; scope; application of census provisions; voluntary disclosure; advising of right not to furnish information",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000f",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000f&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title VIII, § 801, July 2, 1964, 78 Stat. 266.)",
+  "integrity_sha256": "47676951066475bbf13302055273c9f125b4c22a03684ef0dabc59cc9db22933",
+  "raw_bytes": 2313,
+  "source_file": "42.2000f.xml",
+  "text_file": "42.2000f.txt"
+}

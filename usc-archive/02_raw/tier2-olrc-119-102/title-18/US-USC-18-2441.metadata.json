@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2441",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "118",
+  "chapter_name": "WAR CRIMES",
+  "section_number": "2441",
+  "catchline": "War crimes",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2441",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2441&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–192, § 2(a), Aug. 21, 1996, 110 Stat. 2104, § 2401; renumbered § 2441, Pub. L. 104–294, title VI, § 605(p)(1), Oct. 11, 1996, 110 Stat. 3510; amended Pub. L. 105–118, title V, § 583, Nov. 26, 1997, 111 Stat. 2436; Pub. L. 107–273, div. B, title IV, § 4002(e)(7), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–366, § 6(b)(1), Oct. 17, 2006, 120 Stat. 2633; Pub. L. 117–351, § 2, Jan. 5, 2023, 136 Stat. 6265.)",
+  "integrity_sha256": "e9128faa59f181cb321d4d7d6aee65994c6f9ba3eb786524a668eed06273d2b7",
+  "raw_bytes": 37767,
+  "source_file": "18.2441.xml",
+  "text_file": "18.2441.txt"
+}

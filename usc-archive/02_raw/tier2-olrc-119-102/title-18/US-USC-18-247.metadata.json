@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 247",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "13",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "247",
+  "catchline": "Damage to religious property; obstruction of persons in the free exercise of religious beliefs",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s247",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section247&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–346, § 1, June 24, 1988, 102 Stat. 644; amended Pub. L. 103–322, title VI, § 60006(d), title XXXII, § 320103(d), Sept. 13, 1994, 108 Stat. 1971, 2110; Pub. L. 104–155, § 3, July 3, 1996, 110 Stat. 1392; Pub. L. 104–294, title VI, §§ 601(c)(3), 605(r), Oct. 11, 1996, 110 Stat. 3499, 3511; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), (e)(4), Nov. 2, 2002, 116 Stat. 1808, 1810; Pub. L. 115–249, § 2, Sept. 28, 2018, 132 Stat. 3162.)",
+  "integrity_sha256": "b0f82f77084c0119534a24f3255691baf43ac647a9ff1b2081a51bc008d56462",
+  "raw_bytes": 19310,
+  "source_file": "18.247.xml",
+  "text_file": "18.247.txt"
+}

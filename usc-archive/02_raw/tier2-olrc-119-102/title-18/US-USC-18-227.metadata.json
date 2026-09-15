@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 227",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "227",
+  "catchline": "Wrongfully influencing a private entity’s employment decisions by a Member of Congress or an officer or employee of the legislative or executive branch",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s227",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section227&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 110–81, title I, § 102(a), Sept. 14, 2007, 121 Stat. 739; amended Pub. L. 112–105, § 18(a), Apr. 4, 2012, 126 Stat. 304.)",
+  "integrity_sha256": "5affda0705f6998cc4e126f45fb5cb555c2d3b874b3da83b15943ad7763fc2e7",
+  "raw_bytes": 6352,
+  "source_file": "18.227.xml",
+  "text_file": "18.227.txt"
+}

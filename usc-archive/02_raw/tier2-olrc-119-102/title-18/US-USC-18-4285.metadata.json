@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4285",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "315",
+  "chapter_name": "DISCHARGE AND RELEASE PAYMENTS",
+  "section_number": "4285",
+  "catchline": "Persons released pending further judicial proceedings",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4285",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4285&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 95–503, § 1, Oct. 24, 1978, 92 Stat. 1704; amended Pub. L. 101–647, title XXXV, § 3599E, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)",
+  "integrity_sha256": "683092ac52333865f8d0ccfd97774a516128fc27e0a09997965ac25070727a5c",
+  "raw_bytes": 4276,
+  "source_file": "18.4285.xml",
+  "text_file": "18.4285.txt"
+}

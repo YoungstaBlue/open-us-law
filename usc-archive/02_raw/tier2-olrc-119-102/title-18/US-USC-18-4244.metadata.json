@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4244",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "313",
+  "chapter_name": "OFFENDERS WITH MENTAL DISEASE OR DEFECT",
+  "section_number": "4244",
+  "catchline": "Hospitalization of a convicted person suffering from mental disease or defect",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4244",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4244&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 686; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2061.)",
+  "integrity_sha256": "4ad169f0cf7740e6f427bdb435487c5504d702d68d24aae396c1011ad149f96e",
+  "raw_bytes": 8270,
+  "source_file": "18.4244.xml",
+  "text_file": "18.4244.txt"
+}

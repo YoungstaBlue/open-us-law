@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3124",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "206",
+  "chapter_name": "PEN REGISTERS AND TRAP AND TRACE DEVICES",
+  "section_number": "3124",
+  "catchline": "Assistance in installation and use of a pen register or a trap and trace device",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3124",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3124&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 99–508, title III, § 301(a), Oct. 21, 1986, 100 Stat. 1870; amended Pub. L. 100–690, title VII, §§ 7040, 7092(b), (d), Nov. 18, 1988, 102 Stat. 4399, 4411; Pub. L. 101–647, title XXXV, § 3575, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–414, title II, § 201(b)(2), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 107–56, title II, § 216(c)(5), (6), Oct. 26, 2001, 115 Stat. 290; Pub. L. 115–141, div. V, § 104(3)(B), Mar. 23, 2018, 132 Stat. 1217.)",
+  "integrity_sha256": "8b64e65f64c83516f0e3624f94dc8c9e6a5b2b028f0bd3b8b4edf87d0a682c3c",
+  "raw_bytes": 13390,
+  "source_file": "18.3124.xml",
+  "text_file": "18.3124.txt"
+}

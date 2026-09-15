@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 208",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "208",
+  "catchline": "Acts affecting a personal financial interest",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s208",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section208&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1124; amended Pub. L. 95–188, title II, § 205, Nov. 16, 1977, 91 Stat. 1388; Pub. L. 101–194, title IV, § 405, Nov. 30, 1989, 103 Stat. 1751; Pub. L. 101–280, § 5(e), May 4, 1990, 104 Stat. 159; Pub. L. 103–322, title XXXIII, §§ 330002(b), 330008(6), Sept. 13, 1994, 108 Stat. 2140, 2143; Pub. L. 117–286, § 4(a)(134), (c)(27), Dec. 27, 2022, 136 Stat. 4320, 4357.)",
+  "integrity_sha256": "f30abd655e65f0d8878552c56c65e5085fbb8547bb2004ce54359162003a9c8f",
+  "raw_bytes": 23216,
+  "source_file": "18.208.xml",
+  "text_file": "18.208.txt"
+}

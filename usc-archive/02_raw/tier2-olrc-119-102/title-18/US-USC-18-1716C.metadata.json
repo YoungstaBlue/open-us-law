@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1716C",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "83",
+  "chapter_name": "POSTAL SERVICE",
+  "section_number": "1716C",
+  "catchline": "Forged agricultural certifications",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1716C",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1716C&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–574, § 2(a), Oct. 31, 1988, 102 Stat. 2893.)",
+  "integrity_sha256": "ed0f4cf2b2f07605b93511c229cd8bd34e54c0bc535c3db9550a719d0b739209",
+  "raw_bytes": 1958,
+  "source_file": "18.1716C.xml",
+  "text_file": "18.1716C.txt"
+}

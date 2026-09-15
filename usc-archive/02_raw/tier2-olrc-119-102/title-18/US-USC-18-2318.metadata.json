@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2318",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113",
+  "chapter_name": "STOLEN PROPERTY",
+  "section_number": "2318",
+  "catchline": "Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2318",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2318&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 87–773, § 1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, § 103, Dec. 31, 1974, 88 Stat. 1873; Pub. L. 94–553, title I, § 111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, § 2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, § 3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, § 5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, § 4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, § 102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, § 2(c)(2), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, § 202, Oct. 13, 2008, 122 Stat. 4260; Pub. L. 111–295, § 6(i), Dec. 9, 2010, 124 Stat. 3182; Pub. L. 114–154, § 3(1), May 16, 2016, 130 Stat. 387.)",
+  "integrity_sha256": "e48bb4f2faf08297a8a7f15a58af78f74fdc63e9f9fc506b8bd423e98af87d72",
+  "raw_bytes": 39770,
+  "source_file": "18.2318.xml",
+  "text_file": "18.2318.txt"
+}

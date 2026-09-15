@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1024",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1024",
+  "catchline": "Purchase or receipt of military, naval, or veteran’s facilities property",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1024",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1024&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 754; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "da75c79ef0f7e9a62a3d4cea01a0d4ffa7713d88b1d2ab736559f43b83a9dc88",
+  "raw_bytes": 3340,
+  "source_file": "18.1024.xml",
+  "text_file": "18.1024.txt"
+}

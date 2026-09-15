@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 962",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "45",
+  "chapter_name": "FOREIGN RELATIONS",
+  "section_number": "962",
+  "catchline": "Arming vessel against friendly nation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s962",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section962&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 746; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "9c655b98fe3ebdae174afabf4c118c24b891e11e9a2f2444fab6c59fa332cb6f",
+  "raw_bytes": 3702,
+  "source_file": "18.962.xml",
+  "text_file": "18.962.txt"
+}

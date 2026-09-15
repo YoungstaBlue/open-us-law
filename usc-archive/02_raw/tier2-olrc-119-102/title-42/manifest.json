@@ -1,0 +1,660 @@
+[
+ {
+  "section": "42 U.S.C. § 1981",
+  "chapter_number": "21",
+  "catchline": "Equal rights under the law",
+  "status": "operative",
+  "integrity_sha256": "e9c661aeea8a04cc8a1ee694e985d61eb970f1a480144b30820a508ef9ca9ff6"
+ },
+ {
+  "section": "42 U.S.C. § 1981a",
+  "chapter_number": "21",
+  "catchline": "Damages in cases of intentional discrimination in employment",
+  "status": "operative",
+  "integrity_sha256": "cd86cb6bafe0e2352132c67e8d62b02ae4689caf4d47956867c12ca52b483d65"
+ },
+ {
+  "section": "42 U.S.C. § 1982",
+  "chapter_number": "21",
+  "catchline": "Property rights of citizens",
+  "status": "operative",
+  "integrity_sha256": "0f0b5a73f09a4ca9d557610510655b85d954d7be9236a90360f8eba8dc01a83e"
+ },
+ {
+  "section": "42 U.S.C. § 1983",
+  "chapter_number": "21",
+  "catchline": "Civil action for deprivation of rights",
+  "status": "operative",
+  "integrity_sha256": "f754f516040073d3d3dc6c69d1b6aae9feddf6f998e5df29416c2fbc676c7814"
+ },
+ {
+  "section": "42 U.S.C. § 1984",
+  "chapter_number": "21",
+  "catchline": "Omitted",
+  "status": "omitted",
+  "integrity_sha256": "af089887bddcefd7abe46780ddaf29d45d7d89efc376a9f0c6f19224480b84b1"
+ },
+ {
+  "section": "42 U.S.C. § 1985",
+  "chapter_number": "21",
+  "catchline": "Conspiracy to interfere with civil rights",
+  "status": "operative",
+  "integrity_sha256": "55cf91327cd0e788aeaf76f3d95d9afdc740a60591e5269cb88665f86a02950c"
+ },
+ {
+  "section": "42 U.S.C. § 1986",
+  "chapter_number": "21",
+  "catchline": "Action for neglect to prevent",
+  "status": "operative",
+  "integrity_sha256": "829d00d70f6e334b25823ccb7dee91fb6636ad056745ba7539e30635e4cf0721"
+ },
+ {
+  "section": "42 U.S.C. § 1987",
+  "chapter_number": "21",
+  "catchline": "Prosecution of violation of certain laws",
+  "status": "operative",
+  "integrity_sha256": "5601aedf731e00da439bb81a2b80ece0e682b6ba3ad2d8baefe50a256d2a1195"
+ },
+ {
+  "section": "42 U.S.C. § 1988",
+  "chapter_number": "21",
+  "catchline": "Proceedings in vindication of civil rights",
+  "status": "operative",
+  "integrity_sha256": "33f0681cd471796d0f9f861984a9f3cd2241c31eb953e94c60e3ffbaac6ed039"
+ },
+ {
+  "section": "42 U.S.C. § 1989",
+  "chapter_number": "21",
+  "catchline": "United States magistrate judges; appointment of persons to execute warrants",
+  "status": "operative",
+  "integrity_sha256": "63b1e8a1681312fc7fc83414574f2fd69fb93bb1ea55b3733ac076f0a87b3bb0"
+ },
+ {
+  "section": "42 U.S.C. § 1990",
+  "chapter_number": "21",
+  "catchline": "Marshal to obey precepts; refusing to receive or execute process",
+  "status": "operative",
+  "integrity_sha256": "3ae5c1efd2c4e9b22da0cad5b1a34116e0d63dfdbeb4a4bb323801c58a59e295"
+ },
+ {
+  "section": "42 U.S.C. § 1991",
+  "chapter_number": "21",
+  "catchline": "Fees; persons appointed to execute process",
+  "status": "operative",
+  "integrity_sha256": "8358fa85e8cfb78936a21c40ab1d30aba99129e1d0175a1c86c85cc452a61843"
+ },
+ {
+  "section": "42 U.S.C. § 1992",
+  "chapter_number": "21",
+  "catchline": "Speedy trial",
+  "status": "operative",
+  "integrity_sha256": "b1ea58dafed4324ced11f800d91c0af2408a148c95b9166bb9866b4cea5d7c20"
+ },
+ {
+  "section": "42 U.S.C. § 1993",
+  "chapter_number": "21",
+  "catchline": "Repealed. Pub. L. 85–315, pt. III, § 122, Sept. 9, 1957, 71 Stat. 637",
+  "status": "repealed",
+  "integrity_sha256": "39c19fe0acff9bd8b2a38f161c4ccbdcc855415ce863c4c0dec21329ca47ea14"
+ },
+ {
+  "section": "42 U.S.C. § 1994",
+  "chapter_number": "21",
+  "catchline": "Peonage abolished",
+  "status": "operative",
+  "integrity_sha256": "12a7f0ab687f8b7ac9e4193592171c6b4f5e4c8c406dddb20b15066498e88b21"
+ },
+ {
+  "section": "42 U.S.C. § 1995",
+  "chapter_number": "21",
+  "catchline": "Criminal contempt proceedings; penalties; trial by jury",
+  "status": "operative",
+  "integrity_sha256": "f965a9e207cf73161cf43587a3de69bf27d195beeb2bcc835c2469990cc39e28"
+ },
+ {
+  "section": "42 U.S.C. § 1996",
+  "chapter_number": "21",
+  "catchline": "Protection and preservation of traditional religions of Native Americans",
+  "status": "operative",
+  "integrity_sha256": "1df3bbbf0671a3bd7f87eb7c4eed11e17b385587692cca68068fe457e371530b"
+ },
+ {
+  "section": "42 U.S.C. § 1996a",
+  "chapter_number": "21",
+  "catchline": "Traditional Indian religious use of peyote",
+  "status": "operative",
+  "integrity_sha256": "98c2074912827b4e1a91482608ad84aa31bc2b171ca2ba93904adb8e0a944947"
+ },
+ {
+  "section": "42 U.S.C. § 1996b",
+  "chapter_number": "21",
+  "catchline": "Interethnic adoption",
+  "status": "operative",
+  "integrity_sha256": "45e9f1a95cfc35e9780249be7cdcf3d07f26d742510a95c313d121961886bcea"
+ },
+ {
+  "section": "42 U.S.C. § 1997",
+  "chapter_number": "21",
+  "catchline": "Definitions",
+  "status": "operative",
+  "integrity_sha256": "2fc25a13fc005c6751f081791bda5ddae7a7fd9276955c5be834308f817c0336"
+ },
+ {
+  "section": "42 U.S.C. § 1997a",
+  "chapter_number": "21",
+  "catchline": "Initiation of civil actions",
+  "status": "operative",
+  "integrity_sha256": "a84b199824c5535cb12314bcdba90d24a48ec67b9cea5238335aa22e4185745f"
+ },
+ {
+  "section": "42 U.S.C. § 1997a–1",
+  "chapter_number": "21",
+  "catchline": "Subpoena authority",
+  "status": "operative",
+  "integrity_sha256": "0f58d348a76909ac72a502832122dbac04608220a5321580e1d54b2782ded29e"
+ },
+ {
+  "section": "42 U.S.C. § 1997b",
+  "chapter_number": "21",
+  "catchline": "Certification requirements; Attorney General to personally sign certification",
+  "status": "operative",
+  "integrity_sha256": "b7dc110c3a1ffa7456be0b7fb0f0b85a536a2cb884311bf470a8765dec966ac9"
+ },
+ {
+  "section": "42 U.S.C. § 1997c",
+  "chapter_number": "21",
+  "catchline": "Intervention in actions",
+  "status": "operative",
+  "integrity_sha256": "b7146698726d8c2453d9ddeab9714dd2cb8fb4c670944a17dff571b77d07e130"
+ },
+ {
+  "section": "42 U.S.C. § 1997d",
+  "chapter_number": "21",
+  "catchline": "Prohibition of retaliation",
+  "status": "operative",
+  "integrity_sha256": "38448176cd7c901944328db6ae6d756741a666ce7093c8460b3cf25df753a89d"
+ },
+ {
+  "section": "42 U.S.C. § 1997e",
+  "chapter_number": "21",
+  "catchline": "Suits by prisoners",
+  "status": "operative",
+  "integrity_sha256": "7d7f788f871246f8600952417749df95afaa78fe6bb7eab238f129b31be4cf08"
+ },
+ {
+  "section": "42 U.S.C. § 1997f",
+  "chapter_number": "21",
+  "catchline": "Report to Congress",
+  "status": "operative",
+  "integrity_sha256": "ce3f1ab9493dc9d2c8b858a285cf7c3053c8171c1c86c8af50d526aac83a3e14"
+ },
+ {
+  "section": "42 U.S.C. § 1997g",
+  "chapter_number": "21",
+  "catchline": "Priorities for use of funds",
+  "status": "operative",
+  "integrity_sha256": "339d02d3045b73ed772f30a9cdc8d55a6cc13d2776a35f5dd55187570b98e28a"
+ },
+ {
+  "section": "42 U.S.C. § 1997h",
+  "chapter_number": "21",
+  "catchline": "Notice to Federal departments",
+  "status": "operative",
+  "integrity_sha256": "67468c66f955e5f973dbf52222525fb66b5c8cfe3e4fa5079acbbadd30ce7359"
+ },
+ {
+  "section": "42 U.S.C. § 1997i",
+  "chapter_number": "21",
+  "catchline": "Disclaimer respecting standards of care",
+  "status": "operative",
+  "integrity_sha256": "a5a7d0ec6fadf6282cc139fef933debafe1c4f9cb8708a0c34f32e268468a8e9"
+ },
+ {
+  "section": "42 U.S.C. § 1997j",
+  "chapter_number": "21",
+  "catchline": "Disclaimer respecting private litigation",
+  "status": "operative",
+  "integrity_sha256": "186b1cf6b29a678e4b502cb4efadb63c1d0d827c1c95713e5007b13351e37454"
+ },
+ {
+  "section": "42 U.S.C. § 2000a",
+  "chapter_number": "21",
+  "catchline": "Prohibition against discrimination or segregation in places of public accommodation",
+  "status": "operative",
+  "integrity_sha256": "d76a26b22caae3ed0824722afd0524cb9c9bea17c91637db66dbe018a099d5ca"
+ },
+ {
+  "section": "42 U.S.C. § 2000a–1",
+  "chapter_number": "21",
+  "catchline": "Prohibition against discrimination or segregation required by any law, statute, ordinance, regulation, rule or order of a State or State agency",
+  "status": "operative",
+  "integrity_sha256": "c23071f98906905bee147bf5e1662cc1c8141483802cfb5fa5f375af33cd70ab"
+ },
+ {
+  "section": "42 U.S.C. § 2000a–2",
+  "chapter_number": "21",
+  "catchline": "Prohibition against deprivation of, interference with, and punishment for exercising rights and privileges secured by section 2000a or 2000a–1 of this title",
+  "status": "operative",
+  "integrity_sha256": "6e6087b07737cd5909cf8f2eda4be57d9b9e07f2cb9257a27aa085856d6e7169"
+ },
+ {
+  "section": "42 U.S.C. § 2000a–3",
+  "chapter_number": "21",
+  "catchline": "Civil actions for injunctive relief",
+  "status": "operative",
+  "integrity_sha256": "003440ed02a75e7bc75fe9b5e2c4a984174c0aa8e484594132bb5fc6a2828c32"
+ },
+ {
+  "section": "42 U.S.C. § 2000a–4",
+  "chapter_number": "21",
+  "catchline": "Community Relations Service; investigations and hearings; executive session; release of testimony; duty to bring about voluntary settlements",
+  "status": "operative",
+  "integrity_sha256": "a0a81853b38e7607a3d9a197f31d651b9d9b93c1aa44eb0c285990f1495777b3"
+ },
+ {
+  "section": "42 U.S.C. § 2000a–5",
+  "chapter_number": "21",
+  "catchline": "Civil actions by the Attorney General",
+  "status": "operative",
+  "integrity_sha256": "179ed12d5fd2918ca07f0371dc93439f6dce64f914b0ff86df1ce87451889e4d"
+ },
+ {
+  "section": "42 U.S.C. § 2000a–6",
+  "chapter_number": "21",
+  "catchline": "Jurisdiction; exhaustion of other remedies; exclusiveness of remedies; assertion of rights based on other Federal or State laws and pursuit of remedies for enforcement of such rights",
+  "status": "operative",
+  "integrity_sha256": "ad9a511e926b1762b0ea0987f8789a46dd52ed145b89bb3be7b3d95b6db74e64"
+ },
+ {
+  "section": "42 U.S.C. § 2000b",
+  "chapter_number": "21",
+  "catchline": "Civil actions by the Attorney General",
+  "status": "operative",
+  "integrity_sha256": "db0f0b23d82587dde43eef0dc9b0ec44b927fd9dc02bd9b5bab9e33b1628c73e"
+ },
+ {
+  "section": "42 U.S.C. § 2000b–1",
+  "chapter_number": "21",
+  "catchline": "Liability of United States for costs and attorney’s fee",
+  "status": "operative",
+  "integrity_sha256": "b5349f2e36201ed3c8d5bf9dc58a5c3819ce8ab5cfddcf61a23bf27a79f410c8"
+ },
+ {
+  "section": "42 U.S.C. § 2000b–2",
+  "chapter_number": "21",
+  "catchline": "Personal suits for relief against discrimination in public facilities",
+  "status": "operative",
+  "integrity_sha256": "632607a07c05778d83f344e3c8958aac0aaca249c40a8838c54612dab856183d"
+ },
+ {
+  "section": "42 U.S.C. § 2000b–3",
+  "chapter_number": "21",
+  "catchline": "“Complaint” defined",
+  "status": "operative",
+  "integrity_sha256": "7eead97c24f89c9af526c840aa5c4181d4a8231784d1b45445605aa4aa14dc57"
+ },
+ {
+  "section": "42 U.S.C. § 2000c",
+  "chapter_number": "21",
+  "catchline": "Definitions",
+  "status": "operative",
+  "integrity_sha256": "c1c39cab0c8c1639d0f8723d5255b6cd88ec8dae0bf07d6475c7d258b26423d7"
+ },
+ {
+  "section": "42 U.S.C. § 2000c–1",
+  "chapter_number": "21",
+  "catchline": "Omitted",
+  "status": "omitted",
+  "integrity_sha256": "7e7d858fb26d624abbf5ca0650517649056eb582a1f880decdf6c8c7ddf292e8"
+ },
+ {
+  "section": "42 U.S.C. § 2000c–2",
+  "chapter_number": "21",
+  "catchline": "Technical assistance in preparation, adoption, and implementation of plans for desegregation of public schools",
+  "status": "operative",
+  "integrity_sha256": "34e94b1f5ff787f5689aa4bf51b8a8a5c5008bed7889e16ba21dcff2bac26231"
+ },
+ {
+  "section": "42 U.S.C. § 2000c–3",
+  "chapter_number": "21",
+  "catchline": "Training institutes; stipends; travel allowances",
+  "status": "operative",
+  "integrity_sha256": "51ef9cdb4581ae87d036bd6da17ddea27cd4cbfb5286417c954106232024af7b"
+ },
+ {
+  "section": "42 U.S.C. § 2000c–4",
+  "chapter_number": "21",
+  "catchline": "Grants for inservice training in dealing with and for employment of specialists to advise in problems incident to desegregation; factors for consideration in making grants and fixing amounts, terms, and conditions",
+  "status": "operative",
+  "integrity_sha256": "0d0149ddcd7e15d01aeab683294489f77d82a2b312c2290830001ede77f4e50a"
+ },
+ {
+  "section": "42 U.S.C. § 2000c–5",
+  "chapter_number": "21",
+  "catchline": "Payments; adjustments; advances or reimbursement; installments",
+  "status": "operative",
+  "integrity_sha256": "252f112ed643e2296db918c969792713568883c3b628757aa0dadf387f4c8ab4"
+ },
+ {
+  "section": "42 U.S.C. § 2000c–6",
+  "chapter_number": "21",
+  "catchline": "Civil actions by the Attorney General",
+  "status": "operative",
+  "integrity_sha256": "de1b19015b6b8594bebf97ad4e3758c05ea5632f08f854d5c94fb343fff35417"
+ },
+ {
+  "section": "42 U.S.C. § 2000c–7",
+  "chapter_number": "21",
+  "catchline": "Liability of United States for costs",
+  "status": "operative",
+  "integrity_sha256": "b0c01c0884da61261dcb451106f2e38c482937cd3d958a8b01522d6a0130f4f5"
+ },
+ {
+  "section": "42 U.S.C. § 2000c–8",
+  "chapter_number": "21",
+  "catchline": "Personal suits for relief against discrimination in public education",
+  "status": "operative",
+  "integrity_sha256": "6cf2039be4343342358515165c0a478f55113c096ae435c625fe19fef943f047"
+ },
+ {
+  "section": "42 U.S.C. § 2000c–9",
+  "chapter_number": "21",
+  "catchline": "Classification and assignment",
+  "status": "operative",
+  "integrity_sha256": "23cb90b8c129c76f2b6c168b28321808fc471b60b26c8deeab5a15105513ef7a"
+ },
+ {
+  "section": "42 U.S.C. § 2000d",
+  "chapter_number": "21",
+  "catchline": "Prohibition against exclusion from participation in, denial of benefits of, and discrimination under federally assisted programs on ground of race, color, or national origin",
+  "status": "operative",
+  "integrity_sha256": "1ef04ade3c5e0a1861d491e8b659c77ca3ea8dd2a176a7e509c7b4d774885b43"
+ },
+ {
+  "section": "42 U.S.C. § 2000d–1",
+  "chapter_number": "21",
+  "catchline": "Federal authority and financial assistance to programs or activities by way of grant, loan, or contract other than contract of insurance or guaranty; rules and regulations; approval by President; compliance with requirements; reports to Congressional committees; effective date of administrative action",
+  "status": "operative",
+  "integrity_sha256": "5eefecd5f1024aac3b506ac1b83ecdc519f5fe20ae5462cd8d7b36c5c26d542f"
+ },
+ {
+  "section": "42 U.S.C. § 2000d–2",
+  "chapter_number": "21",
+  "catchline": "Judicial review; administrative procedure provisions",
+  "status": "operative",
+  "integrity_sha256": "77db66a30d48c23f2884a99fab65c15bc005520b07a34f2e2202263a326631fb"
+ },
+ {
+  "section": "42 U.S.C. § 2000d–3",
+  "chapter_number": "21",
+  "catchline": "Construction of provisions not to authorize administrative action with respect to employment practices except where primary objective of Federal financial assistance is to provide employment",
+  "status": "operative",
+  "integrity_sha256": "5e5cdb25f3ac32c6b65662408243ea81a17820012f2a65aa3bcbe7bada4144ef"
+ },
+ {
+  "section": "42 U.S.C. § 2000d–4",
+  "chapter_number": "21",
+  "catchline": "Federal authority and financial assistance to programs or activities by way of contract of insurance or guaranty",
+  "status": "operative",
+  "integrity_sha256": "509d925cc93b0bc22d494c88521e3cd1a70a3867fe79cae92de716f714aeb035"
+ },
+ {
+  "section": "42 U.S.C. § 2000d–4a",
+  "chapter_number": "21",
+  "catchline": "“Program or activity” and “program” defined",
+  "status": "operative",
+  "integrity_sha256": "e476c315b9c8177582a72a6b1850c3c5b85c2d0f88333b1c06debd85c2c026c3"
+ },
+ {
+  "section": "42 U.S.C. § 2000d–5",
+  "chapter_number": "21",
+  "catchline": "Prohibited deferral of action on applications by local educational agencies seeking Federal funds for alleged noncompliance with Civil Rights Act",
+  "status": "operative",
+  "integrity_sha256": "7e568aca60a6b886154aa3077a994891905c794c14de57983aeeeb0158b46b30"
+ },
+ {
+  "section": "42 U.S.C. § 2000d–6",
+  "chapter_number": "21",
+  "catchline": "Policy of United States as to application of nondiscrimination provisions in schools of local educational agencies",
+  "status": "operative",
+  "integrity_sha256": "2fa68572cc4c0255d207ba71dd41144182f203ef404eb4aaa92f7bff90e4fe2b"
+ },
+ {
+  "section": "42 U.S.C. § 2000d–7",
+  "chapter_number": "21",
+  "catchline": "Civil rights remedies equalization",
+  "status": "operative",
+  "integrity_sha256": "607a7ad47a9833cf9004231de69712cf9529ddfa64d6c2b67d28c8ac67ded588"
+ },
+ {
+  "section": "42 U.S.C. § 2000e",
+  "chapter_number": "21",
+  "catchline": "Definitions",
+  "status": "operative",
+  "integrity_sha256": "bf6f0813ea764b0b06ab96f7365852eabf110cebf2403360b50ab43d830dc712"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–1",
+  "chapter_number": "21",
+  "catchline": "Exemption",
+  "status": "operative",
+  "integrity_sha256": "27ac574fe9c067bada1f200aa66260658829c683667404ff96f4a69e8aad47ee"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–2",
+  "chapter_number": "21",
+  "catchline": "Unlawful employment practices",
+  "status": "operative",
+  "integrity_sha256": "95a73ce6907faf5cbff895c4271a023f695f764e7523fded0abd977de94ba095"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–3",
+  "chapter_number": "21",
+  "catchline": "Other unlawful employment practices",
+  "status": "operative",
+  "integrity_sha256": "519a04ae170ff1b43a92b92a2caffbb4ecfd6c0acca418ddd35bfe7060240868"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–4",
+  "chapter_number": "21",
+  "catchline": "Equal Employment Opportunity Commission",
+  "status": "operative",
+  "integrity_sha256": "f73a03a8405d0980c2221dffabafddb3f787c5450f93791c7196f4c3ab1f2cbb"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–5",
+  "chapter_number": "21",
+  "catchline": "Enforcement provisions",
+  "status": "operative",
+  "integrity_sha256": "14836dd62b59e4658d02b4f7c04a9a94a2646b83ae23e965d7721dafda38f2fa"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–6",
+  "chapter_number": "21",
+  "catchline": "Civil actions by the Attorney General",
+  "status": "operative",
+  "integrity_sha256": "4ca0067f4b4d28d5004efc3251c3160f2d90b0b23d3badf280f6b814fe146cdb"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–7",
+  "chapter_number": "21",
+  "catchline": "Effect on State laws",
+  "status": "operative",
+  "integrity_sha256": "5c452321a165a0b3317306ade24c083fca9bbebc5424ea7fbe616db1803ba6cc"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–8",
+  "chapter_number": "21",
+  "catchline": "Investigations",
+  "status": "operative",
+  "integrity_sha256": "902d8d42fd68bbf814122de1194a595b06dbf437ba18f39c2fa588d2bde4b691"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–9",
+  "chapter_number": "21",
+  "catchline": "Conduct of hearings and investigations pursuant to section 161 of title 29",
+  "status": "operative",
+  "integrity_sha256": "e75e9be086c5e9aee1d10aeba1344caeeddec6ba6c9e025434d7ddfc9be07894"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–10",
+  "chapter_number": "21",
+  "catchline": "Posting of notices; penalties",
+  "status": "operative",
+  "integrity_sha256": "0e505924cbf657935487ed05fbf54dd49244c89f11d7f69133ec90d26e0ddc5e"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–11",
+  "chapter_number": "21",
+  "catchline": "Veterans’ special rights or preference",
+  "status": "operative",
+  "integrity_sha256": "75c3e4083568e817cdba66135d9cbc35fc4bd79652b653aecb3200a080957b1e"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–12",
+  "chapter_number": "21",
+  "catchline": "Regulations; conformity of regulations with administrative procedure provisions; reliance on interpretations and instructions of Commission",
+  "status": "operative",
+  "integrity_sha256": "e4f03b949cdc86dd498d5f1ea4abc7650b6d55a37f5aeb4afe48c3db7afe98ef"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–13",
+  "chapter_number": "21",
+  "catchline": "Application to personnel of Commission of sections 111 and 1114 of title 18; punishment for violation of section 1114 of title 18",
+  "status": "operative",
+  "integrity_sha256": "0b97fd6745df0e92a5b964948f7a277b57bade46b0960873d09e55cb0297ad16"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–14",
+  "chapter_number": "21",
+  "catchline": "Equal Employment Opportunity Coordinating Council; establishment; composition; duties; report to President and Congress",
+  "status": "operative",
+  "integrity_sha256": "9a1a7ecc60eba51fc743491ea5b3585dbafb1587420dceb675b2ba55deb7b41c"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–15",
+  "chapter_number": "21",
+  "catchline": "Presidential conferences; acquaintance of leadership with provisions for employment rights and obligations; plans for fair administration; membership",
+  "status": "operative",
+  "integrity_sha256": "d0ecf968b47e4bc29e39c3703d60a89a056539863d4e6c1298f1b400be89aa4d"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–16",
+  "chapter_number": "21",
+  "catchline": "Employment by Federal Government",
+  "status": "operative",
+  "integrity_sha256": "69a539c242a804b9724d34a0725a87c8794a21568ebf80e1cc9972f515a52df5"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–16a",
+  "chapter_number": "21",
+  "catchline": "Short title; purpose; definition",
+  "status": "operative",
+  "integrity_sha256": "96d819157b9d8b682bbcd160f7177feb277d34335f86f01d502806d5c55e3f58"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–16b",
+  "chapter_number": "21",
+  "catchline": "Discriminatory practices prohibited",
+  "status": "operative",
+  "integrity_sha256": "fc6cc9c42c4470eeab62aab628dafb38f51077b4ee08fbd3003cba97f97c392f"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–16c",
+  "chapter_number": "21",
+  "catchline": "Coverage of previously exempt State employees",
+  "status": "operative",
+  "integrity_sha256": "5a3c9c6887134c5ee7b4cf0052749ee98f0ba487870f2407b5fb3a86b4a7d092"
+ },
+ {
+  "section": "42 U.S.C. § 2000e–17",
+  "chapter_number": "21",
+  "catchline": "Procedure for denial, withholding, termination, or suspension of Government contract subsequent to acceptance by Government of affirmative action plan of employer; time of acceptance of plan",
+  "status": "operative",
+  "integrity_sha256": "e3e9d19b3156303cac4b6d73ad577a3583e4553e09df766448dd1237db66ece7"
+ },
+ {
+  "section": "42 U.S.C. § 2000f",
+  "chapter_number": "21",
+  "catchline": "Survey for compilation of registration and voting statistics; geographical areas; scope; application of census provisions; voluntary disclosure; advising of right not to furnish information",
+  "status": "operative",
+  "integrity_sha256": "47676951066475bbf13302055273c9f125b4c22a03684ef0dabc59cc9db22933"
+ },
+ {
+  "section": "42 U.S.C. § 2000g",
+  "chapter_number": "21",
+  "catchline": "Establishment of Service; Director of Service: appointment, term; personnel",
+  "status": "operative",
+  "integrity_sha256": "29acbf0fb76924c939e725e19fa1cf9c32feef8669cb0f0b88db01daaddc0671"
+ },
+ {
+  "section": "42 U.S.C. § 2000g–1",
+  "chapter_number": "21",
+  "catchline": "Functions of Service",
+  "status": "operative",
+  "integrity_sha256": "b620aca792ffbe617a1a6ef53ab1f96c2c48ec5af1f823fb7c5a966ead41b53c"
+ },
+ {
+  "section": "42 U.S.C. § 2000g–2",
+  "chapter_number": "21",
+  "catchline": "Cooperation with other agencies; conciliation assistance in confidence and without publicity; information as confidential; restriction on performance of investigative or prosecuting functions; violations and penalties",
+  "status": "operative",
+  "integrity_sha256": "23f08125f855697811e9ff373334e7f5dcc09b5799075c921f3dcb97b2442fdc"
+ },
+ {
+  "section": "42 U.S.C. § 2000g–3",
+  "chapter_number": "21",
+  "catchline": "Reports to Congress",
+  "status": "operative",
+  "integrity_sha256": "9b409d12cad12883331d747f2f1a99196b3902cc4c749e92fda49802804eb418"
+ },
+ {
+  "section": "42 U.S.C. § 2000h",
+  "chapter_number": "21",
+  "catchline": "Criminal contempt proceedings: trial by jury, criminal practice, penalties, exceptions, intent; civil contempt proceedings",
+  "status": "operative",
+  "integrity_sha256": "2aa34b31882c2c40feb1207a440b62c90348aca6e239aef0e0a48e79a2095c87"
+ },
+ {
+  "section": "42 U.S.C. § 2000h–1",
+  "chapter_number": "21",
+  "catchline": "Double jeopardy; specific crimes and criminal contempts",
+  "status": "operative",
+  "integrity_sha256": "2620fae7f4853e2a5a231418ebcc59ff8b9039a1348f27715e9d5f8765bec558"
+ },
+ {
+  "section": "42 U.S.C. § 2000h–2",
+  "chapter_number": "21",
+  "catchline": "Intervention by Attorney General; denial of equal protection on account of race, color, religion, sex or national origin",
+  "status": "operative",
+  "integrity_sha256": "317220d10b5a3c133ee145f1c506b4af2da54336f18f12111b7049ee36a74006"
+ },
+ {
+  "section": "42 U.S.C. § 2000h–3",
+  "chapter_number": "21",
+  "catchline": "Construction of provisions not to affect authority of Attorney General, etc., to institute or intervene in actions or proceedings",
+  "status": "operative",
+  "integrity_sha256": "4d036d24792ee253b21b01a7f2fb6055726bf6299cf080fc4b7237fab138c4e3"
+ },
+ {
+  "section": "42 U.S.C. § 2000h–4",
+  "chapter_number": "21",
+  "catchline": "Construction of provisions not to exclude operation of State laws and not to invalidate consistent State laws",
+  "status": "operative",
+  "integrity_sha256": "002dc0cabed52fffb93e14e73543e27b2f5ded8e49dfb17683a981e55ff5d73b"
+ },
+ {
+  "section": "42 U.S.C. § 2000h–5",
+  "chapter_number": "21",
+  "catchline": "Authorization of appropriations",
+  "status": "operative",
+  "integrity_sha256": "09ce9ba7a34f4c79066cde0d80ebf4f614cd731bc863603d716f09aaca02b992"
+ },
+ {
+  "section": "42 U.S.C. § 2000h–6",
+  "chapter_number": "21",
+  "catchline": "Separability",
+  "status": "operative",
+  "integrity_sha256": "037a7a199894ad9501e68ece6df602ac41576d9e200fca5b8a7008c93d650c12"
+ }
+]

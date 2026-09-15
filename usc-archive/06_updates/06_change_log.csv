@@ -1,0 +1,5 @@
+detected_at,section_id,change_kind,old_release,new_release,old_sha256,new_sha256,needs_legal_review
+2026-09-08T11:00:54-05:00,US-USC-18-* (1392 sections),baseline,,Online@119-102,,see 02_raw/tier2-olrc-119-102/title-18/*.metadata.json,False
+2026-09-08T11:01:04-05:00,US-USC-34-* (148 sections),baseline,,Online@119-102,,see 02_raw/tier2-olrc-119-102/title-34/*.metadata.json,False
+2026-09-08T11:01:03-05:00,US-USC-42-* (94 sections),baseline,,Online@119-102,,see 02_raw/tier2-olrc-119-102/title-42/*.metadata.json,False
+2026-09-08T11:10:09-05:00,US-USC tier1 govinfo (7 sections),baseline,,USCODE-2023,,see 02_raw/tier1-govinfo-2023/*.metadata.json,False

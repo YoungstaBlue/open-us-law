@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3731",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "235",
+  "chapter_name": "APPEAL",
+  "section_number": "3731",
+  "catchline": "Appeal by United States",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3731",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3731&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 844; May 24, 1949, ch. 139, § 58, 63 Stat. 97; Pub. L. 90–351, title VIII, § 1301, June 19, 1968, 82 Stat. 237; Pub. L. 91–644, title III, § 14(a), Jan. 2, 1971, 84 Stat. 1890; Pub. L. 98–473, title II, §§ 205, 1206, Oct. 12, 1984, 98 Stat. 1986, 2153; Pub. L. 99–646, § 32, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 103–322, title XXXIII, § 330008(4), Sept. 13, 1994, 108 Stat. 2142; Pub. L. 107–273, div. B, title III, § 3004, Nov. 2, 2002, 116 Stat. 1805.)",
+  "integrity_sha256": "6315586b491e63f77737d762df7b369b69f5b57deada91079d9ad2fb3a680de7",
+  "raw_bytes": 13164,
+  "source_file": "18.3731.xml",
+  "text_file": "18.3731.txt"
+}

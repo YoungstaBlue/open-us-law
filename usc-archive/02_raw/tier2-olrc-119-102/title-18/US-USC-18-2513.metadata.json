@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2513",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "119",
+  "chapter_name": "WIRE AND ELECTRONIC COMMUNICATIONS INTERCEPTION AND INTERCEPTION OF ORAL COMMUNICATIONS",
+  "section_number": "2513",
+  "catchline": "Confiscation of wire, oral, or electronic communication intercepting devices",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2513",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2513&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 215; amended Pub. L. 99–508, title I, § 101(c)(1)(A), Oct. 21, 1986, 100 Stat. 1851.)",
+  "integrity_sha256": "ae36579f0779001d09f90334ddaa1a0567bc33d0391ba77eee7805834539fa7f",
+  "raw_bytes": 4051,
+  "source_file": "18.2513.xml",
+  "text_file": "18.2513.txt"
+}

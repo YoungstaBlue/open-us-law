@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1032",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1032",
+  "catchline": "Concealment of assets from conservator, receiver, or liquidating agent",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1032",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1032&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 101–647, title XXV, § 2501(a), Nov. 29, 1990, 104 Stat. 4859; amended Pub. L. 107–273, div. B, title IV, § 4002(b)(13), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 111–203, title II, § 211(a), (b), title III, § 377(7), July 21, 2010, 124 Stat. 1514, 1569.)",
+  "integrity_sha256": "4331d405e494c8a9458c495161ec0e7a6bbaeddeb33f2eca855d3a61751f6ea5",
+  "raw_bytes": 6706,
+  "source_file": "18.1032.xml",
+  "text_file": "18.1032.txt"
+}

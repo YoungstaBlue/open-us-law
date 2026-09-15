@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1203",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "55",
+  "chapter_name": "KIDNAPPING",
+  "section_number": "1203",
+  "catchline": "Hostage taking",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1203",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1203&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 2002(a), Oct. 12, 1984, 98 Stat. 2186; amended Pub. L. 100–690, title VII, § 7028, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, § 60003(a)(10), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 104–132, title VII, § 723(a)(1), Apr. 24, 1996, 110 Stat. 1300.)",
+  "integrity_sha256": "285d28615dd338f4d8a15262fab82bc85d0e1ad70b62aff8fc1a79ca4129655a",
+  "raw_bytes": 7236,
+  "source_file": "18.1203.xml",
+  "text_file": "18.1203.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 5038",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "403",
+  "chapter_name": "JUVENILE DELINQUENCY",
+  "section_number": "5038",
+  "catchline": "Use of juvenile records",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s5038",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5038&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 93–415, title V, § 508, Sept. 7, 1974, 88 Stat. 1137; amended Pub. L. 95–115, § 8(b), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, § 1202, Oct. 12, 1984, 98 Stat. 2150; Pub. L. 103–322, title XIV, § 140005, Sept. 13, 1994, 108 Stat. 2032; Pub. L. 104–294, title VI, § 601(f)(16), (o), Oct. 11, 1996, 110 Stat. 3500, 3502.)",
+  "integrity_sha256": "5be70a898e8277b1a05e94f0bfa356dea1676b58f08d07e6b4cc1f1f5c5aa726",
+  "raw_bytes": 12588,
+  "source_file": "18.5038.xml",
+  "text_file": "18.5038.txt"
+}

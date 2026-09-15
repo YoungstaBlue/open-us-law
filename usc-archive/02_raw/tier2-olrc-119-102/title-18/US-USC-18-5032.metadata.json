@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 5032",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "403",
+  "chapter_name": "JUVENILE DELINQUENCY",
+  "section_number": "5032",
+  "catchline": "Delinquency proceedings in district courts; transfer for criminal prosecution",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s5032",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5032&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, § 502, Sept. 7, 1974, 88 Stat. 1134; Pub. L. 98–473, title II, § 1201, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 100–690, title VI, § 6467(a), Nov. 18, 1988, 102 Stat. 4375; Pub. L. 101–647, title XII, § 1205(n), title XXXV, § 3599G, Nov. 29, 1990, 104 Stat. 4831, 4932; Pub. L. 103–322, title XI, § 110201(c)(2), title XIV, §§ 140001, 140002, title XV, § 150002, Sept. 13, 1994, 108 Stat. 2012, 2031, 2035; Pub. L. 104–294, title VI, § 601(c)(1), (g)(1), Oct. 11, 1996, 110 Stat. 3499, 3500.)",
+  "integrity_sha256": "7da6be576ee957ee0800c69ff607dcfb3d20f9971b68bffc7b1828c8b87bfd13",
+  "raw_bytes": 21482,
+  "source_file": "18.5032.xml",
+  "text_file": "18.5032.txt"
+}

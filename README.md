@@ -3,6 +3,8 @@
 **Open, structured US primary law - plus the scrapers that build it.**  
 State statutory codes, the US Code, the Code of Federal Regulations, state administrative regulations, state and federal constitutions, and court rules - normalized to a single schema, overwhelmingly from official government sources.
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/GQtnwxf8nQ)
+
 ## Why this exists
 
 The law is public. Reading it should not cost money.
@@ -145,10 +147,10 @@ Many states also have a newer **bulk-source ingester** at [`scripts/statutes/ing
 |---|---|---|---|
 | Alaska (`ak`) | [scrapeAK.py](scripts/state_scrapers/src/scrapers/us/states/ak/statutes/scrapeAK.py) | 17,935 |  |
 | Alabama (`al`) | [scrapeAL.py](scripts/state_scrapers/src/scrapers/us/states/al/statutes/scrapeAL.py) | 45,984 | US-only |
-| Arkansas (`ar`) | data-only (in the dataset) | 36,936 |  |
+| Arkansas (`ar`) | in progress | 36,936 |  |
 | Arizona (`az`) | [scrapeAZ.py](scripts/state_scrapers/src/scrapers/us/states/az/statutes/scrapeAZ.py) | 22,674 |  |
 | California (`ca`) | [scrapeCA.py](scripts/state_scrapers/src/scrapers/us/states/ca/statutes/scrapeCA.py) | 161,429 |  |
-| Colorado (`co`) | data-only (in the dataset) | 34,231 |  |
+| Colorado (`co`) | in progress | 34,231 |  |
 | Connecticut (`ct`) | [scrapeCT.py](scripts/state_scrapers/src/scrapers/us/states/ct/statutes/scrapeCT.py) | 16,082 | US-only |
 | Delaware (`de`) | [scrapeDE.py](scripts/state_scrapers/src/scrapers/us/states/de/statutes/scrapeDE.py) | 21,649 |  |
 | Florida (`fl`) | [scrapeFL.py](scripts/state_scrapers/src/scrapers/us/states/fl/statutes/scrapeFL.py) | 24,866 |  |
@@ -167,24 +169,24 @@ Many states also have a newer **bulk-source ingester** at [`scripts/statutes/ing
 | Michigan (`mi`) | [scrapeMI.py](scripts/state_scrapers/src/scrapers/us/states/mi/statutes/scrapeMI.py) | 40,658 |  |
 | Minnesota (`mn`) | [scrapeMN.py](scripts/state_scrapers/src/scrapers/us/states/mn/statutes/scrapeMN.py) | 27,747 |  |
 | Missouri (`mo`) | [scrapeMO.py](scripts/state_scrapers/src/scrapers/us/states/mo/statutes/scrapeMO.py) | 29,296 |  |
-| Mississippi (`ms`) | data-only (in the dataset) | 158,688 |  |
+| Mississippi (`ms`) | in progress | 158,688 |  |
 | Montana (`mt`) | [scrapeMT.py](scripts/state_scrapers/src/scrapers/us/states/mt/statutes/scrapeMT.py) | 30,514 |  |
 | North Carolina (`nc`) | withdrawn | 26,685 (in `v2026.07` only) | see note below |
 | North Dakota (`nd`) | [scrapeND.py](scripts/state_scrapers/src/scrapers/us/states/nd/statutes/scrapeND.py) | 29,042 |  |
 | Nebraska (`ne`) | [scrapeNE.py](scripts/state_scrapers/src/scrapers/us/states/ne/statutes/scrapeNE.py) | 25,997 |  |
 | New Hampshire (`nh`) | [scrapeNH.py](scripts/state_scrapers/src/scrapers/us/states/nh/statutes/scrapeNH.py) | 25,375 | US-only |
 | New Jersey (`nj`) | [ingest_nj_bulk.py](scripts/statutes/ingest_nj_bulk.py) | 55,897 |  |
-| New Mexico (`nm`) | data-only (in the dataset) | 34,455 |  |
-| Nevada (`nv`) | data-only (in the dataset) | 48,190 |  |
+| New Mexico (`nm`) | in progress | 34,455 |  |
+| Nevada (`nv`) | in progress | 48,190 |  |
 | New York (`ny`) | [scrapeNY.py](scripts/state_scrapers/src/scrapers/us/states/ny/statutes/scrapeNY.py) | 40,102 | US-only |
 | Ohio (`oh`) | [scrapeOH.py](scripts/state_scrapers/src/scrapers/us/states/oh/statutes/scrapeOH.py) | 33,161 | also [official-source](scripts/statutes/ingest_oh_statutes.py) |
 | Oklahoma (`ok`) | [scrapeOK.py](scripts/state_scrapers/src/scrapers/us/states/ok/statutes/scrapeOK.py) | 35,329 |  |
-| Oregon (`or`) | data-only (in the dataset) | 36,202 |  |
+| Oregon (`or`) | in progress | 36,202 |  |
 | Pennsylvania (`pa`) | [ingest_pa_bulk.py](scripts/statutes/ingest_pa_bulk.py) | 14,547 (Consolidated; Purdon's pending) |  |
 | Rhode Island (`ri`) | [scrapeRI.py](scripts/state_scrapers/src/scrapers/us/states/ri/statutes/scrapeRI.py) | 21,107 |  |
 | South Carolina (`sc`) | [scrapeSC.py](scripts/state_scrapers/src/scrapers/us/states/sc/statutes/scrapeSC.py) | 29,947 |  |
 | South Dakota (`sd`) | [scrapeSD.py](scripts/state_scrapers/src/scrapers/us/states/sd/statutes/scrapeSD.py) | 39,589 |  |
-| Tennessee (`tn`) | data-only (in the dataset) | 32,693 |  |
+| Tennessee (`tn`) | in progress | 32,693 |  |
 | Texas (`tx`) | [scrapeTX.py](scripts/state_scrapers/src/scrapers/us/states/tx/statutes/scrapeTX.py) | 122,535 |  |
 | Utah (`ut`) | [scrapeUT.py](scripts/state_scrapers/src/scrapers/us/states/ut/statutes/scrapeUT.py) | 25,880 | also [official-source](scripts/statutes/ingest_ut_statutes.py) |
 | Virginia (`va`) | [scrapeVA.py](scripts/state_scrapers/src/scrapers/us/states/va/statutes/scrapeVA.py) | 33,856 |  |
@@ -192,11 +194,9 @@ Many states also have a newer **bulk-source ingester** at [`scripts/statutes/ing
 | Washington (`wa`) | [scrapeWA.py](scripts/state_scrapers/src/scrapers/us/states/wa/statutes/scrapeWA.py) | 51,498 |  |
 | Wisconsin (`wi`) | [scrapeWI.py](scripts/state_scrapers/src/scrapers/us/states/wi/statutes/scrapeWI.py) | 18,158 |  |
 | West Virginia (`wv`) | [scrapeWV.py](scripts/state_scrapers/src/scrapers/us/states/wv/statutes/scrapeWV.py) | 25,460 |  |
-| Wyoming (`wy`) | data-only (in the dataset) | 10,219 |  |
+| Wyoming (`wy`) | in progress | 10,219 |  |
 
 > Puerto Rico statutes: complete, 23,636 sections, ingested from the official OGP portal (bvirtualogp.pr.gov).
-
-> States marked **data-only** are included in the published dataset. This repo ships scrapers only for sources published by a government body, so where our copy came from somewhere else no scraper is included; official-source scrapers for those states are in progress.
 
 > **Georgia and North Carolina statutes have been withdrawn.** Our copy of both carried the source site's own navigation and footer text inside the section bodies, so the sections were not clean statutory text. They have been removed from the live corpus and do not appear in `v2026.08`. They are still present in `v2026.07`, which is a fixed historical artifact. Both are being re-ingested from an official publisher; Georgia is the harder of the two, since the O.C.G.A. has no free official bulk source.
 
@@ -238,8 +238,7 @@ State administrative codes. Some geo-restrict - see [caveats](#important-caveats
 |---|---|
 | 50 state constitutions | [ingest_state_constitutions.py](scripts/constitutions/ingest_state_constitutions.py) |
 
-All 38 jurisdictions in that script are scraped from the state's own official publisher (its legislature or secretary of state).
-The 9 not yet covered - **AK, CO, CT, DE, GA, NC, NH, SC, SD** - are in the published dataset; their official-publisher scrapers are in progress.
+Every jurisdiction in that script is scraped from the state's own official publisher (its legislature or secretary of state).
 
 ---
 
@@ -281,21 +280,42 @@ New-jurisdiction parsers, coverage fixes, and - especially - **repairs to state 
 
 ## Provenance
 
-Most data derives from official government sources (state legislature / secretary-of-state sites, uscode.house.gov, the eCFR, the Federal Register, GPO govinfo), and those records keep the exact source URL they were ingested from.
-
-A minority of state statutory codes were originally obtained from commercial aggregators rather than an official publisher. Those records carry **no** `source_url` rather than linking to a third party. We would rather state that plainly than imply the whole corpus is officially sourced.
-
-Every scraper in this repo reads a government publisher. Where our published copy of a jurisdiction came from somewhere else, no scraper is included rather than shipping one that points at a third party, and the official-source scraper is in progress.
-
-The `v2026.07` snapshot carried non-government `source_url` values on some records: 36,202 Oregon statute sections, 1,090 Puerto Rico sections, and 4,918 constitution sections. Those have since been corrected, and `v2026.08` is built by a pipeline that refuses to publish any file containing a non-government source URL.
+Data derives from official government sources (state legislature / secretary-of-state sites, uscode.house.gov, the eCFR, the Federal Register, GPO govinfo), and those records keep the exact source URL they were ingested from.
 
 The retrieval layer (embeddings, semantic index, citation graph) is intentionally out of scope here.
+
+## More open source from Vaquill AI
+
+Everything below is public and Apache-2.0 or CC BY unless noted.
+
+**Data and benchmarks**
+
+- [open-us-law](https://github.com/Vaquill-AI/open-us-law) - this repo. US primary law as structured data, plus the scrapers.
+- [open-legal-answer-benchmark](https://github.com/Vaquill-AI/open-legal-answer-benchmark) - reproducible benchmark of US legal-answer quality. Verified questions, a standard-library scorer, results anyone can rerun.
+- [legal-mt-benchmark](https://github.com/Vaquill-AI/legal-mt-benchmark) - English to Hindi legal machine translation on the WMT25 Legal Domain Test Suite, 7 metrics, all outputs published.
+
+**MCP servers**
+
+- [courtlistener-mcp](https://github.com/Vaquill-AI/courtlistener-mcp) - CourtListener (US federal and state courts, PACER, eCFR). Hosted, bring your own key.
+- [canlii-mcp](https://github.com/Vaquill-AI/canlii-mcp) - CanLII, the Canadian legal database.
+- [vaquill-mcp](https://github.com/Vaquill-AI/vaquill-mcp) - the Vaquill research API over USC, CFR, state law and case law.
+- [integrations](https://github.com/Vaquill-AI/integrations) - Slack, Discord, Teams, WhatsApp, Telegram and WordPress connectors.
+
+**Tools for the way lawyers actually work**
+
+- [ms-word-addin](https://github.com/Vaquill-AI/ms-word-addin) - contract review, playbooks, drafting and research inside Word.
+- [google-docs-addon](https://github.com/Vaquill-AI/google-docs-addon) - the same for Google Docs, with native tracked-change redlines.
+
+**Reference**
+
+- [awesome-legaltech](https://github.com/Vaquill-AI/awesome-legaltech) - a curated list of open source legal tech, models, datasets and companies.
+- [playbooks](https://github.com/Vaquill-AI/playbooks) - attorney-grade negotiation playbooks for US commercial contracts, clause by clause.
 
 ## Maintained by
 
 [Vaquill AI](https://www.vaquill.ai). This open corpus is the substrate; Vaquill AI's API adds continuous freshness, retrieval, and citation resolution on top of it.
 
-Questions, ideas, or want to help? DM me on [LinkedIn](https://www.linkedin.com/in/zriyansh/).
+Questions, ideas, or want to help? Join the [Discord](https://discord.gg/GQtnwxf8nQ), or DM me on [LinkedIn](https://www.linkedin.com/in/zriyansh/).
 
 ---
 

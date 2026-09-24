@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2340B",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113C",
+  "chapter_name": "TORTURE",
+  "section_number": "2340B",
+  "catchline": "Exclusive remedies",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2340B",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2340B&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–236, title V, § 506(a), Apr. 30, 1994, 108 Stat. 464.)",
+  "integrity_sha256": "e729722907b2437829675242eb625bfd6bb4329068d5213fd85bae987bbe7c95",
+  "raw_bytes": 1933,
+  "source_file": "18.2340B.xml",
+  "text_file": "18.2340B.txt"
+}

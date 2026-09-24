@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3611",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "229",
+  "chapter_name": "POSTSENTENCE ADMINISTRATION",
+  "section_number": "3611",
+  "catchline": "Payment of a fine or restitution",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3611",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3611&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, § 10(a), Dec. 11, 1987, 101 Stat. 1283; Pub. L. 101–647, title XXXV, § 3591, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 207(c)(1), Apr. 24, 1996, 110 Stat. 1237.)",
+  "integrity_sha256": "3060bf75912a58a99f6747391dff026c072e59d9323ab6602e2c8d7e8b7498d2",
+  "raw_bytes": 9725,
+  "source_file": "18.3611.xml",
+  "text_file": "18.3611.txt"
+}

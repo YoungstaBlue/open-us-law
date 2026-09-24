@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12474",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12474",
+  "catchline": "Collaborative grants to increase the long-term stability of victims",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12474",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12474&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IV, § 41404, as added Pub. L. 109–162, title VI, § 601, Jan. 5, 2006, 119 Stat. 3033; amended Pub. L. 109–271, § 5(a), Aug. 12, 2006, 120 Stat. 759; Pub. L. 113–4, title VI, § 603(1), Mar. 7, 2013, 127 Stat. 110; Pub. L. 117–103, div. W, title VI, § 605(b), Mar. 15, 2022, 136 Stat. 886.)",
+  "integrity_sha256": "6c4007bd190337ce18f54830436816f3bd127f524b5f37968f2475ba01c36d7d",
+  "raw_bytes": 20817,
+  "source_file": "34.12474.xml",
+  "text_file": "34.12474.txt"
+}

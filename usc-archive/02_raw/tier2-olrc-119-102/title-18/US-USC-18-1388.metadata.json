@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1388",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "67",
+  "chapter_name": "MILITARY AND NAVY",
+  "section_number": "1388",
+  "catchline": "Prohibition on disruptions of funerals of members or former members of the Armed Forces",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1388",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1388&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–464, § 1(a), Dec. 22, 2006, 120 Stat. 3480; amended Pub. L. 112–154, title VI, § 601(b), Aug. 6, 2012, 126 Stat. 1196.)",
+  "integrity_sha256": "89a2002092c4f16fed8ada238954de39f7d2b50921aba268ae72390365f0b86f",
+  "raw_bytes": 17181,
+  "source_file": "18.1388.xml",
+  "text_file": "18.1388.txt"
+}

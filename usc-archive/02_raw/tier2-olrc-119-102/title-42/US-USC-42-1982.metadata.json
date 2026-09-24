@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1982",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1982",
+  "catchline": "Property rights of citizens",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1982",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1982&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(R.S. § 1978.)",
+  "integrity_sha256": "0f0b5a73f09a4ca9d557610510655b85d954d7be9236a90360f8eba8dc01a83e",
+  "raw_bytes": 16817,
+  "source_file": "42.1982.xml",
+  "text_file": "42.1982.txt"
+}

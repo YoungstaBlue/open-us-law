@@ -1,0 +1,24 @@
+{
+ "section_id": "MO-RSMO-565.056",
+ "jurisdiction": "missouri",
+ "section": "RSMo § 565.056",
+ "chapter_number": "565",
+ "section_number": "565.056",
+ "catchline": "Assault in the fourth degree",
+ "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=565.056",
+ "history_text": "(L. 2014 S.B. 491, A.L. 2026 H.B. 2637 & 3155 merged with S.B. 999)",
+ "effective_date_note": "Effective 7-01-27, see § 565.019",
+ "source_type": "Legal Data Hunter MCP, source US/MO-Legislation (\"Missouri Revised Statutes\", tier 1, 29,622 documents, document date field 2025-01-01; section texts carry 2025 and 2026 session-law history, so the underlying capture is later than the date field). Retrieved via get_document(include_full_text=true). Second-hand copy of revisor.mo.gov; not a direct fetch of the official site.",
+ "source_record_date": "2025-01-01",
+ "retrieved_at": "2026-09-09T07:50:00+00:00",
+ "source_file": "MO-RSMO-565.056.json",
+ "text_file": "MO-RSMO-565.056.txt",
+ "integrity_sha256": "1f008c78fe1f97280324217129881bcf320b4dfb55e5c39e08d65505ed81db89",
+ "positive_law_title": null,
+ "status": "operative",
+ "citation_log_id": "C-009",
+ "flags": [
+  "amended by 2025/2026 session law; confirm which version governs the offense/order date",
+  "displayed text has a FUTURE effective date; the currently operative version is the prior one"
+ ]
+}

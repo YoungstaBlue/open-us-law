@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4102",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "306",
+  "chapter_name": "TRANSFER TO OR FROM FOREIGN COUNTRIES",
+  "section_number": "4102",
+  "catchline": "Authority of the Attorney General",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4102",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4102&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1214.)",
+  "integrity_sha256": "7e0c0018a2f80f1a5d8f98631e2b7830e955b9cfa3036945fed29ee723d4a8bd",
+  "raw_bytes": 7764,
+  "source_file": "18.4102.xml",
+  "text_file": "18.4102.txt"
+}

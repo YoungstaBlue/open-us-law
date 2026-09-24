@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 704",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "33",
+  "chapter_name": "EMBLEMS, INSIGNIA, AND NAMES",
+  "section_number": "704",
+  "catchline": "Military medals or decorations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s704",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section704&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, § 16, 63 Stat. 92; Pub. L. 103–322, title XXXII, § 320109, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2113, 2146; Pub. L. 103–442, Nov. 2, 1994, 108 Stat. 4630; Pub. L. 104–294, title VI, § 604(b)(16), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–107, div. A, title V, § 553(e), Dec. 28, 2001, 115 Stat. 1117; Pub. L. 109–437, § 3, Dec. 20, 2006, 120 Stat. 3266; Pub. L. 113–12, § 2, June 3, 2013, 127 Stat. 448; Pub. L. 115–232, div. A, title VIII, § 809(e)(1), Aug. 13, 2018, 132 Stat. 1841.)",
+  "integrity_sha256": "fb224fa9dc35bbd8afc38ae19ced788c8091c5ac2349741e2205d46db0cd565a",
+  "raw_bytes": 21606,
+  "source_file": "18.704.xml",
+  "text_file": "18.704.txt"
+}

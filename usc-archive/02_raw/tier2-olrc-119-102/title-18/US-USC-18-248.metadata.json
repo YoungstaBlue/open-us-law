@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 248",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "13",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "248",
+  "catchline": "Freedom of access to clinic entrances",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s248",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section248&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–259, § 3, May 26, 1994, 108 Stat. 694; amended Pub. L. 103–322, title XXXIII, § 330023(a)(2), (3), Sept. 13, 1994, 108 Stat. 2150.)",
+  "integrity_sha256": "75cb208f88929dae3fe25830e66fe030ae7844f0b13fd579b3f2aac3b29e6a33",
+  "raw_bytes": 21183,
+  "source_file": "18.248.xml",
+  "text_file": "18.248.txt"
+}

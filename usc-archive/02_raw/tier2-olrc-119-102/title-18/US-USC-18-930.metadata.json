@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 930",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "44",
+  "chapter_name": "FIREARMS",
+  "section_number": "930",
+  "catchline": "Possession of firearms and dangerous weapons in Federal facilities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s930",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section930&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–690, title VI, § 6215(a), Nov. 18, 1988, 102 Stat. 4361; amended Pub. L. 101–647, title XXII, § 2205(a), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 103–322, title VI, § 60014, Sept. 13, 1994, 108 Stat. 1973; Pub. L. 104–294, title VI, § 603(t), (u), Oct. 11, 1996, 110 Stat. 3506; Pub. L. 107–56, title VIII, § 811(b), Oct. 26, 2001, 115 Stat. 381; Pub. L. 110–177, title II, § 203, Jan. 7, 2008, 121 Stat. 2537.)",
+  "integrity_sha256": "774c9aa856b2a7c25b87726b552cd148a9547c8fd9bd52333a250dc66f0d4fc6",
+  "raw_bytes": 13227,
+  "source_file": "18.930.xml",
+  "text_file": "18.930.txt"
+}

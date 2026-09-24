@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1305",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "61",
+  "chapter_name": "LOTTERIES",
+  "section_number": "1305",
+  "catchline": "Fishing contests",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1305",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1305&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Aug. 16, 1950, ch. 722, § 1, 64 Stat. 451.)",
+  "integrity_sha256": "f4a403c1b774de7d07733c6952d5be98a64e2e7c971e17245f039dd3501ee58c",
+  "raw_bytes": 825,
+  "source_file": "18.1305.xml",
+  "text_file": "18.1305.txt"
+}

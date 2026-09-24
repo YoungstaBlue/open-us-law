@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4014",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "301",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "4014",
+  "catchline": "Testing for human immunodeficiency virus",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4014",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4014&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 105–370, § 2(a), Nov. 12, 1998, 112 Stat. 3374.)",
+  "integrity_sha256": "a7a588d1bf15e308c3a37cc672368929359d49a502664c1b40354d81fcfcf3e5",
+  "raw_bytes": 5226,
+  "source_file": "18.4014.xml",
+  "text_file": "18.4014.txt"
+}

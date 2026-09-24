@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 981",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "46",
+  "chapter_name": "FORFEITURE",
+  "section_number": "981",
+  "catchline": "Civil forfeiture",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s981",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section981&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 99–570, title I, § 1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§ 6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, § 963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, § 103, title XXV, §§ 2508, 2524, 2525(a), title XXXV, § 3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, § 638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, § 104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§ 1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, § 330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, § 102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§ 2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§ 319(a), 320, 372(b)(1), 373(b), title VIII, § 806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, § 301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, § 4002(a)(2), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title I, §§ 111, 120, title IV, §§ 404, 406(a)(3), Mar. 9, 2006, 120 Stat. 209, 221, 244; Pub. L. 111–203, title III, § 377(3), July 21, 2010, 124 Stat. 1569; Pub. L. 112–186, § 3, Oct. 5, 2012, 126 Stat. 1428; Pub. L. 114–122, title I, § 105(a), Feb. 18, 2016, 130 Stat. 101.)",
+  "integrity_sha256": "27784acb7083886c8283101bc3ec852dcdce6894976f676027a9a392f9861e74",
+  "raw_bytes": 87887,
+  "source_file": "18.981.xml",
+  "text_file": "18.981.txt"
+}

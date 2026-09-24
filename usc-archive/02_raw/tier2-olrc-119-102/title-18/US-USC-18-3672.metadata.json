@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3672",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "232",
+  "chapter_name": "MISCELLANEOUS SENTENCING PROVISIONS",
+  "section_number": "3672",
+  "catchline": "Duties of Director of Administrative Office of the United States Courts",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3672",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3672&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 843, § 3656; May 24, 1949, ch. 139, § 57, 63 Stat. 97; renumbered § 3672, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987; Pub. L. 99–570, title I, § 1861(b)(1), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 99–646, § 18(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 100–182, § 20, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 110–199, title II, § 253, Apr. 9, 2008, 122 Stat. 693; Pub. L. 110–406, § 15(b), Oct. 13, 2008, 122 Stat. 4294; Pub. L. 111–350, § 5(d)(1), Jan. 4, 2011, 124 Stat. 3847.)",
+  "integrity_sha256": "f12dda0215fb93a4dac4f8beae0112191845bb91c7d3be9e6179e43bd4b7732d",
+  "raw_bytes": 17638,
+  "source_file": "18.3672.xml",
+  "text_file": "18.3672.txt"
+}

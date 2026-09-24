@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 12",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "12",
+  "catchline": "United States Postal Service defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s12",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section12&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 91–375, § 6(j)(2), Aug. 12, 1970, 84 Stat. 777; Pub. L. 101–647, title XXXV, § 3505, Nov. 29, 1990, 104 Stat. 4921.)",
+  "integrity_sha256": "ea7743876b590c0a70aec966c0fcf1ce3983805aeb8580f16d0d90eafc6d1ca0",
+  "raw_bytes": 4079,
+  "source_file": "18.12.xml",
+  "text_file": "18.12.txt"
+}

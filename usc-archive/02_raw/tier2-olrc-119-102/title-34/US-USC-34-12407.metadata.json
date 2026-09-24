@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12407",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12407",
+  "catchline": "Recommendations on intrastate communication",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12407",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12407&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IV, § 40608, Sept. 13, 1994, 108 Stat. 1952.)",
+  "integrity_sha256": "71c682f63420df7c89efbd5e02ee48a779a79b4313816d848cf96c9e7b5b3a44",
+  "raw_bytes": 1750,
+  "source_file": "34.12407.xml",
+  "text_file": "34.12407.txt"
+}

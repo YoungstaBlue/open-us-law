@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 878",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "41",
+  "chapter_name": "EXTORTION AND THREATS",
+  "section_number": "878",
+  "catchline": "Threats and extortion against foreign officials, official guests, or internationally protected persons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s878",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section878&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 94–467, § 8, Oct. 8, 1976, 90 Stat. 2000; amended Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 103–272, § 5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (N), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–132, title VII, §§ 705(a)(4), 721(e), Apr. 24, 1996, 110 Stat. 1295, 1299.)",
+  "integrity_sha256": "23c9446335b3205c5bcf6b2b0a0b96e3a19f0a3b7a8ca179924e41a51b15c6f8",
+  "raw_bytes": 6809,
+  "source_file": "18.878.xml",
+  "text_file": "18.878.txt"
+}

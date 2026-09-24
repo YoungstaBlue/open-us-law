@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4353",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "319",
+  "chapter_name": "NATIONAL INSTITUTE OF CORRECTIONS",
+  "section_number": "4353",
+  "catchline": "Repealed. Pub. L. 107–273, div. A, title III, § 301(a), Nov. 2, 2002, 116 Stat. 1780]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s4353",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4353&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "3073f41486814920df63ea73f2e1089220d0557c3b69c4d49054c21c928095aa",
+  "raw_bytes": 999,
+  "source_file": "18.4353.xml",
+  "text_file": "18.4353.txt"
+}

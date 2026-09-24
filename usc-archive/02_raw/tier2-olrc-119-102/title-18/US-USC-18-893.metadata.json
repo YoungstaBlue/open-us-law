@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 893",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "42",
+  "chapter_name": "EXTORTIONATE CREDIT TRANSACTIONS",
+  "section_number": "893",
+  "catchline": "Financing extortionate extensions of credit",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s893",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section893&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 161; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "37c305dff14aa43226c5d2c8e637961c374b8c7d61109ad70285c66957bd5cb1",
+  "raw_bytes": 2115,
+  "source_file": "18.893.xml",
+  "text_file": "18.893.txt"
+}

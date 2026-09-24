@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3566",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "227",
+  "chapter_name": "SENTENCES",
+  "section_number": "3566",
+  "catchline": "Implementation of a sentence of probation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3566",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3566&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1995.)",
+  "integrity_sha256": "f07f554968484015381c1090a95af75a0cce73ba6253038392bfcb1b88039626",
+  "raw_bytes": 2319,
+  "source_file": "18.3566.xml",
+  "text_file": "18.3566.txt"
+}

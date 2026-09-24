@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 48",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "3",
+  "chapter_name": "ANIMALS, BIRDS, FISH, AND PLANTS",
+  "section_number": "48",
+  "catchline": "Animal crushing",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s48",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section48&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 106–152, § 1(a), Dec. 9, 1999, 113 Stat. 1732; amended Pub. L. 111–294, § 3(a), Dec. 9, 2010, 124 Stat. 3178; Pub. L. 116–72, § 2(a), Nov. 25, 2019, 133 Stat. 1151.)",
+  "integrity_sha256": "4169286ecb7893f1219ef4eeee7dc4c1a87d7c7e8b33c10742bc740068a23217",
+  "raw_bytes": 19109,
+  "source_file": "18.48.xml",
+  "text_file": "18.48.txt"
+}

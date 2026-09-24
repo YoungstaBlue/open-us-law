@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1862",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "91",
+  "chapter_name": "PUBLIC LANDS",
+  "section_number": "1862",
+  "catchline": "Repealed. Pub. L. 95–200, § 3(c), Nov. 23, 1977, 91 Stat. 1428]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s1862",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1862&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "9340942f4e9c70d2b5bd86ce5f2d2c75f3e659495fa50c7538e3dcd35516497b",
+  "raw_bytes": 1379,
+  "source_file": "18.1862.xml",
+  "text_file": "18.1862.txt"
+}

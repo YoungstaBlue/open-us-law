@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1429",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "69",
+  "chapter_name": "NATIONALITY AND CITIZENSHIP",
+  "section_number": "1429",
+  "catchline": "Penalties for neglect or refusal to answer subpena",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1429",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1429&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added June 27, 1952, ch. 477, title IV, § 402(b), 66 Stat. 276; amended Pub. L. 97–116, § 18(u)(1), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title IV, § 407(c)(21), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "912c01c02fdc24903c4b31838aeab29d48760e8663774c42c91570144288988f",
+  "raw_bytes": 4563,
+  "source_file": "18.1429.xml",
+  "text_file": "18.1429.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1993",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "97",
+  "chapter_name": "RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR",
+  "section_number": "1993",
+  "catchline": "Repealed. Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s1993",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1993&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "e9a0a089a2a062d3c683545d0372efb21f79ee65df06d0145c2e7aa864cb6f9d",
+  "raw_bytes": 1511,
+  "source_file": "18.1993.xml",
+  "text_file": "18.1993.txt"
+}

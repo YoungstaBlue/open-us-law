@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3071",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "204",
+  "chapter_name": "REWARDS FOR INFORMATION CONCERNING TERRORIST ACTS AND ESPIONAGE",
+  "section_number": "3071",
+  "catchline": "Information for which rewards authorized",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3071",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3071&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2706; amended Pub. L. 103–359, title VIII, § 803(a), Oct. 14, 1994, 108 Stat. 3438.)",
+  "integrity_sha256": "d659c1263a8d6249554d07f4ea324bd689b6202345f563347377be3d7e9698f0",
+  "raw_bytes": 6587,
+  "source_file": "18.3071.xml",
+  "text_file": "18.3071.txt"
+}

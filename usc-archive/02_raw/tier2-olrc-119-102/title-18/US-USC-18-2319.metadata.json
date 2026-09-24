@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2319",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113",
+  "chapter_name": "STOLEN PROPERTY",
+  "section_number": "2319",
+  "catchline": "Criminal infringement of a copyright",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2319",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2319&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 97–180, § 3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, § 12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, § 2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, § 13211(a), Nov. 2, 2002, 116 Stat. 1910; Pub. L. 109–9, title I, § 103(b), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, § 208, Oct. 13, 2008, 122 Stat. 4263.)",
+  "integrity_sha256": "50087f30bb1770efda1220e3d489effedb3b1ab23ff0a6a915573994241f2c3a",
+  "raw_bytes": 17881,
+  "source_file": "18.2319.xml",
+  "text_file": "18.2319.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1952B",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "95",
+  "chapter_name": "RACKETEERING",
+  "section_number": "1952B",
+  "catchline": "Renumbered § 1959]",
+  "status": "renumbered",
+  "uslm_identifier": "/us/usc/t18/s1952B",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1952B&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "a056a5213ea9db792c8574c74f74f35175b38067a968ef0be9b82c9fc3e9ef9b",
+  "raw_bytes": 289,
+  "source_file": "18.1952B.xml",
+  "text_file": "18.1952B.txt"
+}

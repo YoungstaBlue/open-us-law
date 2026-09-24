@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1997g",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1997g",
+  "catchline": "Priorities for use of funds",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1997g",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1997g&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 96–247, § 9, May 23, 1980, 94 Stat. 354.)",
+  "integrity_sha256": "339d02d3045b73ed772f30a9cdc8d55a6cc13d2776a35f5dd55187570b98e28a",
+  "raw_bytes": 1355,
+  "source_file": "42.1997g.xml",
+  "text_file": "42.1997g.txt"
+}

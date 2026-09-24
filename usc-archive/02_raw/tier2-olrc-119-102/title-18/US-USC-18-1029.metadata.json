@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1029",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1029",
+  "catchline": "Fraud and related activity in connection with access devices",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1029",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1029&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, § 44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, § 1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, § 250007, title XXXIII, § 330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, § 206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, § 601(l), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, § 2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, § 377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, § 4002(b)(11), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–113, div. N, title IV, § 407, Dec. 18, 2015, 129 Stat. 2985.)",
+  "integrity_sha256": "0e5fe0ab90e4768fe30b0b297b13cf3328e63db2dcc8c9de86b03d2d0506d675",
+  "raw_bytes": 36393,
+  "source_file": "18.1029.xml",
+  "text_file": "18.1029.txt"
+}

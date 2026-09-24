@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3113",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "205",
+  "chapter_name": "SEARCHES AND SEIZURES",
+  "section_number": "3113",
+  "catchline": "Liquor violations in Indian country",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3113",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3113&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 820; Oct. 31, 1951, ch. 655, § 30, 65 Stat. 721; Pub. L. 103–322, title XXXIII, § 330004(15), Sept. 13, 1994, 108 Stat. 2142.)",
+  "integrity_sha256": "491c28c0b81c1bfea69e79409a2ff2072e7deeb9aeac5215dd421e8cbeb8d915",
+  "raw_bytes": 4785,
+  "source_file": "18.3113.xml",
+  "text_file": "18.3113.txt"
+}

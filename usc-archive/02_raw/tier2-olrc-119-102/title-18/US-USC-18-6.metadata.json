@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 6",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "6",
+  "catchline": "Department and agency defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s6",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section6&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 685.)",
+  "integrity_sha256": "39f1b30295e82dce764af8f20e4a5c0efea2263818a217e8a08fd5e1b16edd5e",
+  "raw_bytes": 3384,
+  "source_file": "18.6.xml",
+  "text_file": "18.6.txt"
+}

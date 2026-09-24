@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 118",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "7",
+  "chapter_name": "ASSAULT",
+  "section_number": "118",
+  "catchline": "Interference with certain protective functions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s118",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section118&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–472, § 4(a), Jan. 11, 2007, 120 Stat. 3555.)",
+  "integrity_sha256": "b9f3cb97503f4ffd7df1aca5c3b383231e116605850d8efc5f2bd0ed3f1d70d7",
+  "raw_bytes": 1233,
+  "source_file": "18.118.xml",
+  "text_file": "18.118.txt"
+}

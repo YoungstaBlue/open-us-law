@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12501",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12501",
+  "catchline": "Grant for national resource center on workplace responses to assist victims of domestic and sexual violence",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12501",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12501&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IV, § 41501, as added Pub. L. 109–162, title VII, § 701, Jan. 5, 2006, 119 Stat. 3052; amended Pub. L. 113–4, title VII, § 701, Mar. 7, 2013, 127 Stat. 110; Pub. L. 117–103, div. W, title VII, § 702, title XIII, § 1308, Mar. 15, 2022, 136 Stat. 891, 929.)",
+  "integrity_sha256": "8c22e376f79af5dcce45e9d5d9011b96b323ac99007bf606ea7d4a87a512cf15",
+  "raw_bytes": 24647,
+  "source_file": "34.12501.xml",
+  "text_file": "34.12501.txt"
+}

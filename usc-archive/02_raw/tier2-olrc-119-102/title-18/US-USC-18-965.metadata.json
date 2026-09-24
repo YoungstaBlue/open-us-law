@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 965",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "45",
+  "chapter_name": "FOREIGN RELATIONS",
+  "section_number": "965",
+  "catchline": "Verified statements as prerequisite to vessel’s departure",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s965",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section965&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 747; Pub. L. 103–182, title VI, § 687, Dec. 8, 1993, 107 Stat. 2221; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–304, § 17(d)(5), Oct. 6, 2006, 120 Stat. 1707.)",
+  "integrity_sha256": "b1832e72af3971b5dabb156e20192a0b12ea0edafbd85bad6d985bbb8cd6b482",
+  "raw_bytes": 10095,
+  "source_file": "18.965.xml",
+  "text_file": "18.965.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3063",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "203",
+  "chapter_name": "ARREST AND COMMITMENT",
+  "section_number": "3063",
+  "catchline": "Powers of Environmental Protection Agency",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3063",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3063&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–582, § 4(a), Nov. 1, 1988, 102 Stat. 2958.)",
+  "integrity_sha256": "87ea4af004da06f7ac311114453d57ca8b99ca21086cb20bca43920bc51d19f0",
+  "raw_bytes": 2860,
+  "source_file": "18.3063.xml",
+  "text_file": "18.3063.txt"
+}

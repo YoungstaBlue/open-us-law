@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 490",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "490",
+  "catchline": "Minor coins",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s490",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section490&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 98–216, § 3(b)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "faf308950b23fb48866664e0b458c333fe7104b15e6872f1693d540d6add2fd1",
+  "raw_bytes": 4150,
+  "source_file": "18.490.xml",
+  "text_file": "18.490.txt"
+}

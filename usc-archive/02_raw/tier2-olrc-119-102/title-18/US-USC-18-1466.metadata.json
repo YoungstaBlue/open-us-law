@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1466",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "71",
+  "chapter_name": "OBSCENITY",
+  "section_number": "1466",
+  "catchline": "Engaging in the business of selling or transferring obscene matter",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1466",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1466&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–690, title VII, § 7521(a), Nov. 18, 1988, 102 Stat. 4489; amended Pub. L. 101–647, title XXXV, § 3548, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 109–248, title V, § 506(b), July 27, 2006, 120 Stat. 630.)",
+  "integrity_sha256": "a8385aab6a7acf1e08b202dd739ff4dfb36f9a3bc7a6c2e426491b37d23a03af",
+  "raw_bytes": 4645,
+  "source_file": "18.1466.xml",
+  "text_file": "18.1466.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000d–7",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000d–7",
+  "catchline": "Civil rights remedies equalization",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000d–7",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d–7&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 99–506, title X, § 1003, Oct. 21, 1986, 100 Stat. 1845.)",
+  "integrity_sha256": "607a7ad47a9833cf9004231de69712cf9529ddfa64d6c2b67d28c8ac67ded588",
+  "raw_bytes": 5426,
+  "source_file": "42.2000d–7.xml",
+  "text_file": "42.2000d–7.txt"
+}

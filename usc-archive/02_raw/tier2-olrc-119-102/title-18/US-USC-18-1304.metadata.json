@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1304",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "61",
+  "chapter_name": "LOTTERIES",
+  "section_number": "1304",
+  "catchline": "Broadcasting lottery information",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1304",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1304&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 100–625, § 3(a)(4), Nov. 7, 1988, 102 Stat. 3206; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "e2a5c9e6e132eadf1b04cb13c8c9aef95639dbf182dbdac49cc63de8d4ef8a35",
+  "raw_bytes": 4224,
+  "source_file": "18.1304.xml",
+  "text_file": "18.1304.txt"
+}

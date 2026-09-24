@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1461",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "71",
+  "chapter_name": "OBSCENITY",
+  "section_number": "1461",
+  "catchline": "Mailing obscene or crime-inciting matter",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1461",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1461&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 768; June 28, 1955, ch. 190, §§ 1, 2, 69 Stat. 183; Pub. L. 85–796, § 1, Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, §§ 3, 5(b), 6(3), Jan. 8, 1971, 84 Stat. 1973, 1974; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "3cd6a27f757b1a4784f7b246e069fff11107714a5aad4727b81ebdeebee1202e",
+  "raw_bytes": 14012,
+  "source_file": "18.1461.xml",
+  "text_file": "18.1461.txt"
+}

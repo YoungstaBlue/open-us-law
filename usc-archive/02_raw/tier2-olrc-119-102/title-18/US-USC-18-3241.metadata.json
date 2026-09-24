@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3241",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "211",
+  "chapter_name": "JURISDICTION AND VENUE",
+  "section_number": "3241",
+  "catchline": "Jurisdiction of offenses under certain sections",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3241",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3241&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 827; Pub. L. 85–508, § 12(i), July 7, 1958, 72 Stat. 348; Pub. L. 107–273, div. B, title IV, § 4004(e), Nov. 2, 2002, 116 Stat. 1812.)",
+  "integrity_sha256": "cf247edaabea7c328e1fe5128c796fc3c75c329f8202f894e459323a4c6fb621",
+  "raw_bytes": 6511,
+  "source_file": "18.3241.xml",
+  "text_file": "18.3241.txt"
+}

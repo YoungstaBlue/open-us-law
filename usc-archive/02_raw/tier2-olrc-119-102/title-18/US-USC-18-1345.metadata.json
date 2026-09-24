@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1345",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "63",
+  "chapter_name": "MAIL FRAUD AND OTHER FRAUD OFFENSES",
+  "section_number": "1345",
+  "catchline": "Injunctions against fraud",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1345",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1345&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1205(a), Oct. 12, 1984, 98 Stat. 2152; amended Pub. L. 100–690, title VII, § 7077, Nov. 18, 1988, 102 Stat. 4406; Pub. L. 101–647, title XXV, § 2521(b)(2), title XXXV, § 3542, Nov. 29, 1990, 104 Stat. 4865, 4925; Pub. L. 103–322, title XXXIII, § 330011(k), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, § 247, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 107–273, div. B, title IV, § 4002(b)(14), Nov. 2, 2002, 116 Stat. 1808.)",
+  "integrity_sha256": "2f4300e89f6f754eddbb2c8c7cb3bdf67153b8d01439adcdc02a1f0a4e3da249",
+  "raw_bytes": 10382,
+  "source_file": "18.1345.xml",
+  "text_file": "18.1345.txt"
+}

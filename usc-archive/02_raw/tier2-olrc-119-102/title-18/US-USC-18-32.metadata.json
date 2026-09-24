@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 32",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "2",
+  "chapter_name": "AIRCRAFT AND MOTOR VEHICLES",
+  "section_number": "32",
+  "catchline": "Destruction of aircraft or aircraft facilities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s32",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section32&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added July 14, 1956, ch. 595, § 1, 70 Stat. 539; amended Pub. L. 98–473, title II, § 2013(b), Oct. 12, 1984, 98 Stat. 2187; Pub. L. 100–690, title VII, § 7016, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, § 330016(1)(O), (S), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, §§ 721(b), 723(a)(1), Apr. 24, 1996, 110 Stat. 1298, 1300; Pub. L. 109–177, title I, § 123, Mar. 9, 2006, 120 Stat. 226.)",
+  "integrity_sha256": "23b6386c830eb30c20014c7333e6fbdb533f20d42da33204a8d719bdb0d6b10b",
+  "raw_bytes": 15936,
+  "source_file": "18.32.xml",
+  "text_file": "18.32.txt"
+}

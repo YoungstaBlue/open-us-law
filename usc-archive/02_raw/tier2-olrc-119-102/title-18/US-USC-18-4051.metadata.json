@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4051",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "303",
+  "chapter_name": "BUREAU OF PRISONS",
+  "section_number": "4051",
+  "catchline": "Treatment of primary caretaker parents and other individuals",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4051",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4051&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 117–103, div. W, title X, § 1001(b), Mar. 15, 2022, 136 Stat. 912.)",
+  "integrity_sha256": "9404d72db64fea55d04c268dbd05edbaa4ee2846e9335ac033f9dc87fee9ea62",
+  "raw_bytes": 18255,
+  "source_file": "18.4051.xml",
+  "text_file": "18.4051.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 250",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "13",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "250",
+  "catchline": "Penalties for civil rights offenses involving sexual misconduct",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s250",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section250&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 117–103, div. W, title XII, § 1202(a)(1), Mar. 15, 2022, 136 Stat. 923.)",
+  "integrity_sha256": "0c0aa4750274c721fe41491dbf7dd7bc67357e0e075fb4f1f2c4a6ba6e5627eb",
+  "raw_bytes": 6716,
+  "source_file": "18.250.xml",
+  "text_file": "18.250.txt"
+}

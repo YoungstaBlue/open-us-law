@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1512",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "73",
+  "chapter_name": "OBSTRUCTION OF JUSTICE",
+  "section_number": "1512",
+  "catchline": "Tampering with a witness, victim, or an informant",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1512",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1512&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, § 61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, § 7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, § 60018, title XXXIII, § 330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, § 1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, § 604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, § 1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, § 3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804; Pub. L. 110–177, title II, § 205, Jan. 7, 2008, 121 Stat. 2537.)",
+  "integrity_sha256": "a2b1001d51b59d9b94fb6bcc2c60d6ded21eb2ee841da8bde97373fd54f89bc1",
+  "raw_bytes": 43557,
+  "source_file": "18.1512.xml",
+  "text_file": "18.1512.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4005",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "301",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "4005",
+  "catchline": "Medical relief; expenses",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4005",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4005&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 105–12, § 9(k), Apr. 30, 1997, 111 Stat. 28.)",
+  "integrity_sha256": "b658d8dc7fc2f1c5ced7ee004a6ce90064862cdf9834ff6f3f17b99622986030",
+  "raw_bytes": 8923,
+  "source_file": "18.4005.xml",
+  "text_file": "18.4005.txt"
+}

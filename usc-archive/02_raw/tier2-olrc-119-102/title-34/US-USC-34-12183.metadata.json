@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12183",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12183",
+  "catchline": "Approval of applications",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12183",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12183&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title III, § 31113, Sept. 13, 1994, 108 Stat. 1883; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(44), (f)(35)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434; Pub. L. 113–128, title V, § 512(jj), July 22, 2014, 128 Stat. 1722.)",
+  "integrity_sha256": "7920cc40784ca4e3a63dc2fe9f9c596e92fb1518b2a5289dfb35f610b7581575",
+  "raw_bytes": 13021,
+  "source_file": "34.12183.xml",
+  "text_file": "34.12183.txt"
+}

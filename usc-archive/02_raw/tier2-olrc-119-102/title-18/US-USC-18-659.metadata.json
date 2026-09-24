@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 659",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "31",
+  "chapter_name": "EMBEZZLEMENT AND THEFT",
+  "section_number": "659",
+  "catchline": "Interstate or foreign shipments by carrier; State prosecutions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s659",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section659&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, § 13, 63 Stat. 91; Pub. L. 89–654, § 1(a)–(d), Oct. 14, 1966, 80 Stat. 904; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 109–177, title III, § 307(a), Mar. 9, 2006, 120 Stat. 240; Pub. L. 112–186, § 4(a), Oct. 5, 2012, 126 Stat. 1428.)",
+  "integrity_sha256": "a2f7d1007a607f4d8feebc3d522de7cd3c9cff442ac4d6aeca925bf81cf4db1d",
+  "raw_bytes": 15302,
+  "source_file": "18.659.xml",
+  "text_file": "18.659.txt"
+}

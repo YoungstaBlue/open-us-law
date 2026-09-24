@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4282",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "315",
+  "chapter_name": "DISCHARGE AND RELEASE PAYMENTS",
+  "section_number": "4282",
+  "catchline": "Arrested but unconvicted persons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4282",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4282&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 856; Pub. L. 98–473, title II, § 207, Oct. 12, 1984, 98 Stat. 1986.)",
+  "integrity_sha256": "9285e05bbcb2718b7bcc8b77e4e3d12b31fd7f4c5efcca572e9120a72de69979",
+  "raw_bytes": 4311,
+  "source_file": "18.4282.xml",
+  "text_file": "18.4282.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 157",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "9",
+  "chapter_name": "BANKRUPTCY",
+  "section_number": "157",
+  "catchline": "Bankruptcy fraud",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s157",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section157&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–394, title III, § 312(a)(1)(B), Oct. 22, 1994, 108 Stat. 4140; amended Pub. L. 109–8, title III, § 332(c), Apr. 20, 2005, 119 Stat. 103; Pub. L. 111–327, § 2(b), Dec. 22, 2010, 124 Stat. 3562.)",
+  "integrity_sha256": "cbf76b8d412d918ae2fdc67247abd54b7332e1162dc15f4c2d7d7a3fa71ee053",
+  "raw_bytes": 5350,
+  "source_file": "18.157.xml",
+  "text_file": "18.157.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2326",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113A",
+  "chapter_name": "TELEMARKETING AND EMAIL MARKETING FRAUD",
+  "section_number": "2326",
+  "catchline": "Enhanced penalties",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2326",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2326&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title XXV, § 250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 105–184, §§ 3, 4, June 23, 1998, 112 Stat. 520; Pub. L. 115–70, title IV, § 402(a)(3), Oct. 18, 2017, 131 Stat. 1214.)",
+  "integrity_sha256": "6ad585f64dfaa30c6d8683c7dd928b6d9dc323e98c717b68c5ab26ad15d75512",
+  "raw_bytes": 3850,
+  "source_file": "18.2326.xml",
+  "text_file": "18.2326.txt"
+}

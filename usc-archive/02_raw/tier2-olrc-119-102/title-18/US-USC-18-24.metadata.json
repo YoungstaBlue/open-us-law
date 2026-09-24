@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 24",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "24",
+  "catchline": "Definitions relating to Federal health care offense",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s24",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section24&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–191, title II, § 241(a), Aug. 21, 1996, 110 Stat. 2016; amended Pub. L. 111–148, title VI, § 6602, title X, § 10606(c), Mar. 23, 2010, 124 Stat. 780, 1008.)",
+  "integrity_sha256": "4d1591f47b8613a2f32344e725fbabf176e3ac98669ffb9ae5496121c4f0ecdd",
+  "raw_bytes": 5373,
+  "source_file": "18.24.xml",
+  "text_file": "18.24.txt"
+}

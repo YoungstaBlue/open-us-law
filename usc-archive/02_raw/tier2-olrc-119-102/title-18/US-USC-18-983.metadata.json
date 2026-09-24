@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 983",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "46",
+  "chapter_name": "FORFEITURE",
+  "section_number": "983",
+  "catchline": "General rules for civil forfeiture proceedings",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s983",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section983&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added and amended Pub. L. 106–185, §§ 2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, § 3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, § 316(d), Oct. 26, 2001, 115 Stat. 310; Pub. L. 111–16, § 3(1), May 7, 2009, 123 Stat. 1607; Pub. L. 114–122, title I, § 105(b), Feb. 18, 2016, 130 Stat. 101.)",
+  "integrity_sha256": "0098f8ead86355ca90b1366d2bccf885b030f7a53a13c89fad91ac67a78a31ed",
+  "raw_bytes": 68367,
+  "source_file": "18.983.xml",
+  "text_file": "18.983.txt"
+}

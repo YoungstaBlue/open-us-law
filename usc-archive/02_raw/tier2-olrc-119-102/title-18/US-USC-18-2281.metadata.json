@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2281",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "111",
+  "chapter_name": "SHIPPING",
+  "section_number": "2281",
+  "catchline": "Violence against maritime fixed platforms",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2281",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2281&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title VI, § 60019(a), Sept. 13, 1994, 108 Stat. 1977; amended Pub. L. 104–132, title VII, § 723(a)(1), Apr. 24, 1996, 110 Stat. 1300; Pub. L. 104–294, title VI, § 607(p), Oct. 11, 1996, 110 Stat. 3513; Pub. L. 114–23, title VIII, § 803, June 2, 2015, 129 Stat. 307.)",
+  "integrity_sha256": "243a7f272525a782d5c0c4759c245fd3ef88e74da87953c562f8c35b4fea364f",
+  "raw_bytes": 13334,
+  "source_file": "18.2281.xml",
+  "text_file": "18.2281.txt"
+}

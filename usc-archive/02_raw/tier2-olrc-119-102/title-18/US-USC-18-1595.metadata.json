@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1595",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "77",
+  "chapter_name": "PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS",
+  "section_number": "1595",
+  "catchline": "Civil remedy",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1595",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1595&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–193, § 4(a)(4)(A), Dec. 19, 2003, 117 Stat. 2878; amended Pub. L. 110–457, title II, § 221(2), Dec. 23, 2008, 122 Stat. 5067; Pub. L. 114–22, title I, § 120, May 29, 2015, 129 Stat. 247; Pub. L. 115–164, § 6, Apr. 11, 2018, 132 Stat. 1255; Pub. L. 117–347, title I, § 102, Jan. 5, 2023, 136 Stat. 6200.)",
+  "integrity_sha256": "473e94511e64d59eefd7cd54b4b1d0f95532e1f97cf687f2a467dd50cd39d216",
+  "raw_bytes": 6441,
+  "source_file": "18.1595.xml",
+  "text_file": "18.1595.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4122",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "307",
+  "chapter_name": "EMPLOYMENT",
+  "section_number": "4122",
+  "catchline": "Administration of Federal Prison Industries",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4122",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4122&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 851; May 24, 1949, ch. 139, § 63, 63 Stat. 98; Oct. 31, 1951, ch. 655, § 31, 65 Stat. 722; Pub. L. 90–226, title VIII, § 802, Dec. 27, 1967, 81 Stat. 741; Pub. L. 100–690, title VII, § 7096, Nov. 18, 1988, 102 Stat. 4413.)",
+  "integrity_sha256": "b9c47a38df54f2b78c5e55d4b29eca648688fda796a931d5850e6a0b4a52aa45",
+  "raw_bytes": 20877,
+  "source_file": "18.4122.xml",
+  "text_file": "18.4122.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3144",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "207",
+  "chapter_name": "RELEASE AND DETENTION PENDING JUDICIAL PROCEEDINGS",
+  "section_number": "3144",
+  "catchline": "Release or detention of a material witness",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3144",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3144&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 99–646, § 55(e), Nov. 10, 1986, 100 Stat. 3609.)",
+  "integrity_sha256": "d1aa5053d6166a7b821b3a09d24994621c572cf5df0fc0fa39f09a6b67c97191",
+  "raw_bytes": 4065,
+  "source_file": "18.3144.xml",
+  "text_file": "18.3144.txt"
+}

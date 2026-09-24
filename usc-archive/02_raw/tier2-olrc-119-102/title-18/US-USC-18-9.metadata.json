@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 9",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "9",
+  "catchline": "Vessel of the United States defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s9",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section9&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 685.)",
+  "integrity_sha256": "abb50cce1edf8df5ee5872d384ea4f00b3961e8da12326e5702f6d5dcef2e5e8",
+  "raw_bytes": 1641,
+  "source_file": "18.9.xml",
+  "text_file": "18.9.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4245",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "313",
+  "chapter_name": "OFFENDERS WITH MENTAL DISEASE OR DEFECT",
+  "section_number": "4245",
+  "catchline": "Hospitalization of an imprisoned person suffering from mental disease or defect",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4245",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4245&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 687; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2062.)",
+  "integrity_sha256": "aa696cf6b0e3d5c2dbbe6489b2979e6ccf23d23b7173b794d69150d365c7f121",
+  "raw_bytes": 5783,
+  "source_file": "18.4245.xml",
+  "text_file": "18.4245.txt"
+}

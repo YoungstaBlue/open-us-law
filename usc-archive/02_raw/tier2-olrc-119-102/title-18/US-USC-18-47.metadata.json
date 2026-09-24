@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 47",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "3",
+  "chapter_name": "ANIMALS, BIRDS, FISH, AND PLANTS",
+  "section_number": "47",
+  "catchline": "Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s47",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section47&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 86–234, § 1(a), Sept. 8, 1959, 73 Stat. 470; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "9101b7c3a304d2a49b6cd991155979d95c7c43a234b2f436d2b7ed7e6dff019a",
+  "raw_bytes": 3418,
+  "source_file": "18.47.xml",
+  "text_file": "18.47.txt"
+}

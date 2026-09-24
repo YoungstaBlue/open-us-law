@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12421",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12421",
+  "catchline": "Training and services to end abuse in later life",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12421",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12421&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IV, § 40801, as added Pub. L. 106–386, div. B, title II, § 1209(a), Oct. 28, 2000, 114 Stat. 1508; amended Pub. L. 113–4, title II, § 204(a), Mar. 7, 2013, 127 Stat. 82; Pub. L. 117–103, div. W, title II, § 204(2), Mar. 15, 2022, 136 Stat. 857.)",
+  "integrity_sha256": "b96a80c39a340d808443641a0e869c69f04d471bf1abbe9849b2b37abd133f0f",
+  "raw_bytes": 16641,
+  "source_file": "34.12421.xml",
+  "text_file": "34.12421.txt"
+}

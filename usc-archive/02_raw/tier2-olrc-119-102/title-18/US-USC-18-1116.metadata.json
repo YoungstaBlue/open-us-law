@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1116",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "51",
+  "chapter_name": "HOMICIDE",
+  "section_number": "1116",
+  "catchline": "Murder or manslaughter of foreign officials, official guests, or internationally protected persons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1116",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1116&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 92–539, title I, § 101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 94–467, § 2, Oct. 8, 1976, 90 Stat. 1997; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 97–351, § 3, Oct. 18, 1982, 96 Stat. 1666; Pub. L. 103–272, § 5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title VI, § 60003(a)(5), title XXXIII, § 330006, Sept. 13, 1994, 108 Stat. 1969, 2142; Pub. L. 104–132, title VII, § 721(c), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, § 601(g)(2), Oct. 11, 1996, 110 Stat. 3500.)",
+  "integrity_sha256": "4b842ba446388a1da0529bdf457bcfcd512a3fc6706558e799cde07357e22a47",
+  "raw_bytes": 14116,
+  "source_file": "18.1116.xml",
+  "text_file": "18.1116.txt"
+}

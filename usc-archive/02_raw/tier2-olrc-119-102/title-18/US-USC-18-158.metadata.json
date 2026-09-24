@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 158",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "9",
+  "chapter_name": "BANKRUPTCY",
+  "section_number": "158",
+  "catchline": "Designation of United States attorneys and agents of the Federal Bureau of Investigation to address abusive reaffirmations of debt and materially fraudulent statements in bankruptcy schedules",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s158",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section158&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–8, title II, § 203(b)(1), Apr. 20, 2005, 119 Stat. 49.)",
+  "integrity_sha256": "279bc7c58f27737def2afafcf33e44efb1f17bec0eb5e4dcaa0ea8213fcc079d",
+  "raw_bytes": 4587,
+  "source_file": "18.158.xml",
+  "text_file": "18.158.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000b–2",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000b–2",
+  "catchline": "Personal suits for relief against discrimination in public facilities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000b–2",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000b–2&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title III, § 303, July 2, 1964, 78 Stat. 246.)",
+  "integrity_sha256": "632607a07c05778d83f344e3c8958aac0aaca249c40a8838c54612dab856183d",
+  "raw_bytes": 871,
+  "source_file": "42.2000b–2.xml",
+  "text_file": "42.2000b–2.txt"
+}

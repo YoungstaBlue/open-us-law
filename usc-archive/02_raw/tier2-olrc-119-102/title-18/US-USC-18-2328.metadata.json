@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2328",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113A",
+  "chapter_name": "TELEMARKETING AND EMAIL MARKETING FRAUD",
+  "section_number": "2328",
+  "catchline": "Mandatory forfeiture",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2328",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2328&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 115–70, title IV, § 402(a)(4), Oct. 18, 2017, 131 Stat. 1214.)",
+  "integrity_sha256": "af57c6ea960f7a23cde9405de5f1171ddc556993fc3ffacef03e31b86af846e9",
+  "raw_bytes": 2962,
+  "source_file": "18.2328.xml",
+  "text_file": "18.2328.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4043",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "303",
+  "chapter_name": "BUREAU OF PRISONS",
+  "section_number": "4043",
+  "catchline": "Acceptance of gifts and bequests to the Commissary Funds, Federal Prisons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4043",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4043&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 97–258, § 2(d)(4)(B), Sept. 13, 1982, 96 Stat. 1059; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)",
+  "integrity_sha256": "e04a363871532cb7b21ba2fc69baf3a49870ad757e1550958c89c77fd2fae7c0",
+  "raw_bytes": 8121,
+  "source_file": "18.4043.xml",
+  "text_file": "18.4043.txt"
+}

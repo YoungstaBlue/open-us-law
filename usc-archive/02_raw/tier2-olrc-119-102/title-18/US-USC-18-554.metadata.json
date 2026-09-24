@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 554",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "27",
+  "chapter_name": "CUSTOMS",
+  "section_number": "554",
+  "catchline": "Smuggling goods from the United States",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s554",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section554&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–177, title III, § 311(a), Mar. 9, 2006, 120 Stat. 242.)",
+  "integrity_sha256": "74093aa39135bc2261bc8ce5e1e20bdda2d9643a70912c3206ee767b76bf9b27",
+  "raw_bytes": 2443,
+  "source_file": "18.554.xml",
+  "text_file": "18.554.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1761",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "85",
+  "chapter_name": "PRISON-MADE GOODS",
+  "section_number": "1761",
+  "catchline": "Transportation or importation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1761",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1761&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 90–351, title I, § 819(a), formerly § 827(a), as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1215, and renumbered Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 98–473, title II, §§ 223(c), 609K, Oct. 12, 1984, 98 Stat. 2028, 2102; Pub. L. 100–17, title I, § 112(b)(3), Apr. 2, 1987, 101 Stat. 149; Pub. L. 101–647, title XXIX, § 2906, Nov. 29, 1990, 104 Stat. 4914; Pub. L. 102–393, title V, § 535(a), Oct. 6, 1992, 106 Stat. 1764; Pub. L. 103–322, title XXXIII, §§ 330010(11), 330016(1)(H), Sept. 13, 1994, 108 Stat. 2144, 2147; Pub. L. 104–134, title I, § 101(b) [title I, § 136], Apr. 26, 1996, 110 Stat. 1321–77, 1321–93; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–294, title VI, §§ 601(a)(7), 607(h), Oct. 11, 1996, 110 Stat. 3498, 3512; Pub. L. 112–55, div. B, title II, § 221, Nov. 18, 2011, 125 Stat. 621.)",
+  "integrity_sha256": "0e7737fe0c8adf22d5498755fd17aa80344b89ec6201b74f7286a52aab37ff89",
+  "raw_bytes": 20910,
+  "source_file": "18.1761.xml",
+  "text_file": "18.1761.txt"
+}

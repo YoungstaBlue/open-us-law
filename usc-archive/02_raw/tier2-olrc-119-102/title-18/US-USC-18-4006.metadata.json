@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4006",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "301",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "4006",
+  "catchline": "Subsistence for prisoners",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4006",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4006&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 114], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–553, § 1(a)(2) [title VI, § 626], Dec. 21, 2000, 114 Stat. 2762, 2762A–108; Pub. L. 109–162, title XI, § 1157, Jan. 5, 2006, 119 Stat. 3114.)",
+  "integrity_sha256": "fda7bc4b4ac9616e692efc41c6d4986be4f06bef5301b5efcf2b010dacf9a2f5",
+  "raw_bytes": 6642,
+  "source_file": "18.4006.xml",
+  "text_file": "18.4006.txt"
+}

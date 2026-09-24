@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1035",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1035",
+  "catchline": "False statements relating to health care matters",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1035",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1035&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–191, title II, § 244(a), Aug. 21, 1996, 110 Stat. 2017.)",
+  "integrity_sha256": "7dfb40683f0cf8e08372160e17c39a593e3f2b6170e53721567194c182a74315",
+  "raw_bytes": 2270,
+  "source_file": "18.1035.xml",
+  "text_file": "18.1035.txt"
+}

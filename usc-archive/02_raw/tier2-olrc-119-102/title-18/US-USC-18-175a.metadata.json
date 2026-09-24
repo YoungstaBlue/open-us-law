@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 175a",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "10",
+  "chapter_name": "BIOLOGICAL WEAPONS",
+  "section_number": "175a",
+  "catchline": "Requests for military assistance to enforce prohibition in certain emergencies",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s175a",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section175a&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–201, div. A, title XIV, § 1416(c)(1)(A), Sept. 23, 1996, 110 Stat. 2723.)",
+  "integrity_sha256": "11fd65c89827a9e518b10611b8f7da56d4a324e9951cd5c3958e8e512876f98c",
+  "raw_bytes": 2469,
+  "source_file": "18.175a.xml",
+  "text_file": "18.175a.txt"
+}

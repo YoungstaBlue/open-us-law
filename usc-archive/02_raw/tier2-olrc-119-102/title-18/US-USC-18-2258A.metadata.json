@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2258A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110",
+  "chapter_name": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+  "section_number": "2258A",
+  "catchline": "Reporting requirements of providers",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2258A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2258A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 110–401, title V, § 501(a), Oct. 13, 2008, 122 Stat. 4243; amended Pub. L. 115–395, § 2, Dec. 21, 2018, 132 Stat. 5287; Pub. L. 118–59, §§ 3, 4(a), May 7, 2024, 138 Stat. 1016; Pub. L. 119–60, div. H, title LXXXII, § 8202(i), Dec. 18, 2025, 139 Stat. 1844.)",
+  "integrity_sha256": "88923e33aade9911488c45deadaa065d051da506c7976a0ea4bfa561a7f1456e",
+  "raw_bytes": 50601,
+  "source_file": "18.2258A.xml",
+  "text_file": "18.2258A.txt"
+}

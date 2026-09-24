@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1983",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1983",
+  "catchline": "Civil action for deprivation of rights",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1983",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1983&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(R.S. § 1979; Pub. L. 96–170, § 1, Dec. 29, 1979, 93 Stat. 1284; Pub. L. 104–317, title III, § 309(c), Oct. 19, 1996, 110 Stat. 3853.)",
+  "integrity_sha256": "f754f516040073d3d3dc6c69d1b6aae9feddf6f998e5df29416c2fbc676c7814",
+  "raw_bytes": 4419,
+  "source_file": "42.1983.xml",
+  "text_file": "42.1983.txt"
+}

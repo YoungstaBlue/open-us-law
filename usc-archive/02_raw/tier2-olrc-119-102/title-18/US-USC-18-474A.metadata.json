@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 474A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "474A",
+  "catchline": "Deterrents to counterfeiting of obligations and securities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s474A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section474A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 102–550, title XV, § 1553(a), Oct. 28, 1992, 106 Stat. 4070; amended Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(a)], title II, § 2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)",
+  "integrity_sha256": "b233edb372c6a527d9207f9ea95819c3a2a32afbe60d3017ed6344e885637dd4",
+  "raw_bytes": 5497,
+  "source_file": "18.474A.xml",
+  "text_file": "18.474A.txt"
+}

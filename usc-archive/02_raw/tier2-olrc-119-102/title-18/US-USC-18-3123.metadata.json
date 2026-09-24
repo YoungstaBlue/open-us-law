@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3123",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "206",
+  "chapter_name": "PEN REGISTERS AND TRAP AND TRACE DEVICES",
+  "section_number": "3123",
+  "catchline": "Issuance of an order for a pen register or a trap and trace device",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3123",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3123&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 99–508, title III, § 301(a), Oct. 21, 1986, 100 Stat. 1869; amended Pub. L. 107–56, title II, § 216(b), Oct. 26, 2001, 115 Stat. 288.)",
+  "integrity_sha256": "7aff9d578d67142389aa9f9d5ba7ab267b9cc00b185db168c2541006da6df3f6",
+  "raw_bytes": 14508,
+  "source_file": "18.3123.xml",
+  "text_file": "18.3123.txt"
+}

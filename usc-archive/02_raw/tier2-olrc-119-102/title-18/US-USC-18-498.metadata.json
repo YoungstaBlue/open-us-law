@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 498",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "498",
+  "catchline": "Military or naval discharge certificates",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s498",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section498&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "8a8d69faf493c20e7d2235be9e7c6e79af2962843d6be53abf3c6938b38162a3",
+  "raw_bytes": 3240,
+  "source_file": "18.498.xml",
+  "text_file": "18.498.txt"
+}

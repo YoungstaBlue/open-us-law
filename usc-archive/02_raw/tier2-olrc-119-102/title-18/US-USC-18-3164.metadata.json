@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3164",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "208",
+  "chapter_name": "SPEEDY TRIAL",
+  "section_number": "3164",
+  "catchline": "Persons detained or designated as being of high risk",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3164",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3164&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2081; amended Pub. L. 96–43, § 7, Aug. 2, 1979, 93 Stat. 329.)",
+  "integrity_sha256": "cace45ae681387c640ac3e83b9f9694916d3e978af42dd8f86ce1e37efa5d919",
+  "raw_bytes": 5252,
+  "source_file": "18.3164.xml",
+  "text_file": "18.3164.txt"
+}

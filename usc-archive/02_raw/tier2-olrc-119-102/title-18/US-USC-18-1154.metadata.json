@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1154",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "53",
+  "chapter_name": "INDIANS",
+  "section_number": "1154",
+  "catchline": "Intoxicants dispensed in Indian country",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1154",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1154&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, § 27, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "6b5b8689113a9aed4a520ed6d6619abbe810925c16773f8cace9c7d3b7d7a267",
+  "raw_bytes": 12043,
+  "source_file": "18.1154.xml",
+  "text_file": "18.1154.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000g",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000g",
+  "catchline": "Establishment of Service; Director of Service: appointment, term; personnel",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000g",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000g&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title X, § 1001(a), July 2, 1964, 78 Stat. 267; Pub. L. 95–624, § 5, Nov. 9, 1978, 92 Stat. 3462.)",
+  "integrity_sha256": "29acbf0fb76924c939e725e19fa1cf9c32feef8669cb0f0b88db01daaddc0671",
+  "raw_bytes": 16291,
+  "source_file": "42.2000g.xml",
+  "text_file": "42.2000g.txt"
+}

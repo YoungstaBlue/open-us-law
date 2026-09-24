@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1920",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "93",
+  "chapter_name": "PUBLIC OFFICERS AND EMPLOYEES",
+  "section_number": "1920",
+  "catchline": "False statement or fraud to obtain Federal employees’ compensation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1920",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1920&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 89–554, § 3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–333, title I, § 101(b)(1), Sept. 30, 1994, 108 Stat. 2547; Pub. L. 104–294, title VI, § 601(a)(10), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title IV, § 4002(f)(2), Nov. 2, 2002, 116 Stat. 1811.)",
+  "integrity_sha256": "d7e369c1d40920b88ee5596730051a06597169730554f2fd41981eca112198b3",
+  "raw_bytes": 8612,
+  "source_file": "18.1920.xml",
+  "text_file": "18.1920.txt"
+}

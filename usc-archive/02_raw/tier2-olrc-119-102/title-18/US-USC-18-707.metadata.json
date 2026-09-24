@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 707",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "33",
+  "chapter_name": "EMBLEMS, INSIGNIA, AND NAMES",
+  "section_number": "707",
+  "catchline": "Repealed. Pub. L. 116–260, div. O, title X, § 1002(3), Dec. 27, 2020, 134 Stat. 2155]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s707",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section707&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "00d42cf944a6f166e697f0255e90c80812f4727bdb0fbd06729e6588dc6fec8c",
+  "raw_bytes": 1145,
+  "source_file": "18.707.xml",
+  "text_file": "18.707.txt"
+}

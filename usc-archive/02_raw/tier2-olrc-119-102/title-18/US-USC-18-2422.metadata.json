@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2422",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "117",
+  "chapter_name": "TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES",
+  "section_number": "2422",
+  "catchline": "Coercion and enticement",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2422",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2422&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 99–628, § 5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 100–690, title VII, § 7070, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 104–104, title V, § 508, Feb. 8, 1996, 110 Stat. 137; Pub. L. 105–314, title I, § 102, Oct. 30, 1998, 112 Stat. 2975; Pub. L. 108–21, title I, § 103(a)(2)(A), (B), (b)(2)(A), Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, § 203, July 27, 2006, 120 Stat. 613.)",
+  "integrity_sha256": "0a3e476ba78f37f9bcf2d1bd1cfde6e3048c1e6f943afc01cbef945a89a126ff",
+  "raw_bytes": 8232,
+  "source_file": "18.2422.xml",
+  "text_file": "18.2422.txt"
+}

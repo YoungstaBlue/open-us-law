@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1992",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "97",
+  "chapter_name": "RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR",
+  "section_number": "1992",
+  "catchline": "Terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1992",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1992&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205; amended Pub. L. 110–53, title XV, § 1539, Aug. 3, 2007, 121 Stat. 468; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(3), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(2)(B), Dec. 18, 2025, 139 Stat. 1759.)",
+  "integrity_sha256": "5b1ccfc3826dd7c69e8749ff55de8be0f7f8cdfdaf68905c6daeb4ff5554dee3",
+  "raw_bytes": 21684,
+  "source_file": "18.1992.xml",
+  "text_file": "18.1992.txt"
+}

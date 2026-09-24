@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2258C",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110",
+  "chapter_name": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+  "section_number": "2258C",
+  "catchline": "Use to combat child pornography of technical elements relating to reports made to the CyberTipline",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2258C",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2258C&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 110–401, title V, § 501(a), Oct. 13, 2008, 122 Stat. 4249; amended Pub. L. 115–395, § 4, Dec. 21, 2018, 132 Stat. 5292.)",
+  "integrity_sha256": "374dc81abefea2ed59e40eb668c78383f8c73a4f1335aa5175fcc7b8937ed0a6",
+  "raw_bytes": 9959,
+  "source_file": "18.2258C.xml",
+  "text_file": "18.2258C.txt"
+}

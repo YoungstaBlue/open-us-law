@@ -1,0 +1,21 @@
+{
+ "section_id": "MO-RSMO-542.402",
+ "jurisdiction": "missouri",
+ "section": "RSMo § 542.402",
+ "chapter_number": "542",
+ "section_number": "542.402",
+ "catchline": "Penalty for illegal wiretapping, permitted activities",
+ "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=542.402",
+ "history_text": "(L. 1989 H.B. 277, et al. § 2, A.L. 2002 S.B. 712, A.L. 2014 S.B. 491)",
+ "effective_date_note": "Effective 1-01-17 ",
+ "source_type": "Legal Data Hunter MCP, source US/MO-Legislation (\"Missouri Revised Statutes\", tier 1, 29,622 documents, document date field 2025-01-01; section texts carry 2025 and 2026 session-law history, so the underlying capture is later than the date field). Retrieved via get_document(include_full_text=true). Second-hand copy of revisor.mo.gov; not a direct fetch of the official site.",
+ "source_record_date": "2025-01-01",
+ "retrieved_at": "2026-09-09T07:50:00+00:00",
+ "source_file": "MO-RSMO-542.402.json",
+ "text_file": "MO-RSMO-542.402.txt",
+ "integrity_sha256": "eade5979cd293e00ba1a4f5ad47c54e277c699c0992b05635b2fa60261991f68",
+ "positive_law_title": null,
+ "status": "operative",
+ "citation_log_id": "C-001 C-002",
+ "flags": []
+}

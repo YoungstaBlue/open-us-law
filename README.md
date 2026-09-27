@@ -75,6 +75,7 @@ This README doubles as the **table of contents** - the file tree is deep, so eve
 
 - [Download the data](#download-the-data)
 - [Quick start](#quick-start)
+- [Local knowledge base (offline search + verify)](scripts/local_kb/README.md)
 - [What you get (output format)](#what-you-get-output-format)
 - [Coverage & script index](#coverage--script-index)
   - [Federal](#federal)
@@ -104,6 +105,14 @@ OUT_DIR=./data python -m src.scrapers.us.states.ks.statutes.scrapeKS
 ```
 
 Swap `ks` / `scrapeKS` for any state in the table below. Each script is self-documenting - run it with `--help`, or read its module docstring for the exact source and options.
+
+Want a local, searchable copy instead of running scrapers - and a one-command check against the live official source? See [`scripts/local_kb/`](scripts/local_kb/README.md):
+
+```bash
+python scripts/local_kb/build_db.py          # fetches MO + federal parquet, builds legal_kb.duckdb
+python scripts/local_kb/search.py "455.020"  # find candidate matches locally
+python scripts/local_kb/verify.py "455.020"  # confirm against the live official source
+```
 
 ## What you get (output format)
 

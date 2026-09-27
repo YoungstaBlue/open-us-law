@@ -17,3 +17,7 @@ pydantic>=2.0
 tenacity>=8.0
 structlog>=24.0          # structured logging in the bulk-ingester pipeline (vaquill_pipeline)
 selenium>=4.0           # only the 11 Selenium states (+ chromedriver on PATH)
+
+# For the local knowledge base (scripts/local_kb/) -- downloads published
+# parquet and builds an offline, searchable DuckDB with full-text search:
+duckdb>=1.1

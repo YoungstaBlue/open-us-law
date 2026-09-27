@@ -8,3 +8,9 @@ data/*.jsonl
 data/*.zip
 *.log
 .DS_Store
+
+# local_kb: downloaded parquet cache + the built database are local build
+# artifacts (regenerate with build_db.py), not something to commit.
+scripts/local_kb/.cache/
+scripts/local_kb/*.duckdb
+scripts/local_kb/*.duckdb.wal

@@ -1,4 +1,4 @@
-"""Phase 4: load 03_validated/03_usc_sections.csv into Supabase `statute_sections` via PostgREST.
+"""Phase 4: load 03_validated/sections/*.csv (one file per corpus) into Supabase `statute_sections` via PostgREST.
 
 Requires a temporary insert policy on the table (applied and dropped around the run by the operator).
 Env: SUPABASE_URL, SUPABASE_KEY (anon/publishable key is enough while the temp policy exists).
@@ -9,7 +9,7 @@ import csv, hashlib, json, os, sys, time, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CSV = ROOT / "03_validated" / "03_usc_sections.csv"
+CSVS = sorted((ROOT / "03_validated" / "sections").glob(os.environ.get("ONLY", "*") + ".csv"))
 URL = os.environ["SUPABASE_URL"].rstrip("/") + "/rest/v1/statute_sections"
 KEY = os.environ["SUPABASE_KEY"]
 BATCH = int(os.environ.get("BATCH", "200"))
@@ -25,6 +25,7 @@ def to_row(r):
     d["positive_law_title"] = r["positive_law_title"] == "True"
     d["is_current"] = r["is_current"] == "True"
     d["section_id"] = r["section_id"]
+    d["citation"] = r.get("citation") or None
     for k in ("title_name", "chapter_number", "chapter_name", "catchline", "source_credit", "notes_text", "bulk_source_url"):
         if d[k] == "": d[k] = None
     return d
@@ -32,7 +33,7 @@ def to_row(r):
 def post(rows):
     body = json.dumps(rows).encode()
     req = urllib.request.Request(URL + "?on_conflict=jurisdiction,title_number,section_number,source_edition", data=body, method="POST",
-        headers={"apikey": KEY, "Authorization": f"Bearer {KEY}", "Content-Type": "application/json",
+        headers={"x-import-token": os.environ.get("IMPORT_TOKEN", ""), "apikey": KEY, "Authorization": f"Bearer {KEY}", "Content-Type": "application/json",
                  "Prefer": "resolution=merge-duplicates,return=minimal"})
     for attempt in range(4):
         try:
@@ -43,7 +44,7 @@ def post(rows):
             if e.code in (502, 503, 504) and attempt < 3: time.sleep(2 ** attempt); continue
             sys.exit(f"HTTP {e.code}: {msg}")
 
-rows = [to_row(r) for r in csv.DictReader(open(CSV, encoding="utf-8"))]
+rows = [to_row(r) for f in CSVS for r in csv.DictReader(open(f, encoding="utf-8"))]
 print(f"{len(rows)} rows, batch {BATCH}")
 sent = 0
 for i in range(0, len(rows), BATCH):
@@ -54,7 +55,7 @@ manifest = {
     "archive": "US-USC", "rows_loaded": sent, "current_rows": sum(r["is_current"] for r in rows),
     "audit_rows": sum(not r["is_current"] for r in rows),
     "by_title": {t: sum(1 for r in rows if r["title_number"] == t and r["is_current"]) for t in sorted({r["title_number"] for r in rows})},
-    "csv_sha256": hashlib.sha256(CSV.read_bytes()).hexdigest(), "supabase_project": "bayizqcstqdacbonudey",
+    "csv_sha256": {f.name: hashlib.sha256(f.read_bytes()).hexdigest() for f in CSVS}, "supabase_project": "bayizqcstqdacbonudey",
     "loaded_at": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
 }
 (ROOT / "04_supabase" / "04_usc_manifest.json").write_text(json.dumps(manifest, indent=2))

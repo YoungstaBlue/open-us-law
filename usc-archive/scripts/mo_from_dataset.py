@@ -12,7 +12,7 @@ on a proxied box. Every emitted metadata file says so. This is not a direct fetc
 Column mapping is guessed from common names and printed; override with --col text=body_text etc.
 Nothing is written unless `verify` passes or --skip-hash-check is given explicitly.
 """
-import csv, hashlib, json, sys, time, re
+import os, csv, hashlib, json, sys, time, re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -57,8 +57,12 @@ def cmd_inspect(parquet, overrides):
 
 def cmd_verify(parquet, sums):
     manifest = json.load(open(sums))
-    want = manifest.get(FILE) or manifest.get("files", {}).get(FILE) or next((v for k, v in manifest.items() if k.endswith(FILE)), None)
-    if isinstance(want, dict): want = want.get("sha256") or want.get("hash")
+    if isinstance(manifest, list):  # v2026.08 format: [{file, sha256, rows, bytes}, ...]
+        rec = next((r for r in manifest if str(r.get("file", "")).endswith(FILE)), None)
+        want = (rec or {}).get("sha256")
+    else:
+        want = manifest.get(FILE) or manifest.get("files", {}).get(FILE) or next((v for k, v in manifest.items() if k.endswith(FILE)), None)
+        if isinstance(want, dict): want = want.get("sha256") or want.get("hash")
     got = sha256(parquet)
     print(f"manifest: {want}\non disk:  {got}")
     if want != got: sys.exit("HASH MISMATCH — do not use this file")
@@ -80,7 +84,7 @@ def cmd_extract(parquet, sums, overrides, everything, skip_hash):
     if "snapshot" in m:
         vals = [str(r[m["snapshot"]])[:10] for r in rows[:2000] if r.get(m["snapshot"])]
         snap = max(vals) if vals else None
-    snap = snap or time.strftime("%Y-%m-%d")
+    snap = os.environ.get("MO_SNAPSHOT") or snap or time.strftime("%Y-%m-%d")  # pin to keep source_edition stable across re-runs
     out = ROOT / "02_raw" / f"mo-rsmo-dataset-{snap}"; out.mkdir(parents=True, exist_ok=True)
     stamp = time.strftime("%Y-%m-%dT%H:%M:%S%z"); n = 0; seen = set()
     for r in rows:

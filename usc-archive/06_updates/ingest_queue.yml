@@ -1,0 +1,14 @@
+# Daily ingest queue. The routine takes the first item with status: pending.
+# Every load verifies source hashes and runs structural checks. Stop adding at db_cap_mb.
+db_cap_mb: 430
+items:
+  - {id: constitutions, status: pending, source: "vaquill v2026.08 us_federal_constitutions + us_mo_constitutions", rows: 519, cite: "U.S. Const. art. _, § _ / Mo. Const. art. _, § _"}
+  - {id: federal-court-rules, status: pending, source: "vaquill v2026.08 us_federal_court_rules", rows: 589, cite: "Fed. R. Civ. P. _ etc."}
+  - {id: mo-supreme-court-rules, status: pending, source: "courts.mo.gov (official); cross-check Legal_Data_Hunter", note: "not in the vaquill dataset"}
+  - {id: local-rules, status: pending, source: "E.D. Mo., W.D. Mo., 8th Cir. local rules (official sites)"}
+  - {id: usc-28, status: pending, source: "OLRC USLM xml_usc28 (scripts/split_uslm.py SCOPE)"}
+  - {id: usc-42-rest, status: pending, source: "OLRC USLM Title 42, remaining chapters (Title VII ch.21 subch.VI and ADA ch.126 first)"}
+  - {id: usc-29, status: pending, source: "OLRC USLM Title 29"}
+  - {id: usc-15, status: pending, source: "OLRC USLM Title 15"}
+  - {id: usc-5, status: pending, source: "OLRC USLM Title 5"}
+  - {id: mo-guidance, status: pending, source: "vaquill v2026.08 us_mo_guidance", rows: 106}

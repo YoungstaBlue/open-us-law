@@ -156,6 +156,16 @@ def fetch_text(url: str, retries: int = 4, use_us_proxy: bool = False) -> str:
     raise RuntimeError(f"fetch failed {url}: {last}")
 
 
+def _fetch_or_none(url: str, retries: int = 4) -> str | None:
+    """Like `fetch_text(url, use_us_proxy=True)`, but returns None on
+    exhaustion instead of raising -- for scrapers (MO, ID) whose own
+    discovery/leaf-fetch loops already track per-page failures themselves."""
+    try:
+        return fetch_text(url, retries=retries, use_us_proxy=True)
+    except Exception:
+        return None
+
+
 # ---------------------------------------------------------------------------
 # Fail-closed drop accounting
 # ---------------------------------------------------------------------------
@@ -846,6 +856,10 @@ def _ca_article_query(art: str) -> str:
     return _CA_SPACED_ARTICLE_QUERIES.get(art, art)
 
 
+_CA_SECTION_SPLIT_RE = re.compile(r"\n(?:SECTION|SEC\.)\s+(\d+(?:\.\d+)?[A-Z]?)\.\s*")
+_CA_ARTICLE_TITLE_RE = re.compile(r"ARTICLE\s+[\w\.]+\s+([A-Z][A-Z, ]+?)(?:\n|\[|\s+\(|$)")
+
+
 def scrape_ca(r2) -> list[Section]:
     """California Constitution from leginfo.legislature.ca.gov (article-by-article)."""
     out: list[Section] = []
@@ -869,7 +883,7 @@ def scrape_ca(r2) -> list[Section]:
             container = soup.find("body") or soup
         body_text = container.get_text("\n", strip=True)
         # Split on SECTION N. or SEC. N. markers
-        parts = re.split(r"\n(?:SECTION|SEC\.)\s+(\d+(?:\.\d+)?[A-Z]?)\.\s*", body_text)
+        parts = _CA_SECTION_SPLIT_RE.split(body_text)
         if len(parts) <= 1:
             _DROPS.unit_empty(f"CA art {art} (no SECTION markers)")
             continue
@@ -879,7 +893,7 @@ def scrape_ca(r2) -> list[Section]:
         # Article title (first text block before SECTION 1)
         article_title = ""
         first_part = parts[0]
-        m = re.search(r"ARTICLE\s+[\w\.]+\s+([A-Z][A-Z, ]+?)(?:\n|\[|\s+\(|$)", first_part[:500])
+        m = _CA_ARTICLE_TITLE_RE.search(first_part[:500])
         if m:
             article_title = m.group(1).title().strip()
 
@@ -919,6 +933,7 @@ def scrape_ca(r2) -> list[Section]:
 # ---------------------------------------------------------------------------
 
 TX_BASE = "https://tcss.legis.texas.gov/resources/CN"
+_TX_SECTION_SPLIT_RE = re.compile(r"\n(?:Sec\.|SECTION|SEC\.)\s+(\d+(?:[a-z]?(?:-\d+)?))\.\s*")
 
 
 def scrape_tx(r2) -> list[Section]:
@@ -942,7 +957,7 @@ def scrape_tx(r2) -> list[Section]:
         soup = BeautifulSoup(html, "html.parser")
         body_text = soup.get_text("\n", strip=True)
         # TX uses Sec. N.NN format
-        parts = re.split(r"\n(?:Sec\.|SECTION|SEC\.)\s+(\d+(?:[a-z]?(?:-\d+)?))\.\s*", body_text)
+        parts = _TX_SECTION_SPLIT_RE.split(body_text)
         if len(parts) <= 1:
             # The documented capitol.texas.gov SPA-shell failure: the article was
             # fetched but the section-split matched nothing, so it used to drop
@@ -1385,6 +1400,18 @@ _BODY_PREP_OVERRIDES: dict[str, Callable[[str], str]] = {
 # ---------------------------------------------------------------------------
 
 
+def _dedupe_section_number(seen: dict[str, int], sec_num: str) -> str:
+    """A section number that repeats within one article/work-list is real,
+    separately citable text (a currently-effective vs. not-yet-effective
+    version, a repealed number reused by a later amendment, ...), not a scrape
+    artifact -- disambiguate the 2nd+ occurrence with a "-vN" suffix rather
+    than silently colliding on one act_id. `seen` is the caller's own
+    per-article/per-work-list counter dict, mutated in place."""
+    seen[sec_num] = seen.get(sec_num, 0) + 1
+    occurrence = seen[sec_num]
+    return sec_num if occurrence == 1 else f"{sec_num}-v{occurrence}"
+
+
 def _emit_section(
     state: str,
     r2,
@@ -1524,9 +1551,7 @@ def _emit_sections_from_articles(
         sec_iter = [(sec_parts[k], sec_parts[k + 1]) for k in range(1, len(sec_parts) - 1, 2)]
         seen_nums: dict[str, int] = {}
         for sec_num_raw, sec_text_raw in sec_iter:
-            seen_nums[sec_num_raw] = seen_nums.get(sec_num_raw, 0) + 1
-            occurrence = seen_nums[sec_num_raw]
-            sec_num = sec_num_raw if occurrence == 1 else f"{sec_num_raw}-v{occurrence}"
+            sec_num = _dedupe_section_number(seen_nums, sec_num_raw)
             sec = _emit_section(
                 state,
                 r2,
@@ -1798,128 +1823,6 @@ def _parse_ma(state: str, body_text: str, url: str, r2_html_url: str, r2) -> lis
             continue
         out.extend(_parse_ma_part2(state, part_body, url, r2_html_url, r2))
     return out
-
-
-# ---------------------------------------------------------------------------
-# Oregon Wikisource override — per-state override dispatched below, mirrors
-# the amendment_years_for(sec) precedent (one shared function for the
-# majority, a small per-state override for a confirmed-different minority).
-#
-# Confirmed live 2026-08-07 (fetched en.wikisource.org/wiki/Oregon_Constitution
-# directly): unlike every other _WS_INLINE_STATES member, Oregon's Wikisource
-# page is NOT a single page with inline Article + Section text. It is a
-# ~3.2 KB portal/index page (its `mw-content-ltr` body, the candidate
-# scrape_wikisource_inline's own "pick the longer candidate" logic already
-# selects) whose actual content is a preamble plus a list of links, one per
-# article, to SEPARATE Wikisource subpages
-# (`/wiki/Oregon_Constitution/Article_I`, `.../Article_VII_(Amended)`,
-# `.../Article_XI-F(1)`, etc.). That is why OR collapsed to a single
-# SCONST_OR_AI_S0 blob: scrape_wikisource_inline's Article-split regex had
-# nothing to split (the real text lives on 36 other pages it never fetches),
-# so it fell through to "no Article splits -> whole body as one article",
-# then to the Section-split fallback, emitting the ~3.2 KB index page itself
-# (Wikisource boilerplate and all) as one contaminated "section".
-#
-# This is a fetch-strategy problem, not a regex problem, so the fix is a
-# dedicated function rather than an entry in a section-split regex dict: walk
-# the index page for article links, fetch every subpage, then split each
-# subpage's body on the SAME "Section N" convention scrape_wikisource_inline
-# already uses (confirmed live: OR's subpages do use plain "Section 1",
-# "Section 2", ... headers, no period). Dispatched for "or" alone via the
-# STATE_SCRAPERS override right after the auto-register loop below;
-# scrape_wikisource_inline itself is untouched, so every other
-# _WS_INLINE_STATES member keeps its existing behavior unchanged.
-# ---------------------------------------------------------------------------
-
-_OR_ARTICLE_LINK_RE = re.compile(r"^/wiki/Oregon_Constitution/Article_(.+)$")
-
-# Some short/repealed OR articles share ONE Wikisource subpage (fetching
-# Article_XI-B and Article_XI-C both land on the same "Articles XI-B and
-# XI-C" page). Without isolating, both articles' points get the FULL
-# combined text (XI-B's point would also contain XI-C's, and vice versa).
-# Confirmed live 2026-08-07: the combined page's body has both prev/next nav
-# headers ("Article XI-A", "Article XI-D") and real content headers
-# ("Article XI-B", "Article XI-C") in the same "Article <id>\n" form; slicing
-# from the target article's own content header to the next header after it
-# (or EOF) isolates just that article's text. Only fires when the page
-# actually contains 2+ such headers; single-article pages (verified against
-# Article_I and Article_XVIII, whose only headers are prev/next nav to a
-# DIFFERENT article than themselves) fall through unchanged.
-_OR_ARTICLE_HEADER_RE = re.compile(r"\nArticle\s+([IVXLC]+(?:-[A-Z])?)\n")
-
-
-def _or_isolate_article_segment(body_text: str, art_id: str) -> str:
-    matches = list(_OR_ARTICLE_HEADER_RE.finditer("\n" + body_text))
-    if len(matches) < 2:
-        return body_text
-    for i, m in enumerate(matches):
-        if m.group(1) != art_id:
-            continue
-        start = m.end()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(body_text) + 1
-        return ("\n" + body_text)[start:end].strip()
-    return body_text
-
-
-def _or_article_id_from_href(href: str) -> str | None:
-    m = _OR_ARTICLE_LINK_RE.match(href)
-    if not m:
-        return None
-    import urllib.parse
-
-    tail = urllib.parse.unquote(m.group(1))
-    return tail.replace("_(", "-").replace("(", "-").replace(")", "")
-
-
-# ---------------------------------------------------------------------------
-# Louisiana Wikisource override -- same family of bug as Oregon (content
-# split across separate Wikisource pages) but the main page is not a pure
-# link index: it carries real inline text for Articles I-III itself, plus a
-# "Versions"-style paginated nav table (pipe-separated "Article IV - Article
-# V | Article VI | ..." links) that repeats atop the main page AND every
-# Part_N subpage. Confirmed live 2026-08-07
-# (en.wikisource.org/wiki/Louisiana_State_Constitution_(1974)): that nav
-# table's short link fragments ("Article IV - Article V", "Article VI", ...)
-# themselves match the generic ARTICLE-split regex, minting spurious
-# near-empty article_ids (IV/VI/VII/VIII/X, 1 char of body each) ahead of the
-# real Articles I-III -- this is the source of LA's live SCONST_LA_AIV_S0
-# contamination (an "IV" blob whose "text" is the nav table's boilerplate,
-# not constitutional text). The real Article IV-XIV text lives on
-# Part_2..Part_7 (one subpage covers 1-3 articles each; article boundaries
-# never split across a Part_N page, verified live). Fix: trim each fetched
-# page (main + every Part_N) down to where its REAL first ARTICLE heading
-# (or, on the main page only, the "PREAMBLE" line) starts, discarding
-# whatever nav/TOC boilerplate precedes it, then run the SAME
-# article/section split scrape_wikisource_inline already uses on each
-# trimmed page independently. Dispatched for "la" alone via the
-# STATE_SCRAPERS override below; scrape_wikisource_inline itself is
-# untouched, so no other _WS_INLINE_STATES member is affected.
-# ---------------------------------------------------------------------------
-
-_LA_MAIN_SLUG = "Louisiana_State_Constitution_(1974)"
-_LA_PART_SLUGS = [f"{_LA_MAIN_SLUG}/Part_{n}" for n in range(2, 8)]
-_LA_REAL_ARTICLE_HEAD_RE = re.compile(r"\nARTICLE\s+[IVXLC]+\.\s+[A-Z]")
-_LA_PREAMBLE_RE = re.compile(r"\nPREAMBLE\n")
-
-
-def _la_trim_nav(body_text: str) -> str:
-    """Cut everything before the real content start (see module note above).
-
-    On the main page the real content begins at "PREAMBLE"; on Part_N pages
-    (no preamble) it begins at the first genuine "ARTICLE N. TITLE" heading.
-    Take whichever of the two is found and starts earliest, so a page with
-    both (only the main page does) is not over-trimmed.
-    """
-    starts = []
-    m = _LA_PREAMBLE_RE.search(body_text)
-    if m:
-        starts.append(m.start())
-    m = _LA_REAL_ARTICLE_HEAD_RE.search(body_text)
-    if m:
-        starts.append(m.start())
-    if not starts:
-        return body_text
-    return body_text[min(starts) :]
 
 
 # ---------------------------------------------------------------------------
@@ -3162,9 +3065,7 @@ def scrape_az(r2) -> list[Section]:
         for sec_num, part, target in links:
             art_id = f"{art}.{part}" if part else art
             seen_nums = seen_nums_by_art_id.setdefault(art_id, {})
-            seen_nums[sec_num] = seen_nums.get(sec_num, 0) + 1
-            occurrence = seen_nums[sec_num]
-            uniq_sec_num = sec_num if occurrence == 1 else f"{sec_num}-v{occurrence}"
+            uniq_sec_num = _dedupe_section_number(seen_nums, sec_num)
             work.append((art_id, uniq_sec_num, part, target, index_url))
 
     def _fetch_one(item):
@@ -4260,9 +4161,7 @@ def scrape_wi(r2) -> list[Section]:
             start_j = sm.end()
             end_j = sec_matches[j + 1].start() if j + 1 < len(sec_matches) else len(art_body)
             sec_body = art_body[start_j:end_j]
-            seen_nums[sec_num_raw] = seen_nums.get(sec_num_raw, 0) + 1
-            occurrence = seen_nums[sec_num_raw]
-            sec_num = sec_num_raw if occurrence == 1 else f"{sec_num_raw}-v{occurrence}"
+            sec_num = _dedupe_section_number(seen_nums, sec_num_raw)
             sec = _emit_section(
                 "wi",
                 r2,
@@ -4629,9 +4528,7 @@ def scrape_ut(r2) -> list[Section]:
             bolds = body_copy.find_all("b")
             sec_title = bolds[1].get_text(" ", strip=True).strip("[]").strip() if len(bolds) >= 2 else ""
             body = body_copy.get_text(" ", strip=True)
-            seen_nums[sec_num] = seen_nums.get(sec_num, 0) + 1
-            occurrence = seen_nums[sec_num]
-            emit_num = sec_num if occurrence == 1 else f"{sec_num}-v{occurrence}"
+            emit_num = _dedupe_section_number(seen_nums, sec_num)
             sec = _emit_section(
                 "ut",
                 r2,
@@ -5141,18 +5038,7 @@ def _mo_amendment_years(raw_text: str) -> list[int]:
 _AMENDMENT_YEAR_EXTRACTORS["mo"] = _mo_amendment_years
 
 
-def _mo_fetch(url: str, retries: int = 4) -> str | None:
-    proxies = _us_proxies()
-    headers = {"User-Agent": _MOZ_UA}
-    for attempt in range(retries):
-        try:
-            r = SESSION.get(url, timeout=45, headers=headers, proxies=proxies)
-            if r.status_code == 200:
-                return r.text
-        except Exception:
-            pass
-        time.sleep(max(1.0, 0.5 * (2**attempt)))
-    return None
+_mo_fetch = _fetch_or_none
 
 
 def _mo_discover_sections() -> tuple[list[tuple[str, str, str]], dict[str, str]]:
@@ -5322,18 +5208,7 @@ _ID_SECTION_PREFIX_RE = re.compile(r"^Section\s+[\w.]+\.\s*", re.IGNORECASE)
 _ID_UPPERCASE_STYLE_RE = re.compile(r"text-transform:\s*uppercase")
 
 
-def _id_fetch(url: str, retries: int = 4) -> str | None:
-    proxies = _us_proxies()
-    headers = {"User-Agent": _MOZ_UA}
-    for attempt in range(retries):
-        try:
-            r = SESSION.get(url, timeout=45, headers=headers, proxies=proxies)
-            if r.status_code == 200:
-                return r.text
-        except Exception:
-            pass
-        time.sleep(max(1.0, 0.5 * (2**attempt)))
-    return None
+_id_fetch = _fetch_or_none
 
 
 def _id_discover_sections() -> list[tuple[str, str, str]]:
@@ -7010,13 +6885,10 @@ STATE_SCRAPERS: dict[str, Callable] = {
     "ny": scrape_ny,
     "ms": scrape_ms,
 }
-# Louisiana's old Wikisource-multipart override (STATE_SCRAPERS["la"] =
-# scrape_louisiana_wikisource_multipart) removed 2026-08-08: replaced by the
-# official-source scrape_la above (senate.la.gov PDF, C07 batch 6). This line
-# ran AFTER the dict literal above, so leaving it in would have silently
-# overwritten "la"'s new entry back to the old multipart Wikisource scraper.
-# scrape_louisiana_wikisource_multipart itself is left in the file unused
-# rather than deleted, matching this file's convention for retired scrapers.
+# Louisiana's old Wikisource-multipart scraper (and its since-removed OR/LA
+# helper functions above) was replaced 2026-08-08 by the official-source
+# scrape_la above (senate.la.gov PDF, C07 batch 6) and has been deleted along
+# with its now-orphaned helpers, rather than left unused.
 
 
 def merge_jsonl(path: Path, new_secs: list[Section]) -> int:

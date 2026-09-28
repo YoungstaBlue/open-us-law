@@ -303,7 +303,11 @@ def parse_pdf(ref: PdfRef, text: str) -> list[Reg]:
         body = _reflow(seg)
         # A heading with nothing after it is a listing (e.g. the "SN" special
         # notices that name rules JCAR found invalid), not a rule.
-        if len(body) < 40 or len(body) <= len(cite) + len(heading) + 5:
+        # (Measured against the bare heading: a status marker or emergency-rule
+        # history on the heading line is content, not heading.)
+        bare = re.sub(r"\s*(?:\((?:Rescinded|Moved|Transferred|Removed)\b|Emergency rule filed|AUTHORITY:).*$",
+                      "", heading)
+        if len(body) < 40 or len(body) <= len(cite) + len(bare) + 5:
             continue
 
         # Status markers sit right after the heading, sometimes on the same

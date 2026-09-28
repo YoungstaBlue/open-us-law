@@ -246,6 +246,10 @@ def _division_name(text: str) -> str:
 
 
 def parse_pdf(ref: PdfRef, text: str) -> list[Reg]:
+    # "...SN.pdf" special notices list rules JCAR found invalid; they carry no
+    # rule text, only the notice, so they are not regulations.
+    if re.search(r"SN\.pdf$", ref.url, re.I) or re.match(r"\s*(?:\S+\s+){0,40}?SPECIAL NOTICE\b", text):
+        return []
     fm = re.search(r"/(\d+)c(\d+)(?:-(\d+))?", ref.url, re.I)
     f_title = int(fm.group(1)) if fm else ref.title
     f_div = int(fm.group(2)) if fm else None
@@ -297,15 +301,18 @@ def parse_pdf(ref: PdfRef, text: str) -> list[Reg]:
                 break
         heading = _ws(heading)
         body = _reflow(seg)
-        if len(body) < 40:
+        # A heading with nothing after it is a listing (e.g. the "SN" special
+        # notices that name rules JCAR found invalid), not a rule.
+        if len(body) < 40 or len(body) <= len(cite) + len(heading) + 5:
             continue
 
         # Status markers sit right after the heading, sometimes on the same
         # line, so search the start of the body rather than past the heading.
         stub = body[:len(cite) + len(heading) + 200]
         status, ren_to, tr_to = "in_force", "", ""
-        mm = re.search(r"\(Moved\s+[tf]o\s+(\d{1,2} CSR [\d.-]+\d)\)", stub)
-        tm = re.search(r"\(Transferred\s+to\s+(\d{1,2} CSR [\d.-]+\d)\)", stub)
+        # "(Moved to 20 CSR 200-1.090 and 20 CSR 200-7.300)" -> first target
+        mm = re.search(r"\(Moved\s+[tf]o\s+(\d{1,2} CSR [\d.-]+\d)", stub)
+        tm = re.search(r"\(Transferred\s+to\s+(\d{1,2} CSR [\d.-]+\d)", stub)
         if mm:
             status, ren_to = "renumbered", mm.group(1)
         elif tm:

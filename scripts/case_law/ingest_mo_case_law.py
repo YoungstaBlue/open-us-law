@@ -389,40 +389,62 @@ def courtlistener_cases(token: str, filed_after: str, limit: int = 0) -> list[di
 # Dedupe + write
 # ---------------------------------------------------------------------------
 def _dedupe_key(case: dict) -> str:
-    # The same pre-1956 Supreme Court case is printed in both Mo. and S.W.2d
-    # (and CAP/CourtListener overlap at the seam): same court, date and
-    # opening words of the short name.
+    # The same case can be printed in both Mo./Mo. App. and S.W.2d (and
+    # CAP/CourtListener overlap at the seam): same court, date and opening
+    # words of the short name.
     words = re.findall(r"[a-z0-9]+", case["name_abbreviation"].lower())[:4]
     return f"{_court_key(case['court'])}|{case['decision_date']}|{' '.join(words)}"
 
 
+def _families(case: dict) -> set[str]:
+    fam = set()
+    for c in case["citations"]:
+        fam.add("sw" if " S.W." in c else "mo" if re.search(r" Mo\.(?: App\.)? ", c) else "other")
+    fam.update(i.split(":")[0] for i in case["source_ids"] if i.startswith("cl:"))
+    return fam or {"other"}
+
+
+def _size(case: dict) -> int:
+    return sum(len(o["text"]) for o in case["opinions"])
+
+
 def finalize(raw_path: Path, out_path: Path) -> dict[str, int]:
-    best: dict[str, dict] = {}
-    extra_cites: dict[str, list[str]] = {}
-    extra_ids: dict[str, list[str]] = {}
+    # Merge only a real parallel printing: full (day-precision) decision date,
+    # and the two records come from different reporter families. Two cases in
+    # the same reporter are never merged -- early volumes give month-only
+    # dates and many share short names ("Smith v. Jones").
+    groups: dict[str, list[dict]] = {}
     with open(raw_path, encoding="utf-8") as fh:
         for line in fh:
             c = json.loads(line)
-            k = _dedupe_key(c)
-            cur = best.get(k)
-            extra_cites.setdefault(k, [])
-            extra_ids.setdefault(k, [])
-            for x in c["citations"]:
-                if x not in extra_cites[k]:
-                    extra_cites[k].append(x)
-            for x in c["source_ids"]:
-                if x not in extra_ids[k]:
-                    extra_ids[k].append(x)
-            size = sum(len(o["text"]) for o in c["opinions"])
-            if cur is None or size > sum(len(o["text"]) for o in cur["opinions"]):
-                best[k] = c
+            c["_fam"] = _families(c)
+            key = _dedupe_key(c) if len(c["decision_date"]) == 10 else f"uniq|{c['act_id']}"
+            bucket = groups.setdefault(key, [])
+            for g in bucket:
+                if not (g["_fam"] & c["_fam"]):
+                    if _size(c) > _size(g):
+                        c["citations"] = g["citations"] + c["citations"]
+                        c["source_ids"] = g["source_ids"] + c["source_ids"]
+                        c["_fam"] |= g["_fam"]
+                        bucket[bucket.index(g)] = c
+                    else:
+                        g["citations"] += c["citations"]
+                        g["source_ids"] += c["source_ids"]
+                        g["_fam"] |= c["_fam"]
+                    break
+            else:
+                if any(g["act_id"] == c["act_id"] for g in bucket):
+                    continue  # re-run appended the same volume twice
+                bucket.append(c)
+    cases = [c for b in groups.values() for c in b]
+    cases.sort(key=lambda c: (c["decision_date"], c["act_id"]))
     counts: dict[str, int] = {}
     with open(out_path, "w", encoding="utf-8") as fh:
-        for k in sorted(best, key=lambda k: (best[k]["decision_date"], k)):
-            c = best[k]
+        for c in cases:
+            c.pop("_fam", None)
             # Official state reporter cite first (Mo./Mo. App.), then S.W.
-            c["citations"] = sorted(extra_cites[k], key=lambda x: (" S.W." in x, x))
-            c["source_ids"] = extra_ids[k]
+            c["citations"] = sorted(dict.fromkeys(c["citations"]), key=lambda x: (" S.W." in x, x))
+            c["source_ids"] = list(dict.fromkeys(c["source_ids"]))
             rec = build_record(c)
             fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
             ck = rec["metadata"]["court_id"]
@@ -440,7 +462,11 @@ def main() -> int:
                     help="Fetch CourtListener opinions filed after this date (needs COURTLISTENER_API_TOKEN).")
     ap.add_argument("--no-courtlistener", action="store_true")
     ap.add_argument("--out", type=Path, default=OUT)
+    ap.add_argument("--finalize-only", action="store_true",
+                    help="Skip fetching; rebuild the output from <out>.raw.jsonl.")
     args = ap.parse_args()
+    if args.finalize_only:
+        args.reporters, args.no_courtlistener = "", True
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
     raw_path = args.out.with_suffix(".raw.jsonl")

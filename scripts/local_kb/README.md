@@ -41,12 +41,28 @@ never hardcoded, so this list can shift as the dataset changes shape:
 - US Code / federal statutes (`uscode.house.gov`)
 - Code of Federal Regulations (`ecfr.gov`)
 
-**Known gaps, by design:** this repo has no Missouri court-rules scraper
-and no Missouri regulations scraper, and neither exists in the published
-snapshot either. `build_db.py` reports this loudly instead of silently
-skipping it; `search.py` and `verify.py` both detect a court-rule- or
-CSR-shaped query and route you straight to the real source instead of
-returning an empty or misleading local result:
+Missouri court rules and the Missouri Code of State Regulations are **not
+in the published snapshot yet**, but this repo now ingests both. Build them
+locally first and `build_db.py` loads them into the `mo_court_rules` and
+`mo_regulations` tables (it looks in `./data` by default; override with
+`--jsonl-dir`):
+
+```bash
+OUT_DIR=./data python scripts/court_rules/ingest_mo_court_rules.py   # ~1.3k rules, ~5 min
+OUT_DIR=./data python scripts/regulations/ingest_mo_regulations.py   # all 23 CSR titles, ~10 min
+python scripts/local_kb/build_db.py
+```
+
+- Missouri court rules (`courts.mo.gov`): Supreme Court Rules 1-160,
+  including the Rules of Civil, Criminal, Juvenile, Probate and Appellate
+  Procedure, plus the Court Operating Rules
+- Missouri regulations (`sos.mo.gov`): Code of State Regulations, all titles,
+  including rescinded/moved stubs tagged via `act_status`
+
+If you skip those ingesters, `build_db.py` reports the gap loudly, and
+`search.py`/`verify.py` detect a court-rule- or CSR-shaped query and route you
+straight to the real source instead of returning an empty or misleading
+local result:
 
 - Missouri court rules -> `https://www.courts.mo.gov/page.jsp?id=46`
   (Rules of Civil Procedure specifically: `id=676`)
@@ -124,6 +140,9 @@ check" as "must be fine." Exit code is `0` only when every citation it
 checked came back a clean match with a caveat you've now seen; anything
 else (no local match, fetch failure, drift, a bad `act_status`) exits `1`.
 
-For anything with no local table at all (Missouri court rules, Missouri
-regulations), `verify.py` skips the local lookup entirely and points you
-straight at the official source -- see "Known gaps" above.
+For a corpus with no local table (Missouri court rules or regulations when
+their ingesters haven't been run), `verify.py` skips the local lookup entirely
+and points you straight at the official source -- see above. CSR rules are
+verified against their chapter PDF on sos.mo.gov (fetched with a browser TLS
+fingerprint via `curl_cffi`, since the site is behind Cloudflare), comparing
+only the rule's own slice of the chapter.

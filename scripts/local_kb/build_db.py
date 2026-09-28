@@ -16,10 +16,13 @@ What it does:
      plus the federal USC (statutes) and federal CFR (regulations) parquet
      files, using the exact paths the manifest gives.
   3. Specifically checks the manifest for a Missouri court-rules file and a
-     Missouri regulations file. This repo's scrapers do not cover either
-     (see README.md's "State court rules" / "State regulations" tables --
-     Missouri is not listed in either), so if the manifest doesn't have them
-     either, we say so loudly instead of silently skipping.
+     Missouri regulations file. The published snapshot does not carry either
+     yet, so when the manifest lacks them this falls back to the local JSONL
+     written by this repo's own ingesters
+     (scripts/court_rules/ingest_mo_court_rules.py ->
+     data/state_mo_court_rules.jsonl, scripts/regulations/ingest_mo_regulations.py
+     -> data/state_mo_regulations.jsonl). If neither exists, it says so loudly
+     instead of silently skipping.
   4. Loads whatever was actually found into a single local DuckDB file, one
      table per corpus. DuckDB reads parquet natively -- no pandas needed.
 
@@ -28,6 +31,7 @@ Usage:
     python scripts/local_kb/build_db.py --skip-cfr        # CFR parquet is ~2-3 GB
     python scripts/local_kb/build_db.py --mo-only         # skip federal entirely
     python scripts/local_kb/build_db.py --force           # re-download even if cached
+    python scripts/local_kb/build_db.py --jsonl-dir ./data  # where the MO ingesters wrote
 """
 
 from __future__ import annotations
@@ -49,6 +53,7 @@ R2_BASE = "https://oss-data-us.vaquill.ai/"
 _HERE = Path(__file__).resolve().parent
 DEFAULT_CACHE_DIR = _HERE / "parquet_cache"
 DEFAULT_DB_PATH = _HERE / "legal_kb.duckdb"
+DEFAULT_JSONL_DIR = _HERE.parent.parent / "data"
 
 # Corpus name -> DuckDB table name -> matcher used against manifest filenames.
 # Matching is done against the basename of every *.parquet path found in the
@@ -70,13 +75,15 @@ CORPORA = {
         "table": "mo_court_rules",
         "match": lambda name: name == "us_mo_court_rules.parquet",
         "required": False,
-        "note": "Missouri court rules -- NOT SCRAPED by this repo",
+        "note": "Missouri court rules (courts.mo.gov)",
+        "local_jsonl": "state_mo_court_rules.jsonl",
     },
     "mo_regulations": {
         "table": "mo_regulations",
         "match": lambda name: name == "us_mo_regulations.parquet",
         "required": False,
-        "note": "Missouri administrative regulations -- NOT SCRAPED by this repo",
+        "note": "Missouri Code of State Regulations (sos.mo.gov)",
+        "local_jsonl": "state_mo_regulations.jsonl",
     },
     "federal_statutes": {
         "table": "federal_statutes",
@@ -194,6 +201,8 @@ def main() -> int:
     parser.add_argument("--mo-only", action="store_true", help="Skip federal corpora entirely (USC + CFR)")
     parser.add_argument("--skip-cfr", action="store_true", help="Skip the federal regulations (CFR) parquet -- it can be several GB")
     parser.add_argument("--force", action="store_true", help="Re-download parquet files even if already cached")
+    parser.add_argument("--jsonl-dir", type=Path, default=DEFAULT_JSONL_DIR,
+                        help="Where to find locally ingested JSONL for corpora the snapshot lacks (default: %(default)s)")
     args = parser.parse_args()
 
     manifest = fetch_manifest(args.manifest_url)
@@ -213,6 +222,11 @@ def main() -> int:
     for corpus_key, spec in wanted.items():
         match_fn = spec["match"]
         hit = next((path for name, path in available.items() if match_fn(name)), None)
+        local = args.jsonl_dir / spec["local_jsonl"] if spec.get("local_jsonl") else None
+        if hit is None and local is not None and local.exists():
+            log(f"{corpus_key}: not in the manifest -- using locally ingested {local}")
+            loaded[spec["table"]] = local
+            continue
         if hit is None:
             if spec["required"]:
                 missing_required.append(f"{corpus_key} ({spec['note']})")
@@ -238,20 +252,21 @@ def main() -> int:
     if "mo_court_rules" not in loaded:
         log(
             "\n"
-            "==> Missouri COURT RULES: not found in the manifest, and this repo has no\n"
-            "    Missouri court-rules scraper (see README.md 'State court rules' table --\n"
-            "    only MN, NV, FL, TX, NJ, and a CA/MT multi-state script are covered).\n"
-            "    No local Missouri court-rules table was created. Go straight to the\n"
-            "    Missouri Supreme Court Rules hub: https://www.courts.mo.gov/page.jsp?id=46\n"
+            "==> Missouri COURT RULES: not found in the manifest, and no local\n"
+            f"    {args.jsonl_dir / 'state_mo_court_rules.jsonl'} either.\n"
+            "    No local Missouri court-rules table was created. Build it with:\n"
+            "      OUT_DIR=./data python scripts/court_rules/ingest_mo_court_rules.py\n"
+            "    or go straight to the Missouri Supreme Court Rules hub:\n"
+            "    https://www.courts.mo.gov/page.jsp?id=46\n"
         )
     if "mo_regulations" not in loaded:
         log(
             "\n"
-            "==> Missouri REGULATIONS: not found in the manifest, and this repo has no\n"
-            "    Missouri regulations scraper (see README.md 'State regulations' table --\n"
-            "    Missouri is not among the 14 states listed).\n"
-            "    No local Missouri regulations table was created. The official source is\n"
-            "    the Missouri Secretary of State's Code of State Regulations:\n"
+            "==> Missouri REGULATIONS: not found in the manifest, and no local\n"
+            f"    {args.jsonl_dir / 'state_mo_regulations.jsonl'} either.\n"
+            "    No local Missouri regulations table was created. Build it with:\n"
+            "      OUT_DIR=./data python scripts/regulations/ingest_mo_regulations.py\n"
+            "    or go to the Secretary of State's Code of State Regulations:\n"
             "    https://www.sos.mo.gov/adrules/csr/csr\n"
         )
 
@@ -263,7 +278,18 @@ def main() -> int:
     log(f"\nLoading {len(loaded)} parquet file(s) into {args.db_path} ...")
     row_counts = {}
     for table, parquet_path in loaded.items():
-        con.execute(f"CREATE OR REPLACE TABLE {table} AS SELECT * FROM read_parquet(?)", [str(parquet_path)])
+        if parquet_path.suffix == ".jsonl":
+            # Ingester records are {point_id, text_for_embedding, raw_text,
+            # metadata:{...}}; flatten to the parquet-style columns search.py
+            # and verify.py resolve (citation, section_title, text, act_status,
+            # source_url).
+            con.execute(
+                f"CREATE OR REPLACE TABLE {table} AS SELECT raw_text AS text, unnest(metadata) "
+                "FROM read_json(?, format='newline_delimited', sample_size=-1)",
+                [str(parquet_path)],
+            )
+        else:
+            con.execute(f"CREATE OR REPLACE TABLE {table} AS SELECT * FROM read_parquet(?)", [str(parquet_path)])
         (count,) = con.execute(f"SELECT count(*) FROM {table}").fetchone()
         row_counts[table] = count
         log(f"  {table}: {count:,} rows  (source: {parquet_path.name})")

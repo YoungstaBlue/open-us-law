@@ -138,21 +138,23 @@ def main() -> int:
         log(f"No local matches for: {args.query!r}")
         rule_like = looks_like_mo_court_rule(args.query)
         reg_like = looks_like_mo_regulation(args.query)
-        if rule_like or reg_like or "mo_court_rules" not in tables or "mo_regulations" not in tables:
-            if rule_like:
-                log(
-                    "\nThis looks like a Missouri COURT RULE query. This local database has no "
-                    "Missouri court-rules data (this repo has no MO court-rules scraper, and the "
-                    "published snapshot does not carry one either). Go directly to the source:\n"
-                    "  Missouri Supreme Court Rules hub: https://www.courts.mo.gov/page.jsp?id=46\n"
-                    "  Missouri Rules of Civil Procedure specifically: https://www.courts.mo.gov/page.jsp?id=676"
-                )
-            if reg_like:
-                log(
-                    "\nThis looks like a Missouri REGULATION (CSR) query. This local database has no "
-                    "Missouri regulations data. Go directly to the source:\n"
-                    "  Missouri Secretary of State, Code of State Regulations: https://www.sos.mo.gov/adrules/csr/csr"
-                )
+        if rule_like and "mo_court_rules" not in tables:
+            log(
+                "\nThis looks like a Missouri COURT RULE query. This local database has no "
+                "Missouri court-rules table (the published snapshot does not carry one). Build it "
+                "with scripts/court_rules/ingest_mo_court_rules.py, then re-run build_db.py -- or "
+                "go directly to the source:\n"
+                "  Missouri Supreme Court Rules hub: https://www.courts.mo.gov/page.jsp?id=46\n"
+                "  Missouri Rules of Civil Procedure specifically: https://www.courts.mo.gov/page.jsp?id=676"
+            )
+        if reg_like and "mo_regulations" not in tables:
+            log(
+                "\nThis looks like a Missouri REGULATION (CSR) query. This local database has no "
+                "Missouri regulations table (the published snapshot does not carry one). Build it "
+                "with scripts/regulations/ingest_mo_regulations.py, then re-run build_db.py -- or "
+                "go directly to the source:\n"
+                "  Missouri Secretary of State, Code of State Regulations: https://www.sos.mo.gov/adrules/csr/csr"
+            )
         return 1
 
     log(f"\n{total_hits} total match(es). This is a point-in-time local index -- "

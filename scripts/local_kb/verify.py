@@ -139,22 +139,28 @@ def find_rows(con: duckdb.DuckDBPyConnection, table: str, query: str, limit: int
 
     # Prefer citation-column matches first (a verify target is almost always
     # an exact citation, not a keyword search), then fall back to title/text.
-    order_expr = "CASE WHEN 1=1 THEN 0 ELSE 1 END"
+    order_expr = "2"  # no citation column: text matches only
     if fields["citation"]:
-        order_expr = f'CASE WHEN "{fields["citation"]}" ILIKE ? THEN 0 ELSE 1 END'
+        # Exact citation first ("1 CSR 10-1.010" must not resolve to
+        # "11 CSR 10-1.010"), then substring citation hits, then text hits.
+        order_expr = (f'CASE WHEN lower("{fields["citation"]}") = lower(?) THEN 0 '
+                      f'WHEN "{fields["citation"]}" ILIKE ? THEN 1 ELSE 2 END')
 
     sql = f"""
-        SELECT {", ".join(select_cols)}
+        SELECT {", ".join(select_cols)}, {order_expr} AS rank
         FROM {table}
         WHERE {" OR ".join(where_parts)}
         ORDER BY {order_expr}
         LIMIT {int(limit)}
     """
-    params = [f"%{query}%"] * len(where_parts)
+    params: list[str] = []
     if fields["citation"]:
-        params.append(f"%{query}%")
+        params += [query, f"%{query}%"]  # rank column
+    params += [f"%{query}%"] * len(where_parts)
+    if fields["citation"]:
+        params += [query, f"%{query}%"]
     rows = con.execute(sql, params).fetchall()
-    col_names = ["citation", "title", "status", "url", "text"]
+    col_names = ["citation", "title", "status", "url", "text", "rank"]
     return [dict(zip(col_names, row)) for row in rows]
 
 
@@ -345,6 +351,10 @@ def main() -> int:
         else:
             log("Nothing to verify locally. Double-check the citation, or search.py first to confirm it exists in this snapshot.")
         return 1
+
+    # Rank across tables, not table order: a statute whose citation matches
+    # beats a case that merely mentions it in its text.
+    all_rows.sort(key=lambda tr: tr[1]["rank"])
 
     clean = True
     for table, row in all_rows[: args.limit]:

@@ -85,6 +85,13 @@ CORPORA = {
         "note": "Missouri Code of State Regulations (sos.mo.gov)",
         "local_jsonl": "state_mo_regulations.jsonl",
     },
+    "mo_case_law": {
+        "table": "mo_case_law",
+        "match": lambda name: name == "us_mo_case_law.parquet",
+        "required": False,
+        "note": "Missouri case law (Caselaw Access Project + CourtListener)",
+        "local_jsonl": "state_mo_case_law.jsonl",
+    },
     "federal_statutes": {
         "table": "federal_statutes",
         "match": lambda name: name == "us_federal_statutes.parquet",
@@ -268,6 +275,14 @@ def main() -> int:
             "      OUT_DIR=./data python scripts/regulations/ingest_mo_regulations.py\n"
             "    or go to the Secretary of State's Code of State Regulations:\n"
             "    https://www.sos.mo.gov/adrules/csr/csr\n"
+        )
+
+    if "mo_case_law" not in loaded and "mo_case_law" in wanted:
+        log(
+            "\n"
+            "==> Missouri CASE LAW: no local table (the published snapshot has no case law).\n"
+            "    Build it with:\n"
+            "      OUT_DIR=./data python scripts/case_law/ingest_mo_case_law.py\n"
         )
 
     if not loaded:

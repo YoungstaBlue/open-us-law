@@ -76,6 +76,12 @@ SOURCE_CAVEATS = {
         "publication -- the rule's effective date is in its AUTHORITY paragraph; before "
         "that date the previous edition still governs."
     ),
+    "mo_case_law": (
+        "Checked against the Caselaw Access Project scan of the printed reporter (or "
+        "CourtListener for recent opinions). This confirms the TEXT only -- it says nothing "
+        "about subsequent history. Check that the case has not been reversed, overruled or "
+        "abrogated (a citator) before citing it, and prefer the official reporter pagination."
+    ),
     "federal_statutes": (
         "uscode.house.gov (Office of the Law Revision Counsel) is the codifying "
         "authority -- prefer it over any mirror site for exact current text."
@@ -287,7 +293,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("query", help="Citation (or close keyword) to verify")
     parser.add_argument("--db-path", type=Path, default=DEFAULT_DB_PATH, help="Path to legal_kb.duckdb (default: %(default)s)")
-    parser.add_argument("--corpus", choices=["mo_statutes", "mo_constitutions", "mo_court_rules", "mo_regulations", "federal_statutes", "federal_regulations"], help="Restrict to one table")
+    parser.add_argument("--corpus", choices=["mo_statutes", "mo_constitutions", "mo_court_rules", "mo_regulations", "mo_case_law", "federal_statutes", "federal_regulations"], help="Restrict to one table")
     parser.add_argument("--limit", type=int, default=3, help="Max local matches to verify (default: %(default)s)")
     parser.add_argument("--timeout", type=int, default=20, help="Live-fetch timeout in seconds (default: %(default)s)")
     args = parser.parse_args()

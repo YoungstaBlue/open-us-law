@@ -234,6 +234,14 @@ State administrative codes. Some geo-restrict - see [caveats](#important-caveats
 | New Jersey (`nj`) | [ingest_nj_court_rules.py](scripts/court_rules/ingest_nj_court_rules.py) |
 | Multi-state (CA, MT, …) | [ingest_state_court_rules.py](scripts/court_rules/ingest_state_court_rules.py) |
 
+### Case law
+
+The corpus is primary *enacted* law; case law is otherwise left to CourtListener and the Caselaw Access Project. Missouri is the one exception, pulled from those same open sources.
+
+| Source | Script |
+|---|---|
+| Missouri Supreme Court + Court of Appeals (CAP 1821-2019, CourtListener after) | [ingest_mo_case_law.py](scripts/case_law/ingest_mo_case_law.py) |
+
 ### State constitutions
 
 | Source | Script |

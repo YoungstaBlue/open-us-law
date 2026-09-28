@@ -103,7 +103,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("query", help="Keyword or citation to search for")
     parser.add_argument("--db-path", type=Path, default=DEFAULT_DB_PATH, help="Path to legal_kb.duckdb (default: %(default)s)")
-    parser.add_argument("--corpus", choices=["mo_statutes", "mo_constitutions", "mo_court_rules", "mo_regulations", "federal_statutes", "federal_regulations"], help="Restrict to one table")
+    parser.add_argument("--corpus", choices=["mo_statutes", "mo_constitutions", "mo_court_rules", "mo_regulations", "mo_case_law", "federal_statutes", "federal_regulations"], help="Restrict to one table")
     parser.add_argument("--limit", type=int, default=15, help="Max results per table (default: %(default)s)")
     args = parser.parse_args()
 

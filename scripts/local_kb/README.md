@@ -50,6 +50,7 @@ locally first and `build_db.py` loads them into the `mo_court_rules` and
 ```bash
 OUT_DIR=./data python scripts/court_rules/ingest_mo_court_rules.py   # ~1.3k rules, ~5 min
 OUT_DIR=./data python scripts/regulations/ingest_mo_regulations.py   # all 23 CSR titles, ~10 min
+OUT_DIR=./data python scripts/case_law/ingest_mo_case_law.py        # ~140k opinions, several GB download
 python scripts/local_kb/build_db.py
 ```
 
@@ -58,6 +59,11 @@ python scripts/local_kb/build_db.py
   Procedure, plus the Court Operating Rules
 - Missouri regulations (`sos.mo.gov`): Code of State Regulations, all titles,
   including rescinded/moved stubs tagged via `act_status`
+- Missouri case law (`mo_case_law`): Supreme Court of Missouri and Court of
+  Appeals opinions, 1821-2019 from the Caselaw Access Project; later opinions
+  from CourtListener when `COURTLISTENER_API_TOKEN` is set (free account).
+  **No subsequent history** -- `verify.py` confirms the text, not that the case
+  is still good law. Run a citator before citing.
 
 If you skip those ingesters, `build_db.py` reports the gap loudly, and
 `search.py`/`verify.py` detect a court-rule- or CSR-shaped query and route you

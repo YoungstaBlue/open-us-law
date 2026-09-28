@@ -260,7 +260,7 @@ def parse_pdf(ref: PdfRef, text: str) -> list[Reg]:
         if t != f_title or (f_div is not None and d != f_div) or (f_chap is not None and c != f_chap):
             continue
         after = text[m.end(): m.end() + 200]
-        if re.search(r"(?:\. ){3,}|\.{4,}", m.group(5) + after[:120]):
+        if re.search(r"(?:\. ){3,}|\.{4,}", m.group(5) + after[:300]):
             continue  # table of contents
         key = f"{t}-{d}-{c}-{m.group(4)}"
         first_any.setdefault(key, m)
@@ -300,10 +300,12 @@ def parse_pdf(ref: PdfRef, text: str) -> list[Reg]:
         if len(body) < 40:
             continue
 
-        stub = body[len(cite) + len(heading): len(cite) + len(heading) + 200]
+        # Status markers sit right after the heading, sometimes on the same
+        # line, so search the start of the body rather than past the heading.
+        stub = body[:len(cite) + len(heading) + 200]
         status, ren_to, tr_to = "in_force", "", ""
-        mm = re.search(r"\(Moved to (\d{1,2} CSR [\d.-]+\d)\)", stub)
-        tm = re.search(r"\(Transferred to (\d{1,2} CSR [\d.-]+\d)\)", stub)
+        mm = re.search(r"\(Moved\s+[tf]o\s+(\d{1,2} CSR [\d.-]+\d)\)", stub)
+        tm = re.search(r"\(Transferred\s+to\s+(\d{1,2} CSR [\d.-]+\d)\)", stub)
         if mm:
             status, ren_to = "renumbered", mm.group(1)
         elif tm:
@@ -312,6 +314,11 @@ def parse_pdf(ref: PdfRef, text: str) -> list[Reg]:
             status = "repealed"
         elif re.search(r"\(Reserved\)", stub):
             status = "reserved"
+        elif len(body.split()) < 60 and re.search(r"\bexpired\b", body) and "(1)" not in body:
+            status = "expired"  # lapsed emergency rule: history line only
+        heading = re.sub(r"\s*\((?:Rescinded|Moved|Transferred|Removed)\b.*$", "", heading)
+        heading = re.sub(r"\s+(?:Emergency rule filed|AUTHORITY:)\b.*$", "", heading)
+        heading = re.sub(r"(\w)- (?=[A-Z])", r"\1-", heading)  # "Interest- Share"
 
         auth = ""
         history = ""
@@ -353,7 +360,7 @@ def to_chunk_record(r: Reg) -> dict:
     text = r.raw_text
     status_label = {
         "in_force": "In Force", "repealed": "Rescinded", "renumbered": "Moved",
-        "transferred": "Transferred", "reserved": "Reserved",
+        "transferred": "Transferred", "reserved": "Reserved", "expired": "Expired",
     }.get(r.status, r.status)
     meta_lines: list[str] = []
     if r.effective_date:
@@ -506,6 +513,21 @@ def main() -> int:
                 if done % 100 == 0:
                     print(f"  ... {done} PDFs, {len(regs):,} rules, {time.time() - t0:.0f}s", flush=True)
                 break
+
+    if failed:
+        # sos.mo.gov intermittently drops requests under load; one slow
+        # sequential pass recovers nearly all of them.
+        print(f"[CSR] retrying {len(failed)} failed PDFs sequentially", flush=True)
+        retry, failed = failed, []
+        by_url = {p.url: p for p in queue}
+        for url in retry:
+            time.sleep(3)
+            lm = _PDF_RE.search(url)
+            ref = by_url.get(url) or PdfRef(url, int(lm.group(1)), title_names.get(int(lm.group(1)), ""))
+            got, _, ok = process_pdf(ref)
+            if not ok:
+                failed.append(url)
+            regs.extend(got)
 
     records: dict[str, dict] = {}
     for r in regs:

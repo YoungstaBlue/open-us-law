@@ -214,6 +214,7 @@ State administrative codes. Some geo-restrict - see [caveats](#important-caveats
 | Maryland (`md`) | [ingest_md_regulations.py](scripts/regulations/ingest_md_regulations.py) |
 | Maine (`me`) | [ingest_me_regulations.py](scripts/regulations/ingest_me_regulations.py) |
 | Minnesota (`mn`) | [ingest_mn_regulations.py](scripts/regulations/ingest_mn_regulations.py) |
+| Missouri (`mo`) | [ingest_mo_regulations.py](scripts/regulations/ingest_mo_regulations.py) |
 | New Mexico (`nm`) | [ingest_nm_regulations.py](scripts/regulations/ingest_nm_regulations.py) |
 | Ohio (`oh`) | [ingest_oh_regulations.py](scripts/regulations/ingest_oh_regulations.py) |
 | South Carolina (`sc`) | [ingest_sc_regulations.py](scripts/regulations/ingest_sc_regulations.py) |
@@ -226,11 +227,20 @@ State administrative codes. Some geo-restrict - see [caveats](#important-caveats
 | State | Court-rules scraper |
 |---|---|
 | Minnesota (`mn`) | [ingest_mn_court_rules.py](scripts/court_rules/ingest_mn_court_rules.py) |
+| Missouri (`mo`) | [ingest_mo_court_rules.py](scripts/court_rules/ingest_mo_court_rules.py) |
 | Nevada (`nv`) | [ingest_nv_court_rules.py](scripts/court_rules/ingest_nv_court_rules.py) |
 | Florida (`fl`) | [ingest_fl_court_rules.py](scripts/court_rules/ingest_fl_court_rules.py) |
 | Texas (`tx`) | [ingest_tx_court_rules.py](scripts/court_rules/ingest_tx_court_rules.py) |
 | New Jersey (`nj`) | [ingest_nj_court_rules.py](scripts/court_rules/ingest_nj_court_rules.py) |
 | Multi-state (CA, MT, …) | [ingest_state_court_rules.py](scripts/court_rules/ingest_state_court_rules.py) |
+
+### Case law
+
+The corpus is primary *enacted* law; case law is otherwise left to CourtListener and the Caselaw Access Project. Missouri is the one exception, pulled from those same open sources.
+
+| Source | Script |
+|---|---|
+| Missouri Supreme Court + Court of Appeals (CAP 1821-2019, CourtListener after) | [ingest_mo_case_law.py](scripts/case_law/ingest_mo_case_law.py) |
 
 ### State constitutions
 

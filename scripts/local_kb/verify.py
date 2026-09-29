@@ -65,6 +65,23 @@ SOURCE_CAVEATS = {
         "against the Secretary of State's PDF (https://www.sos.mo.gov/pubs/constitution) "
         "for anything outcome-critical."
     ),
+    "mo_court_rules": (
+        "Checked against the Supreme Court of Missouri's rules database on courts.mo.gov. "
+        "Rule amendments are adopted by court order and can take effect on a later date -- "
+        "check the rule's Revised / Effective Date and any pending order before relying on it."
+    ),
+    "mo_regulations": (
+        "Checked against the Secretary of State's current CSR chapter PDF. Per section "
+        "536.021.8, RSMo, a rule in the current CSR is not effective until 30 days after "
+        "publication -- the rule's effective date is in its AUTHORITY paragraph; before "
+        "that date the previous edition still governs."
+    ),
+    "mo_case_law": (
+        "Checked against the Caselaw Access Project scan of the printed reporter (or "
+        "CourtListener for recent opinions). This confirms the TEXT only -- it says nothing "
+        "about subsequent history. Check that the case has not been reversed, overruled or "
+        "abrogated (a citator) before citing it, and prefer the official reporter pagination."
+    ),
     "federal_statutes": (
         "uscode.house.gov (Office of the Law Revision Counsel) is the codifying "
         "authority -- prefer it over any mirror site for exact current text."
@@ -122,22 +139,28 @@ def find_rows(con: duckdb.DuckDBPyConnection, table: str, query: str, limit: int
 
     # Prefer citation-column matches first (a verify target is almost always
     # an exact citation, not a keyword search), then fall back to title/text.
-    order_expr = "CASE WHEN 1=1 THEN 0 ELSE 1 END"
+    order_expr = "2"  # no citation column: text matches only
     if fields["citation"]:
-        order_expr = f'CASE WHEN "{fields["citation"]}" ILIKE ? THEN 0 ELSE 1 END'
+        # Exact citation first ("1 CSR 10-1.010" must not resolve to
+        # "11 CSR 10-1.010"), then substring citation hits, then text hits.
+        order_expr = (f'CASE WHEN lower("{fields["citation"]}") = lower(?) THEN 0 '
+                      f'WHEN "{fields["citation"]}" ILIKE ? THEN 1 ELSE 2 END')
 
     sql = f"""
-        SELECT {", ".join(select_cols)}
+        SELECT {", ".join(select_cols)}, {order_expr} AS rank
         FROM {table}
         WHERE {" OR ".join(where_parts)}
         ORDER BY {order_expr}
         LIMIT {int(limit)}
     """
-    params = [f"%{query}%"] * len(where_parts)
+    params: list[str] = []
     if fields["citation"]:
-        params.append(f"%{query}%")
+        params += [query, f"%{query}%"]  # rank column
+    params += [f"%{query}%"] * len(where_parts)
+    if fields["citation"]:
+        params += [query, f"%{query}%"]
     rows = con.execute(sql, params).fetchall()
-    col_names = ["citation", "title", "status", "url", "text"]
+    col_names = ["citation", "title", "status", "url", "text", "rank"]
     return [dict(zip(col_names, row)) for row in rows]
 
 
@@ -145,20 +168,35 @@ def normalize(text: str | None) -> str:
     return re.sub(r"\s+", " ", text or "").strip().lower()
 
 
+def _extract_text(content: bytes, content_type: str) -> str:
+    if content[:4] == b"%PDF" or "pdf" in content_type:
+        import pymupdf  # type: ignore
+
+        with pymupdf.open(stream=content, filetype="pdf") as doc:
+            return " ".join(page.get_text("text") or "" for page in doc)
+    soup = BeautifulSoup(content, "lxml")
+    return soup.get_text(separator=" ", strip=True)
+
+
 def fetch_live_text(url: str, timeout: int) -> tuple[str | None, str | None]:
     """Returns (extracted_text, error). Exactly one is non-None."""
+    headers = {"User-Agent": "open-us-law-local-kb-verify/1.0 (research tool)"}
     try:
-        resp = requests.get(
-            url,
-            timeout=timeout,
-            headers={"User-Agent": "open-us-law-local-kb-verify/1.0 (research tool)"},
-        )
+        resp = requests.get(url, timeout=timeout, headers=headers)
+        if resp.status_code == 403:
+            # sos.mo.gov (the CSR) sits behind Cloudflare, which rejects
+            # non-browser TLS; retry with a browser fingerprint when available.
+            try:
+                from curl_cffi import requests as cf_requests  # type: ignore
+
+                resp = cf_requests.get(url, impersonate="chrome", timeout=timeout)
+            except ImportError:
+                pass
         resp.raise_for_status()
-    except requests.RequestException as exc:
+    except Exception as exc:
         return None, f"fetch failed: {exc}"
     try:
-        soup = BeautifulSoup(resp.text, "lxml")
-        text = soup.get_text(separator=" ", strip=True)
+        text = _extract_text(resp.content, resp.headers.get("content-type", ""))
     except Exception as exc:  # malformed markup, etc -- report, don't crash
         return None, f"could not parse response body: {exc}"
     if not text:
@@ -166,10 +204,20 @@ def fetch_live_text(url: str, timeout: int) -> tuple[str | None, str | None]:
     return text, None
 
 
-def compare_text(local_text: str | None, live_text: str | None) -> float:
+def compare_text(local_text: str | None, live_text: str | None, citation: str | None = None) -> float:
     a, b = normalize(local_text), normalize(live_text)
     if not a or not b:
         return 0.0
+    # A CSR source is a whole chapter PDF holding many rules: compare against
+    # the rule-sized window starting at each occurrence of the citation (the
+    # first is usually the table of contents) and keep the best.
+    cite = normalize(citation)
+    if cite and len(b) > 2 * len(a) and cite in b:
+        best = 0.0
+        for m in re.finditer(re.escape(cite), b):
+            window = b[m.start(): m.start() + int(len(a) * 1.1)]
+            best = max(best, difflib.SequenceMatcher(None, a, window).ratio())
+        return best
     return difflib.SequenceMatcher(None, a, b).ratio()
 
 
@@ -219,7 +267,7 @@ def verify_row(table: str, row: dict, timeout: int) -> bool:
         log("  Local snapshot has no stored text for this row -- cannot diff content.")
         log(f"  Live page fetched successfully at {url}; read it directly to confirm current text.")
     else:
-        ratio = compare_text(row["text"], live_text)
+        ratio = compare_text(row["text"], live_text, row["citation"])
         verdict = classify_ratio(ratio)
         log(f"  comparison: {verdict} (similarity {ratio:.0%})")
         if ratio < 0.90:
@@ -233,15 +281,16 @@ def report_gap(kind: str) -> None:
     if kind == "court_rule":
         log(
             "\nThis looks like a Missouri COURT RULE citation. This local database has no "
-            "Missouri court-rules data (no scraper covers it, and the published snapshot "
-            "does not carry one either). Skipping local lookup -- go directly to the source:\n"
+            "Missouri court-rules table (build it with scripts/court_rules/ingest_mo_court_rules.py, "
+            "then re-run build_db.py). Skipping local lookup -- go directly to the source:\n"
             "  Missouri Supreme Court Rules hub: https://www.courts.mo.gov/page.jsp?id=46\n"
             "  Missouri Rules of Civil Procedure specifically: https://www.courts.mo.gov/page.jsp?id=676"
         )
     else:
         log(
             "\nThis looks like a Missouri REGULATION (CSR) citation. This local database has no "
-            "Missouri regulations data. Skipping local lookup -- go directly to the source:\n"
+            "Missouri regulations table (build it with scripts/regulations/ingest_mo_regulations.py, "
+            "then re-run build_db.py). Skipping local lookup -- go directly to the source:\n"
             "  Missouri Secretary of State, Code of State Regulations: https://www.sos.mo.gov/adrules/csr/csr"
         )
 
@@ -250,7 +299,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("query", help="Citation (or close keyword) to verify")
     parser.add_argument("--db-path", type=Path, default=DEFAULT_DB_PATH, help="Path to legal_kb.duckdb (default: %(default)s)")
-    parser.add_argument("--corpus", choices=["mo_statutes", "mo_constitutions", "mo_court_rules", "mo_regulations", "federal_statutes", "federal_regulations"], help="Restrict to one table")
+    parser.add_argument("--corpus", choices=["mo_statutes", "mo_constitutions", "mo_court_rules", "mo_regulations", "mo_case_law", "federal_statutes", "federal_regulations"], help="Restrict to one table")
     parser.add_argument("--limit", type=int, default=3, help="Max local matches to verify (default: %(default)s)")
     parser.add_argument("--timeout", type=int, default=20, help="Live-fetch timeout in seconds (default: %(default)s)")
     args = parser.parse_args()
@@ -302,6 +351,10 @@ def main() -> int:
         else:
             log("Nothing to verify locally. Double-check the citation, or search.py first to confirm it exists in this snapshot.")
         return 1
+
+    # Rank across tables, not table order: a statute whose citation matches
+    # beats a case that merely mentions it in its text.
+    all_rows.sort(key=lambda tr: tr[1]["rank"])
 
     clean = True
     for table, row in all_rows[: args.limit]:

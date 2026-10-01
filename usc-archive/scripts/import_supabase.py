@@ -9,7 +9,7 @@ import csv, hashlib, json, os, sys, time, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CSVS = sorted((ROOT / "03_validated" / "sections").glob(os.environ.get("ONLY", "*") + ".csv"))
+CSVS = sorted(p for p in (ROOT / "03_validated" / "sections").glob(os.environ.get("ONLY", "*") + ".csv") if not p.name.endswith(".review.csv"))
 URL = os.environ["SUPABASE_URL"].rstrip("/") + "/rest/v1/statute_sections"
 KEY = os.environ["SUPABASE_KEY"]
 BATCH = int(os.environ.get("BATCH", "200"))

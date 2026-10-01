@@ -211,7 +211,7 @@ for r in rows: r["citation"] = citation(r)
 
 # One CSV per corpus keeps every file well under GitHub's 100 MB limit.
 SHARDS = OUT / "sections"; SHARDS.mkdir(exist_ok=True)
-for old in SHARDS.glob("*.csv"): old.unlink()
+for old in [*SHARDS.glob("missouri-rsmo-*.csv"), *SHARDS.glob("federal-usc-*.csv")]: old.unlink()  # bulk_corpus.py owns the other shards
 def shard(r):  # Missouri split by chapter hundreds (000-099, 100-199, ...)
     if r["jurisdiction"] == "missouri":
         h = int(re.match(r"\d+", r["section_number"]).group(0)) // 100 * 100

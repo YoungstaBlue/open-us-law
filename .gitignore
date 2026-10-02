@@ -8,3 +8,6 @@ data/*.jsonl
 data/*.zip
 *.log
 .DS_Store
+
+# Confidential case data must never be committed here
+cases/

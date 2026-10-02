@@ -83,7 +83,7 @@ def _build_proxies() -> Optional[dict[str, str]]:
 
 _PROXIES = _build_proxies()
 if _PROXIES:
-    print(f"[scrapeNY] US proxy enabled (host={host})", flush=True)
+    print(f"[scrapeNY] US proxy enabled (host={os.environ['US_PROXY_HOST']})", flush=True)
 
 
 def _fetch_soup(url: str, retries: int = 3) -> BeautifulSoup:

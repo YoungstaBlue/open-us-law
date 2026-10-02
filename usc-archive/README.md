@@ -55,7 +55,7 @@ verification available.
 python3 scripts/capture_metadata.py     # Tier 1: hash + metadata for the govinfo granules in 02_raw/tier1-govinfo-2023
 python3 scripts/split_uslm.py 18 42 34  # Tier 2: split OLRC zips in 02_raw/bulk into per-section files
 python3 scripts/validate.py             # Phase 3: exits non-zero if anything fails or needs review
-python3 scripts/import_supabase.py      # Phase 4: load 03_validated/03_usc_sections.csv
+python3 scripts/import_supabase.py      # Phase 4: load 03_validated/sections/*.csv
 python3 scripts/build_print.py          # Phase 5: PDFs
 python3 scripts/update_usc.py           # Phase 6: detect a new OLRC release point, diff by hash, log changes
 ```

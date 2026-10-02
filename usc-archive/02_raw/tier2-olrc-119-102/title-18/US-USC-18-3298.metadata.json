@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3298",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "213",
+  "chapter_name": "LIMITATIONS",
+  "section_number": "3298",
+  "catchline": "Trafficking-related offenses",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3298",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3298&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–162, title XI, § 1182(a), Jan. 5, 2006, 119 Stat. 3126.)",
+  "integrity_sha256": "99092444ce40fed12a81f274bac1faf7925e6a511cb25b997205f5f221b49673",
+  "raw_bytes": 2073,
+  "source_file": "18.3298.xml",
+  "text_file": "18.3298.txt"
+}

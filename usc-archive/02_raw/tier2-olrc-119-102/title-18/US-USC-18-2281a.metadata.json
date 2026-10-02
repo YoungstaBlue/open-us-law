@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2281a",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "111",
+  "chapter_name": "SHIPPING",
+  "section_number": "2281a",
+  "catchline": "Additional offenses against maritime fixed platforms",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2281a",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2281a&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 114–23, title VIII, § 804(a), June 2, 2015, 129 Stat. 307.)",
+  "integrity_sha256": "cae9c77577965f2acdd4affd774ee3a9d98fbcdccd0ab9b19be500b8b7969643",
+  "raw_bytes": 9238,
+  "source_file": "18.2281a.xml",
+  "text_file": "18.2281a.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1014",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1014",
+  "catchline": "Loan and credit applications generally; renewals and discounts; crop insurance",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1014",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1014&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 752; May 24, 1949, ch. 139, § 21, 63 Stat. 92; July 26, 1956, ch. 741, title I, § 109, 70 Stat. 667; Pub. L. 85–699, title VII, § 705, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–168, title I, § 104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–353, § 3(t), Oct. 4, 1961, 75 Stat. 774; Pub. L. 88–353, § 5, July 2, 1964, 78 Stat. 269; Pub. L. 91–468, § 7, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 91–609, title IX, § 915, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 97–297, § 4(b), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 101–73, title IX, §§ 961(h), 962(a)(7), (8)(B), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, § 2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XXV, §§ 2504(g), 2595(a)(5), 2597(i), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 103–322, title XXXIII, §§ 330002(d), 330008(8), Sept. 13, 1994, 108 Stat. 2140, 2143; Pub. L. 103–354, title I, § 119(e), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–294, title VI, §§ 602(b), 604(b)(22), 605(b), 607(d), Oct. 11, 1996, 110 Stat. 3503, 3508, 3509, 3511; Pub. L. 106–78, title VII, § 767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 107–100, § 4(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 110–289, div. A, title II, § 1216(c), div. B, title I, § 2129, July 30, 2008, 122 Stat. 2792, 2842; Pub. L. 111–21, § 2(c), May 20, 2009, 123 Stat. 1617; Pub. L. 111–203, title III, § 377(6), July 21, 2010, 124 Stat. 1569.)",
+  "integrity_sha256": "a2b6de7df5f32107e4e32bf65dc17b045498c28546104cbaa98a08a55ca2fa59",
+  "raw_bytes": 31355,
+  "source_file": "18.1014.xml",
+  "text_file": "18.1014.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 597",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "29",
+  "chapter_name": "ELECTIONS AND POLITICAL ACTIVITIES",
+  "section_number": "597",
+  "catchline": "Expenditures to influence voting",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s597",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section597&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 721; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(a)(12), Oct. 11, 1996, 110 Stat. 3498.)",
+  "integrity_sha256": "0c152e644ff0fcf1f24ab6a9da13e74457141f5ddd409054ba29fc0ce0ff0f8f",
+  "raw_bytes": 3926,
+  "source_file": "18.597.xml",
+  "text_file": "18.597.txt"
+}

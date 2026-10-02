@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2232",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "109",
+  "chapter_name": "SEARCHES AND SEIZURES",
+  "section_number": "2232",
+  "catchline": "Destruction or removal of property to prevent seizure",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2232",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2232&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 98–473, title II, § 1103, Oct. 12, 1984, 98 Stat. 2143; Pub. L. 99–508, title I, § 109, Oct. 21, 1986, 100 Stat. 1858; Pub. L. 99–646, § 33, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 100–690, title VII, § 7066, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 106–185, § 12, Apr. 25, 2000, 114 Stat. 218.)",
+  "integrity_sha256": "4e2bbf0761291232878ad9572aefdd9c431af4d51798bba29b044384b919153f",
+  "raw_bytes": 11914,
+  "source_file": "18.2232.xml",
+  "text_file": "18.2232.txt"
+}

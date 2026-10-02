@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4047",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "303",
+  "chapter_name": "BUREAU OF PRISONS",
+  "section_number": "4047",
+  "catchline": "Prison impact assessments",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4047",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4047&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title II, § 20402(a), Sept. 13, 1994, 108 Stat. 1824.)",
+  "integrity_sha256": "2cb521995d40b50fb412585ad8373ca33df2bd522371234a1dd958d922e7d701",
+  "raw_bytes": 3618,
+  "source_file": "18.4047.xml",
+  "text_file": "18.4047.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 871",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "41",
+  "chapter_name": "EXTORTION AND THREATS",
+  "section_number": "871",
+  "catchline": "Threats against President and successors to the Presidency",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s871",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section871&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 740; June 1, 1955, ch. 115, § 1, 69 Stat. 80; Pub. L. 87–829, § 1, Oct. 15, 1962, 76 Stat. 956; Pub. L. 97–297, § 2, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "abb1fce4d4648af6a404e6d1f03df09f222d098b5b08637400afb4068b40802d",
+  "raw_bytes": 6696,
+  "source_file": "18.871.xml",
+  "text_file": "18.871.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3600A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "228A",
+  "chapter_name": "POST-CONVICTION DNA TESTING",
+  "section_number": "3600A",
+  "catchline": "Preservation of biological evidence",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3600A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3600A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–405, title IV, § 411(a)(1), Oct. 30, 2004, 118 Stat. 2283; amended Pub. L. 114–324, § 11(b), Dec. 16, 2016, 130 Stat. 1957.)",
+  "integrity_sha256": "70af9464541b416195349899217f683ba332d2d94c78533063fc9f6900ddac49",
+  "raw_bytes": 8388,
+  "source_file": "18.3600A.xml",
+  "text_file": "18.3600A.txt"
+}

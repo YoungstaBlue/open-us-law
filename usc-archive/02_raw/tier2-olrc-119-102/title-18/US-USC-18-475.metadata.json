@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 475",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "475",
+  "catchline": "Imitating obligations or securities; advertisements",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s475",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section475&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 706; July 16, 1951, ch. 226, § 2, 65 Stat. 122; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–162, title XI, § 1192, Jan. 5, 2006, 119 Stat. 3129.)",
+  "integrity_sha256": "9e8ace00092bb0f938977b0b1c7d4a3b79310db7635f0a0750b700378e49619c",
+  "raw_bytes": 3715,
+  "source_file": "18.475.xml",
+  "text_file": "18.475.txt"
+}

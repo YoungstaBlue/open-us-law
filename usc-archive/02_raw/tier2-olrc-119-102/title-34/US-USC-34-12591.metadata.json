@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12591",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12591",
+  "catchline": "Quality assurance and proficiency testing standards",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12591",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12591&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title XXI, § 210303, Sept. 13, 1994, 108 Stat. 2068; Pub. L. 115–50, § 2(a), Aug. 18, 2017, 131 Stat. 1001; Pub. L. 117–286, § 4(a)(211), Dec. 27, 2022, 136 Stat. 4329.)",
+  "integrity_sha256": "a6b67b29331cdf4f430bde3cc053961ae8cc18f2cb6bb6c4f8104a724dbb6caa",
+  "raw_bytes": 14248,
+  "source_file": "34.12591.xml",
+  "text_file": "34.12591.txt"
+}

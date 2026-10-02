@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1005",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1005",
+  "catchline": "Bank entries, reports and transactions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1005",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1005&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 750; Pub. L. 101–73, title IX, § 961(d), Aug. 9, 1989, 103 Stat. 499; Pub. L. 101–647, title XXV, §§ 2504(d), 2595(a)(3), 2597(h), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 107–273, div. B, title IV, § 4003(a)(2), Nov. 2, 2002, 116 Stat. 1811.)",
+  "integrity_sha256": "e6fbc3a7adbaf6d5f1305b95a48e1d4fa0da795e231859ad73568f235a13a948",
+  "raw_bytes": 12364,
+  "source_file": "18.1005.xml",
+  "text_file": "18.1005.txt"
+}

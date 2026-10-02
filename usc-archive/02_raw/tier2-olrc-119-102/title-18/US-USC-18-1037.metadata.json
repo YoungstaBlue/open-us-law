@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1037",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1037",
+  "catchline": "Fraud and related activity in connection with electronic mail",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1037",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1037&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–187, § 4(a)(1), Dec. 16, 2003, 117 Stat. 2703.)",
+  "integrity_sha256": "77176599b5bcda97d8183a76e3138a3eb0a80ef0a607bec56e4d3c3f6b9d87ad",
+  "raw_bytes": 13486,
+  "source_file": "18.1037.xml",
+  "text_file": "18.1037.txt"
+}

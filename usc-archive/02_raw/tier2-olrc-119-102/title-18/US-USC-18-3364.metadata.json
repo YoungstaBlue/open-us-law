@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3364",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "217",
+  "chapter_name": "INDICTMENT AND INFORMATION",
+  "section_number": "3364",
+  "catchline": "Joinder of defendants—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3364",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3364&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 830.)",
+  "integrity_sha256": "4a89a851feb559beecfe9af0b67b7ebdba7025eec03e06c87a74add59f4d4a5a",
+  "raw_bytes": 943,
+  "source_file": "18.3364.xml",
+  "text_file": "18.3364.txt"
+}

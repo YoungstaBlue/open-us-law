@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4281",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "315",
+  "chapter_name": "DISCHARGE AND RELEASE PAYMENTS",
+  "section_number": "4281",
+  "catchline": "Repealed. Pub. L. 98–473, title II, § 218(a)(7), Oct. 12, 1984, 98 Stat. 2027]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s4281",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4281&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "845e043fe8b0a168c77356c608221e3adb628a323158e2ddbe05ec8387fb4dd6",
+  "raw_bytes": 1905,
+  "source_file": "18.4281.xml",
+  "text_file": "18.4281.txt"
+}

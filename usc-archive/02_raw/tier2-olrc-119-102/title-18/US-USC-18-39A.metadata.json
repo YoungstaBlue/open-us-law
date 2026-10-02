@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 39A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "2",
+  "chapter_name": "AIRCRAFT AND MOTOR VEHICLES",
+  "section_number": "39A",
+  "catchline": "Aiming a laser pointer at an aircraft",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s39A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section39A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 112–95, title III, § 311(a), Feb. 14, 2012, 126 Stat. 65.)",
+  "integrity_sha256": "3a712ab4d5fd5845c36c7e2a14e3742de952168e35f0ead04f2cbf25c1aa18d1",
+  "raw_bytes": 4311,
+  "source_file": "18.39A.xml",
+  "text_file": "18.39A.txt"
+}

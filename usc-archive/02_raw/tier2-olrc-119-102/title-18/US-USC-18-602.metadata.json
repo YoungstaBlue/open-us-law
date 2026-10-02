@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 602",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "29",
+  "chapter_name": "ELECTIONS AND POLITICAL ACTIVITIES",
+  "section_number": "602",
+  "catchline": "Solicitation of political contributions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s602",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section602&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 722; Pub. L. 96–187, title II, § 201(a)(3), Jan. 8, 1980, 93 Stat. 1367; Pub. L. 103–94, § 4(a), Oct. 6, 1993, 107 Stat. 1004; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242.)",
+  "integrity_sha256": "f7eb3a1a2540521ab1fd8d97826629f7a1a7b14ade811f3ad9d6f5e4ad8de066",
+  "raw_bytes": 9836,
+  "source_file": "18.602.xml",
+  "text_file": "18.602.txt"
+}

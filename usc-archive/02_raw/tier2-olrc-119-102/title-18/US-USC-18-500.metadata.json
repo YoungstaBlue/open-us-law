@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 500",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "500",
+  "catchline": "Money orders",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s500",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section500&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 91–375, § 6(j)(5), Aug. 12, 1970, 84 Stat. 777; Pub. L. 92–430, Sept. 23, 1972, 86 Stat. 722; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "71da168d0373a5dabd36e1fdc0bae647a0fd7e9888bfcea704f29ebdbe2e1868",
+  "raw_bytes": 10022,
+  "source_file": "18.500.xml",
+  "text_file": "18.500.txt"
+}

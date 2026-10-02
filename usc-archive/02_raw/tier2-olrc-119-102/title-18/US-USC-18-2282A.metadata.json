@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2282A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "111",
+  "chapter_name": "SHIPPING",
+  "section_number": "2282A",
+  "catchline": "Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2282A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2282A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–177, title III, § 304(a)(1), Mar. 9, 2006, 120 Stat. 234.)",
+  "integrity_sha256": "3a7288f40e0cdfa77dc56fedfc991619e7ae91697c438f025fb566a3eaf36087",
+  "raw_bytes": 3516,
+  "source_file": "18.2282A.xml",
+  "text_file": "18.2282A.txt"
+}

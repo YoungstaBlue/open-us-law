@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2260A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110",
+  "chapter_name": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+  "section_number": "2260A",
+  "catchline": "Penalties for registered sex offenders",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2260A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2260A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–248, title VII, § 702(a), July 27, 2006, 120 Stat. 648.)",
+  "integrity_sha256": "c4cda0332529c43048ac851c0901b52b30ad156dc2aadd4d87da6210adf0b943",
+  "raw_bytes": 1157,
+  "source_file": "18.2260A.xml",
+  "text_file": "18.2260A.txt"
+}

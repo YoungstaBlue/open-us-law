@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1510",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "73",
+  "chapter_name": "OBSTRUCTION OF JUSTICE",
+  "section_number": "1510",
+  "catchline": "Obstruction of criminal investigations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1510",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1510&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–123, § 1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, § 4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, § 962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, § 1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, § 320604(c), title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147; Pub. L. 104–191, title II, § 248(c), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 109–177, title I, § 117, Mar. 9, 2006, 120 Stat. 217; Pub. L. 111–148, title X, § 10606(d)(1), Mar. 23, 2010, 124 Stat. 1008; Pub. L. 116–283, div. F, title LXIII, § 6308(c), Jan. 1, 2021, 134 Stat. 4594.)",
+  "integrity_sha256": "a7d21a4c20dd1217c597d180a0df944d88ddccccc9552dbcb4208e56ce5a09ee",
+  "raw_bytes": 16964,
+  "source_file": "18.1510.xml",
+  "text_file": "18.1510.txt"
+}

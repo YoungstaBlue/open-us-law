@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3293",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "213",
+  "chapter_name": "LIMITATIONS",
+  "section_number": "3293",
+  "catchline": "Financial institution offenses",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3293",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3293&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 101–73, title IX, § 961(l)(1), Aug. 9, 1989, 103 Stat. 501; amended Pub. L. 101–647, title XXV, § 2505(a), Nov. 29, 1990, 104 Stat. 4862; Pub. L. 103–322, title XXXII, § 320604(b), title XXXIII, § 330002(e), Sept. 13, 1994, 108 Stat. 2119, 2140.)",
+  "integrity_sha256": "40e8b67db5962a4faae8c338b2e8676566a24c4d736ed9745b441682f44c02bd",
+  "raw_bytes": 5010,
+  "source_file": "18.3293.xml",
+  "text_file": "18.3293.txt"
+}

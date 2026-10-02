@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1117",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "51",
+  "chapter_name": "HOMICIDE",
+  "section_number": "1117",
+  "catchline": "Conspiracy to murder",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1117",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1117&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 92–539, title I, § 101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 103–322, title VI, § 60009(b)(1), Sept. 13, 1994, 108 Stat. 1972.)",
+  "integrity_sha256": "921e6ccde66eea2f8a87f456f7529edcc048775d35ca86d64d99b76a4ad54e63",
+  "raw_bytes": 1738,
+  "source_file": "18.1117.xml",
+  "text_file": "18.1117.txt"
+}

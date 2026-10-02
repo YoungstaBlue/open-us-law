@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1985",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1985",
+  "catchline": "Conspiracy to interfere with civil rights",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1985",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1985&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(R.S. § 1980.)",
+  "integrity_sha256": "55cf91327cd0e788aeaf76f3d95d9afdc740a60591e5269cb88665f86a02950c",
+  "raw_bytes": 5670,
+  "source_file": "42.1985.xml",
+  "text_file": "42.1985.txt"
+}

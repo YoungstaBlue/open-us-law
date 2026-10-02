@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4112",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "306",
+  "chapter_name": "TRANSFER TO OR FROM FOREIGN COUNTRIES",
+  "section_number": "4112",
+  "catchline": "Loss of rights, disqualification",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4112",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4112&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218.)",
+  "integrity_sha256": "61c746192ac0d4614268fb80d21081cb29d2e49ffd3805e72e1b6cfe7eb1f03d",
+  "raw_bytes": 981,
+  "source_file": "18.4112.xml",
+  "text_file": "18.4112.txt"
+}

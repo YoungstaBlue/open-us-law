@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3064",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "203",
+  "chapter_name": "ARREST AND COMMITMENT",
+  "section_number": "3064",
+  "catchline": "Powers of Federal Motor Carrier Safety Administration",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3064",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3064&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–59, title IV, § 4143(b), Aug. 10, 2005, 119 Stat. 1748.)",
+  "integrity_sha256": "b38c23abb5d179232162f512c1814e408f55f3b3c8f5750612ab8b81017fb733",
+  "raw_bytes": 1003,
+  "source_file": "18.3064.xml",
+  "text_file": "18.3064.txt"
+}

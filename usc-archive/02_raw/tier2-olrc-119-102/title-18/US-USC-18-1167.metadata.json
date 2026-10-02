@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1167",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "53",
+  "chapter_name": "INDIANS",
+  "section_number": "1167",
+  "catchline": "Theft from gaming establishments on Indian lands",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1167",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1167&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–497, § 23, Oct. 17, 1988, 102 Stat. 2487; amended Pub. L. 103–322, title XXXIII, § 330016(1)(S), (U), Sept. 13, 1994, 108 Stat. 2148.)",
+  "integrity_sha256": "1caad3eb8f89bd02ddc52294d25fd25d2c0ff7a0781f354ccb31cd81018872cc",
+  "raw_bytes": 3009,
+  "source_file": "18.1167.xml",
+  "text_file": "18.1167.txt"
+}

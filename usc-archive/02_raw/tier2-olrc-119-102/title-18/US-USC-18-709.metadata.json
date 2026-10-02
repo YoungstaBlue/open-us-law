@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 709",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "33",
+  "chapter_name": "EMBLEMS, INSIGNIA, AND NAMES",
+  "section_number": "709",
+  "catchline": "False advertising or misuse of names to indicate Federal agency",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s709",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section709&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 733; Sept. 21, 1950, ch. 967, § 3(a), 64 Stat. 894; Oct. 31, 1951, ch. 655, § 22, 65 Stat. 719; July 3, 1952, ch. 547, 66 Stat. 321; Aug. 2, 1954, ch. 649, title I, § 131, 68 Stat. 609; Aug. 27, 1954, ch. 1008, 68 Stat. 867; Pub. L. 90–19, § 24(b), May 25, 1967, 81 Stat. 27; Pub. L. 90–448, title VIII, § 807(i), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–468, § 5, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 95–630, title XVIII, § 1804, Nov. 10, 1978, 92 Stat. 3723; Pub. L. 99–204, § 16, Dec. 23, 1985, 99 Stat. 1676; Pub. L. 100–690, title VII, § 7079(a), Nov. 18, 1988, 102 Stat. 4406; Pub. L. 102–390, title II, § 223, Oct. 6, 1992, 106 Stat. 1629; Pub. L. 103–322, title XXXII, § 320911(a), title XXXIII, §§ 330004(3), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2127, 2141, 2148; Pub. L. 104–294, title VI, §§ 602(a), 604(b)(19), (41), Oct. 11, 1996, 110 Stat. 3503, 3507, 3509; Pub. L. 105–184, § 7, June 23, 1998, 112 Stat. 522; Pub. L. 107–273, div. B, title IV, § 4002(a)(10), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 115–254, div. F, title VI, § 1470(g), Oct. 5, 2018, 132 Stat. 3516.)",
+  "integrity_sha256": "0328eadbd4ecdc58f41b41686a30fda56490c97c6925e3329220188323ceffeb",
+  "raw_bytes": 40347,
+  "source_file": "18.709.xml",
+  "text_file": "18.709.txt"
+}

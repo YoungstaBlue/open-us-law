@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1546",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "75",
+  "chapter_name": "PASSPORTS AND VISAS",
+  "section_number": "1546",
+  "catchline": "Fraud and misuse of visas, permits, and other documents",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1546",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1546&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 771; June 27, 1952, ch. 477, title IV, § 402(a), 66 Stat. 275; Pub. L. 94–550, § 5, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–603, title I, § 103(a), Nov. 6, 1986, 100 Stat. 3380; Pub. L. 100–525, § 2(c), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–647, title XXXV, § 3550, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XIII, § 130009(a)(4), (5), title XXXIII, § 330011(p), Sept. 13, 1994, 108 Stat. 2030, 2145; Pub. L. 104–208, div. C, title II, §§ 211(a)(2), 214, Sept. 30, 1996, 110 Stat. 3009–569, 3009–572; Pub. L. 104–294, title VI, § 607(m), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)",
+  "integrity_sha256": "a464e344fd281d1357a1974bd940b90f7ee2c5cdf0555952af31e9bcc4256c81",
+  "raw_bytes": 19509,
+  "source_file": "18.1546.xml",
+  "text_file": "18.1546.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3286",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "213",
+  "chapter_name": "LIMITATIONS",
+  "section_number": "3286",
+  "catchline": "Extension of statute of limitation for certain terrorism offenses",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3286",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3286&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title XII, § 120001(a), Sept. 13, 1994, 108 Stat. 2021; amended Pub. L. 104–132, title VII, § 702(c), Apr. 24, 1996, 110 Stat. 1294; Pub. L. 104–294, title VI, § 601(b)(1), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–56, title VIII, § 809(a), Oct. 26, 2001, 115 Stat. 379; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808.)",
+  "integrity_sha256": "a17cf0bc19785abe462585b6a1ce08396cae3956c38c26b1cb3b55ad29fb8b1c",
+  "raw_bytes": 8739,
+  "source_file": "18.3286.xml",
+  "text_file": "18.3286.txt"
+}

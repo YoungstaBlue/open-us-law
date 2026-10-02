@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 229C",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11B",
+  "chapter_name": "CHEMICAL WEAPONS",
+  "section_number": "229C",
+  "catchline": "Individual self-defense devices",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s229C",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section229C&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869.)",
+  "integrity_sha256": "0a4c56a75e44e658526d7b145e4f737dabcf3a6110e968a480063ca1582b6603",
+  "raw_bytes": 819,
+  "source_file": "18.229C.xml",
+  "text_file": "18.229C.txt"
+}

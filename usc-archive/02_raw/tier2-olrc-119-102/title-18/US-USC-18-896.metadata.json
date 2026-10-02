@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 896",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "42",
+  "chapter_name": "EXTORTIONATE CREDIT TRANSACTIONS",
+  "section_number": "896",
+  "catchline": "Effect on State laws",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s896",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section896&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 162.)",
+  "integrity_sha256": "477a0d0a6c3db4122913bf3636c2318456625ec9dce7c603c7a4c0a97c47adfb",
+  "raw_bytes": 1130,
+  "source_file": "18.896.xml",
+  "text_file": "18.896.txt"
+}

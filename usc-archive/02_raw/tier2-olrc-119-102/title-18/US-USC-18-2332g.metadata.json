@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2332g",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113B",
+  "chapter_name": "TERRORISM",
+  "section_number": "2332g",
+  "catchline": "Missile systems designed to destroy aircraft",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2332g",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332g&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–458, title VI, § 6903, Dec. 17, 2004, 118 Stat. 3770.)",
+  "integrity_sha256": "7c0704e58ddd2e68774741dfc46ed133c08e17b218528fce5ed2108427983536",
+  "raw_bytes": 9009,
+  "source_file": "18.2332g.xml",
+  "text_file": "18.2332g.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1597",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "77",
+  "chapter_name": "PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS",
+  "section_number": "1597",
+  "catchline": "Unlawful conduct with respect to immigration documents",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1597",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1597&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 113–4, title XII, § 1211(c)(1), Mar. 7, 2013, 127 Stat. 142.)",
+  "integrity_sha256": "2e917c49e0a1b380bd95fd4ff42056bfd7c355e38213d72ecc7b3032bba4c6c8",
+  "raw_bytes": 3208,
+  "source_file": "18.1597.xml",
+  "text_file": "18.1597.txt"
+}

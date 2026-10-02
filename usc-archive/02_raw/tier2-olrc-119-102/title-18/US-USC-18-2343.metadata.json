@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2343",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "114",
+  "chapter_name": "TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO",
+  "section_number": "2343",
+  "catchline": "Recordkeeping, reporting, and inspection",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2343",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2343&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 107–296, title XI, § 1112(i)(2), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, § 121(a)(3), (b)(3), (c), (g)(1), Mar. 9, 2006, 120 Stat. 221, 222, 224; Pub. L. 111–154, § 4, Mar. 31, 2010, 124 Stat. 1109.)",
+  "integrity_sha256": "75329f0c922e7204ced8f79809c05244ba48274c1132fb0b134c95803c725669",
+  "raw_bytes": 13562,
+  "source_file": "18.2343.xml",
+  "text_file": "18.2343.txt"
+}

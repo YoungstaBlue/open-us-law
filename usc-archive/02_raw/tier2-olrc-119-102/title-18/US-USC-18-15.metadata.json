@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 15",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "15",
+  "catchline": "Obligation or other security of foreign government defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s15",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section15&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 85–921, § 3, Sept. 2, 1958, 72 Stat. 1771.)",
+  "integrity_sha256": "d25f9dddc3cc4d0313e05805f74e2c454dafa889897c62d26f70ba8af7baebcc",
+  "raw_bytes": 796,
+  "source_file": "18.15.xml",
+  "text_file": "18.15.txt"
+}

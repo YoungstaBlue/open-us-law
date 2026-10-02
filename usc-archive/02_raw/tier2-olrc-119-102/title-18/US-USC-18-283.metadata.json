@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 283",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "15",
+  "chapter_name": "CLAIMS AND SERVICES IN MATTERS AFFECTING GOVERNMENT",
+  "section_number": "283",
+  "catchline": "Repealed. Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126; Pub. L. 100–180, div. A, title VIII, § 822(a), Dec. 4, 1987, 101 Stat. 1132]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s283",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section283&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "a9768e5ed52df4b2be8a27396d38305fa4859c286ecd503864689a9e7c894f0e",
+  "raw_bytes": 2457,
+  "source_file": "18.283.xml",
+  "text_file": "18.283.txt"
+}

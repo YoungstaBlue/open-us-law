@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3511",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "223",
+  "chapter_name": "WITNESSES AND EVIDENCE",
+  "section_number": "3511",
+  "catchline": "Judicial review of requests for information",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3511",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3511&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–177, title I, § 115(2), Mar. 9, 2006, 120 Stat. 211; amended Pub. L. 114–23, title V, § 502(g), June 2, 2015, 129 Stat. 288.)",
+  "integrity_sha256": "86258935b89d0fed9846db9524fc8bdc34502f4a8e3b12c96485d49b924d2468",
+  "raw_bytes": 21940,
+  "source_file": "18.3511.xml",
+  "text_file": "18.3511.txt"
+}

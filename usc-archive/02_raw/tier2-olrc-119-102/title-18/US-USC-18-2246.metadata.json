@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2246",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "109A",
+  "chapter_name": "SEXUAL ABUSE",
+  "section_number": "2246",
+  "catchline": "Definitions for chapter",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2246",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2246&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3622, § 2245, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3662, § 2245; renumbered § 2246 and amended Pub. L. 103–322, title IV, § 40502, title VI, § 60010(a)(1), Sept. 13, 1994, 108 Stat. 1945, 1972; Pub. L. 105–314, title III, § 301(c), Oct. 30, 1998, 112 Stat. 2979; Pub. L. 117–103, div. W, title XII, § 1202(e), Mar. 15, 2022, 136 Stat. 925.)",
+  "integrity_sha256": "b6bde580063d7056d09691ea11bf84a1c490e4ac3b5f5b848c0c3b1fd7bb1700",
+  "raw_bytes": 9507,
+  "source_file": "18.2246.xml",
+  "text_file": "18.2246.txt"
+}

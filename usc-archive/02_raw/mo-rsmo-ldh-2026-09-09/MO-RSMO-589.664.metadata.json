@@ -1,0 +1,21 @@
+{
+ "section_id": "MO-RSMO-589.664",
+ "jurisdiction": "missouri",
+ "section": "RSMo § 589.664",
+ "chapter_number": "589",
+ "section_number": "589.664",
+ "catchline": "Disclosure of address, when — notice — limitation on dissemination",
+ "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=589.664",
+ "history_text": "(L. 2017 S.B. 34, A.L. 2018 H.B. 1461)",
+ "effective_date_note": null,
+ "source_type": "Legal Data Hunter MCP, source US/MO-Legislation (\"Missouri Revised Statutes\", tier 1, 29,622 documents, document date field 2025-01-01; section texts carry 2025 and 2026 session-law history, so the underlying capture is later than the date field). Retrieved via get_document(include_full_text=true). Second-hand copy of revisor.mo.gov; not a direct fetch of the official site.",
+ "source_record_date": "2025-01-01",
+ "retrieved_at": "2026-09-09T07:50:00+00:00",
+ "source_file": "MO-RSMO-589.664.json",
+ "text_file": "MO-RSMO-589.664.txt",
+ "integrity_sha256": "22dd82b334b6bdb105575fdb2c495271e158807e62561a8459a3ae47fcc4e869",
+ "positive_law_title": null,
+ "status": "operative",
+ "citation_log_id": "C-023",
+ "flags": []
+}

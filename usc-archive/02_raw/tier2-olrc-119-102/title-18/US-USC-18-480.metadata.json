@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 480",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "480",
+  "catchline": "Possessing counterfeit foreign obligations or securities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s480",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section480&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(c), Oct. 26, 2001, 115 Stat. 341.)",
+  "integrity_sha256": "522d5dc222f35212c84fcd238f91ba6217f5436ab4cbfede25e9d33ecaba1124",
+  "raw_bytes": 2859,
+  "source_file": "18.480.xml",
+  "text_file": "18.480.txt"
+}

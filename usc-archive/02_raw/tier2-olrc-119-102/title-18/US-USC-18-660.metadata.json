@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 660",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "31",
+  "chapter_name": "EMBEZZLEMENT AND THEFT",
+  "section_number": "660",
+  "catchline": "Carrier’s funds derived from commerce; State prosecutions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s660",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section660&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 730; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "836429d8d06d5e6add6cd62e1969f7439e97562c17eabb4296263efa760deb9e",
+  "raw_bytes": 5825,
+  "source_file": "18.660.xml",
+  "text_file": "18.660.txt"
+}

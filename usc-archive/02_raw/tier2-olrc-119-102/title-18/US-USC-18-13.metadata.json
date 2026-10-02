@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 13",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "13",
+  "catchline": "Laws of States adopted for areas within Federal jurisdiction",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s13",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section13&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 100–690, title VI, § 6477(a), Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–322, title X, § 100002, Sept. 13, 1994, 108 Stat. 1996; Pub. L. 104–132, title IX, § 901(b), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 104–294, title VI, § 604(b)(32), Oct. 11, 1996, 110 Stat. 3508.)",
+  "integrity_sha256": "e40882af1445d42df0598a1d940c72dce1422fe4db2f6a3bb2ebbb8d44125950",
+  "raw_bytes": 12728,
+  "source_file": "18.13.xml",
+  "text_file": "18.13.txt"
+}

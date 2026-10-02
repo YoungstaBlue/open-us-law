@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3735",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "235",
+  "chapter_name": "APPEAL",
+  "section_number": "3735",
+  "catchline": "Bail on appeal or certiorari—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3735",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3735&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 845.)",
+  "integrity_sha256": "79ee0fcc68e7aaae24c06ebe878ce2395b522bdb26d74017e2b3114de3fed47d",
+  "raw_bytes": 1977,
+  "source_file": "18.3735.xml",
+  "text_file": "18.3735.txt"
+}

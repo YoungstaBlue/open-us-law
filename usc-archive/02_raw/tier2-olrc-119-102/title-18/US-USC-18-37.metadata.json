@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 37",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "2",
+  "chapter_name": "AIRCRAFT AND MOTOR VEHICLES",
+  "section_number": "37",
+  "catchline": "Violence at international airports",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s37",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section37&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title VI, § 60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§ 721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§ 601(q), 607(o), Oct. 11, 1996, 110 Stat. 3502, 3512.)",
+  "integrity_sha256": "25574106f2e9867ade720264b61545af8935569a1076101bcc9f6695f889aa88",
+  "raw_bytes": 7956,
+  "source_file": "18.37.xml",
+  "text_file": "18.37.txt"
+}

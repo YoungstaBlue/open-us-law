@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12592",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12592",
+  "catchline": "Index to facilitate law enforcement exchange of DNA identification information",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12592",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12592&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title XXI, § 210304, Sept. 13, 1994, 108 Stat. 2069; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 120], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 106–546, § 6(b), Dec. 19, 2000, 114 Stat. 2733; Pub. L. 108–405, title II, § 203(a), (d), title III, § 302, Oct. 30, 2004, 118 Stat. 2269, 2270, 2272; Pub. L. 109–162, title X, § 1002, Jan. 5, 2006, 119 Stat. 3084; Pub. L. 115–50, § 2(b), Aug. 18, 2017, 131 Stat. 1001.)",
+  "integrity_sha256": "da3eb67eab4fe6d1ab05fdca074d5e54c000d11cb4ee5f7ce379c49448cf407c",
+  "raw_bytes": 22103,
+  "source_file": "34.12592.xml",
+  "text_file": "34.12592.txt"
+}

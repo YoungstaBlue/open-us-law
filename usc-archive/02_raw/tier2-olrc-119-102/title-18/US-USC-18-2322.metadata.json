@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2322",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113",
+  "chapter_name": "STOLEN PROPERTY",
+  "section_number": "2322",
+  "catchline": "Chop shops",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2322",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2322&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 102–519, title I, § 105(a), Oct. 25, 1992, 106 Stat. 3385.)",
+  "integrity_sha256": "5c9d07633a9b15f90548be9dcb20c27b4db70f8d43435c636eaaf214c1d8e6f7",
+  "raw_bytes": 2980,
+  "source_file": "18.2322.xml",
+  "text_file": "18.2322.txt"
+}

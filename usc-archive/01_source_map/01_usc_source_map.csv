@@ -1,0 +1,11 @@
+tier,title_number,title_name,section_number,catchline,govinfo_granule_url,already_in_citation_log,citation_log_id
+1,18,Crimes and Criminal Procedure,241,Conspiracy against rights,https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap13-sec241.htm,yes,C-027
+1,18,Crimes and Criminal Procedure,242,Deprivation of rights under color of law,https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap13-sec242.htm,yes,C-028
+1,18,Crimes and Criminal Procedure,1512,Tampering with a witness victim or an informant,https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap73-sec1512.htm,yes,C-029
+1,18,Crimes and Criminal Procedure,1519,Destruction alteration or falsification of records in Federal investigations and bankruptcy,https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap73-sec1519.htm,yes,C-030
+1,42,The Public Health and Welfare,1983,Civil action for deprivation of rights,https://www.govinfo.gov/content/pkg/USCODE-2023-title42/html/USCODE-2023-title42-chap21-subchapI-sec1983.htm,yes,C-031
+1,42,The Public Health and Welfare,1985,Conspiracy to interfere with civil rights,https://www.govinfo.gov/content/pkg/USCODE-2023-title42/html/USCODE-2023-title42-chap21-subchapI-sec1985.htm,yes,C-048
+1,34,Crime Control and Law Enforcement,12601,Cause of action,https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleI-partA-chap121-subchapI-sec12601.htm,yes,C-033
+2,18,Crimes and Criminal Procedure,ALL,Title 18 full text (bulk XML),https://www.govinfo.gov/bulkdata/USCODE/USCODE-2023-title18.xml,no,
+2,42,The Public Health and Welfare,1981-2000h-6,Title 42 Chapter 21 Civil Rights (bulk XML subset),https://www.govinfo.gov/bulkdata/USCODE/USCODE-2023-title42.xml,no,
+2,34,Crime Control and Law Enforcement,12601-12651,Title 34 Chapter 121 Law Enforcement Programs (bulk XML subset),https://www.govinfo.gov/bulkdata/USCODE/USCODE-2023-title34.xml,no,

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3361",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "217",
+  "chapter_name": "INDICTMENT AND INFORMATION",
+  "section_number": "3361",
+  "catchline": "Form and contents—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3361",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3361&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 830.)",
+  "integrity_sha256": "98954ad25417c58e80d611b2959b737a68ecc6f9b9ed8f28ba3dd1fd8dfd1cb9",
+  "raw_bytes": 823,
+  "source_file": "18.3361.xml",
+  "text_file": "18.3361.txt"
+}

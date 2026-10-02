@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2265",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110A",
+  "chapter_name": "DOMESTIC VIOLENCE AND STALKING",
+  "section_number": "2265",
+  "catchline": "Full faith and credit given to protection orders",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2265",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2265&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1930; amended Pub. L. 106–386, div. B, title I, § 1101(b)(4), Oct. 28, 2000, 114 Stat. 1493; Pub. L. 109–162, title I, § 106(a)–(c), Jan. 5, 2006, 119 Stat. 2981, 2982; Pub. L. 109–271, § 2(n), Aug. 12, 2006, 120 Stat. 754; Pub. L. 113–4, title IX, § 905, Mar. 7, 2013, 127 Stat. 124; Pub. L. 117–103, div. W, title I, § 106, Mar. 15, 2022, 136 Stat. 851.)",
+  "integrity_sha256": "21b515108d67e57567cbab99588aaa56e837b2e66877ba15ca79e27fe8572369",
+  "raw_bytes": 14415,
+  "source_file": "18.2265.xml",
+  "text_file": "18.2265.txt"
+}

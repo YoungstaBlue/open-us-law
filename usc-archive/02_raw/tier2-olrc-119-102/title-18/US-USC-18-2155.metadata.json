@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2155",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "105",
+  "chapter_name": "SABOTAGE",
+  "section_number": "2155",
+  "catchline": "Destruction of national-defense materials, national-defense premises, or national-defense utilities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2155",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2155&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 799; Sept. 3, 1954, ch. 1261, title I, § 104, 68 Stat. 1218; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(f)(12), Oct. 11, 1996, 110 Stat. 3500; Pub. L. 107–56, title VIII, § 810(e), Oct. 26, 2001, 115 Stat. 380.)",
+  "integrity_sha256": "7f06a521d0a511d5d2be47927494177d546ef3427bc05c4b79057676c83a78b7",
+  "raw_bytes": 4679,
+  "source_file": "18.2155.xml",
+  "text_file": "18.2155.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2515",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "119",
+  "chapter_name": "WIRE AND ELECTRONIC COMMUNICATIONS INTERCEPTION AND INTERCEPTION OF ORAL COMMUNICATIONS",
+  "section_number": "2515",
+  "catchline": "Prohibition of use as evidence of intercepted wire or oral communications",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2515",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2515&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 216.)",
+  "integrity_sha256": "61089bea3333d576b2cdc7c0c401fbde1777a4e065b58c2244b3c01f650bd8dd",
+  "raw_bytes": 1165,
+  "source_file": "18.2515.xml",
+  "text_file": "18.2515.txt"
+}

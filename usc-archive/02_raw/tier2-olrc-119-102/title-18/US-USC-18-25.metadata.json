@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 25",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "25",
+  "catchline": "Use of minors in crimes of violence",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s25",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section25&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–21, title VI, § 601[(a)], Apr. 30, 2003, 117 Stat. 686.)",
+  "integrity_sha256": "acf8128275b71760e4bde039011f6abbbb1751c0da355c45c609bb20883b714c",
+  "raw_bytes": 3302,
+  "source_file": "18.25.xml",
+  "text_file": "18.25.txt"
+}

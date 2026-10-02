@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12402",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12402",
+  "catchline": "Authorization of appropriations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12402",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12402&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IV, § 40603, Sept. 13, 1994, 108 Stat. 1951; Pub. L. 106–386, div. B, title I, § 1106(a), Oct. 28, 2000, 114 Stat. 1497; Pub. L. 109–162, title I, § 109, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XI, § 1103, Mar. 7, 2013, 127 Stat. 135; Pub. L. 117–103, div. W, title XIII, § 1301, Mar. 15, 2022, 136 Stat. 927.)",
+  "integrity_sha256": "908314df80b840cd87902dd3f98552f501454fd33b1570a3db9b76329e5b0c14",
+  "raw_bytes": 5684,
+  "source_file": "34.12402.xml",
+  "text_file": "34.12402.txt"
+}

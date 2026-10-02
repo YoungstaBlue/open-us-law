@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2237",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "109",
+  "chapter_name": "SEARCHES AND SEIZURES",
+  "section_number": "2237",
+  "catchline": "Criminal sanctions for failure to heave to, obstruction of boarding, or providing false information",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2237",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2237&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–177, title III, § 303(a), Mar. 9, 2006, 120 Stat. 233; amended Pub. L. 111–281, title IX, § 917, Oct. 15, 2010, 124 Stat. 3021.)",
+  "integrity_sha256": "812cbe4bd3d81b49dcc2867b6dedbd02a9dfe88694e816a39942756f486355f0",
+  "raw_bytes": 13073,
+  "source_file": "18.2237.xml",
+  "text_file": "18.2237.txt"
+}

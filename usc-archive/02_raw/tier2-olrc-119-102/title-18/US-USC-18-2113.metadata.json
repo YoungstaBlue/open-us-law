@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2113",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "103",
+  "chapter_name": "ROBBERY AND BURGLARY",
+  "section_number": "2113",
+  "catchline": "Bank robbery and incidental crimes",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2113",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2113&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Pub. L. 86–354, § 2, Sept. 22, 1959, 73 Stat. 639; Pub. L. 91–468, § 8, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 98–473, title II, § 1106, Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–646, § 68, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 101–73, title IX, § 962(a)(7), (d), Aug. 9, 1989, 103 Stat. 502, 503; Pub. L. 101–647, title XXV, § 2597(l), Nov. 29, 1990, 104 Stat. 4911; Pub. L. 103–322, title VI, § 60003(a)(9), title XXXII, § 320608, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 1969, 2120, 2147; Pub. L. 104–294, title VI, §§ 606(a), 607(d), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(ii), Nov. 2, 2002, 116 Stat. 1809.)",
+  "integrity_sha256": "c80a992435527410bc47ad3402bedb37e6579c0dc056e40a1687b2c8e6bdc0f4",
+  "raw_bytes": 18871,
+  "source_file": "18.2113.xml",
+  "text_file": "18.2113.txt"
+}

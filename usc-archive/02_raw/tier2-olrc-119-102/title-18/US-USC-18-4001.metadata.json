@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4001",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "301",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "4001",
+  "catchline": "Limitation on detention; control of prisons",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4001",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4001&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 847; Pub. L. 92–128, § 1(a), (b), Sept. 25, 1971, 85 Stat. 347.)",
+  "integrity_sha256": "6837129ff7a8be40001c0c215ee7ce76e9ee11c6bdab915770e2734b19ab89eb",
+  "raw_bytes": 21363,
+  "source_file": "18.4001.xml",
+  "text_file": "18.4001.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 213",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "213",
+  "catchline": "Acceptance of loan or gratuity by financial institution examiner",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s213",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section213&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2900.)",
+  "integrity_sha256": "94c8422c1ebeafdc977935b58c67ad29eb167d0f1b20aa10d91de4df6e97cfb0",
+  "raw_bytes": 4911,
+  "source_file": "18.213.xml",
+  "text_file": "18.213.txt"
+}

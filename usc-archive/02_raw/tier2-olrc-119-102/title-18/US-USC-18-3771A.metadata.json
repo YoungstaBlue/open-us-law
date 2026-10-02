@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3771A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "237",
+  "chapter_name": "CRIME VICTIMS’ RIGHTS",
+  "section_number": "3771A",
+  "catchline": "Motion to vacate; expungement; mitigating factors",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3771A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3771A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 119–73, § 2(a), Jan. 23, 2026, 139 Stat. 2003.)",
+  "integrity_sha256": "099bd533f4a16509feae31a4ad2ccdf445e749f2afbe5dbc0b09b3d53cb752b8",
+  "raw_bytes": 37133,
+  "source_file": "18.3771A.xml",
+  "text_file": "18.3771A.txt"
+}

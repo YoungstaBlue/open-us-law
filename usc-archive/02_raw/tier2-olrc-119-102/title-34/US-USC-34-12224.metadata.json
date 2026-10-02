@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12224",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12224",
+  "catchline": "Allocation of funds; limitations on grants",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12224",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12224&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title III, § 31704, Sept. 13, 1994, 108 Stat. 1891.)",
+  "integrity_sha256": "35d428fe0422e8042e198301520d9686458b1b6aa38835f1f59ffb1318b288bc",
+  "raw_bytes": 3854,
+  "source_file": "34.12224.xml",
+  "text_file": "34.12224.txt"
+}

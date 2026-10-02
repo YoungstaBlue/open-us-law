@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 437",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "23",
+  "chapter_name": "CONTRACTS",
+  "section_number": "437",
+  "catchline": "Repealed. Pub. L. 104–178, § 1(a), Aug. 6, 1996, 110 Stat. 1565]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s437",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section437&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "e3315396beddb7b40c3642be77a0683b3c47e20c147e262304e9806a66b76ebe",
+  "raw_bytes": 2611,
+  "source_file": "18.437.xml",
+  "text_file": "18.437.txt"
+}

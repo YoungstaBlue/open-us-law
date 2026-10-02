@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1091",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "50A",
+  "chapter_name": "GENOCIDE",
+  "section_number": "1091",
+  "catchline": "Genocide",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1091",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1091&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–606, § 2(a), Nov. 4, 1988, 102 Stat. 3045; amended Pub. L. 103–322, title VI, § 60003(a)(13), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 107–273, div. B, title IV, § 4002(a)(4), (b)(7), Nov. 2, 2002, 116 Stat. 1806, 1808; Pub. L. 110–151, § 2, Dec. 21, 2007, 121 Stat. 1821; Pub. L. 111–122, § 3(a), Dec. 22, 2009, 123 Stat. 3481.)",
+  "integrity_sha256": "97f67593ed3992e04bbd441769a4018a56d4b818132d03a8fce1e27dc8accac2",
+  "raw_bytes": 12910,
+  "source_file": "18.1091.xml",
+  "text_file": "18.1091.txt"
+}

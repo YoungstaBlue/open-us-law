@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 284",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "15",
+  "chapter_name": "CLAIMS AND SERVICES IN MATTERS AFFECTING GOVERNMENT",
+  "section_number": "284",
+  "catchline": "Repealed. Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s284",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section284&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "993ad0ca229683b4403552ea37ef4725e0bd231c9676871aa8299b237a8ec608",
+  "raw_bytes": 1904,
+  "source_file": "18.284.xml",
+  "text_file": "18.284.txt"
+}

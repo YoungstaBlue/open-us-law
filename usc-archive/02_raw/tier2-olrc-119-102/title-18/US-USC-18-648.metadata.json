@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 648",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "31",
+  "chapter_name": "EMBEZZLEMENT AND THEFT",
+  "section_number": "648",
+  "catchline": "Custodians, generally, misusing public funds",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s648",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section648&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 727; Pub. L. 101–647, title XXV, § 2597(d), Nov. 29, 1990, 104 Stat. 4909; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (2)(G), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)",
+  "integrity_sha256": "9f6a1e9e0f70225160855bad917269f47aef2573cab729a73adbba3e0acbf6dc",
+  "raw_bytes": 4952,
+  "source_file": "18.648.xml",
+  "text_file": "18.648.txt"
+}

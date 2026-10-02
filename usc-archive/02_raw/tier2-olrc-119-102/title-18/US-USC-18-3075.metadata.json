@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3075",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "204",
+  "chapter_name": "REWARDS FOR INFORMATION CONCERNING TERRORIST ACTS AND ESPIONAGE",
+  "section_number": "3075",
+  "catchline": "Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s3075",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3075&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "7ee9d376d7a3cae3511e7741c5685d6894df385a3c4faa62da8e2c10d2dbca89",
+  "raw_bytes": 1321,
+  "source_file": "18.3075.xml",
+  "text_file": "18.3075.txt"
+}

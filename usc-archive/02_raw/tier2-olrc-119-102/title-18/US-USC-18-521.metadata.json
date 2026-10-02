@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 521",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "26",
+  "chapter_name": "CRIMINAL STREET GANGS",
+  "section_number": "521",
+  "catchline": "Criminal street gangs",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s521",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section521&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title XV, § 150001(a), Sept. 13, 1994, 108 Stat. 2034; amended Pub. L. 104–294, title VI, § 607(q), Oct. 11, 1996, 110 Stat. 3513; Pub. L. 107–273, div. B, title IV, § 4002(b)(3), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 115–392, § 12, Dec. 21, 2018, 132 Stat. 5255.)",
+  "integrity_sha256": "9f7d77de48d689ab07e94395b3761705dc650a2de972db6a0b659a90823d02a7",
+  "raw_bytes": 9715,
+  "source_file": "18.521.xml",
+  "text_file": "18.521.txt"
+}

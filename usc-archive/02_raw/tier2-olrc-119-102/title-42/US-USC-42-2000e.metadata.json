@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000e",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000e",
+  "catchline": "Definitions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000e",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title VII, § 701, July 2, 1964, 78 Stat. 253; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 662; Pub. L. 92–261, § 2, Mar. 24, 1972, 86 Stat. 103; Pub. L. 95–555, § 1, Oct. 31, 1978, 92 Stat. 2076; Pub. L. 95–598, title III, § 330, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–166, title I, §§ 104, 109(a), Nov. 21, 1991, 105 Stat. 1074, 1077.)",
+  "integrity_sha256": "bf6f0813ea764b0b06ab96f7365852eabf110cebf2403360b50ab43d830dc712",
+  "raw_bytes": 111667,
+  "source_file": "42.2000e.xml",
+  "text_file": "42.2000e.txt"
+}

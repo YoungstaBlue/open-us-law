@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1858",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "91",
+  "chapter_name": "PUBLIC LANDS",
+  "section_number": "1858",
+  "catchline": "Survey marks destroyed or removed",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1858",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1858&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 789; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)",
+  "integrity_sha256": "c65ba6d6edf6f09cb5abf122bab21a9e87b4d00f80514c570d1d86d15a5b1ba5",
+  "raw_bytes": 2434,
+  "source_file": "18.1858.xml",
+  "text_file": "18.1858.txt"
+}

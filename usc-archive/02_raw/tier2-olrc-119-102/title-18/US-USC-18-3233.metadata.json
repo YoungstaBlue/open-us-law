@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3233",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "211",
+  "chapter_name": "JURISDICTION AND VENUE",
+  "section_number": "3233",
+  "catchline": "Transfer within district—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3233",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3233&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 826.)",
+  "integrity_sha256": "def520913e2ca78e0f8079824c46a2bb211141db1f22b989a22909ea6079177d",
+  "raw_bytes": 1576,
+  "source_file": "18.3233.xml",
+  "text_file": "18.3233.txt"
+}

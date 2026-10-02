@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1462",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "71",
+  "chapter_name": "OBSCENITY",
+  "section_number": "1462",
+  "catchline": "Importation or transportation of obscene matters",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1462",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1462&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 768; May 27, 1950, ch. 214, § 1, 64 Stat. 194; Pub. L. 85–796, § 2, Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, § 4, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–104, title V, § 507(a), Feb. 8, 1996, 110 Stat. 137.)",
+  "integrity_sha256": "9d4e23af56d30f838bcfb69c0d4e3e0ca25389c83f062aab72b103b30cf0c564",
+  "raw_bytes": 9983,
+  "source_file": "18.1462.xml",
+  "text_file": "18.1462.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1082",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "50",
+  "chapter_name": "GAMBLING",
+  "section_number": "1082",
+  "catchline": "Gambling ships",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1082",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1082&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added May 24, 1949, ch. 139, § 23, 63 Stat. 92; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "74cb95f16954a0d5d910be3d6cc37522f05c43701f7414a16ef705665a026a74",
+  "raw_bytes": 3914,
+  "source_file": "18.1082.xml",
+  "text_file": "18.1082.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3510",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "223",
+  "chapter_name": "WITNESSES AND EVIDENCE",
+  "section_number": "3510",
+  "catchline": "Rights of victims to attend and observe trial",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3510",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3510&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 105–6, § 2(a), Mar. 19, 1997, 111 Stat. 12.)",
+  "integrity_sha256": "f8dd2ec514848e25477b580865fff582bce434dff625d538261b7f61872683bf",
+  "raw_bytes": 4068,
+  "source_file": "18.3510.xml",
+  "text_file": "18.3510.txt"
+}

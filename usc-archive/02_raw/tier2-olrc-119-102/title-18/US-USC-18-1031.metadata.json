@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1031",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1031",
+  "catchline": "Major fraud against the United States",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1031",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1031&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–700, § 2(a), Nov. 19, 1988, 102 Stat. 4631; amended Pub. L. 101–123, § 2(a), Oct. 23, 1989, 103 Stat. 759; Pub. L. 103–322, title XXXIII, § 330002(a), (f), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 111–21, § 2(d), May 20, 2009, 123 Stat. 1618.)",
+  "integrity_sha256": "f8bba1e9ba5a946739b6f35040a7806a014c2624ebcfe8ba2d6005b9ec29725a",
+  "raw_bytes": 15120,
+  "source_file": "18.1031.xml",
+  "text_file": "18.1031.txt"
+}

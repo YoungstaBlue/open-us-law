@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3666",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "232",
+  "chapter_name": "MISCELLANEOUS SENTENCING PROVISIONS",
+  "section_number": "3666",
+  "catchline": "Bribe moneys",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3666",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3666&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 840, § 3612; May 24, 1949, ch. 139, § 55, 63 Stat. 96; renumbered § 3666, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)",
+  "integrity_sha256": "58c910ed9aae760713cbfd5c174f90048f38e730ad15ae2adf4cf30c430a42a8",
+  "raw_bytes": 3253,
+  "source_file": "18.3666.xml",
+  "text_file": "18.3666.txt"
+}

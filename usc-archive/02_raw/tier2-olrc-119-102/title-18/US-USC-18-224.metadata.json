@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 224",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "224",
+  "catchline": "Bribery in sporting contests",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s224",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section224&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 88–316, § 1(a), June 6, 1964, 78 Stat. 203; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "721aca93264716112ec6b5e9ab4534df459b67f2ca1ddc1cbe50a8e990578652",
+  "raw_bytes": 4195,
+  "source_file": "18.224.xml",
+  "text_file": "18.224.txt"
+}

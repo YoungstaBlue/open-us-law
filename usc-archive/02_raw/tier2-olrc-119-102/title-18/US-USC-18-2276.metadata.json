@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2276",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "111",
+  "chapter_name": "SHIPPING",
+  "section_number": "2276",
+  "catchline": "Breaking and entering vessel",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2276",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2276&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "9c724cdb5866698555b1a5def2cf2a1c5bee49023a527d30a40a8d3e7d045f30",
+  "raw_bytes": 2491,
+  "source_file": "18.2276.xml",
+  "text_file": "18.2276.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 700",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "33",
+  "chapter_name": "EMBLEMS, INSIGNIA, AND NAMES",
+  "section_number": "700",
+  "catchline": "Desecration of the flag of the United States; penalties",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s700",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section700&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–381, § 1, July 5, 1968, 82 Stat. 291; amended Pub. L. 101–131, §§ 2, 3, Oct. 28, 1989, 103 Stat. 777.)",
+  "integrity_sha256": "78f98453a3bb33342ee19907e99f7fcc44b4964ddc8de5a7a8e8eaea4e145aa7",
+  "raw_bytes": 14358,
+  "source_file": "18.700.xml",
+  "text_file": "18.700.txt"
+}

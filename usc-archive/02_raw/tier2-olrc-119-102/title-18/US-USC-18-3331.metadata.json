@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3331",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "216",
+  "chapter_name": "SPECIAL GRAND JURY",
+  "section_number": "3331",
+  "catchline": "Summoning and term",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3331",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3331&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 923; amended Pub. L. 100–690, title VII, § 7020(d), Nov. 18, 1988, 102 Stat. 4396.)",
+  "integrity_sha256": "4db0417e7881695b9d62938bcd5d1b4a3a96f70703b931530d9e2100e2bfad0b",
+  "raw_bytes": 3807,
+  "source_file": "18.3331.xml",
+  "text_file": "18.3331.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2333",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113B",
+  "chapter_name": "TERRORISM",
+  "section_number": "2333",
+  "catchline": "Civil remedies",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2333",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2333&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4522; amended Pub. L. 103–429, § 2(1), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 114–222, § 4(a), Sept. 28, 2016, 130 Stat. 854; Pub. L. 115–253, § 3(a), Oct. 3, 2018, 132 Stat. 3183.)",
+  "integrity_sha256": "bbfd8a01c2473be0affd78834c085352af174c418bbb7aea0332755f585e8368",
+  "raw_bytes": 28769,
+  "source_file": "18.2333.xml",
+  "text_file": "18.2333.txt"
+}

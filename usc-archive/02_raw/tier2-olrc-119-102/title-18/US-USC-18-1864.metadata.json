@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1864",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "91",
+  "chapter_name": "PUBLIC LANDS",
+  "section_number": "1864",
+  "catchline": "Hazardous or injurious devices on Federal lands",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1864",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1864&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–690, title VI, § 6254(f), Nov. 18, 1988, 102 Stat. 4366; amended Pub. L. 101–647, title XXXV, § 3555, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title XXXIII, § 330007, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 104–134, title I, § 101(c) [title III, § 330], Apr. 26, 1996, 110 Stat. 1321–156, 1321–208; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)",
+  "integrity_sha256": "27b58319d2bdf3d9a917b2f181ca9cf0ec9484ea2cb5327867b61c63ce76c039",
+  "raw_bytes": 14507,
+  "source_file": "18.1864.xml",
+  "text_file": "18.1864.txt"
+}

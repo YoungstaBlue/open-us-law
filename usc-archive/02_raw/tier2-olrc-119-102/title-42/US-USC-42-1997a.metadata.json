@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1997a",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1997a",
+  "catchline": "Initiation of civil actions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1997a",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1997a&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 96–247, § 3, May 23, 1980, 94 Stat. 350; Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 803(a)], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)",
+  "integrity_sha256": "a84b199824c5535cb12314bcdba90d24a48ec67b9cea5238335aa22e4185745f",
+  "raw_bytes": 4656,
+  "source_file": "42.1997a.xml",
+  "text_file": "42.1997a.txt"
+}

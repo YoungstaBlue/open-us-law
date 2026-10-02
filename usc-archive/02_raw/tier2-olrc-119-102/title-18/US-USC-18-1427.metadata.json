@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1427",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "69",
+  "chapter_name": "NATIONALITY AND CITIZENSHIP",
+  "section_number": "1427",
+  "catchline": "Sale of naturalization or citizenship papers",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1427",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1427&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 767; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, § 4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)",
+  "integrity_sha256": "da885feb1e63db6ccc7d582dd9a65234574e5c37b15a9bfe416df6c092c1848f",
+  "raw_bytes": 5268,
+  "source_file": "18.1427.xml",
+  "text_file": "18.1427.txt"
+}

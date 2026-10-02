@@ -1,0 +1,21 @@
+{
+ "section_id": "MO-RSMO-610.140",
+ "jurisdiction": "missouri",
+ "section": "RSMo § 610.140",
+ "chapter_number": "610",
+ "section_number": "610.140",
+ "catchline": "Expungement of certain criminal records — definitions — petition, contents, procedure — effect of expungement on employer inquiry — lifetime limits",
+ "official_url": "https://revisor.mo.gov/main/OneSection.aspx?section=610.140",
+ "history_text": "(L. 2012 H.B. 1647, A.L. 2016 S.B. 588, 603 & 942, A.L. 2018 H.B. 1355 merged with S.B. 793 merged with S.B. 954, A.L. 2019 S.B. 1, A.L. 2021 S.B. 26 merged with S.B. 53 & 60, A.L. 2024 S.B. 754, et al.)",
+ "effective_date_note": "Effective 1-01-25",
+ "source_type": "Legal Data Hunter MCP, source US/MO-Legislation (\"Missouri Revised Statutes\", tier 1, 29,622 documents, document date field 2025-01-01; section texts carry 2025 and 2026 session-law history, so the underlying capture is later than the date field). Retrieved via get_document(include_full_text=true). Second-hand copy of revisor.mo.gov; not a direct fetch of the official site.",
+ "source_record_date": "2025-01-01",
+ "retrieved_at": "2026-09-09T07:50:00+00:00",
+ "source_file": "MO-RSMO-610.140.json",
+ "text_file": "MO-RSMO-610.140.txt",
+ "integrity_sha256": "d28713900c49672de3f8149cbfe8300136cad79c18a415a480587ba8f8404d10",
+ "positive_law_title": null,
+ "status": "operative",
+ "citation_log_id": "C-024 C-049 C-050",
+ "flags": []
+}

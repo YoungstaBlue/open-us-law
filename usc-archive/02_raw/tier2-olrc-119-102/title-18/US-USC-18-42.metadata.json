@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 42",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "3",
+  "chapter_name": "ANIMALS, BIRDS, FISH, AND PLANTS",
+  "section_number": "42",
+  "catchline": "Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s42",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section42&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 687; May 24, 1949, ch. 139, § 2, 63 Stat. 89; Pub. L. 86–702, § 1, Sept. 2, 1960, 74 Stat. 753; Pub. L. 97–79, § 9(d), Nov. 16, 1981, 95 Stat. 1079; Pub. L. 101–646, title I, § 1208, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–237, title X, § 1013(e), Dec. 13, 1991, 105 Stat. 1901; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 111–307, § 2, Dec. 14, 2010, 124 Stat. 3282; Pub. L. 115–282, title IX, § 903(e), Dec. 4, 2018, 132 Stat. 4357.)",
+  "integrity_sha256": "fb5c89c2d718a40bae53f883c557ef5ff90aa44ed595fb20149d14751ac74d60",
+  "raw_bytes": 20759,
+  "source_file": "18.42.xml",
+  "text_file": "18.42.txt"
+}

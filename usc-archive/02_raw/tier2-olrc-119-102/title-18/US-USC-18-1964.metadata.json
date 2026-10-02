@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1964",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "96",
+  "chapter_name": "RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS",
+  "section_number": "1964",
+  "catchline": "Civil remedies",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1964",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1964&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–620, title IV, § 402(24)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 104–67, title I, § 107, Dec. 22, 1995, 109 Stat. 758.)",
+  "integrity_sha256": "036640cfc1ded8fb0960d6ccb713fba00f6aca0e7c5bf4c63b5da7a7b6c37da3",
+  "raw_bytes": 7732,
+  "source_file": "18.1964.xml",
+  "text_file": "18.1964.txt"
+}

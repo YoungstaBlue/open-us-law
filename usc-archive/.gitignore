@@ -1,0 +1,8 @@
+02_raw/bulk/
+__pycache__/
+_bulk_source/*.parquet
+# Bulk-derived per-section files: regenerate with
+#   MO_SNAPSHOT=2026-09-24 python3 scripts/mo_from_dataset.py extract _bulk_source/us_mo_statutes.parquet _bulk_source/SHA256SUMS.json --all
+# (parquet: https://oss-data-us.vaquill.ai/v2026.08/us_mo_statutes.parquet, sha256 in _bulk_source/SHA256SUMS.json).
+# Every section sha256 is committed in 03_validated/sections/*.csv.
+02_raw/mo-rsmo-dataset-*/

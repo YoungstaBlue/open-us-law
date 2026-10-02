@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 212",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "212",
+  "catchline": "Offer of loan or gratuity to financial institution examiner",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s212",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section212&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899; amended Pub. L. 110–289, div. A, title II, § 1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, § 377(1), July 21, 2010, 124 Stat. 1569.)",
+  "integrity_sha256": "fad78a0fc987e16d54e2ba763e2289e7d7aa95dde4c4b5897dea1ba76e18703d",
+  "raw_bytes": 13163,
+  "source_file": "18.212.xml",
+  "text_file": "18.212.txt"
+}

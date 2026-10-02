@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 929",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "44",
+  "chapter_name": "FIREARMS",
+  "section_number": "929",
+  "catchline": "Use of restricted ammunition",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s929",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section929&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1006(a), Oct. 12, 1984, 98 Stat. 2139; amended Pub. L. 99–308, § 108, May 19, 1986, 100 Stat. 460; Pub. L. 99–408, § 8, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VI, § 6212, title VII, § 7060(b), Nov. 18, 1988, 102 Stat. 4360, 4404; Pub. L. 107–273, div. B, title IV, § 4002(c)(4), Nov. 2, 2002, 116 Stat. 1809; Pub. L. 109–304, § 17(d)(4), Oct. 6, 2006, 120 Stat. 1707.)",
+  "integrity_sha256": "f2abfa53fc702a69750d87089c8b32ad4f3728099efea60dd7f4f99300daac39",
+  "raw_bytes": 9155,
+  "source_file": "18.929.xml",
+  "text_file": "18.929.txt"
+}

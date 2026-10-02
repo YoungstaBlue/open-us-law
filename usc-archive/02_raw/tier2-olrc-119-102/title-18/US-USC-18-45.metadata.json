@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 45",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "3",
+  "chapter_name": "ANIMALS, BIRDS, FISH, AND PLANTS",
+  "section_number": "45",
+  "catchline": "Repealed. Pub. L. 101–647, title XII, § 1206(a), Nov. 29, 1990, 104 Stat. 4832]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s45",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section45&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "1f465acbab86243f064929449970e75941708f0f37001d5653271e179f58b29e",
+  "raw_bytes": 915,
+  "source_file": "18.45.xml",
+  "text_file": "18.45.txt"
+}

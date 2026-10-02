@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 288",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "15",
+  "chapter_name": "CLAIMS AND SERVICES IN MATTERS AFFECTING GOVERNMENT",
+  "section_number": "288",
+  "catchline": "False claims for postal losses",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s288",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section288&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 698; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)",
+  "integrity_sha256": "16a3c562b4e245bac2f03b0c1777a000b47d3461302a99c45958fe3d94f4f5d2",
+  "raw_bytes": 3817,
+  "source_file": "18.288.xml",
+  "text_file": "18.288.txt"
+}

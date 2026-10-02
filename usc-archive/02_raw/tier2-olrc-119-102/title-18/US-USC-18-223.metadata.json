@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 223",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "223",
+  "catchline": "Repealed. Pub. L. 87–849, § 1(c), Oct. 23, 1962, 76 Stat. 1125]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s223",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section223&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "eec0dea613ba2b91ca4a8d6985de4e26afb2ec0d6667f21874d73d873b02e399",
+  "raw_bytes": 1634,
+  "source_file": "18.223.xml",
+  "text_file": "18.223.txt"
+}

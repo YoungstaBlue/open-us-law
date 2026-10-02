@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1513",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "73",
+  "chapter_name": "OBSTRUCTION OF JUSTICE",
+  "section_number": "1513",
+  "catchline": "Retaliating against a witness, victim, or an informant",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1513",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1513&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 103–322, title VI, § 60017, title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, § 1(1), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 107–204, title XI, § 1107(a), July 30, 2002, 116 Stat. 810; Pub. L. 107–273, div. B, title III, § 3001(b), (c)(2), title IV, § 4002(b)(4), Nov. 2, 2002, 116 Stat. 1804, 1807; Pub. L. 110–177, title II, §§ 204, 206, Jan. 7, 2008, 121 Stat. 2537.)",
+  "integrity_sha256": "e66eb12c69cb8dcee1f5004cfa1c5a74609135d47bcaf11a2017a7c14456fd27",
+  "raw_bytes": 12529,
+  "source_file": "18.1513.xml",
+  "text_file": "18.1513.txt"
+}

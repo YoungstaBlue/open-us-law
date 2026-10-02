@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1306",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "61",
+  "chapter_name": "LOTTERIES",
+  "section_number": "1306",
+  "catchline": "Participation by financial institutions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1306",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1306&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 90–203, § 5(a), Dec. 15, 1967, 81 Stat. 611; amended Pub. L. 101–73, title IX, § 962(b), Aug. 9, 1989, 103 Stat. 502; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "930361c85d6fcd3775731ac7552e2fc964123f286ab4cb6c402d050e5434fdfe",
+  "raw_bytes": 4186,
+  "source_file": "18.1306.xml",
+  "text_file": "18.1306.txt"
+}

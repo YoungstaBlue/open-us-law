@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 204",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "204",
+  "catchline": "Practice in United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit by Members of Congress",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s204",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section204&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 91–405, title II, § 204(d)(2), Sept. 22, 1970, 84 Stat. 853; Pub. L. 97–164, title I, § 147, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–194, title IV, § 403, Nov. 30, 1989, 103 Stat. 1749; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)",
+  "integrity_sha256": "0a8e0ca1806329d113f32dba143bfd784883f2046c61a7c1641f4aa2b4600e3c",
+  "raw_bytes": 7696,
+  "source_file": "18.204.xml",
+  "text_file": "18.204.txt"
+}

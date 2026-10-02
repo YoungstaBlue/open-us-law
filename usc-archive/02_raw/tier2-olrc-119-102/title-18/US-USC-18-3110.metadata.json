@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3110",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "205",
+  "chapter_name": "SEARCHES AND SEIZURES",
+  "section_number": "3110",
+  "catchline": "Property defined—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3110",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3110&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 820.)",
+  "integrity_sha256": "1d87b20b74d814debbfb1eb32cf710b91a67745c9895496464b02d847980685b",
+  "raw_bytes": 1535,
+  "source_file": "18.3110.xml",
+  "text_file": "18.3110.txt"
+}

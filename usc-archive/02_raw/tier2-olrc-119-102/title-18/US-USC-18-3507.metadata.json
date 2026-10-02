@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3507",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "223",
+  "chapter_name": "WITNESSES AND EVIDENCE",
+  "section_number": "3507",
+  "catchline": "Special master at foreign deposition",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3507",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3507&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1217(a), Oct. 12, 1984, 98 Stat. 2166.)",
+  "integrity_sha256": "d38303f99161db0c232a61c4b1a1a9e2fb425f6d18285ccd361b9c8e7d073076",
+  "raw_bytes": 2326,
+  "source_file": "18.3507.xml",
+  "text_file": "18.3507.txt"
+}

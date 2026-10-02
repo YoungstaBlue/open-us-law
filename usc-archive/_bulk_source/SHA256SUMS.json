@@ -1,0 +1,1376 @@
+[
+ {
+  "file": "us_dc_administrative_guidance.parquet",
+  "sha256": "905d1986e34a659ea68557ff9e7a2b99fe19913106e3b02a5916227ac98f414a",
+  "rows": 1,
+  "bytes": 10802
+ },
+ {
+  "file": "us_federal_administrative_guidance.parquet",
+  "sha256": "9e76fc5b280f2de73088033a0462c1f6effe7faf52c629c8caf0ccbd3129bfea",
+  "rows": 10,
+  "bytes": 13064
+ },
+ {
+  "file": "us_ak_constitutions.parquet",
+  "sha256": "7cdd74f79a1ddaa1f57ed40db527cd128792f24b0a682e1937e64cbf437f9c3d",
+  "rows": 243,
+  "bytes": 47734
+ },
+ {
+  "file": "us_al_constitutions.parquet",
+  "sha256": "e20f2acd5e2a618365dd86384a1662490d1e3832daca7417439d6472bda05539",
+  "rows": 381,
+  "bytes": 188034
+ },
+ {
+  "file": "us_ar_constitutions.parquet",
+  "sha256": "1f31123ffd65c8125bedc0d849b746460aff4b099165a0b666c2f8b5356b0b25",
+  "rows": 513,
+  "bytes": 149882
+ },
+ {
+  "file": "us_az_constitutions.parquet",
+  "sha256": "289911259544d462ee17759429e8227d8d7c83342febd288acf2aaa7a2df5d76",
+  "rows": 646,
+  "bytes": 157237
+ },
+ {
+  "file": "us_ca_constitutions.parquet",
+  "sha256": "0e68e1ab285f1c463a6df2bde1ec004ed1f5ecfdc83b3130a9db88885f687467",
+  "rows": 362,
+  "bytes": 159341
+ },
+ {
+  "file": "us_co_constitutions.parquet",
+  "sha256": "a4c951162ffd65827ed1f0a15e3493fc251a5b9c989f97d1dd19546d56d6a51e",
+  "rows": 424,
+  "bytes": 178431
+ },
+ {
+  "file": "us_ct_constitutions.parquet",
+  "sha256": "edbaa8fd4facfeea6d9c7ff78ecbb24f7fbd684c07dd2197842c337db83a6dd7",
+  "rows": 174,
+  "bytes": 44507
+ },
+ {
+  "file": "us_de_constitutions.parquet",
+  "sha256": "544ac9624754baf742015ed378559c2476548ac9d5c87bf4f2aabc7ce6b33308",
+  "rows": 225,
+  "bytes": 77813
+ },
+ {
+  "file": "us_federal_constitutions.parquet",
+  "sha256": "78a9b0b1640907a7274861be41ca553c161804f48835d1040430c7d6361437ba",
+  "rows": 74,
+  "bytes": 24866
+ },
+ {
+  "file": "us_fl_constitutions.parquet",
+  "sha256": "2656c7df9c0a9ae8fa6eea1c0e9e8e32618adbca0aa9f7e2994b05eaffa68cc3",
+  "rows": 217,
+  "bytes": 116031
+ },
+ {
+  "file": "us_ga_constitutions.parquet",
+  "sha256": "3f60c6476272bb0cd31d64afc9eab7035f5868c02db2fe9935ae63f490602de9",
+  "rows": 287,
+  "bytes": 98841
+ },
+ {
+  "file": "us_hi_constitutions.parquet",
+  "sha256": "870c16ea8648e075b0f315dac1ea1b63c5932def7292dfbb9a955d9c4259f6ce",
+  "rows": 171,
+  "bytes": 51085
+ },
+ {
+  "file": "us_ia_constitutions.parquet",
+  "sha256": "77105efa78ce5a51eb73b20b2abfd6c9b402b95474adaa94235bbe8f4e58971d",
+  "rows": 190,
+  "bytes": 40376
+ },
+ {
+  "file": "us_id_constitutions.parquet",
+  "sha256": "ba7a8bda1e712607cf006aee3df20dde9a795d38be111c8728f577830f39d903",
+  "rows": 240,
+  "bytes": 58373
+ },
+ {
+  "file": "us_il_constitutions.parquet",
+  "sha256": "52c7ef6dfeaed1ef14885d36b79212e662667784658e1a2d187704a20327ddd1",
+  "rows": 170,
+  "bytes": 46620
+ },
+ {
+  "file": "us_in_constitutions.parquet",
+  "sha256": "3041261fd303a00292dc79e5c150c7dec6e0326f896cb48126711158f1dfdcc3",
+  "rows": 196,
+  "bytes": 37773
+ },
+ {
+  "file": "us_ks_constitutions.parquet",
+  "sha256": "3ff9ddd1dda34f7c1478796c3d91a07a419b7e9000da573f9349e49851c43129",
+  "rows": 229,
+  "bytes": 53572
+ },
+ {
+  "file": "us_ky_constitutions.parquet",
+  "sha256": "599e8ab3f99016e5bb29701dd335f708783eb40bdfa75c1256cbc1b0b6466e63",
+  "rows": 274,
+  "bytes": 74755
+ },
+ {
+  "file": "us_la_constitutions.parquet",
+  "sha256": "5ad0498aa4fec56527520c158e8f6b2e42dd8302bc4d6ddd8cf37d2248ef29eb",
+  "rows": 328,
+  "bytes": 149616
+ },
+ {
+  "file": "us_ma_constitutions.parquet",
+  "sha256": "b6db4f71056393505d4a3000113df8eb033ef45a38cf0b5dbfbdebd924170d5d",
+  "rows": 104,
+  "bytes": 54893
+ },
+ {
+  "file": "us_md_constitutions.parquet",
+  "sha256": "9c15e24f0c1e3a4693b791a139248d54338f073767f13e46d50fd2edfe5061fd",
+  "rows": 312,
+  "bytes": 102495
+ },
+ {
+  "file": "us_me_constitutions.parquet",
+  "sha256": "99d03f30a455f99cdd424bc41d442d5d4675b0817ffb281209202adc62376c46",
+  "rows": 153,
+  "bytes": 51959
+ },
+ {
+  "file": "us_mi_constitutions.parquet",
+  "sha256": "370b43c07b184d61409bc888fc05668102178382afa47936e628058f7f92d4dc",
+  "rows": 307,
+  "bytes": 92034
+ },
+ {
+  "file": "us_mn_constitutions.parquet",
+  "sha256": "2d942cab8adde5682d4378ea95fc7050588f24d7c4d7d2333ce39eeeccd7afa4",
+  "rows": 138,
+  "bytes": 36910
+ },
+ {
+  "file": "us_mo_constitutions.parquet",
+  "sha256": "ba5d42002ff5fc6fb7728d2217238ccd6c518b31aa84a12b268a4919e44a4aba",
+  "rows": 445,
+  "bytes": 197790
+ },
+ {
+  "file": "us_ms_constitutions.parquet",
+  "sha256": "ec68fd4779c00da8efa05f0da639814a1bd89b2b58facb34d4cf13ab07d3b42b",
+  "rows": 318,
+  "bytes": 84101
+ },
+ {
+  "file": "us_mt_constitutions.parquet",
+  "sha256": "bb6f34bf603c3b84aa84252cbcfeff10f86233a55a1758f1802ad74fabcb577c",
+  "rows": 196,
+  "bytes": 44759
+ },
+ {
+  "file": "us_nc_constitutions.parquet",
+  "sha256": "ad75d7f093d963e0361e1bd88aff89bd57fe4042668db8cbd41aa668f644c104",
+  "rows": 155,
+  "bytes": 49220
+ },
+ {
+  "file": "us_nd_constitutions.parquet",
+  "sha256": "68264f0334410172d975a48a9b8a204ba439cc7f7736f01b35cd0c1e4284fe1b",
+  "rows": 203,
+  "bytes": 55462
+ },
+ {
+  "file": "us_ne_constitutions.parquet",
+  "sha256": "f5d52bcc2171a9f7c41f6d79bd01cf33e39fe2472f10616398bffda80bb3b7e5",
+  "rows": 448,
+  "bytes": 98759
+ },
+ {
+  "file": "us_nh_constitutions.parquet",
+  "sha256": "a6816dcd40e68ed983dddb5deb1aa7d31808384288495321e74a3ae3b28fbd57",
+  "rows": 157,
+  "bytes": 58829
+ },
+ {
+  "file": "us_nj_constitutions.parquet",
+  "sha256": "cee5c01770473900f4d0ea7bff126547a434da47342ba4e941141fd3b2962220",
+  "rows": 216,
+  "bytes": 63996
+ },
+ {
+  "file": "us_nm_constitutions.parquet",
+  "sha256": "1a6b99507f40f4a16a8e19c762274495d16244c87b37fd24bd8394afd2bfd61a",
+  "rows": 299,
+  "bytes": 87502
+ },
+ {
+  "file": "us_nv_constitutions.parquet",
+  "sha256": "d4cb051aa9b335e457f94e1fd92d6561ef52d2ef708b95b6673779a15afeb214",
+  "rows": 234,
+  "bytes": 88651
+ },
+ {
+  "file": "us_ny_constitutions.parquet",
+  "sha256": "0af0ab657a21d2e6341372f6243e25f3a65317a89a4f7ef444c403db45fd9031",
+  "rows": 204,
+  "bytes": 103533
+ },
+ {
+  "file": "us_oh_constitutions.parquet",
+  "sha256": "bda7d1a1304470a461447d6fe00a2336d767c54ad1c7059a4a5f42f42a37adf6",
+  "rows": 266,
+  "bytes": 120927
+ },
+ {
+  "file": "us_ok_constitutions.parquet",
+  "sha256": "f17c63bc0535cca4a30866a6e2de2f7825f7fdc4d8cdb4a22c77dadf1758d294",
+  "rows": 545,
+  "bytes": 175067
+ },
+ {
+  "file": "us_or_constitutions.parquet",
+  "sha256": "3e7e5902688d20b3cad55d1b9aa5f00c2c5c6209b1bdfe4cf31d60c8aa271968",
+  "rows": 415,
+  "bytes": 117136
+ },
+ {
+  "file": "us_pa_constitutions.parquet",
+  "sha256": "dd45ab98222c5f5a51d99dd5a60d56a5bf8a6a8b9ad44167ce2066921059cc96",
+  "rows": 186,
+  "bytes": 61133
+ },
+ {
+  "file": "us_pr_constitutions.parquet",
+  "sha256": "f3d2520a299878cbe1144e92bfe28d46f5e5e659b418a0189c8fa4a9851a5aa8",
+  "rows": 102,
+  "bytes": 31938
+ },
+ {
+  "file": "us_ri_constitutions.parquet",
+  "sha256": "e3b96be2fe1c3fc3624e14810660bdd7fa15ba782eabfc73562e499c74fb6820",
+  "rows": 118,
+  "bytes": 37286
+ },
+ {
+  "file": "us_sc_constitutions.parquet",
+  "sha256": "9514e7e6cfe301cffd0861db967b697e36138637a873120c1bd7b58e3cef952a",
+  "rows": 245,
+  "bytes": 62538
+ },
+ {
+  "file": "us_sd_constitutions.parquet",
+  "sha256": "0885898c12a9acbf2234fda32859876162f47a13cf65c888d1764284f28a6771",
+  "rows": 294,
+  "bytes": 107996
+ },
+ {
+  "file": "us_tn_constitutions.parquet",
+  "sha256": "0d509dff4ed6d99c5b421f033314cb241797fb22fab1b66e3bfbc80c1c0a92bd",
+  "rows": 152,
+  "bytes": 40102
+ },
+ {
+  "file": "us_tx_constitutions.parquet",
+  "sha256": "313260c53e812832a71c0f847d99f5f6bfb2a585b65d199d9cb1918761eeefaf",
+  "rows": 401,
+  "bytes": 196071
+ },
+ {
+  "file": "us_ut_constitutions.parquet",
+  "sha256": "e75418df02847409b6c0e4da150563e7787f23843af4780c6ac6e86efd79d1c4",
+  "rows": 189,
+  "bytes": 60476
+ },
+ {
+  "file": "us_va_constitutions.parquet",
+  "sha256": "20560353bcd89ecf426c9ca2bdcf5a3b7d2c4eb649c54de413c8e618247739ff",
+  "rows": 134,
+  "bytes": 66212
+ },
+ {
+  "file": "us_vt_constitutions.parquet",
+  "sha256": "7ab3f327935f505bd4931744c0cc25a01e9df8352af45d8bd88f7f18e7336871",
+  "rows": 120,
+  "bytes": 34018
+ },
+ {
+  "file": "us_wa_constitutions.parquet",
+  "sha256": "175089f05e6f3fd52569f3663f26b40775e0f0739311c6a1dd083dd0774a9206",
+  "rows": 282,
+  "bytes": 96424
+ },
+ {
+  "file": "us_wi_constitutions.parquet",
+  "sha256": "83ab9c71b61a80fb94ae7400e9b95c840053dd06a2f698d73b6f6e8845ce0164",
+  "rows": 175,
+  "bytes": 59076
+ },
+ {
+  "file": "us_wv_constitutions.parquet",
+  "sha256": "10391b33658bb20527e31c95715bb659f8516be265c695c66a878c02235468e8",
+  "rows": 209,
+  "bytes": 75524
+ },
+ {
+  "file": "us_wy_constitutions.parquet",
+  "sha256": "ffcdf042b542f10119ab057197bc6c402e2b99a3d32cb26d716284229a7ec5a9",
+  "rows": 316,
+  "bytes": 72058
+ },
+ {
+  "file": "us_ak_court_rules.parquet",
+  "sha256": "19c685847c2f560909427e7720025c596d173656aaca862411f0b25b0ad13681",
+  "rows": 763,
+  "bytes": 1004250
+ },
+ {
+  "file": "us_al_court_rules.parquet",
+  "sha256": "37875981d9957a566f81e44bd2d6daf8831be72023bdb73cb88254d7a1207b17",
+  "rows": 870,
+  "bytes": 1522466
+ },
+ {
+  "file": "us_az_court_rules.parquet",
+  "sha256": "d3ae0b44b4e6b4f3511038a64191805f69b0a6afb049d4f84b5ba0b3bfc994dd",
+  "rows": 1718,
+  "bytes": 1345749
+ },
+ {
+  "file": "us_ca_court_rules.parquet",
+  "sha256": "703ca7134ea601c89acbac6ed57b9b84efc103af070638df79358f653f884ba5",
+  "rows": 1521,
+  "bytes": 1198808
+ },
+ {
+  "file": "us_ct_court_rules.parquet",
+  "sha256": "0301e31745a6e1267a9eedde935399918e97992fb04e7f2b735b2c6840f06c47",
+  "rows": 1723,
+  "bytes": 942252
+ },
+ {
+  "file": "us_dc_court_rules.parquet",
+  "sha256": "12eb3475de0731c66e0c34e0c6438a482596f730e9318d37e0b0bfa0c47be0a9",
+  "rows": 1128,
+  "bytes": 1023230
+ },
+ {
+  "file": "us_de_court_rules.parquet",
+  "sha256": "2aaeeea60474efe6345dbadccb19e808bed470997ba03a1df86999209bb16a4d",
+  "rows": 1385,
+  "bytes": 1160524
+ },
+ {
+  "file": "us_federal_court_rules.parquet",
+  "sha256": "9f5d7a6e24837e3ab8f33f9920b4ed6aa86cecfb7733a9b3c26e5b93b956d492",
+  "rows": 589,
+  "bytes": 375639
+ },
+ {
+  "file": "us_fl_court_rules.parquet",
+  "sha256": "715f3911ebe44e10060d4c7444502999020003f3e4067c036feaa71c22d37c40",
+  "rows": 936,
+  "bytes": 1367740
+ },
+ {
+  "file": "us_ga_court_rules.parquet",
+  "sha256": "28889f85da26cccf714a2f3fe90e69bb2ac4a27fcafe0f11150f4f5f5bb17c1c",
+  "rows": 1174,
+  "bytes": 575577
+ },
+ {
+  "file": "us_hi_court_rules.parquet",
+  "sha256": "eafc08ae41721380f8216d6a14289aa669fccc2256f9fa99d6f0a7db8addad3b",
+  "rows": 1259,
+  "bytes": 956872
+ },
+ {
+  "file": "us_ia_court_rules.parquet",
+  "sha256": "06742f48e7c323d528621fb878a7c5b87304b0eec0ca84e4c4ea871c82afd7c0",
+  "rows": 1294,
+  "bytes": 755524
+ },
+ {
+  "file": "us_id_court_rules.parquet",
+  "sha256": "01d086e313ea4a6b9ba25819c865a53c17402acf0d57dfbc641902c36dd04dff",
+  "rows": 766,
+  "bytes": 638217
+ },
+ {
+  "file": "us_il_court_rules.parquet",
+  "sha256": "d3a5f01c427809b956f73b472dc3f278b178b52236abaabc2b2c8c1c06106fd1",
+  "rows": 839,
+  "bytes": 787379
+ },
+ {
+  "file": "us_in_court_rules.parquet",
+  "sha256": "68e68c7b454699362393f2fbf884a7c3e111bb7ece54bc666212e9dd883a5c00",
+  "rows": 879,
+  "bytes": 842415
+ },
+ {
+  "file": "us_ks_court_rules.parquet",
+  "sha256": "6b22f7a8f467bcd6e38033ead9e3786591875082172da39f8061a69d55266f9a",
+  "rows": 434,
+  "bytes": 435711
+ },
+ {
+  "file": "us_la_court_rules.parquet",
+  "sha256": "8df1e5e7c59443c8e796b00d2adf67af1056b30bc498dd12e9e4145e95c02930",
+  "rows": 481,
+  "bytes": 422858
+ },
+ {
+  "file": "us_ma_court_rules.parquet",
+  "sha256": "cbb867954858962ace9fe9b68f114c69f29c362ac0e48e2b000deee234d44fdc",
+  "rows": 970,
+  "bytes": 1583721
+ },
+ {
+  "file": "us_md_court_rules.parquet",
+  "sha256": "5a64e92872d11019504925576ca689a7ca6777789c36612fddc6e61e251d90d1",
+  "rows": 1220,
+  "bytes": 905693
+ },
+ {
+  "file": "us_me_court_rules.parquet",
+  "sha256": "b0744b32232e9ce491a094bbb167737816573daf2d9384c92944fd0027d0e413",
+  "rows": 722,
+  "bytes": 737776
+ },
+ {
+  "file": "us_mi_court_rules.parquet",
+  "sha256": "b9e3f54acd853d62abddffc807da1158af863aade547908c7870e8830b35cb4a",
+  "rows": 1025,
+  "bytes": 1025731
+ },
+ {
+  "file": "us_mn_court_rules.parquet",
+  "sha256": "1ed931649809b439f1db47e5c9037720e3b4f051c749f99e80f09e8d52e1b5fc",
+  "rows": 958,
+  "bytes": 912477
+ },
+ {
+  "file": "us_ms_court_rules.parquet",
+  "sha256": "30dd9eece0fed3928e4fb2273b17bf021aac1f5941f76db79523a65c0604bd03",
+  "rows": 794,
+  "bytes": 785430
+ },
+ {
+  "file": "us_mt_court_rules.parquet",
+  "sha256": "d736a4ffdc0d54adba691450e4a8665be26b2680b8b6a92419bf4ed8ee573f88",
+  "rows": 238,
+  "bytes": 175770
+ },
+ {
+  "file": "us_nc_court_rules.parquet",
+  "sha256": "1b96e1ecab2837c90e8044ccdaa0e52b1c4d7a3163e209f0769d6879f4fbe46f",
+  "rows": 495,
+  "bytes": 454236
+ },
+ {
+  "file": "us_nd_court_rules.parquet",
+  "sha256": "6ef933b332ac9709efd98e13d6588fae04696b854c86cac7ca91d1362634e8ca",
+  "rows": 2246,
+  "bytes": 1161225
+ },
+ {
+  "file": "us_ne_court_rules.parquet",
+  "sha256": "1b83985582367b7b107ecaedd726e8f5f1af11772d0851637d4d8f605b4f5a64",
+  "rows": 734,
+  "bytes": 614816
+ },
+ {
+  "file": "us_nh_court_rules.parquet",
+  "sha256": "b9f093b8d9dfc5afd7a344764ec8559fe70ce0b6884728070066d80549c0e739",
+  "rows": 970,
+  "bytes": 750434
+ },
+ {
+  "file": "us_nv_court_rules.parquet",
+  "sha256": "83a92b2cbc688d3f3b83ede075a816a0d77bce652f7a914e08797ca70d5a9766",
+  "rows": 1338,
+  "bytes": 945399
+ },
+ {
+  "file": "us_ny_court_rules.parquet",
+  "sha256": "7ca68668656c57a184eb83f8b461fe057200b5fe90f80b180ed871116d37eb74",
+  "rows": 1088,
+  "bytes": 653920
+ },
+ {
+  "file": "us_oh_court_rules.parquet",
+  "sha256": "7d0f1f3b14e7b4d38419787660dea8951b816ac1215d565afe4b09aef81b70ea",
+  "rows": 1167,
+  "bytes": 1018946
+ },
+ {
+  "file": "us_or_court_rules.parquet",
+  "sha256": "b6b061836f06de236bff2794767d1515192c0c0706d590f73c5b50eb2a58104f",
+  "rows": 632,
+  "bytes": 568529
+ },
+ {
+  "file": "us_pa_court_rules.parquet",
+  "sha256": "a55a19a32df42f01d01489091a127d6a424a24e8d754ee02eae93066e2ae8731",
+  "rows": 1722,
+  "bytes": 1373152
+ },
+ {
+  "file": "us_pr_court_rules.parquet",
+  "sha256": "91398c4cbfb97ccf752062b6f2f7708ab986ec75ee008effc4ff8b232d4ff0f1",
+  "rows": 1528,
+  "bytes": 833918
+ },
+ {
+  "file": "us_ri_court_rules.parquet",
+  "sha256": "3ab77767a94114f22ef1df42ae13517ce4ebb594c928cb9349bc291180dcfc7d",
+  "rows": 1033,
+  "bytes": 730412
+ },
+ {
+  "file": "us_sc_court_rules.parquet",
+  "sha256": "f3a71fb907111a394bcca126989a0083d4f077a1cf5e9caabae5acc0a3e44e5e",
+  "rows": 557,
+  "bytes": 659903
+ },
+ {
+  "file": "us_tn_court_rules.parquet",
+  "sha256": "86317bc88bd7b34600eb749042a132888caaf31cdec220e824c1302e8147a4b0",
+  "rows": 626,
+  "bytes": 980486
+ },
+ {
+  "file": "us_tx_court_rules.parquet",
+  "sha256": "602ec06fb80695489e49c37068a981b2edcb80129319fdd52e0f5b7d4000b8c8",
+  "rows": 1007,
+  "bytes": 656408
+ },
+ {
+  "file": "us_ut_court_rules.parquet",
+  "sha256": "1b618b6d66779f8cbb63280cbbe42098ebc728586200c0cba38996690b65d93d",
+  "rows": 919,
+  "bytes": 1022146
+ },
+ {
+  "file": "us_va_court_rules.parquet",
+  "sha256": "4d4c11c0b782c953516258403fe4b373dd497aa29869d32118ff661711d81c1b",
+  "rows": 358,
+  "bytes": 300251
+ },
+ {
+  "file": "us_wa_court_rules.parquet",
+  "sha256": "b1d2ef79e26fccb315f6008da442b675abf737438962a178d7f128c730425f9d",
+  "rows": 1182,
+  "bytes": 1115785
+ },
+ {
+  "file": "us_wi_court_rules.parquet",
+  "sha256": "5f1dff905f847f99198ca9672f3160740ce55da50cfb9eaea36a60c225013d4b",
+  "rows": 395,
+  "bytes": 398564
+ },
+ {
+  "file": "us_wv_court_rules.parquet",
+  "sha256": "41afb7570bd21de1b1a08161e59e46a2efd59cd2cd9893d55895025ea1204271",
+  "rows": 1116,
+  "bytes": 641280
+ },
+ {
+  "file": "us_wy_court_rules.parquet",
+  "sha256": "f8eb9c50f4ffa899534fa35da50a2659c4fe1bf21deb45a3a81c4cc5da8bec45",
+  "rows": 1010,
+  "bytes": 715570
+ },
+ {
+  "file": "us_federal_enforcement_action.parquet",
+  "sha256": "dfd9a3393c7ba013ad4cd12653568f54ec7ff6575d1bce75c14bb33b4cf6f135",
+  "rows": 140,
+  "bytes": 264708
+ },
+ {
+  "file": "us_federal_executive_order.parquet",
+  "sha256": "6d46c6161afe9ec0cb7b6def99f109aa1eeb59bbe99fd1b289f693a7808b50eb",
+  "rows": 738,
+  "bytes": 2249782
+ },
+ {
+  "file": "us_federal_faq.parquet",
+  "sha256": "88d56d701dff3337ec7ce82af1e49b8ba9995af7c54629d2ebf1b9e176b44288",
+  "rows": 444,
+  "bytes": 288060
+ },
+ {
+  "file": "us_ak_guidance.parquet",
+  "sha256": "050c68a6c7563f8f462100f2fe70b249616e8552c612d318aa5faef46fae41bb",
+  "rows": 398,
+  "bytes": 588975
+ },
+ {
+  "file": "us_al_guidance.parquet",
+  "sha256": "25eeae9959e57ddd89820c091386c5426fcfa4c4f7b233cc892d327a7b365911",
+  "rows": 207,
+  "bytes": 268064
+ },
+ {
+  "file": "us_ar_guidance.parquet",
+  "sha256": "386e1f1deaad30bb4cd5b4269c7fcc6b82909ae6158ebd2ed3672d07cc3d8827",
+  "rows": 359,
+  "bytes": 592865
+ },
+ {
+  "file": "us_az_guidance.parquet",
+  "sha256": "64492977cbc78864e27f6e6446c4f095269cdfbea7a5b02c05ec702ead1f35ef",
+  "rows": 199,
+  "bytes": 792016
+ },
+ {
+  "file": "us_ca_guidance.parquet",
+  "sha256": "50f50f3d546ef9e9a509e9e1dbec6c43bf57c277dcbfed14b7c0cf8af86178a2",
+  "rows": 463,
+  "bytes": 892603
+ },
+ {
+  "file": "us_ct_guidance.parquet",
+  "sha256": "1f12a531451792e3cfbcf777d480cff7634855d196455c8fe1731ad460ccb42e",
+  "rows": 369,
+  "bytes": 641034
+ },
+ {
+  "file": "us_dc_guidance.parquet",
+  "sha256": "e4d34fe062df4731bb27f3abb31391d4d5bf4bb553ddc90015d255ab607addc2",
+  "rows": 23,
+  "bytes": 57738
+ },
+ {
+  "file": "us_de_guidance.parquet",
+  "sha256": "3133bee0723176824dc1c5d3eb278327631d7b6cf4d2044eaee1a92c517b2c34",
+  "rows": 303,
+  "bytes": 439236
+ },
+ {
+  "file": "us_federal_guidance.parquet",
+  "sha256": "abd46aaa23420da53e4efcdea4482547824b8388d0867ee812b32dd4b395f0e1",
+  "rows": 12364,
+  "bytes": 38971054
+ },
+ {
+  "file": "us_fl_guidance.parquet",
+  "sha256": "3e91bb45f82bd7eb5729fff9c8a01b9df0c8dd014b1e4fc46147aa2790d718ef",
+  "rows": 43,
+  "bytes": 72680
+ },
+ {
+  "file": "us_ga_guidance.parquet",
+  "sha256": "cfc5f2a9e3f7f545ccc3cf6d16442ab855705c52bf6387431837ec9c62142e34",
+  "rows": 66,
+  "bytes": 76052
+ },
+ {
+  "file": "us_hi_guidance.parquet",
+  "sha256": "60d1643ec1ba450a86c365ca0c535f3c6e886295f1fcfce1e7183db9af52a648",
+  "rows": 168,
+  "bytes": 265992
+ },
+ {
+  "file": "us_ia_guidance.parquet",
+  "sha256": "23edde73e6d2c5a695d68cadc0de5513934668eb65f76928fbaf6c1b391e51ef",
+  "rows": 83,
+  "bytes": 162377
+ },
+ {
+  "file": "us_id_guidance.parquet",
+  "sha256": "dff3246a315af2d71a08d22b0352620b5154783426e4fd995d951c7d607028b7",
+  "rows": 75,
+  "bytes": 105026
+ },
+ {
+  "file": "us_il_guidance.parquet",
+  "sha256": "145498b603b807c37e57d7399e4e7ddf723a9caae020d24bb67632cb023af73c",
+  "rows": 158,
+  "bytes": 306183
+ },
+ {
+  "file": "us_in_guidance.parquet",
+  "sha256": "0468090db1c4bf4bdb045a4130980a97036752347f38362e87431aa36456baf6",
+  "rows": 281,
+  "bytes": 315237
+ },
+ {
+  "file": "us_ks_guidance.parquet",
+  "sha256": "057b84f148219a39e1271dffa5eafb841318920bad4628e870899014c1abc85f",
+  "rows": 79,
+  "bytes": 125664
+ },
+ {
+  "file": "us_ky_guidance.parquet",
+  "sha256": "b64e14986d56397607175e2c092d29f5288532f1136a1d28b8d90f54a238b701",
+  "rows": 232,
+  "bytes": 647337
+ },
+ {
+  "file": "us_ma_guidance.parquet",
+  "sha256": "c6074fbfd86a5dbc37953885671c031c1c0e7b101069450f91b877c87c33eb02",
+  "rows": 417,
+  "bytes": 918360
+ },
+ {
+  "file": "us_md_guidance.parquet",
+  "sha256": "b87fb6d12898d3ab12463fb1665c652ec13ec4ca4d049b25a192a549aa9b83b7",
+  "rows": 675,
+  "bytes": 1417230
+ },
+ {
+  "file": "us_me_guidance.parquet",
+  "sha256": "7ea5f297aa4e7268cc0714e5e41fffaf0ed513913cf79cfb18a1bceda93d4d45",
+  "rows": 228,
+  "bytes": 375530
+ },
+ {
+  "file": "us_mi_guidance.parquet",
+  "sha256": "69833c6d12e8784145e96a525ae59c885ea8abacfa6856fc483f6b6d4c1574fb",
+  "rows": 145,
+  "bytes": 270265
+ },
+ {
+  "file": "us_mn_guidance.parquet",
+  "sha256": "c62b1aad6d29ae5054cd48888ea34b476de499270eac383bac8d930ad9173607",
+  "rows": 34,
+  "bytes": 98619
+ },
+ {
+  "file": "us_mo_guidance.parquet",
+  "sha256": "0afc650f9d50efd011208bbeadd070be5ef0b7b9cce350f0a66d30c58ad63992",
+  "rows": 106,
+  "bytes": 152745
+ },
+ {
+  "file": "us_ms_guidance.parquet",
+  "sha256": "68919433521107e0acf71d540875ae5718ebaa78637533a791e169fc842c60bb",
+  "rows": 240,
+  "bytes": 363807
+ },
+ {
+  "file": "us_mt_guidance.parquet",
+  "sha256": "3dfe39453ba83fb6752afd40e46734ae3650937a8e98bbb1dcd14dcf554ee80a",
+  "rows": 149,
+  "bytes": 339221
+ },
+ {
+  "file": "us_nc_guidance.parquet",
+  "sha256": "68f47bb3f4ba7b1822049c309e4206bcebf7221468e1eb82227568f18dff05a6",
+  "rows": 120,
+  "bytes": 99876
+ },
+ {
+  "file": "us_nd_guidance.parquet",
+  "sha256": "8fae0f3151a8458a2a54c3c6cf2046e4b8529e19fe33d2103f1d71ddec1ea50e",
+  "rows": 235,
+  "bytes": 324776
+ },
+ {
+  "file": "us_ne_guidance.parquet",
+  "sha256": "ac7123805149436234129348f7073231c456abac40ff158bf99aac1441b8cf63",
+  "rows": 120,
+  "bytes": 236319
+ },
+ {
+  "file": "us_nh_guidance.parquet",
+  "sha256": "91b87cb537cf0b7240fa020d6c92876ab57d90eac566539226a956c1053387ca",
+  "rows": 177,
+  "bytes": 419818
+ },
+ {
+  "file": "us_nj_guidance.parquet",
+  "sha256": "4e99ada31fe2d66d2297fea2ffc66d950e287c434c39770adbc7372fe50ccb58",
+  "rows": 441,
+  "bytes": 774881
+ },
+ {
+  "file": "us_nm_guidance.parquet",
+  "sha256": "086f006d68098c2e1838cc7e9094063092c438906314363f7f85c8a32eeb2959",
+  "rows": 274,
+  "bytes": 373130
+ },
+ {
+  "file": "us_nv_guidance.parquet",
+  "sha256": "8ecf9fe8a8258220472abf3d7dd61ce3d2ea39c8746b7219e2ceeb6582fb080d",
+  "rows": 199,
+  "bytes": 291871
+ },
+ {
+  "file": "us_ny_guidance.parquet",
+  "sha256": "96eb67294644fe50c5896336812c0fce9bdc179112102c6813b38b80156e5a63",
+  "rows": 1199,
+  "bytes": 2223434
+ },
+ {
+  "file": "us_oh_guidance.parquet",
+  "sha256": "7e7acda6d6ebe7f175e1ebdde6da2bc585ef9b995c69f1970668b8d8ee4cf82f",
+  "rows": 112,
+  "bytes": 157802
+ },
+ {
+  "file": "us_ok_guidance.parquet",
+  "sha256": "86452f35b04bd140463d07b771d22d170595b4e7330ca517f74be432244cb0af",
+  "rows": 144,
+  "bytes": 241180
+ },
+ {
+  "file": "us_or_guidance.parquet",
+  "sha256": "592a666105e6e03f5505a789a53f045def1f31c4cdf1f52c8768a48eb92d4181",
+  "rows": 92,
+  "bytes": 236164
+ },
+ {
+  "file": "us_pr_guidance.parquet",
+  "sha256": "6bc9a99c76881768518c0505368fb0381d52572e5fdef17b04d059b08b0a28b1",
+  "rows": 1641,
+  "bytes": 2416390
+ },
+ {
+  "file": "us_ri_guidance.parquet",
+  "sha256": "b1fd92963dc628c4b4ec4dc0ec39d2b6bc553e9ee801ffd6cf3e284da0969482",
+  "rows": 134,
+  "bytes": 250116
+ },
+ {
+  "file": "us_sc_guidance.parquet",
+  "sha256": "9943e69226fe85cc9b41da5fc35cd86872c92d2053bc23af288f05f0b50586bd",
+  "rows": 319,
+  "bytes": 732981
+ },
+ {
+  "file": "us_sd_guidance.parquet",
+  "sha256": "e0e2f1e43c5db45311ac42f248da33a299cedaadbfa7ba7efdbb92e8a86f56d2",
+  "rows": 27,
+  "bytes": 37377
+ },
+ {
+  "file": "us_tn_guidance.parquet",
+  "sha256": "ca48ff69d7068a80be6f01a1854bd954a2f9bcd976a099859729d7d9600e8ddd",
+  "rows": 173,
+  "bytes": 258194
+ },
+ {
+  "file": "us_tx_guidance.parquet",
+  "sha256": "509361f2dd51f7e7bf51457b3af2ac9e1b0215c6e9b1be2a3c077928c5866539",
+  "rows": 1254,
+  "bytes": 1564302
+ },
+ {
+  "file": "us_ut_guidance.parquet",
+  "sha256": "c2db34abdcb4b494327ec04b593feb6c07ff2a77655bb85413bd7dc9b7d2bcdc",
+  "rows": 168,
+  "bytes": 275083
+ },
+ {
+  "file": "us_va_guidance.parquet",
+  "sha256": "1e8fa1b56ab8341945785480cf822874e440927991e590a120ebf112d3ccf757",
+  "rows": 89,
+  "bytes": 228737
+ },
+ {
+  "file": "us_vt_guidance.parquet",
+  "sha256": "2b0e92a4aa974ea751dbb7baa3b7b0f79fe9e7ce7d515e606febab542ed73313",
+  "rows": 187,
+  "bytes": 357699
+ },
+ {
+  "file": "us_wa_guidance.parquet",
+  "sha256": "f7bc60d8a510fa740a50d1d1ecb2ae040e744b52e5e6eef3fe0ee17e67a3dd36",
+  "rows": 24,
+  "bytes": 74574
+ },
+ {
+  "file": "us_wi_guidance.parquet",
+  "sha256": "c3c1732e21a6fefee52802c6fd206e015eb999809bd9bcc7ed1b7b1920115d65",
+  "rows": 232,
+  "bytes": 392741
+ },
+ {
+  "file": "us_wv_guidance.parquet",
+  "sha256": "84a81e84d63639aa4205be63132d739b4a3d3105167b6cb76013706b54fc0d30",
+  "rows": 174,
+  "bytes": 644962
+ },
+ {
+  "file": "us_wy_guidance.parquet",
+  "sha256": "fca9af0faa868de4d1b38d3587faaf9bad0012efa4f691821015d24c5b3e534c",
+  "rows": 62,
+  "bytes": 114226
+ },
+ {
+  "file": "us_federal_guideline.parquet",
+  "sha256": "df7210d1bac290cbca833351996fa8a81ffb9fbc6ca063e1cbac6d69720597f3",
+  "rows": 302,
+  "bytes": 340231
+ },
+ {
+  "file": "us_federal_irs_announcement.parquet",
+  "sha256": "81b787fc32f0ac5e0a0177c62ca33a3fd42bb3752f2956ecfa9375d300b3f97a",
+  "rows": 83,
+  "bytes": 255083
+ },
+ {
+  "file": "us_federal_irs_notice.parquet",
+  "sha256": "eb60c4031abe5c5f3251d43d7151027e430e0bd31649e3570f925774e51ada42",
+  "rows": 759,
+  "bytes": 4024072
+ },
+ {
+  "file": "us_federal_irs_rev_proc.parquet",
+  "sha256": "3025fa317dd49ccc8933555ffbfe0a7d1d7f55c0294e07983b1fdfc258ad2848",
+  "rows": 377,
+  "bytes": 4691516
+ },
+ {
+  "file": "us_federal_irs_rev_rul.parquet",
+  "sha256": "6b9ddb6d85ca2c6cbe605db28db2bd90d99d660c367aa89c9ff9172d4aa163da",
+  "rows": 245,
+  "bytes": 384616
+ },
+ {
+  "file": "us_federal_memorandum.parquet",
+  "sha256": "73d760202d4739ede46fc68952325d19da2e9be49efabc870b3e17440c5918e8",
+  "rows": 401,
+  "bytes": 446038
+ },
+ {
+  "file": "us_federal_presidential_document.parquet",
+  "sha256": "e1cc0487cd5783a44274f8f4b1fbafda404a92e7ae8649aa232bd868c8f23387",
+  "rows": 655,
+  "bytes": 430445
+ },
+ {
+  "file": "us_federal_proclamation.parquet",
+  "sha256": "529dfbbe181253fd5dc3833d3f32f2c854cce8f8b07973d46fe2f99cef47fe3d",
+  "rows": 1832,
+  "bytes": 3484595
+ },
+ {
+  "file": "us_co_regulations.parquet",
+  "sha256": "d0316a0cb896688b333f8e45c57b53be8afd74de499ea3920ee3c432bdea82a2",
+  "rows": 610,
+  "bytes": 7386513
+ },
+ {
+  "file": "us_de_regulations.parquet",
+  "sha256": "9c3745578c4cba438995005202947dc4578b191104c696b06188b17cb444fb04",
+  "rows": 1164,
+  "bytes": 9883805
+ },
+ {
+  "file": "us_federal_regulations.parquet",
+  "sha256": "6d9bcda025dc9eeeaa1361a8317369899cd87751e4eaa4095049518e611ad26e",
+  "rows": 582054,
+  "bytes": 2777564388
+ },
+ {
+  "file": "us_id_regulations.parquet",
+  "sha256": "bad6a3fc1f8035db22b2864f9e3cb564d6d2f71480779cd6a995e8311d4adefa",
+  "rows": 8551,
+  "bytes": 5614057
+ },
+ {
+  "file": "us_il_regulations.parquet",
+  "sha256": "51e3f548673dabfeb4c180972cc1e77ca2d0a199fe5e118c1369daa44d05d980",
+  "rows": 53584,
+  "bytes": 48639963
+ },
+ {
+  "file": "us_ky_regulations.parquet",
+  "sha256": "3861a3b66ed659f27b48203b1d921164786aaec7d2c9e4fdf8facb1eebc374c9",
+  "rows": 4865,
+  "bytes": 11330062
+ },
+ {
+  "file": "us_md_regulations.parquet",
+  "sha256": "0538e6e3fbb6857c697926b6fee3c02d8b3014f55b6e99082504291c97f4d324",
+  "rows": 12863,
+  "bytes": 11440292
+ },
+ {
+  "file": "us_me_regulations.parquet",
+  "sha256": "298017303f1291e5f7ff56eda6b927b937a4a95be1e917b329ca65c21809f7e2",
+  "rows": 1718,
+  "bytes": 10915593
+ },
+ {
+  "file": "us_mn_regulations.parquet",
+  "sha256": "b40da64f3e39ea3a6e8c426335e8a2af167369717801de0c9ebb2a032beef14b",
+  "rows": 15447,
+  "bytes": 12033553
+ },
+ {
+  "file": "us_nm_regulations.parquet",
+  "sha256": "32fadff68336babf15a4510b17b9faedbcd2aaf4fba7ae6861d81a631ce8e6cc",
+  "rows": 13270,
+  "bytes": 7982042
+ },
+ {
+  "file": "us_oh_regulations.parquet",
+  "sha256": "928cddc24f7529702e248c6bdaa7e81bf3a5aa91db2e4193f59f2612b36e23a8",
+  "rows": 19909,
+  "bytes": 26679920
+ },
+ {
+  "file": "us_sc_regulations.parquet",
+  "sha256": "699e7090ab3c2db5e41063afaf6086d4128e70e4e9e25abda32d476dc762313a",
+  "rows": 6606,
+  "bytes": 6106337
+ },
+ {
+  "file": "us_sd_regulations.parquet",
+  "sha256": "930a8465261f6a4b0dffc940d74a1e04a485d8ef192b92d90f405e7180ecdb54",
+  "rows": 28988,
+  "bytes": 9229087
+ },
+ {
+  "file": "us_tx_regulations.parquet",
+  "sha256": "cac07343c57600ac844ec9d6d7af1d611daa9ed46108e53c45aebad1ee21325c",
+  "rows": 44247,
+  "bytes": 33464695
+ },
+ {
+  "file": "us_va_regulations.parquet",
+  "sha256": "73f28cf3795fd07deda1cf9bd0160aa628626c70679be8904623e063af3dc77b",
+  "rows": 22396,
+  "bytes": 18427214
+ },
+ {
+  "file": "us_wa_regulations.parquet",
+  "sha256": "4bce7e1e0a1645d10c0b7b8f3fc2e350e88f29e4e7904eb2c2aaf34836ceeb79",
+  "rows": 51026,
+  "bytes": 39983240
+ },
+ {
+  "file": "us_wi_regulations.parquet",
+  "sha256": "2cbe0292212e29dc80b5c0c30329b81ad97ce9d02855a6df8af1c4c558d4d650",
+  "rows": 17823,
+  "bytes": 14200363
+ },
+ {
+  "file": "us_federal_ruling.parquet",
+  "sha256": "861829fdb8041e96a1db53ac294df4a43232de9dadf285307b7cc01892727e0c",
+  "rows": 7248,
+  "bytes": 8844501
+ },
+ {
+  "file": "us_ak_statutes.parquet",
+  "sha256": "e127a25ebf4c85624dd78b531610f4b92b8335b45d5bce354ffb53f15c55853e",
+  "rows": 17935,
+  "bytes": 6765762
+ },
+ {
+  "file": "us_al_statutes.parquet",
+  "sha256": "80f4033b20edaf4c66cf7e917e604993119aa6bec9a210aa78d5d90bc939e81a",
+  "rows": 45984,
+  "bytes": 18005214
+ },
+ {
+  "file": "us_ar_statutes.parquet",
+  "sha256": "5e19aefa0a59eaec7e8d863a5d3f264a75ecf2af57439e1ad19d39908255f8da",
+  "rows": 36936,
+  "bytes": 18625791
+ },
+ {
+  "file": "us_az_statutes.parquet",
+  "sha256": "fc2873e54466712d9836292d6dbb824e177cfc8da1c080e170c1d4b607da34ec",
+  "rows": 22674,
+  "bytes": 12284443
+ },
+ {
+  "file": "us_ca_statutes.parquet",
+  "sha256": "0cc7f53286b20cc347256e78f78f004e5fadd2e558df07753d2bd1cd57317db2",
+  "rows": 161566,
+  "bytes": 53315156
+ },
+ {
+  "file": "us_co_statutes.parquet",
+  "sha256": "456739ce3a5d6c73094979a33800df93e033db49135357230a0797d21f336187",
+  "rows": 34231,
+  "bytes": 20277765
+ },
+ {
+  "file": "us_ct_statutes.parquet",
+  "sha256": "3dfcdf1df6ac9f1bd2286b5bee2a403e27582aaacc247d8d0b7a1acac096a045",
+  "rows": 16082,
+  "bytes": 11473975
+ },
+ {
+  "file": "us_dc_statutes.parquet",
+  "sha256": "104af81e65ca0ab5820adde9643a312170c93bdf4e227819f67c8af8d3f0dd6d",
+  "rows": 23694,
+  "bytes": 9852350
+ },
+ {
+  "file": "us_de_statutes.parquet",
+  "sha256": "2301fff09dc0c1c38eaa8d048389488049f11def6cbaa06d11ed910cea70c547",
+  "rows": 21649,
+  "bytes": 10385838
+ },
+ {
+  "file": "us_federal_statutes.parquet",
+  "sha256": "2ac5d69e23ba11a9592a06ce5e4c964d69ce8275d3635e5b3476c72860ff66c6",
+  "rows": 54853,
+  "bytes": 75647963
+ },
+ {
+  "file": "us_fl_statutes.parquet",
+  "sha256": "02d3faecf9570ccd1c3bad0d77480afc73b19c6e87a00f4f139afc4afc1a1337",
+  "rows": 24866,
+  "bytes": 20535200
+ },
+ {
+  "file": "us_hi_statutes.parquet",
+  "sha256": "a8dffbd3e6cc4700821f13e1bd5d3ea7dfdd29b02cb8261fd9a66858283ceb07",
+  "rows": 19197,
+  "bytes": 8642123
+ },
+ {
+  "file": "us_ia_statutes.parquet",
+  "sha256": "1a8c4f56182235af856b3ca0260befa476a944dda8606d5131e6df7a4797d8d2",
+  "rows": 28223,
+  "bytes": 12301937
+ },
+ {
+  "file": "us_id_statutes.parquet",
+  "sha256": "85cf42bc3a648114a307444b90d8a171bf69ee28e78471e0d7fe21ee4dade852",
+  "rows": 22754,
+  "bytes": 11308281
+ },
+ {
+  "file": "us_il_statutes.parquet",
+  "sha256": "d63fc4ad7137d700418d64148351fa69463c05eb06be837794730ddfde44d2d7",
+  "rows": 72456,
+  "bytes": 20388763
+ },
+ {
+  "file": "us_in_statutes.parquet",
+  "sha256": "f3f9ff7532c56464cb1114db30e02232bdb4a314091912d5ab84269081bed74c",
+  "rows": 83148,
+  "bytes": 20160919
+ },
+ {
+  "file": "us_ks_statutes.parquet",
+  "sha256": "b2f6b97332d2c476e79acf82ef77d2737495a3dca89076b09bf83ff1d33dea5c",
+  "rows": 24361,
+  "bytes": 11829212
+ },
+ {
+  "file": "us_ky_statutes.parquet",
+  "sha256": "7adcf8f7b91370c46b28077945e9c1e9f888722c62890fffa50ae2321ad70d99",
+  "rows": 20894,
+  "bytes": 12347134
+ },
+ {
+  "file": "us_la_statutes.parquet",
+  "sha256": "4ee92507380ecc87c80ec82a588d6d74267b725cd41f9843460310354b35174d",
+  "rows": 43512,
+  "bytes": 21496747
+ },
+ {
+  "file": "us_ma_statutes.parquet",
+  "sha256": "61f7a17976d099f2edd05db859fdb400759b0f7b18931ff776d3bb75e8fbb4fc",
+  "rows": 23152,
+  "bytes": 13180589
+ },
+ {
+  "file": "us_md_statutes.parquet",
+  "sha256": "26fb0c5a2e474fcf2965a156246060a6781dc4d14f3531b7ee25e4d23e2d49ca",
+  "rows": 39552,
+  "bytes": 14967505
+ },
+ {
+  "file": "us_me_statutes.parquet",
+  "sha256": "8cfba96976ba1221f4e06bad1d859b4e71b1577bdf3a938475c1832fd6c1f569",
+  "rows": 25316,
+  "bytes": 14578874
+ },
+ {
+  "file": "us_mi_statutes.parquet",
+  "sha256": "bb74df9a03f12786c2135c4e4d1453261bed60c8715ca2bdc542f51eb6333755",
+  "rows": 40658,
+  "bytes": 19674043
+ },
+ {
+  "file": "us_mn_statutes.parquet",
+  "sha256": "bc5becfbd60e5a6a5220c2b5238f5847c8a95368e7f69a9ae802daa13929b0e1",
+  "rows": 27747,
+  "bytes": 20114273
+ },
+ {
+  "file": "us_mo_statutes.parquet",
+  "sha256": "6b168e2b5bd4e98aae71d237a0b705e53d9250f66719066d588a22600ca55e08",
+  "rows": 29309,
+  "bytes": 15799577
+ },
+ {
+  "file": "us_ms_statutes.parquet",
+  "sha256": "49db60b19f841261432a6e14b89af65a4164cd4eb431c83ac2bafd571c63c600",
+  "rows": 158688,
+  "bytes": 55909082
+ },
+ {
+  "file": "us_mt_statutes.parquet",
+  "sha256": "44eea15a43e583e80526ec865efbd8a0b74bc94847640563878d8a35f50fb9fc",
+  "rows": 30514,
+  "bytes": 11972601
+ },
+ {
+  "file": "us_nd_statutes.parquet",
+  "sha256": "06f24a2ec8d41fbe7ff0064447912ef74ade1f8e646ec49450ebf8ee2bcc9bd5",
+  "rows": 29042,
+  "bytes": 10613495
+ },
+ {
+  "file": "us_ne_statutes.parquet",
+  "sha256": "9bf801914e51055cb5ed716cb3b15f2aed5267b2c41ca688ed86353f45a40a31",
+  "rows": 25997,
+  "bytes": 11571360
+ },
+ {
+  "file": "us_nh_statutes.parquet",
+  "sha256": "d4eec661a8110644871857919a326733f9255a0fd2622aba32b23c458cb51c47",
+  "rows": 25375,
+  "bytes": 10041526
+ },
+ {
+  "file": "us_nj_statutes.parquet",
+  "sha256": "5d68dfbae569b6281724bec057f043b6bf3dfbab484030fd473c28ce73642e55",
+  "rows": 55993,
+  "bytes": 22751446
+ },
+ {
+  "file": "us_nm_statutes.parquet",
+  "sha256": "6e232846fe4fd524d3c66697cd26cdc69d442023cd7facd75df4c9651c752e17",
+  "rows": 34455,
+  "bytes": 12765925
+ },
+ {
+  "file": "us_nv_statutes.parquet",
+  "sha256": "5fb7430d5b789eaffecca79e85a16305c1142951dfc350a350d6e04c9f81ca6a",
+  "rows": 48190,
+  "bytes": 15212915
+ },
+ {
+  "file": "us_ny_statutes.parquet",
+  "sha256": "75300cec06dee98959d7a36d42e7b0977b970fea46e8ad61ca8f4ff3e162a3b2",
+  "rows": 40140,
+  "bytes": 32598216
+ },
+ {
+  "file": "us_oh_statutes.parquet",
+  "sha256": "6533193a0360c584f8e4080d395299f666afea7bebd0798ad46e8c523f7be29d",
+  "rows": 33161,
+  "bytes": 19466680
+ },
+ {
+  "file": "us_ok_statutes.parquet",
+  "sha256": "8d221a30a57ba25205dfad4eddbf365493a6e99e780546d2d13cea3dd3eff74f",
+  "rows": 35329,
+  "bytes": 17912605
+ },
+ {
+  "file": "us_or_statutes.parquet",
+  "sha256": "6777634532c5734150359f8bc0d4fbd55109f89a27e873f71accdbf4d5565a98",
+  "rows": 36202,
+  "bytes": 17613593
+ },
+ {
+  "file": "us_pa_statutes.parquet",
+  "sha256": "bd40d1efcc2282c9273402f77f2cf207085d87cea1e23e5475e38ec4592dd4b8",
+  "rows": 14571,
+  "bytes": 7049681
+ },
+ {
+  "file": "us_pr_statutes.parquet",
+  "sha256": "d41f98b404105fac20d93cbf94deec0613d2a911d40bea8fe962b028a4070b97",
+  "rows": 23636,
+  "bytes": 10937122
+ },
+ {
+  "file": "us_ri_statutes.parquet",
+  "sha256": "271da1443c5da4e2a40664e8cfc7a08c3353d518e95a226e5825f1f4b35166c4",
+  "rows": 21107,
+  "bytes": 8124922
+ },
+ {
+  "file": "us_sc_statutes.parquet",
+  "sha256": "ef496bf67d89ec7f56c5ab32fded9634260fd28dc53513feaf3b7d9a80c3be68",
+  "rows": 29947,
+  "bytes": 12207641
+ },
+ {
+  "file": "us_sd_statutes.parquet",
+  "sha256": "bf83c07475d625e7acc5b15a507d00f0933aa4081148414b0be6d574cab923c2",
+  "rows": 39589,
+  "bytes": 10029046
+ },
+ {
+  "file": "us_tn_statutes.parquet",
+  "sha256": "a86519ca5f5e84370171c9cbf66e4e75390d3386015f669cc80b0bbe29792ad9",
+  "rows": 32693,
+  "bytes": 18178504
+ },
+ {
+  "file": "us_tx_statutes.parquet",
+  "sha256": "f0e1eafeed7235113664c79a36e26f536e4c5868471a0b50b3861953bfc21377",
+  "rows": 122535,
+  "bytes": 28314420
+ },
+ {
+  "file": "us_ut_statutes.parquet",
+  "sha256": "c95d168de3cb758b5af91c853f2ca16508c6b4440bb9f83619757a059f24903a",
+  "rows": 25880,
+  "bytes": 13894910
+ },
+ {
+  "file": "us_va_statutes.parquet",
+  "sha256": "bee917504eca303b7c0501cdffd54a5a1fff8cf1cf939d772193b85cbaa23080",
+  "rows": 33857,
+  "bytes": 16151971
+ },
+ {
+  "file": "us_vt_statutes.parquet",
+  "sha256": "857302edfe48bb1a1591f048d9d29253dae6abafd81e75142ad3afdf1ba2db51",
+  "rows": 23521,
+  "bytes": 10171406
+ },
+ {
+  "file": "us_wa_statutes.parquet",
+  "sha256": "e6ed9179eea410f2137af4dd6761a251436f136a0d5b9408796bc7400249afe0",
+  "rows": 51498,
+  "bytes": 21596169
+ },
+ {
+  "file": "us_wi_statutes.parquet",
+  "sha256": "bb718a0ef6b1bd92a0ae78bb36e10be7415a747eb786ef4206909d47e5d6176d",
+  "rows": 18158,
+  "bytes": 12588288
+ },
+ {
+  "file": "us_wv_statutes.parquet",
+  "sha256": "62b05a4445a624db5fb67705d4d58136a50954e2ef3c166839e7f673817a5d65",
+  "rows": 25664,
+  "bytes": 13918525
+ },
+ {
+  "file": "us_wy_statutes.parquet",
+  "sha256": "ca30c189136dd658d8f340e25609ab5f8622f66aab27a961336c9473d41622e0",
+  "rows": 20999,
+  "bytes": 7580501
+ },
+ {
+  "file": "us_federal_treaty.parquet",
+  "sha256": "2e34d5de20367ac932f074da0db7063098582758f9cefed8b6b44526dbc4766b",
+  "rows": 119,
+  "bytes": 3948563
+ }
+]

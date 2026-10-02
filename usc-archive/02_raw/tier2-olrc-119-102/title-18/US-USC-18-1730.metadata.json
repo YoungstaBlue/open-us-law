@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1730",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "83",
+  "chapter_name": "POSTAL SERVICE",
+  "section_number": "1730",
+  "catchline": "Uniforms of carriers",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1730",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1730&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 90–413, July 21, 1968, 82 Stat. 396; Pub. L. 91–375, § 6(j)(35), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XII, § 1210(a), Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)",
+  "integrity_sha256": "31d3366d3f14e744a9c6d6a6ffae9c707ac61029ff1d210535e1e4623541f069",
+  "raw_bytes": 4911,
+  "source_file": "18.1730.xml",
+  "text_file": "18.1730.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3573",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "227",
+  "chapter_name": "SENTENCES",
+  "section_number": "3573",
+  "catchline": "Petition of the Government for modification or remission",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3573",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3573&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1997; amended Pub. L. 100–185, § 8(a), Dec. 11, 1987, 101 Stat. 1282; Pub. L. 100–690, title VII, § 7082(a), Nov. 18, 1988, 102 Stat. 4407.)",
+  "integrity_sha256": "7db6df73c481eebda74d40da94a940b04a159458afe8e5e803c9fc5974ad4407",
+  "raw_bytes": 4852,
+  "source_file": "18.3573.xml",
+  "text_file": "18.3573.txt"
+}

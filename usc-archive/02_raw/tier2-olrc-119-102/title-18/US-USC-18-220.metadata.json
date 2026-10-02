@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 220",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "11",
+  "chapter_name": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+  "section_number": "220",
+  "catchline": "Illegal remunerations for referrals to recovery homes, clinical treatment facilities, and laboratories",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s220",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section220&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 115–271, title VIII, § 8122(a), Oct. 24, 2018, 132 Stat. 4108.)",
+  "integrity_sha256": "9ff2482f407fd3129ca2c2633c86f4b5460892f8c408e2007c7be3de2aa05d87",
+  "raw_bytes": 13609,
+  "source_file": "18.220.xml",
+  "text_file": "18.220.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4049",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "303",
+  "chapter_name": "BUREAU OF PRISONS",
+  "section_number": "4049",
+  "catchline": "Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4049",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4049&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 114–133, § 2(a), Mar. 9, 2016, 130 Stat. 296.)",
+  "integrity_sha256": "972a04fc2c931d17dce80e81fedda2a459f1bfb35bbd8402f529b637dd2aa257",
+  "raw_bytes": 5462,
+  "source_file": "18.4049.xml",
+  "text_file": "18.4049.txt"
+}

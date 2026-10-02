@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2334",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113B",
+  "chapter_name": "TERRORISM",
+  "section_number": "2334",
+  "catchline": "Jurisdiction and venue",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2334",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2334&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4522; amended Pub. L. 115–253, § 4(a), Oct. 3, 2018, 132 Stat. 3184; Pub. L. 116–94, div. J, title IX, § 903(c)(1), Dec. 20, 2019, 133 Stat. 3083.)",
+  "integrity_sha256": "6a8aa730da2f86f05c39e687de078c5c93549be134115d8855bf4605ffb64578",
+  "raw_bytes": 21282,
+  "source_file": "18.2334.xml",
+  "text_file": "18.2334.txt"
+}

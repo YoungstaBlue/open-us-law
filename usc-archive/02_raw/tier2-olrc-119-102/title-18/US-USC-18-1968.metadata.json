@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1968",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "96",
+  "chapter_name": "RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS",
+  "section_number": "1968",
+  "catchline": "Civil investigative demand",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1968",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1968&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944.)",
+  "integrity_sha256": "88a6e1c44b0158d94d94694d6c3b5fb925c03691272cf3fb9da09d27a8335849",
+  "raw_bytes": 16157,
+  "source_file": "18.1968.xml",
+  "text_file": "18.1968.txt"
+}

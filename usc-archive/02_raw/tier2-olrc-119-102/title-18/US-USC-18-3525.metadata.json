@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3525",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "224",
+  "chapter_name": "PROTECTION OF WITNESSES",
+  "section_number": "3525",
+  "catchline": "Victims Compensation Fund",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3525",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3525&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2162.)",
+  "integrity_sha256": "79d092ffb150745c59fa453e678ff181fa94d3cb7b5a2df6a7b885463555aedc",
+  "raw_bytes": 7324,
+  "source_file": "18.3525.xml",
+  "text_file": "18.3525.txt"
+}

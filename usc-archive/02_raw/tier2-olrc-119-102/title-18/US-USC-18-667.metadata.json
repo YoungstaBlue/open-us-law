@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 667",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "31",
+  "chapter_name": "EMBEZZLEMENT AND THEFT",
+  "section_number": "667",
+  "catchline": "Theft of livestock",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s667",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section667&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1111, Oct. 12, 1984, 98 Stat. 2149; amended Pub. L. 103–322, title XXXIII, §§ 330009(b), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2143, 2147.)",
+  "integrity_sha256": "7e7454c98bf6f7da7931d07b9939ad04fbbd5a09f21eca71086d459b7869dba4",
+  "raw_bytes": 2208,
+  "source_file": "18.667.xml",
+  "text_file": "18.667.txt"
+}

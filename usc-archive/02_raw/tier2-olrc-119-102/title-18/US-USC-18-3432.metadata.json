@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3432",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "221",
+  "chapter_name": "ARRAIGNMENT, PLEAS AND TRIAL",
+  "section_number": "3432",
+  "catchline": "Indictment and list of jurors and witnesses for prisoner in capital cases",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3432",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3432&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 831; Pub. L. 103–322, title VI, § 60025, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 111–16, § 3(10), May 7, 2009, 123 Stat. 1608.)",
+  "integrity_sha256": "5cbebb18a4e91ab3f7097340fd6d8543f6cc144cb453db2fc37d7daae2198fc0",
+  "raw_bytes": 4826,
+  "source_file": "18.3432.xml",
+  "text_file": "18.3432.txt"
+}

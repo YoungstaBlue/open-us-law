@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 18",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "18",
+  "catchline": "Organization defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s18",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section18&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 99–646, § 38(a), Nov. 10, 1986, 100 Stat. 3599; amended Pub. L. 100–185, § 4(c), Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, § 7012, Nov. 18, 1988, 102 Stat. 4395.)",
+  "integrity_sha256": "cb7d1764ec0eb74a063af4fa9356a014d8c0c0f90fe3219fb56985ed1d2b9291",
+  "raw_bytes": 2146,
+  "source_file": "18.18.xml",
+  "text_file": "18.18.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 641",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "31",
+  "chapter_name": "EMBEZZLEMENT AND THEFT",
+  "section_number": "641",
+  "catchline": "Public money, property or records",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s641",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section641&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 725; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 108–275, § 4, July 15, 2004, 118 Stat. 833.)",
+  "integrity_sha256": "806d341512cad0a5227bbf2ee564d93c8d619820bc6de4f1ea0307ded2e2a5d5",
+  "raw_bytes": 9051,
+  "source_file": "18.641.xml",
+  "text_file": "18.641.txt"
+}

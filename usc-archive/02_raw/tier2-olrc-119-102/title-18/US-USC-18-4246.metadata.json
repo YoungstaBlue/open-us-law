@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4246",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "313",
+  "chapter_name": "OFFENDERS WITH MENTAL DISEASE OR DEFECT",
+  "section_number": "4246",
+  "catchline": "Hospitalization of a person due for release but suffering from mental disease or defect",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4246",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4246&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 687; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2062; Pub. L. 101–647, title XXXV, § 3599D, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 105–33, title XI, § 11204(1), Aug. 5, 1997, 111 Stat. 739.)",
+  "integrity_sha256": "92f7389b9457068c5dacc2aad950282b1a10023d999ec27ea1cdcfa095d94fa8",
+  "raw_bytes": 16197,
+  "source_file": "18.4246.xml",
+  "text_file": "18.4246.txt"
+}

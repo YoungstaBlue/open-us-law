@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 987",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "46",
+  "chapter_name": "FORFEITURE",
+  "section_number": "987",
+  "catchline": "Anti-terrorist forfeiture protection",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s987",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section987&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–177, title IV, § 406(b)(1)(B), Mar. 9, 2006, 120 Stat. 244.)",
+  "integrity_sha256": "f1b25c5ab08d31d836cb76e300e0cd5deec3d7e9872cde87210d58b4a5b08f85",
+  "raw_bytes": 6580,
+  "source_file": "18.987.xml",
+  "text_file": "18.987.txt"
+}

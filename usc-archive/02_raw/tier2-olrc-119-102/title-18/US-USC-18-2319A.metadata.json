@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2319A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113",
+  "chapter_name": "STOLEN PROPERTY",
+  "section_number": "2319A",
+  "catchline": "Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2319A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2319A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–465, title V, § 513(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 105–147, § 2(e), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 109–181, § 2(c)(1), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, § 203, Oct. 13, 2008, 122 Stat. 4261.)",
+  "integrity_sha256": "978c3cf32a875b1337cc58cdbdd950737de183564bdce07dbbab5d78043a4c16",
+  "raw_bytes": 14111,
+  "source_file": "18.2319A.xml",
+  "text_file": "18.2319A.txt"
+}

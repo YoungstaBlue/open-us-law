@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3599",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "228",
+  "chapter_name": "DEATH SENTENCE",
+  "section_number": "3599",
+  "catchline": "Counsel for financially unable defendants",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3599",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3599&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–177, title II, § 222(a), Mar. 9, 2006, 120 Stat. 231; amended Pub. L. 110–406, § 12(c), Oct. 13, 2008, 122 Stat. 4294.)",
+  "integrity_sha256": "ec76799af2ae2cb801fd5a477e8d77626c542e869927c5d798dda1cf8e343108",
+  "raw_bytes": 9974,
+  "source_file": "18.3599.xml",
+  "text_file": "18.3599.txt"
+}

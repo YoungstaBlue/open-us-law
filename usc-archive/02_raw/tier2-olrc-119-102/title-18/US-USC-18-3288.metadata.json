@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3288",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "213",
+  "chapter_name": "LIMITATIONS",
+  "section_number": "3288",
+  "catchline": "Indictments and information dismissed after period of limitations",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3288",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3288&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 88–520, § 1, Aug. 30, 1964, 78 Stat. 699; Pub. L. 100–690, title VII, § 7081(a), Nov. 18, 1988, 102 Stat. 4407.)",
+  "integrity_sha256": "c2fc6cfaedb8b90d6da16cf2a5bf64982c60b5de69f0778d261ab2c6237d7605",
+  "raw_bytes": 5959,
+  "source_file": "18.3288.xml",
+  "text_file": "18.3288.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "34 U.S.C. § 12451",
+  "title_number": 34,
+  "title_name": "Crime Control and Law Enforcement",
+  "chapter_number": "121",
+  "chapter_name": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+  "section_number": "12451",
+  "catchline": "Creating hope through outreach, options, services, and education for children and youth (“CHOOSE Children & Youth”)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t34/s12451",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12451&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc34@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 103–322, title IV, § 41201, as added Pub. L. 113–4, title III, § 302, Mar. 7, 2013, 127 Stat. 84; amended Pub. L. 115–393, title I, § 102, Dec. 21, 2018, 132 Stat. 5266; Pub. L. 117–103, div. W, title III, § 302, Mar. 15, 2022, 136 Stat. 865.)",
+  "integrity_sha256": "62fe7c97dca987c5f1e13f018a5ac01008848747109b1f51a86bb7d344622069",
+  "raw_bytes": 31941,
+  "source_file": "34.12451.xml",
+  "text_file": "34.12451.txt"
+}

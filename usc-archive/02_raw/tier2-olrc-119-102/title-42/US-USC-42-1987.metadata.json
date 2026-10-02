@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1987",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1987",
+  "catchline": "Prosecution of violation of certain laws",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1987",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1987&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(R.S. § 1982; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)",
+  "integrity_sha256": "5601aedf731e00da439bb81a2b80ece0e682b6ba3ad2d8baefe50a256d2a1195",
+  "raw_bytes": 5851,
+  "source_file": "42.1987.xml",
+  "text_file": "42.1987.txt"
+}

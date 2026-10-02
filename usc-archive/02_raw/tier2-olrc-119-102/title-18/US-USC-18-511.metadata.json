@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 511",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "511",
+  "catchline": "Altering or removing motor vehicle identification numbers",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s511",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section511&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–547, title II, § 201(a), Oct. 25, 1984, 98 Stat. 2768; amended Pub. L. 103–272, § 5(e)(3), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXII, § 220003(a)–(c), Sept. 13, 1994, 108 Stat. 2076, 2077; Pub. L. 104–294, title VI, § 604(b)(8), Oct. 11, 1996, 110 Stat. 3507.)",
+  "integrity_sha256": "ad3c05ce655e5d13510ff033d8c4ab8d40d6543fa7b46cbd7ac10037745f1d55",
+  "raw_bytes": 13239,
+  "source_file": "18.511.xml",
+  "text_file": "18.511.txt"
+}

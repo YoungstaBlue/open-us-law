@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1997e",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1997e",
+  "catchline": "Suits by prisoners",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1997e",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1997e&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 96–247, § 7, May 23, 1980, 94 Stat. 352; Pub. L. 103–322, title II, § 20416(a), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 803(d)], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 113–4, title XI, § 1101(a), Mar. 7, 2013, 127 Stat. 134.)",
+  "integrity_sha256": "7d7f788f871246f8600952417749df95afaa78fe6bb7eab238f129b31be4cf08",
+  "raw_bytes": 18250,
+  "source_file": "42.1997e.xml",
+  "text_file": "42.1997e.txt"
+}

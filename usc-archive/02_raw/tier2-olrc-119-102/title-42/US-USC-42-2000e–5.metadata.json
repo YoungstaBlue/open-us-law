@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000e–5",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000e–5",
+  "catchline": "Enforcement provisions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000e–5",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title VII, § 706, July 2, 1964, 78 Stat. 259; Pub. L. 92–261, § 4, Mar. 24, 1972, 86 Stat. 104; Pub. L. 102–166, title I, §§ 107(b), 112, 113(b), Nov. 21, 1991, 105 Stat. 1075, 1078, 1079; Pub. L. 111–2, § 3, Jan. 29, 2009, 123 Stat. 5.)",
+  "integrity_sha256": "14836dd62b59e4658d02b4f7c04a9a94a2646b83ae23e965d7721dafda38f2fa",
+  "raw_bytes": 40434,
+  "source_file": "42.2000e–5.xml",
+  "text_file": "42.2000e–5.txt"
+}

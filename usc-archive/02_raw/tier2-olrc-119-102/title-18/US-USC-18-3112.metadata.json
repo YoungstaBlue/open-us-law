@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3112",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "205",
+  "chapter_name": "SEARCHES AND SEIZURES",
+  "section_number": "3112",
+  "catchline": "Repealed. Pub. L. 97–79, § 9(b)(3), Nov. 16, 1981, 95 Stat. 1079]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s3112",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3112&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "e953cd859406449e4bda5b61680f3fe58b1b6ebbd127ae299e5c8387d0579276",
+  "raw_bytes": 1379,
+  "source_file": "18.3112.xml",
+  "text_file": "18.3112.txt"
+}

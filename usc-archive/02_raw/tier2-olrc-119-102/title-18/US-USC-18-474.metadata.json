@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 474",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "25",
+  "chapter_name": "COUNTERFEITING AND FORGERY",
+  "section_number": "474",
+  "catchline": "Plates, stones, or analog, digital, or electronic images for counterfeiting obligations or securities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s474",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section474&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 706; Pub. L. 102–550, title XV, § 1552, Oct. 28, 1992, 106 Stat. 4070; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(a)], title II, § 2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470; Pub. L. 107–56, title III, § 374(e)(1)–(3), Oct. 26, 2001, 115 Stat. 340.)",
+  "integrity_sha256": "176627f48dd6f6d27bdfda70b1fe234a699f18808259aeb55484f5952a6d5e82",
+  "raw_bytes": 10490,
+  "source_file": "18.474.xml",
+  "text_file": "18.474.txt"
+}

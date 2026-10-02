@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "1",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "2",
+  "catchline": "Principals",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 684; Oct. 31, 1951, ch. 655, § 17b, 65 Stat. 717.)",
+  "integrity_sha256": "250206de81107625c97bc465ce3458a8eb3b7068f4576d8b369472dfd556f102",
+  "raw_bytes": 4389,
+  "source_file": "18.2.xml",
+  "text_file": "18.2.txt"
+}

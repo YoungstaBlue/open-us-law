@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3508",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "223",
+  "chapter_name": "WITNESSES AND EVIDENCE",
+  "section_number": "3508",
+  "catchline": "Custody and return of foreign witnesses",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3508",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3508&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–690, title VI, § 6484(a), Nov. 18, 1988, 102 Stat. 4384.)",
+  "integrity_sha256": "6ebc7c2187367f49e1529ed379ded7c8b35a6a206ae84fd4d055998a00f92b90",
+  "raw_bytes": 2652,
+  "source_file": "18.3508.xml",
+  "text_file": "18.3508.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1623",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "79",
+  "chapter_name": "PERJURY",
+  "section_number": "1623",
+  "catchline": "False declarations before grand jury or court",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1623",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1623&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 91–452, title IV, § 401(a), Oct. 15, 1970, 84 Stat. 932; amended Pub. L. 94–550, § 6, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 118–49, § 13(d), Apr. 20, 2024, 138 Stat. 882.)",
+  "integrity_sha256": "59bd7684062ae9782bd8d0ca16894f7c9968cdff05f126864cbb9ad50118e126",
+  "raw_bytes": 6989,
+  "source_file": "18.1623.xml",
+  "text_file": "18.1623.txt"
+}

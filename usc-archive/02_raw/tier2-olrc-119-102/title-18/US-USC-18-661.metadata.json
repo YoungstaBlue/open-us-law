@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 661",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "31",
+  "chapter_name": "EMBEZZLEMENT AND THEFT",
+  "section_number": "661",
+  "catchline": "Within special maritime and territorial jurisdiction",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s661",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section661&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 731; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§ 601(a)(3), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3511.)",
+  "integrity_sha256": "3fdc0864de00b6ae696581cad171c0a6d75871ce1e139a570fd2a2fc4ea58e94",
+  "raw_bytes": 4253,
+  "source_file": "18.661.xml",
+  "text_file": "18.661.txt"
+}

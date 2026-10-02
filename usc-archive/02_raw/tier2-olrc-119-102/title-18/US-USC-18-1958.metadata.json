@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1958",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "95",
+  "chapter_name": "RACKETEERING",
+  "section_number": "1958",
+  "catchline": "Use of interstate commerce facilities in the commission of murder-for-hire",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1958",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1958&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1002(a), Oct. 12, 1984, 98 Stat. 2136, § 1952A; renumbered § 1958 and amended Pub. L. 100–690, title VII, §§ 7053(a), 7058(b), Nov. 18, 1988, 102 Stat. 4402, 4403; Pub. L. 101–647, title XII, § 1205(k), title XXXV, § 3558, Nov. 29, 1990, 104 Stat. 4831, 4927; Pub. L. 103–322, title VI, § 60003(a)(11), title XIV, § 140007(b), title XXXII, § 320105, title XXXIII, § 330016(1)(L), (N), (Q), Sept. 13, 1994, 108 Stat. 1969, 2033, 2111, 2147, 2148; Pub. L. 104–294, title VI, §§ 601(g)(3), 605(a), Oct. 11, 1996, 110 Stat. 3500, 3509; Pub. L. 108–458, title VI, § 6704, Dec. 17, 2004, 118 Stat. 3766.)",
+  "integrity_sha256": "cefb1595d3a246dc254f476ab96dff8f2397c6ae15e3bcd9283096cacdd6386c",
+  "raw_bytes": 8041,
+  "source_file": "18.1958.xml",
+  "text_file": "18.1958.txt"
+}

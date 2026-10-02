@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2252B",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110",
+  "chapter_name": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+  "section_number": "2252B",
+  "catchline": "Misleading domain names on the Internet",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2252B",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2252B&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–21, title V, § 521(a), Apr. 30, 2003, 117 Stat. 686; amended Pub. L. 109–248, title II, § 206(b)(4), July 27, 2006, 120 Stat. 614.)",
+  "integrity_sha256": "98f8af0d3e01ef745f3da92e5cf867cdb4434b290b55fd99f438964b34ca8099",
+  "raw_bytes": 4657,
+  "source_file": "18.2252B.xml",
+  "text_file": "18.2252B.txt"
+}

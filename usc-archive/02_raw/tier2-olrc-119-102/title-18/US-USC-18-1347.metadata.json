@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1347",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "63",
+  "chapter_name": "MAIL FRAUD AND OTHER FRAUD OFFENSES",
+  "section_number": "1347",
+  "catchline": "Health care fraud",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1347",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1347&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–191, title II, § 242(a)(1), Aug. 21, 1996, 110 Stat. 2016; amended Pub. L. 111–148, title X, § 10606(b), Mar. 23, 2010, 124 Stat. 1008.)",
+  "integrity_sha256": "c3358f623669703aa0a9b27bdf419e0e7b5500c74671e6ae1a94686b0a563f47",
+  "raw_bytes": 3374,
+  "source_file": "18.1347.xml",
+  "text_file": "18.1347.txt"
+}

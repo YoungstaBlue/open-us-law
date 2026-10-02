@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1997j",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1997j",
+  "catchline": "Disclaimer respecting private litigation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1997j",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1997j&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 96–247, § 12, May 23, 1980, 94 Stat. 354.)",
+  "integrity_sha256": "186b1cf6b29a678e4b502cb4efadb63c1d0d827c1c95713e5007b13351e37454",
+  "raw_bytes": 1126,
+  "source_file": "42.1997j.xml",
+  "text_file": "42.1997j.txt"
+}

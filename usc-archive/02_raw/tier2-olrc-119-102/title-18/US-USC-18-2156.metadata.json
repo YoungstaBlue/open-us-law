@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2156",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "105",
+  "chapter_name": "SABOTAGE",
+  "section_number": "2156",
+  "catchline": "Production of defective national-defense material, national-defense premises, or national-defense utilities",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2156",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2156&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 800; Sept. 3, 1954, ch. 1261, title I, § 105, 68 Stat. 1218; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(f)(12), Oct. 11, 1996, 110 Stat. 3500.)",
+  "integrity_sha256": "ce9e445295457e6cd6c935d3422757cad7f9993b870357de9379b30e840e8fb9",
+  "raw_bytes": 4496,
+  "source_file": "18.2156.xml",
+  "text_file": "18.2156.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 4046",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "303",
+  "chapter_name": "BUREAU OF PRISONS",
+  "section_number": "4046",
+  "catchline": "Shock incarceration program",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s4046",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4046&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 101–647, title XXX, § 3001(a), Nov. 29, 1990, 104 Stat. 4915.)",
+  "integrity_sha256": "933d3f65bc33cadd9d94b4e6d84de5aca63e84c6829e49e39663b221b111ac8e",
+  "raw_bytes": 3764,
+  "source_file": "18.4046.xml",
+  "text_file": "18.4046.txt"
+}

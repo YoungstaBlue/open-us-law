@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2259",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110",
+  "chapter_name": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+  "section_number": "2259",
+  "catchline": "Mandatory restitution",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2259",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2259&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title IV, § 40113(b)(1), Sept. 13, 1994, 108 Stat. 1907; amended Pub. L. 104–132, title II, § 205(c), Apr. 24, 1996, 110 Stat. 1231; Pub. L. 115–299, §§ 3(a), (b), 4, Dec. 7, 2018, 132 Stat. 4384, 4385.)",
+  "integrity_sha256": "4b768dd7e30a43c3d962ef59fa739772232b0ed8f351484d153c73114c9fc83b",
+  "raw_bytes": 29719,
+  "source_file": "18.2259.xml",
+  "text_file": "18.2259.txt"
+}

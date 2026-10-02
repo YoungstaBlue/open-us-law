@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2725",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "123",
+  "chapter_name": "PROHIBITION ON RELEASE AND USE OF CERTAIN PERSONAL INFORMATION FROM STATE MOTOR VEHICLE RECORDS",
+  "section_number": "2725",
+  "catchline": "Definitions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2725",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2725&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2102; amended Pub. L. 106–346, § 101(a) [title III, § 309(b)], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)",
+  "integrity_sha256": "098b06dc073f4895ed2e0e531af66ebb70e9f7fde310bb3703e754281780d071",
+  "raw_bytes": 5133,
+  "source_file": "18.2725.xml",
+  "text_file": "18.2725.txt"
+}

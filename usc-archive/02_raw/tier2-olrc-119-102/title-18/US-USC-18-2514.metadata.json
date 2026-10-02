@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2514",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "119",
+  "chapter_name": "WIRE AND ELECTRONIC COMMUNICATIONS INTERCEPTION AND INTERCEPTION OF ORAL COMMUNICATIONS",
+  "section_number": "2514",
+  "catchline": "Repealed. Pub. L. 91–452, title II, § 227(a), Oct. 15, 1970, 84 Stat. 930]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s2514",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2514&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "3ed8e15ff4dcf3224efd6ffdbb3bfdecbabc260446342dc69bd35964d21055e9",
+  "raw_bytes": 2282,
+  "source_file": "18.2514.xml",
+  "text_file": "18.2514.txt"
+}

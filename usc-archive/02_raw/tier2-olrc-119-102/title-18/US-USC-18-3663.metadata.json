@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3663",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "232",
+  "chapter_name": "MISCELLANEOUS SENTENCING PROVISIONS",
+  "section_number": "3663",
+  "catchline": "Order of restitution",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3663",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3663&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 97–291, § 5(a), Oct. 12, 1982, 96 Stat. 1253, § 3579; renumbered § 3663 and amended Pub. L. 98–473, title II, § 212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, § 9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§ 8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, § 13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, § 12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, § 7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, § 2509, title XXXV, § 3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, § 5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§ 40504, 40505, Sept. 13, 1994, 108 Stat. 1947; Pub. L. 104–132, title II, § 205(a), Apr. 24, 1996, 110 Stat. 1229; Pub. L. 104–294, title VI, §§ 601(r)(1), (2), 605(l), Oct. 11, 1996, 110 Stat. 3502, 3510; Pub. L. 106–310, div. B, title XXXVI, § 3613(c), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 109–59, title VII, § 7128(b), Aug. 10, 2005, 119 Stat. 1910; Pub. L. 110–326, title II, § 202, Sept. 26, 2008, 122 Stat. 3561.)",
+  "integrity_sha256": "b4128aee8ff8fba097458ee9c47c1f0fb4d1d1bc0fd29cd15605d8132ea5f29e",
+  "raw_bytes": 36628,
+  "source_file": "18.3663.xml",
+  "text_file": "18.3663.txt"
+}

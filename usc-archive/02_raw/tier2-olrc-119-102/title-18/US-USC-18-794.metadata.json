@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 794",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "37",
+  "chapter_name": "ESPIONAGE AND CENSORSHIP",
+  "section_number": "794",
+  "catchline": "Gathering or delivering defense information to aid foreign government",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s794",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section794&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 737; Sept. 3, 1954, ch. 1261, title II, § 201, 68 Stat. 1219; Pub. L. 99–399, title XIII, § 1306(b), Aug. 27, 1986, 100 Stat. 898; Pub. L. 100–690, title VII, § 7064, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 103–322, title VI, § 60003(a)(2), Sept. 13, 1994, 108 Stat. 1968; Pub. L. 103–359, title VIII, § 804(b)(2), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, §§ 604(b)(2), 607(b), Oct. 11, 1996, 110 Stat. 3506, 3511.)",
+  "integrity_sha256": "be0e02ef92bbb089eb244872c91a792803c04246b2ccddc30af546d6605ff591",
+  "raw_bytes": 16592,
+  "source_file": "18.794.xml",
+  "text_file": "18.794.txt"
+}

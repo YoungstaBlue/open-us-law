@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2254",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "110",
+  "chapter_name": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+  "section_number": "2254",
+  "catchline": "Civil forfeiture",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2254",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2254&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–292, § 6, May 21, 1984, 98 Stat. 205; amended Pub. L. 99–500, § 101(m) [title II, § 201(a), (c)], Oct. 18, 1986, 100 Stat. 1783–308, 1783–314, and Pub. L. 99–591, § 101(m) [title II, § 201(a), (c)], Oct. 30, 1986, 100 Stat. 3341–308, 3341–314; Pub. L. 100–690, title VII, § 7522(c), Nov. 18, 1988, 102 Stat. 4498; Pub. L. 101–647, title XX, § 2003, title XXXV, § 3565, Nov. 29, 1990, 104 Stat. 4855, 4928; Pub. L. 103–322, title XXXIII, § 330011(m)(2), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 105–314, title VI, § 603, Oct. 30, 1998, 112 Stat. 2982; Pub. L. 106–185, § 2(c)(4), Apr. 25, 2000, 114 Stat. 211; Pub. L. 107–273, div. B, title IV, § 4003(a)(6), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 109–248, title V, § 505(d), July 27, 2006, 120 Stat. 630.)",
+  "integrity_sha256": "0956f075ae9ed66ef174f2d634f9b0f33450ec9f605cc612a103a62bb9e96b4b",
+  "raw_bytes": 9114,
+  "source_file": "18.2254.xml",
+  "text_file": "18.2254.txt"
+}

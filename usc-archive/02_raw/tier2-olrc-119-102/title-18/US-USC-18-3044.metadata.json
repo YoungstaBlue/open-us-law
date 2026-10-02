@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3044",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "203",
+  "chapter_name": "ARREST AND COMMITMENT",
+  "section_number": "3044",
+  "catchline": "Complaint—(Rule)",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3044",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3044&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 816.)",
+  "integrity_sha256": "293b6627b85e8f118ecbff315ce7073c320e4fa5ec039a2ae48921fb456b5681",
+  "raw_bytes": 791,
+  "source_file": "18.3044.xml",
+  "text_file": "18.3044.txt"
+}

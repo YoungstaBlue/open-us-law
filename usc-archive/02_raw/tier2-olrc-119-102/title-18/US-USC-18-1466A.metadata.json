@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1466A",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "71",
+  "chapter_name": "OBSCENITY",
+  "section_number": "1466A",
+  "catchline": "Obscene visual representations of the sexual abuse of children",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1466A",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1466A&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 108–21, title V, § 504(a), Apr. 30, 2003, 117 Stat. 680.)",
+  "integrity_sha256": "9a33dc349d52a3b1b7156808569f11c66ba0652b3621a69297221f2d8a9ba675",
+  "raw_bytes": 15895,
+  "source_file": "18.1466A.xml",
+  "text_file": "18.1466A.txt"
+}

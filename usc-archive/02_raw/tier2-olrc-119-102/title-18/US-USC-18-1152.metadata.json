@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1152",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "53",
+  "chapter_name": "INDIANS",
+  "section_number": "1152",
+  "catchline": "Laws governing",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1152",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1152&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 757.)",
+  "integrity_sha256": "b81f6049439fe0c7a92c35c5dcadad2a1da3e7f90895c2772be244251481e6df",
+  "raw_bytes": 2381,
+  "source_file": "18.1152.xml",
+  "text_file": "18.1152.txt"
+}

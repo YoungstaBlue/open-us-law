@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 5003",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "401",
+  "chapter_name": "GENERAL PROVISIONS",
+  "section_number": "5003",
+  "catchline": "Custody of State offenders",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s5003",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5003&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added May 9, 1952, ch. 253, § 1, 66 Stat. 68; amended Pub. L. 89–267, § 1, Oct. 19, 1965, 79 Stat. 990; Pub. L. 99–646, § 66, Nov. 10, 1986, 100 Stat. 3615.)",
+  "integrity_sha256": "f2e9ede612502ff416b3050bf162cbd15172fc33493c34bfcebe4fc9d1131030",
+  "raw_bytes": 7111,
+  "source_file": "18.5003.xml",
+  "text_file": "18.5003.txt"
+}

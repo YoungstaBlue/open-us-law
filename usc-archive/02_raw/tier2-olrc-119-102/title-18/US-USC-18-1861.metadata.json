@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1861",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "91",
+  "chapter_name": "PUBLIC LANDS",
+  "section_number": "1861",
+  "catchline": "Deception of prospective purchasers",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1861",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1861&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(June 25, 1948, ch. 645, 62 Stat. 789; Pub. L. 103–322, title XXXIII, § 330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)",
+  "integrity_sha256": "c47f7cfcb8ec7a2741d94e7caac5e0e26f1b5fe9f437b0f2e52748c8e09e1a37",
+  "raw_bytes": 3158,
+  "source_file": "18.1861.xml",
+  "text_file": "18.1861.txt"
+}

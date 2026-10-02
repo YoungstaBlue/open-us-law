@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 434",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "23",
+  "chapter_name": "CONTRACTS",
+  "section_number": "434",
+  "catchline": "Repealed. Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126]",
+  "status": "repealed",
+  "uslm_identifier": "/us/usc/t18/s434",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section434&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "",
+  "integrity_sha256": "83b0811cd40d417dbe2903ab4c022475021b944a497b1468d5c4f308b7d20d3b",
+  "raw_bytes": 1720,
+  "source_file": "18.434.xml",
+  "text_file": "18.434.txt"
+}

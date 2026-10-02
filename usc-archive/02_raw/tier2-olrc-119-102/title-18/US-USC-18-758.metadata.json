@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 758",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "35",
+  "chapter_name": "ESCAPE AND RESCUE",
+  "section_number": "758",
+  "catchline": "High speed flight from immigration checkpoint",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s758",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section758&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–208, div. C, title I, § 108(b)(1), Sept. 30, 1996, 110 Stat. 3009–557.)",
+  "integrity_sha256": "9024a30377e9c3b5d8992051ee464354d7d7250306f7336c3e3a1082ab30910f",
+  "raw_bytes": 3308,
+  "source_file": "18.758.xml",
+  "text_file": "18.758.txt"
+}

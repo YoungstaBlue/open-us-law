@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1040",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "47",
+  "chapter_name": "FRAUD AND FALSE STATEMENTS",
+  "section_number": "1040",
+  "catchline": "Fraud in connection with major disaster or emergency benefits",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1040",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1040&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:54-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 110–179, § 2(a), Jan. 7, 2008, 121 Stat. 2556.)",
+  "integrity_sha256": "557eb5b38a8dae0a86721814d020b4dd7c0b8f17e74ddb25c883b67a721a87b4",
+  "raw_bytes": 4289,
+  "source_file": "18.1040.xml",
+  "text_file": "18.1040.txt"
+}

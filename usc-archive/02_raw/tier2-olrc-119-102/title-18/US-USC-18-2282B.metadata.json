@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2282B",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "111",
+  "chapter_name": "SHIPPING",
+  "section_number": "2282B",
+  "catchline": "Violence against aids to maritime navigation",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2282B",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2282B&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 109–177, title III, § 304(b)(1), Mar. 9, 2006, 120 Stat. 235; Pub. L. 116–260, div. AA, title V, § 512(c)(2), Dec. 27, 2020, 134 Stat. 2756.)",
+  "integrity_sha256": "134e6f5f2019e866ab07d393625e3e2e0dd0b742f9f160255da133627d23c16a",
+  "raw_bytes": 3587,
+  "source_file": "18.2282B.xml",
+  "text_file": "18.2282B.txt"
+}

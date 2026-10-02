@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1350",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "63",
+  "chapter_name": "MAIL FRAUD AND OTHER FRAUD OFFENSES",
+  "section_number": "1350",
+  "catchline": "Failure of corporate officers to certify financial reports",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1350",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1350&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 107–204, title IX, § 906(a), July 30, 2002, 116 Stat. 806.)",
+  "integrity_sha256": "27201bb8b7a89ab7c34031fa2070f8a66f12015460b363095d44db72156184da",
+  "raw_bytes": 3608,
+  "source_file": "18.1350.xml",
+  "text_file": "18.1350.txt"
+}

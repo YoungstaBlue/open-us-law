@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 1516",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "73",
+  "chapter_name": "OBSTRUCTION OF JUSTICE",
+  "section_number": "1516",
+  "catchline": "Obstruction of Federal audit",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s1516",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1516&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 100–690, title VII, § 7078(a), Nov. 18, 1988, 102 Stat. 4406; amended Pub. L. 103–322, title XXXII, § 320609, Sept. 13, 1994, 108 Stat. 2120; Pub. L. 104–294, title VI, § 604(b)(43), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 105–65, title V, § 564, Oct. 27, 1997, 111 Stat. 1420; Pub. L. 106–569, title VII, § 709(b), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–273, div. A, title II, § 205(c), Nov. 2, 2002, 116 Stat. 1778.)",
+  "integrity_sha256": "e238109347e894b9ea3da090f04cc76529d9dc9d2703fd8ae6f637e1f16fe948",
+  "raw_bytes": 7042,
+  "source_file": "18.1516.xml",
+  "text_file": "18.1516.txt"
+}

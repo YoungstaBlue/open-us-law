@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 2332d",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "113B",
+  "chapter_name": "TERRORISM",
+  "section_number": "2332d",
+  "catchline": "Financial transactions",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s2332d",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332d&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:55-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 104–132, title III, § 321(a), Apr. 24, 1996, 110 Stat. 1254; amended Pub. L. 107–273, div. B, title IV, § 4002(a)(5), Nov. 2, 2002, 116 Stat. 1806.)",
+  "integrity_sha256": "733fd1770c0130b025244683db90a702ffc4b6b90625a9fde3fede59da8625a1",
+  "raw_bytes": 6645,
+  "source_file": "18.2332d.xml",
+  "text_file": "18.2332d.txt"
+}

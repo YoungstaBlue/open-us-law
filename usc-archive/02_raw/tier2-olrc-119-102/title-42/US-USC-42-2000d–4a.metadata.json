@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 2000d–4a",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "2000d–4a",
+  "catchline": "“Program or activity” and “program” defined",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s2000d–4a",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d–4a&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(Pub. L. 88–352, title VI, § 606, as added Pub. L. 100–259, § 6, Mar. 22, 1988, 102 Stat. 31; amended Pub. L. 103–382, title III, § 391(q), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 107–110, title X, § 1076(y), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 114–95, title IX, § 9215(r), Dec. 10, 2015, 129 Stat. 2171.)",
+  "integrity_sha256": "e476c315b9c8177582a72a6b1850c3c5b85c2d0f88333b1c06debd85c2c026c3",
+  "raw_bytes": 9607,
+  "source_file": "42.2000d–4a.xml",
+  "text_file": "42.2000d–4a.txt"
+}

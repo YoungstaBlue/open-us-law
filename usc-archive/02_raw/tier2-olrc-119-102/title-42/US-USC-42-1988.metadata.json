@@ -1,0 +1,22 @@
+{
+  "section": "42 U.S.C. § 1988",
+  "title_number": 42,
+  "title_name": "The Public Health and Welfare",
+  "chapter_number": "21",
+  "chapter_name": "CIVIL RIGHTS",
+  "section_number": "1988",
+  "catchline": "Proceedings in vindication of civil rights",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t42/s1988",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1988&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc42@119-102.zip",
+  "retrieved_at": "2026-09-08T11:01:04-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": false,
+  "source_credit": "(R.S. § 722; Pub. L. 94–559, § 2, Oct. 19, 1976, 90 Stat. 2641; Pub. L. 96–481, title II, § 205(c), Oct. 21, 1980, 94 Stat. 2330; Pub. L. 102–166, title I, §§ 103, 113(a), Nov. 21, 1991, 105 Stat. 1074, 1079; Pub. L. 103–141, § 4(a), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 103–322, title IV, § 40303, Sept. 13, 1994, 108 Stat. 1942; Pub. L. 104–317, title III, § 309(b), Oct. 19, 1996, 110 Stat. 3853; Pub. L. 106–274, § 4(d), Sept. 22, 2000, 114 Stat. 804.)",
+  "integrity_sha256": "33f0681cd471796d0f9f861984a9f3cd2241c31eb953e94c60e3ffbaac6ed039",
+  "raw_bytes": 15802,
+  "source_file": "42.1988.xml",
+  "text_file": "42.1988.txt"
+}

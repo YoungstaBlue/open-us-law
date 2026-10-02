@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3608",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "229",
+  "chapter_name": "POSTSENTENCE ADMINISTRATION",
+  "section_number": "3608",
+  "catchline": "Drug testing of Federal offenders on post-conviction release",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3608",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3608&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 103–322, title II, § 20414(a)(1), Sept. 13, 1994, 108 Stat. 1830.)",
+  "integrity_sha256": "05dd97b89cdd54ad82310e26e64f079aa4dd8bd92e418b876478eac259013010",
+  "raw_bytes": 2501,
+  "source_file": "18.3608.xml",
+  "text_file": "18.3608.txt"
+}

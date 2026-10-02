@@ -1,0 +1,22 @@
+{
+  "section": "18 U.S.C. § 3522",
+  "title_number": 18,
+  "title_name": "Crimes and Criminal Procedure",
+  "chapter_number": "224",
+  "chapter_name": "PROTECTION OF WITNESSES",
+  "section_number": "3522",
+  "catchline": "Probationers and parolees",
+  "status": "operative",
+  "uslm_identifier": "/us/usc/t18/s3522",
+  "official_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3522&num=0&edition=prelim",
+  "bulk_source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/102/xml_usc18@119-102.zip",
+  "retrieved_at": "2026-09-08T11:00:56-05:00",
+  "source_type": "Office of the Law Revision Counsel, U.S. House of Representatives - USLM XML release point 119-102",
+  "current_through": "Online@119-102",
+  "positive_law_title": true,
+  "source_credit": "(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2157; amended Pub. L. 99–646, § 75, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, § 7072(b), Nov. 18, 1988, 102 Stat. 4405.)",
+  "integrity_sha256": "1a4c3f15e6a955d54de7c1a9e2243ca66cb30d57611549a520cce490cb113ccd",
+  "raw_bytes": 6340,
+  "source_file": "18.3522.xml",
+  "text_file": "18.3522.txt"
+}
